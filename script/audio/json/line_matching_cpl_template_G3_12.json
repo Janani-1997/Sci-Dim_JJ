@@ -1,0 +1,370 @@
+{
+  "type": "ExpLib_Line_Matching",
+  "contentId": "",
+  "playlists": [
+    {
+      "id": "start",
+      "trackIds": [
+        "ActivityTitle",
+        "QuestionStem",
+        "Stimulus",
+        "Left-0",
+        "Right-0",
+        "Left-1",
+        "Right-1",
+        "Left-2",
+        "Right-2",
+        "Left-3",
+        "Right-3",
+        "Left-4",
+        "Right-4",
+        "Left-5",
+        "Right-5",
+        "Left-6",
+        "Right-6",
+        "Left-7",
+        "Right-7",
+        "Left-8",
+        "Right-8",
+        "Left-9",
+        "Right-9"
+      ]
+    },
+    {
+      "id": "tip",
+      "trackIds": [
+        "Tip"
+      ]
+    },
+    {
+      "id": "left-0",
+      "trackIds": [
+        "Left-0"
+      ]
+    },
+    {
+      "id": "left-1",
+      "trackIds": [
+        "Left-1"
+      ]
+    },
+    {
+      "id": "left-2",
+      "trackIds": [
+        "Left-2"
+      ]
+    },
+    {
+      "id": "left-3",
+      "trackIds": [
+        "Left-3"
+      ]
+    },
+    {
+      "id": "left-4",
+      "trackIds": [
+        "Left-4"
+      ]
+    },
+    {
+      "id": "left-5",
+      "trackIds": [
+        "Left-5"
+      ]
+    },
+    {
+      "id": "left-6",
+      "trackIds": [
+        "Left-6"
+      ]
+    },
+    {
+      "id": "left-7",
+      "trackIds": [
+        "Left-7"
+      ]
+    },
+    {
+      "id": "left-8",
+      "trackIds": [
+        "Left-8"
+      ]
+    },
+    {
+      "id": "left-9",
+      "trackIds": [
+        "Left-9"
+      ]
+    },
+    {
+      "id": "right-0",
+      "trackIds": [
+        "Right-0"
+      ]
+    },
+    {
+      "id": "right-1",
+      "trackIds": [
+        "Right-1"
+      ]
+    },
+    {
+      "id": "right-2",
+      "trackIds": [
+        "Right-2"
+      ]
+    },
+    {
+      "id": "right-3",
+      "trackIds": [
+        "Right-3"
+      ]
+    },
+    {
+      "id": "right-4",
+      "trackIds": [
+        "Right-4"
+      ]
+    },
+    {
+      "id": "right-5",
+      "trackIds": [
+        "Right-5"
+      ]
+    },
+    {
+      "id": "right-6",
+      "trackIds": [
+        "Right-6"
+      ]
+    },
+    {
+      "id": "right-7",
+      "trackIds": [
+        "Right-7"
+      ]
+    },
+    {
+      "id": "right-8",
+      "trackIds": [
+        "Right-8"
+      ]
+    },
+    {
+      "id": "right-9",
+      "trackIds": [
+        "Right-9"
+      ]
+    },
+    {
+      "id": "Correct",
+      "trackIds": [
+        "CorrectCannedResponse",
+        "CorrectFeedback"
+      ]
+    },
+    {
+      "id": "PartiallyCorrect",
+      "trackIds": [
+        "PartiallyCannedResponse",
+        "PartiallyCorrectFeedback"
+      ]
+    },
+    {
+      "id": "Incorrect",
+      "trackIds": [
+        "FinalIncorrectCannedResponse",
+        "FinalIncorrectFeedback"
+      ]
+    },
+    {
+      "id": "FinalIncorrect",
+      "trackIds": [
+        "FinalIncorrectCannedResponse",
+        "FinalIncorrectFeedback"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "id": "ActivityTitle",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "QuestionStem",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Stimulus",
+      "clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+    },
+    {
+      "id": "Tip",
+      "clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+    },
+    {
+      "id": "Left-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Left-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Left-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Left-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Left-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Left-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Left-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Left-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Left-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Left-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Right-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Right-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Right-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Right-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Right-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Right-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Right-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Right-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Right-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Right-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CorrectCannedResponse",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CorrectFeedback",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "PartiallyCannedResponse",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "PartiallyCorrectFeedback",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "FinalIncorrectCannedResponse",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "FinalIncorrectFeedback",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    }
+  ]
+}

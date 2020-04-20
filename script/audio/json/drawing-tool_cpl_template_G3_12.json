@@ -1,0 +1,27 @@
+{
+	"type": "ExpLib_Drawing_Tool",
+	"contentId": "",
+	"playlists": [{
+		"id": "start",
+		"trackIds": ["ActivityTitle", "QuestionStem"]
+	}, {
+		"id": "tip",
+		"trackIds": ["Tip"]
+	}],
+	"tracks": [{
+		"id": "ActivityTitle",
+		"clipBegin": "",
+		"clipEnd": "",
+		"src": ""
+	}, {
+		"id": "QuestionStem",
+		"clipBegin": "",
+		"clipEnd": "",
+		"src": ""
+	}, {
+		"id": "Tip",
+		"clipBegin": "00:00:00.000",
+		"clipEnd": "00:00:00.001",
+		"src": ""
+	}]
+}

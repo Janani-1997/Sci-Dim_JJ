@@ -1,0 +1,176 @@
+{
+  "type": "ExpLib_Reveal",
+  "contentId": "",
+  "playlists": [
+    {
+      "id": "start",
+      "trackIds": [
+        "ActivityTitle",
+        "QuestionStem",
+        "Stimulus",
+        "Options-0",
+        "Options-1",
+        "Options-2",
+        "Options-3",
+        "Options-4",
+        "Options-5",
+        "Options-6",
+        "Options-7",
+        "Options-8",
+        "Options-9"
+      ]
+    },
+    {
+      "id": "tip",
+      "trackIds": [
+        "Tip"
+      ]
+    },
+    {
+      "id": "option-0",
+      "trackIds": [
+        "Options-0"
+      ]
+    },
+    {
+      "id": "option-1",
+      "trackIds": [
+        "Options-1"
+      ]
+    },
+    {
+      "id": "option-2",
+      "trackIds": [
+        "Options-2"
+      ]
+    },
+    {
+      "id": "option-3",
+      "trackIds": [
+        "Options-3"
+      ]
+    },
+    {
+      "id": "option-4",
+      "trackIds": [
+        "Options-4"
+      ]
+    },
+    {
+      "id": "option-5",
+      "trackIds": [
+        "Options-5"
+      ]
+    },
+    {
+      "id": "option-6",
+      "trackIds": [
+        "Options-6"
+      ]
+    },
+    {
+      "id": "option-7",
+      "trackIds": [
+        "Options-7"
+      ]
+    },
+    {
+      "id": "option-8",
+      "trackIds": [
+        "Options-8"
+      ]
+    },
+    {
+      "id": "option-9",
+      "trackIds": [
+        "Options-9"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "id": "ActivityTitle",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "QuestionStem",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Stimulus",
+			"clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+    },
+    {
+      "id": "Tip",
+			"clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+    },
+    {
+      "id": "Options-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Options-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Options-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Options-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Option-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Options-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Options-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Options-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Options-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Option-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    }
+  ]
+}

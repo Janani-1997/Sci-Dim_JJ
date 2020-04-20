@@ -1,0 +1,416 @@
+{
+  "type": "ExpLib_Audio_Gallery",
+  "contentId": "",
+  "playlists": [
+    {
+      "id": "start",
+      "trackIds": [
+        "ActivityTitle",
+        "QuestionStem",
+        "Stimulus",
+        "OptionTitle-0",
+        "OptionTitle-1",
+        "OptionTitle-2",
+        "OptionTitle-3",
+        "OptionTitle-4",
+        "OptionTitle-5",
+        "OptionTitle-6",
+        "OptionTitle-7",
+        "OptionTitle-8",
+        "OptionTitle-9"
+      ]
+    },
+    {
+      "id": "tip",
+      "trackIds": [
+        "Tip"
+      ]
+    },
+    {
+      "id": "option-title-0",
+      "trackIds": [
+        "OptionTitle-0"
+      ]
+    },
+    {
+      "id": "option-title-1",
+      "trackIds": [
+        "OptionTitle-1"
+      ]
+    },
+    {
+      "id": "option-title-2",
+      "trackIds": [
+        "OptionTitle-2"
+      ]
+    },
+    {
+      "id": "option-title-3",
+      "trackIds": [
+        "OptionTitle-3"
+      ]
+    },
+    {
+      "id": "option-title-4",
+      "trackIds": [
+        "OptionTitle-4"
+      ]
+    },
+    {
+      "id": "option-title-5",
+      "trackIds": [
+        "OptionTitle-5"
+      ]
+    },
+    {
+      "id": "option-title-6",
+      "trackIds": [
+        "OptionTitle-6"
+      ]
+    },
+    {
+      "id": "option-title-7",
+      "trackIds": [
+        "OptionTitle-7"
+      ]
+    },
+    {
+      "id": "option-title-8",
+      "trackIds": [
+        "OptionTitle-8"
+      ]
+    },
+    {
+      "id": "option-title-9",
+      "trackIds": [
+        "OptionTitle-9"
+      ]
+    },
+    {
+      "id": "caption-0",
+      "trackIds": [
+        "Caption-0"
+      ]
+    },
+    {
+      "id": "caption-1",
+      "trackIds": [
+        "Caption-1"
+      ]
+    },
+    {
+      "id": "caption-2",
+      "trackIds": [
+        "Caption-2"
+      ]
+    },
+    {
+      "id": "caption-3",
+      "trackIds": [
+        "Caption-3"
+      ]
+    },
+    {
+      "id": "caption-4",
+      "trackIds": [
+        "Caption-4"
+      ]
+    },
+    {
+      "id": "caption-5",
+      "trackIds": [
+        "Caption-5"
+      ]
+    },
+    {
+      "id": "caption-6",
+      "trackIds": [
+        "Caption-6"
+      ]
+    },
+    {
+      "id": "caption-7",
+      "trackIds": [
+        "Caption-7"
+      ]
+    },
+    {
+      "id": "caption-8",
+      "trackIds": [
+        "Caption-8"
+      ]
+    },
+    {
+      "id": "caption-9",
+      "trackIds": [
+        "Caption-9"
+      ]
+    },
+    {
+      "id": "transcript-0",
+      "trackIds": [
+        "Transcript-0"
+      ]
+    },
+    {
+      "id": "transcript-1",
+      "trackIds": [
+        "Transcript-1"
+      ]
+    },
+    {
+      "id": "transcript-2",
+      "trackIds": [
+        "Transcript-2"
+      ]
+    },
+    {
+      "id": "transcript-3",
+      "trackIds": [
+        "Transcript-3"
+      ]
+    },
+    {
+      "id": "transcript-4",
+      "trackIds": [
+        "Transcript-4"
+      ]
+    },
+    {
+      "id": "transcript-5",
+      "trackIds": [
+        "Transcript-5"
+      ]
+    },
+    {
+      "id": "transcript-6",
+      "trackIds": [
+        "Transcript-6"
+      ]
+    },
+    {
+      "id": "transcript-7",
+      "trackIds": [
+        "Transcript-7"
+      ]
+    },
+    {
+      "id": "transcript-8",
+      "trackIds": [
+        "Transcript-8"
+      ]
+    },
+    {
+      "id": "transcript-9",
+      "trackIds": [
+        "Transcript-9"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "id": "ActivityTitle",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "QuestionStem",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Stimulus",
+      "clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+    },
+    {
+      "id": "Tip",
+      "clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+    },
+    {
+      "id": "OptionTitle-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "OptionTitle-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "OptionTitle-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "OptionTitle-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "OptionTitle-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "OptionTitle-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "OptionTitle-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "OptionTitle-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "OptionTitle-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "OptionTitle-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Caption-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Caption-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Caption-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Caption-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Caption-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Caption-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Caption-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Caption-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Caption-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Caption-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Transcript-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Transcript-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Transcript-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Transcript-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Transcript-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Transcript-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Transcript-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Transcript-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Transcript-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Transcript-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    }
+  ]
+}

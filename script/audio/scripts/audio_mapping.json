@@ -1,0 +1,84 @@
+{
+  "mapping_data": [
+    {
+      "source_key_name": "NGSS",
+      "target_key_name": "ExpLib_Image_Gallery",
+      "parent_name": "type",
+      "iterative": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "intro",
+      "target_key_name": "start",
+      "parent_name": "playlists.id",
+      "iterative": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "",
+      "target_key_name": "caption",
+      "parent_name": "playlists.id",
+      "iterative": "yes",
+      "difference_in_index": "0",
+      "data_type": "caption"
+    },
+    {
+      "source_key_name": "title",
+      "target_key_name": "ActivityTitle",
+      "parent_name": "playlists.trackIds",
+      "iterative": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "stem",
+      "target_key_name": "QuestionStem",
+      "parent_name": "playlists.trackIds",
+      "iterative": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "caption",
+      "target_key_name": "Captions",
+      "parent_name": "playlists.trackIds",
+      "iterative": "yes",
+      "difference_in_index": "0",
+      "data_type": "caption"
+    },
+    {
+      "source_key_name": "title",
+      "target_key_name": "ActivityTitle",
+      "parent_name": "tracks.id",
+      "iterative": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "stem",
+      "target_key_name": "QuestionStem",
+      "parent_name": "tracks.id",
+      "iterative": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "caption",
+      "target_key_name": "Captions",
+      "parent_name": "tracks.id",
+      "iterative": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "",
+      "target_key_name": "",
+      "parent_name": "tracks.src",
+      "iterative": "yes",
+      "difference_in_index": "0",
+      "data_type": "srcpath"
+    }
+  ]
+}

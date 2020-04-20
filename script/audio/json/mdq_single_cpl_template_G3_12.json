@@ -1,0 +1,439 @@
+
+{
+ "type": "ExpLib_Drop_Down",
+ "contentId": "",
+ "playlists": [
+   {
+     "id": "start",
+     "trackIds": [
+       "ActivityTitle",
+       "QuestionStem",
+       "Stimulus",
+       "PreQuestion-0",
+       "PreQuestion-1",
+       "PreQuestion-2",
+       "PreQuestion-3",
+       "PreQuestion-4",
+       "PreQuestion-5",
+       "PreQuestion-6",
+       "PreQuestion-7",
+       "PreQuestion-8",
+       "PreQuestion-9"
+     ]
+   },
+   {
+     "id": "tip",
+     "trackIds": [
+       "Tip"
+     ]
+   },
+   {
+     "id": "pre-question-0",
+     "trackIds": [
+       "PreQuestion-0"
+     ]
+   },
+   {
+     "id": "Correct",
+     "trackIds": [
+       "CorrectCannedResponse",
+       "CorrectFeedback"
+     ]
+   },
+   {
+     "id": "PartiallyCorrect",
+     "trackIds": [
+       "PartiallyCannedResponse",
+       "PartiallyCorrectFeedback"
+     ]
+   },
+   {
+     "id": "Incorrect",
+     "trackIds": [
+       "IncorrectCannedResponse",
+       "IncorrectFeedback"
+     ]
+   },
+   {
+     "id": "FinalIncorrect",
+     "trackIds": [
+       "FinalIncorrectCannedResponse",
+       "FinalIncorrectFeedback"
+     ]
+   }
+ ],
+ "tracks": [
+   {
+     "id": "ActivityTitle",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionStem",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "Tip",
+     "clipBegin": "00:00:00.000",
+     "clipEnd": "00:00:00.001",
+     "src": ""
+   },
+   {
+     "id": "Stimulus",
+     "clipBegin": "00:00:00.000",
+     "clipEnd": "00:00:00.001",
+     "src": ""
+   },
+   {
+     "id": "PreQuestion-0",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "PreQuestion-1",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "PreQuestion-2",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "PreQuestion-3",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "PreQuestion-4",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "PreQuestion-5",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "PreQuestion-6",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "PreQuestion-7",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "PreQuestion-8",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "PreQuestion-9",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-0-0",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-0-1",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-0-2",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-0-3",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-0-4",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-1-0",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-1-1",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-1-2",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-1-3",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-1-4",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-2-0",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-2-1",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-2-2",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-2-3",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-2-4",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-3-0",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-3-1",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-3-2",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-3-3",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-3-4",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-4-0",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-4-1",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-4-2",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-4-3",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-4-4",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-5-0",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-5-1",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-5-2",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-5-3",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-5-4",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-6-0",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-6-1",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-6-2",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-6-3",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-6-4",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-7-0",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-7-1",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-7-2",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-7-3",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "QuestionOption-7-4",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "CorrectCannedResponse",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "CorrectFeedback",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "PartiallyCannedResponse",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "PartiallyCorrectFeedback",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "IncorrectCannedResponse",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "IncorrectFeedback",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "FinalIncorrectCannedResponse",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   },
+   {
+     "id": "FinalIncorrectFeedback",
+     "clipBegin": "",
+     "clipEnd": "",
+     "src": ""
+   }
+ ]
+}

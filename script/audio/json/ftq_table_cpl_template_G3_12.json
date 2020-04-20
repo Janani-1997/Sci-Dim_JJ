@@ -1,0 +1,502 @@
+{
+  "type": "ExpLib_Short_Text_Table",
+  "contentId": "",
+  "playlists": [
+    {
+      "id": "sample-answer",
+      "trackIds": [
+        "SampleAnswer"
+      ]
+    },
+    {
+      "id": "start",
+      "trackIds": [
+        "ActivityTitle",
+        "QuestionStem",
+        "TableHeader",
+        "ColumnHeaders-0",
+        "ColumnHeaders-1",
+        "ColumnHeaders-2",
+        "ColumnHeaders-3",
+        "ColumnHeaders-4",
+        "ColumnHeaders-5",
+        "CellLabels-0-0",
+        "CellLabels-0-1",
+        "CellLabels-0-2",
+        "CellLabels-0-3",
+        "CellLabels-0-4",
+        "CellLabels-0-5",
+        "CellLabels-1-0",
+        "CellLabels-1-1",
+        "CellLabels-1-2",
+        "CellLabels-1-3",
+        "CellLabels-1-4",
+        "CellLabels-1-5",
+        "CellLabels-2-0",
+        "CellLabels-2-1",
+        "CellLabels-2-2",
+        "CellLabels-2-3",
+        "CellLabels-2-4",
+        "CellLabels-2-5",
+        "CellLabels-3-0",
+        "CellLabels-3-1",
+        "CellLabels-3-2",
+        "CellLabels-3-3",
+        "CellLabels-3-4",
+        "CellLabels-3-5",
+        "CellLabels-4-0",
+        "CellLabels-4-1",
+        "CellLabels-4-2",
+        "CellLabels-4-3",
+        "CellLabels-4-4",
+        "CellLabels-4-5",
+        "CellLabels-5-0",
+        "CellLabels-5-1",
+        "CellLabels-5-2",
+        "CellLabels-5-3",
+        "CellLabels-5-4",
+        "CellLabels-5-5",
+        "CellLabels-6-0",
+        "CellLabels-6-1",
+        "CellLabels-6-2",
+        "CellLabels-6-3",
+        "CellLabels-6-4",
+        "CellLabels-6-5",
+        "CellLabels-7-0",
+        "CellLabels-7-1",
+        "CellLabels-7-2",
+        "CellLabels-7-3",
+        "CellLabels-7-4",
+        "CellLabels-7-5",
+        "CellLabels-8-0",
+        "CellLabels-8-1",
+        "CellLabels-8-2",
+        "CellLabels-8-3",
+        "CellLabels-8-4",
+        "CellLabels-8-5",
+        "CellLabels-9-0",
+        "CellLabels-9-1",
+        "CellLabels-9-2",
+        "CellLabels-9-3",
+        "CellLabels-9-4",
+        "CellLabels-9-5"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "id": "SampleAnswer",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "ActivityTitle",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "QuestionStem",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "TableHeader",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "ColumnHeaders-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "ColumnHeaders-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "ColumnHeaders-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "ColumnHeaders-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "ColumnHeaders-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "ColumnHeaders-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-0-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-0-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-0-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-0-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-0-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-1-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-1-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-1-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-1-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-1-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-1-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-2-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-2-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-2-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-2-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-2-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-2-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-3-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-3-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-3-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-3-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-3-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-3-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-4-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-4-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-4-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-4-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-4-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-4-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-5-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-5-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-5-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-5-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-5-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-5-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-6-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-6-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-6-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-6-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-6-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-6-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-7-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-7-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-7-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-7-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-7-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-7-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-8-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-8-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-8-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-8-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-8-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-8-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-9-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-9-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-9-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-9-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-9-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "CellLabels-9-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    }
+  ]
+}

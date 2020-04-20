@@ -1,0 +1,58 @@
+{
+  "type": "ExpLib_Short_Text",
+  "contentId": "",
+  "playlists": [
+    {
+      "id": "start",
+      "trackIds": [
+        "ActivityTitle",
+        "QuestionStem",
+        "Stimulus"
+      ]
+    },
+    {
+      "id": "tip",
+      "trackIds": [
+        "Tip"
+      ]
+    },
+    {
+      "id": "sample-answer",
+      "trackIds": [
+        "SampleAnswer"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "id": "ActivityTitle",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "QuestionStem",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Tip",
+      "clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+    },
+    {
+      "id": "Stimulus",
+      "clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+    },
+    {
+      "id": "SampleAnswer",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    }
+  ]
+}

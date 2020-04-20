@@ -1,0 +1,379 @@
+{
+  "type": "ExpLib_Drag_Drop_Table",
+  "contentId": "",
+  "playlists": [
+	{
+      "id": "start",
+      "trackIds": [
+        "ActivityTitle",
+        "QuestionStem",
+        "Stimulus",
+        "TableHeader",
+        "Options-0",
+        "Options-1",
+        "Options-2",
+        "Options-3",
+        "Options-4",
+        "Options-5",
+        "Options-6",
+        "Options-7",
+        "Options-8",
+        "Options-9"
+  	]
+	},
+	{
+      "id": "tip",
+      "trackIds": [
+        "Tip"
+  	]
+	},
+	{
+      "id": "headers-0",
+      "trackIds": [
+        "Headers-0"
+  	]
+    },
+	{
+      "id": "headers-1",
+      "trackIds": [
+        "Headers-1"
+  	]
+	},
+	{
+      "id": "headers-2",
+      "trackIds": [
+        "Headers-2"
+  	]
+	},
+	{
+      "id": "headers-3",
+      "trackIds": [
+        "Headers-3"
+  	]
+	},
+  {
+      "id": "headers-4",
+      "trackIds": [
+        "Headers-4"
+  	]
+	},
+  {
+      "id": "headers-5",
+      "trackIds": [
+        "Headers-5"
+  	]
+	},
+  {
+      "id": "headers-6",
+      "trackIds": [
+        "Headers-6"
+  	]
+	},
+  {
+      "id": "headers-7",
+      "trackIds": [
+        "Headers-7"
+  	]
+	},
+  {
+      "id": "headers-8",
+      "trackIds": [
+        "Headers-8"
+  	]
+	},
+  {
+      "id": "headers-9",
+      "trackIds": [
+        "Headers-9"
+  	]
+	},
+	{
+      "id": "options-0",
+      "trackIds": [
+        "Options-0"
+  	]
+	},
+	{
+      "id": "options-1",
+      "trackIds": [
+        "Options-1"
+  	]
+	},
+	{
+      "id": "options-2",
+      "trackIds": [
+        "Options-2"
+  	]
+	},
+  {
+      "id": "options-3",
+      "trackIds": [
+        "Options-3"
+  	]
+	},
+  {
+      "id": "options-4",
+      "trackIds": [
+        "Options-4"
+  	]
+	},
+  {
+      "id": "options-5",
+      "trackIds": [
+        "Options-5"
+  	]
+	},
+  {
+      "id": "options-6",
+      "trackIds": [
+        "Options-6"
+  	]
+	},
+  {
+      "id": "options-7",
+      "trackIds": [
+        "Options-7"
+  	]
+	},
+  {
+      "id": "options-8",
+      "trackIds": [
+        "Options-8"
+  	]
+	},
+  {
+      "id": "options-9",
+      "trackIds": [
+        "Options-9"
+  	]
+	},
+	{
+      "id": "Correct",
+      "trackIds": [
+        "CorrectCannedResponse",
+        "CorrectFeedback"
+  	]
+	},
+	{
+      "id": "PartiallyCorrect",
+      "trackIds": [
+        "PartiallyCannedResponse",
+        "PartiallyCorrectFeedback"
+  	]
+	},
+	{
+      "id": "Incorrect",
+      "trackIds": [
+        "IncorrectCannedResponse",
+        "IncorrectFeedback"
+  	]
+	},
+	{
+      "id": "FinalIncorrect",
+      "trackIds": [
+        "FinalIncorrectCannedResponse",
+        "FinalIncorrectFeedback"
+  	]
+	}
+  ],
+  "tracks": [
+	{
+      "id": "ActivityTitle",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "QuestionStem",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Stimulus",
+      "clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+	},
+	{
+      "id": "Tip",
+      "clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+	},
+	{
+      "id": "TableHeader",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Headers-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Headers-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Headers-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Headers-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+  {
+      "id": "Headers-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+  {
+      "id": "Headers-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+  {
+      "id": "Headers-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+  {
+      "id": "Headers-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+  {
+      "id": "Headers-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+  {
+      "id": "Headers-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Options-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Options-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Options-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Options-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Options-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Options-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Options-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Options-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Options-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "Options-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "CorrectCannedResponse",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "CorrectFeedback",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "PartiallyCannedResponse",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "PartiallyCorrectFeedback",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "IncorrectCannedResponse",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "IncorrectFeedback",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "FinalIncorrectCannedResponse",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	},
+	{
+      "id": "FinalIncorrectFeedback",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+	}
+  ]
+}

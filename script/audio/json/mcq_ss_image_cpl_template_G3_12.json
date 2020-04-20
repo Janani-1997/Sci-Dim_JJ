@@ -1,0 +1,326 @@
+{
+  "type": "ExpLib_MCQ",
+  "contentId": "",
+  "playlists": [
+    {
+      "id": "start",
+      "trackIds": [
+        "ActivityTitle",
+        "QuestionStem",
+        "optionsAnswerText-0",
+        "optionsAnswerText-1",
+        "optionsAnswerText-2",
+        "optionsAnswerText-3",
+        "optionsAnswerText-4",
+        "optionsAnswerText-5",
+        "optionsAnswerText-6",
+        "optionsAnswerText-7",
+        "optionsAnswerText-8",
+        "optionsAnswerText-9"
+      ]
+    },
+    {
+      "id": "Incorrect-0",
+      "trackIds": [
+        "optionsCannedResponse-0",
+        "optionsFeedback-0"
+      ]
+    },
+    {
+      "id": "Incorrect-1",
+      "trackIds": [
+        "optionsCannedResponse-1",
+        "optionsFeedback-1"
+      ]
+    },
+    {
+      "id": "Incorrect-2",
+      "trackIds": [
+        "optionsCannedResponse-2",
+        "optionsFeedback-2"
+      ]
+    },
+    {
+      "id": "Incorrect-3",
+      "trackIds": [
+        "optionsCannedResponse-3",
+        "optionsFeedback-3"
+      ]
+    },
+    {
+      "id": "Incorrect-4",
+      "trackIds": [
+        "optionsCannedResponse-4",
+        "optionsFeedback-4"
+      ]
+    },
+    {
+      "id": "Incorrect-5",
+      "trackIds": [
+        "optionsCannedResponse-5",
+        "optionsFeedback-5"
+      ]
+    },
+    {
+      "id": "Incorrect-6",
+      "trackIds": [
+        "optionsCannedResponse-6",
+        "optionsFeedback-6"
+      ]
+    },
+    {
+      "id": "Incorrect-7",
+      "trackIds": [
+        "optionsCannedResponse-7",
+        "optionsFeedback-7"
+      ]
+    },
+    {
+      "id": "Incorrect-8",
+      "trackIds": [
+        "optionsCannedResponse-8",
+        "optionsFeedback-8"
+      ]
+    },
+    {
+      "id": "Incorrect-9",
+      "trackIds": [
+        "optionsCannedResponse-9",
+        "optionsFeedback-9"
+      ]
+    },
+    {
+      "id": "Correct",
+      "trackIds": [
+        "optionsCannedResponse-0",
+        "optionsFeedback-0"
+      ]
+    },
+    {
+      "id": "tip",
+      "trackIds": [
+        "Tip"
+      ]
+    },
+    {
+      "id": "FinalIncorrect",
+      "trackIds": [
+        "FinalIncorrectCannedResponse",
+        "FinalIncorrectFeedback"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "id": "ActivityTitle",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "QuestionStem",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsAnswerText-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsAnswerText-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsAnswerText-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsAnswerText-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsAnswerText-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsAnswerText-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsAnswerText-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsAnswerText-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsAnswerText-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsAnswerText-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsCannedResponse-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsCannedResponse-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsCannedResponse-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsCannedResponse-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsCannedResponse-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsCannedResponse-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsCannedResponse-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsCannedResponse-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsCannedResponse-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsCannedResponse-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsFeedback-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsFeedback-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsFeedback-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsFeedback-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsFeedback-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsFeedback-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsFeedback-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsFeedback-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsFeedback-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "optionsFeedback-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+
+    {
+      "id": "Tip",
+      "clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+    },
+    {
+      "id": "FinalIncorrectCannedResponse",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "FinalIncorrectFeedback",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "mapping_data": [
+    {
+      "source_key_name": "title",
+      "target_key_name": "ActivityTitle",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "feedback-text",
+      "target_key_name": "SampleAnswer",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "stem",
+      "target_key_name": "QuestionStem",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "",
+      "target_key_name": "",
+      "parent_name_1": "tracks.src",
+      "parent_name_2": "",
+      "iterative": "yes",
+      "difference_in_index": "0",
+      "reference_name": "",
+      "data_type": "srcpath"
+    }
+
+  ]
+}

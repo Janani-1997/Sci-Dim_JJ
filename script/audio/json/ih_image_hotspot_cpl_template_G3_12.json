@@ -1,0 +1,229 @@
+{
+  "type": "ExpLib_Hot_Spot",
+  "contentId": "",
+  "playlists": [
+    {
+      "id": "start",
+      "trackIds": [
+        "ActivityTitle",
+        "QuestionStem"
+      ]
+    },
+    {
+      "id": "tip",
+      "trackIds": [
+        "Tip"
+      ]
+    },
+    {
+      "id": "hotspot-panel-0",
+      "trackIds": [
+        "hotspot_title-0",
+        "hotspot_description-0"
+      ]
+    },
+    {
+      "id": "hotspot-panel-1",
+      "trackIds": [
+        "hotspot_title-1",
+        "hotspot_description-1"
+      ]
+    },
+    {
+      "id": "hotspot-panel-2",
+      "trackIds": [
+        "hotspot_title-2",
+        "hotspot_description-2"
+      ]
+    },
+    {
+      "id": "hotspot-panel-3",
+      "trackIds": [
+        "hotspot_title-3",
+        "hotspot_description-3"
+      ]
+    },
+    {
+      "id": "hotspot-panel-4",
+      "trackIds": [
+        "hotspot_title-4",
+        "hotspot_description-4"
+      ]
+    },
+    {
+      "id": "hotspot-panel-5",
+      "trackIds": [
+        "hotspot_title-5",
+        "hotspot_description-5"
+      ]
+    },
+    {
+      "id": "hotspot-panel-6",
+      "trackIds": [
+        "hotspot_title-6",
+        "hotspot_description-6"
+      ]
+    },
+    {
+      "id": "hotspot-panel-7",
+      "trackIds": [
+        "hotspot_title-7",
+        "hotspot_description-7"
+      ]
+    },
+    {
+      "id": "hotspot-panel-8",
+      "trackIds": [
+        "hotspot_title-8",
+        "hotspot_description-8"
+      ]
+    },
+    {
+      "id": "hotspot-panel-9",
+      "trackIds": [
+        "hotspot_title-9",
+        "hotspot_description-9"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "id": "ActivityTitle",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "QuestionStem",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Tip",
+      "clipBegin": "00:00:00.000",
+      "clipEnd": "00:00:00.001",
+      "src": ""
+    },
+    {
+      "id": "hotspot_description-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_description-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_description-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_description-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_description-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_description-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_description-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_description-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_description-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_description-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_title-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_title-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_title-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_title-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_title-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_title-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_title-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_title-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_title-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "hotspot_title-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    }
+  ]
+}

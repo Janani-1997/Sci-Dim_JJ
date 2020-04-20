@@ -1,0 +1,137 @@
+{
+  "mapping_data": [
+    {
+      "source_key_name": "tableHeader",
+      "target_key_name": "TableHeader",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "column-title",
+      "target_key_name": "Headers",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "yes",
+      "difference_in_index": "playlists.id.trackIds",
+      "reference_name": "id",
+      "data_type": "headers"
+    },
+    {
+      "source_key_name": "title",
+      "target_key_name": "ActivityTitle",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+
+    {
+      "source_key_name": "stem",
+      "target_key_name": "QuestionStem",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "correct",
+      "target_key_name": "CorrectCannedResponse",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "not-it",
+      "target_key_name": "PartiallyCannedResponse",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "not-it",
+      "target_key_name": "IncorrectCannedResponse",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "not-it",
+      "target_key_name": "FinalIncorrectCannedResponse",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "final-wrong",
+      "target_key_name": "CorrectFeedback",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "wrong",
+      "target_key_name": "PartiallyCorrectFeedback",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "wrong",
+      "target_key_name": "IncorrectFeedback",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "final-wrong",
+      "target_key_name": "FinalIncorrectFeedback",
+      "parent_name_1": "tracks.clipBegin",
+      "parent_name_2": "tracks.clipEnd",
+      "iterative": "no",
+      "difference_in_index": "",
+      "reference_name": "id",
+      "data_type": "text"
+    },
+
+    {
+      "source_key_name": "",
+      "target_key_name": "",
+      "parent_name_1": "tracks.src",
+      "parent_name_2": "",
+      "iterative": "yes",
+      "difference_in_index": "0",
+      "reference_name": "",
+      "data_type": "srcpath"
+    }
+
+  ]
+}

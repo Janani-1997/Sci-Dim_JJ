@@ -1,0 +1,147 @@
+{
+  "type": "ExpLib_Image_Gallery",
+  "contentId": "",
+  "playlists": [
+    {
+      "id": "start",
+      "trackIds": [
+        "ActivityTitle",
+        "QuestionStem"
+      ]
+    },
+    {
+      "id": "caption-0",
+      "trackIds": [
+        "Captions-0"
+      ]
+    },
+    {
+      "id": "caption-1",
+      "trackIds": [
+        "Captions-1"
+      ]
+    },
+    {
+      "id": "caption-2",
+      "trackIds": [
+        "Captions-2"
+      ]
+    },
+    {
+      "id": "caption-3",
+      "trackIds": [
+        "Captions-2"
+      ]
+    },
+    {
+      "id": "caption-4",
+      "trackIds": [
+        "Captions-2"
+      ]
+    },
+    {
+      "id": "caption-5",
+      "trackIds": [
+        "Captions-2"
+      ]
+    },
+    {
+      "id": "caption-6",
+      "trackIds": [
+        "Captions-2"
+      ]
+    },
+    {
+      "id": "caption-7",
+      "trackIds": [
+        "Captions-2"
+      ]
+    },
+    {
+      "id": "caption-8",
+      "trackIds": [
+        "Captions-2"
+      ]
+    },
+    {
+      "id": "caption-9",
+      "trackIds": [
+        "Captions-2"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "id": "ActivityTitle",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "QuestionStem",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Captions-0",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Captions-1",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Captions-2",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Captions-3",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Captions-4",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Captions-5",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Captions-6",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Captions-7",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Captions-8",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    },
+    {
+      "id": "Captions-9",
+      "clipBegin": "",
+      "clipEnd": "",
+      "src": ""
+    }
+  ]
+}
