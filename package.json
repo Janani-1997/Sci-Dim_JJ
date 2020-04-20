@@ -17,7 +17,7 @@
     "fs-copy-file": "^2.1.2",
     "fs-extra": "^8.1.0",
     "js-htmlencode": "^0.3.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "mkdirp": "^0.5.1",
     "node-svn-ultimate": "^1.2.0",
     "nodemailer": "^6.3.1",
