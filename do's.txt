@@ -1,0 +1,16 @@
+kindergarten - dps_cpl_sd20ca_g1_light
+Grade 3-12 - grade9_dps_cpl_sd912_552013_reactionene
+
+////
+Create folder -> project/repo
+Creade folder -> sass_ref
+
+//sass compiler
+download ruby installaer and install msys2
+// run gem install sass
+// check sass by running sass -v command
+// run gem install compass -> to install compass
+
+
+//smil correction
+create folder -> smil/
