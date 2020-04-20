@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e061e12907134438b42cec94d587298a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="c8a8f124505d4ec0add8a03dfb49ba0b">
+        <div data-uuid="b0b1ae47db31499796b35895f95ddf6d">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="9b9a4248540744cfa72d08bbae84d117"/>
+         <div class="header-element" data-uuid="7594b7f312c64a24b43f00d895bac532">
+                        <section class="calendar-container-bottom" data-uuid="11f9d7a8432a491abd8e38fcb42897f2">
+                            <div class="yellow-star-yellow-bar" data-uuid="3c241a6ac9624cf093523423270b073c"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="f5b2a38a83224c348a9d7ae1940c0902">The Twenty-First Century</h1>
+                        </section>
+            <section class="eq-container" data-uuid="cb84a95baef9438796432bf323d6b34a">
+                <figure class="image " data-uuid="5d7d3920b367488f8769584a48193c38">
+                   
+                        <img alt="This photograph shows a group of young people painting a mural." data-uuid="a0b1947f0a014559bd6325646b321924" src="../../img/module_32opener/8_snlese454170_1840p.jpg" />
+                         </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="5d6307d918cf4e7595094af07843f3c4">
+                        <p class="caption" data-uuid="e4d14b30d4d3420788cceac8bf67740d">Young people like these are helping to shape the future of the United States.</p>
+                    </div>
+               
+      
+            <article data-uuid="45841880d79f4fcd88b3ae6ed11a5782">
+                <h3 class="eq" data-uuid="701f82385a574aeaa39d8938cfc754ab">Essential Question</h3>
+                <h3 class="eqt" data-uuid="8f49b35ecdda44148a61fabb416fde66">How is the United States different today than in
+                    1776?</h3>
+                <p data-uuid="42d05009713345338a5b9d7448fe20c4">The
+                    nation faced many challenges in the early twenty-first century. After the
+                    horrific attacks of September 11, 2001, America launched a global war on
+                    terror. As this war continued, new technologies continued to revolutionize
+                    daily life. </p>
+                <p data-uuid="cbd77cd2ac7544729d01f2b97d2590ba">
+                    As you read this module,
+                    look for evidence of how the events of the twenty-first century altered the way
+                    Americans lived and viewed the world. Note the key people, decisions,
+                    circumstances, and turning points that resulted in these cultural changes. When
+                    you are done, you will write a short essay answering the Essential Question for
+                    this module.</p>
+            </article>
+            <section class="video-container " data-uuid="c5baf19a6a51472684197b6ed80e6c2f">
+                <article data-uuid="c658eb0cd55f4e5db298d96569fc3174">
+                    <h3 class="vid" data-uuid="0bb32d9b47f74513829d1815b9fcfe15">The
+                        Rise of Barack Obama</h3>
+                    <p class="vid" data-uuid="e3e8a24a7e17412794a86ad63a701775">Barack
+                        Obama captured the imagination of the American people in the 2008 presidential
+                        campaign with his emphasis on the slogan ”Yes, We Can.”</p>
+                    <section class="video" data-uuid="90c91d855985412e8735ce5d0a53fa34">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="ec31cbd5b78e44599089f8e6834345ab"><param name="configFile" value="../../widget_data/config/ec31cbd5b78e44599089f8e6834345ab.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="37c0f661b74f41348faeba582366a227">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="faa6fb394d214417854b7725b975bfab">
+                    <param name="configFile" value="../../widget_data/config/faa6fb394d214417854b7725b975bfab.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="3dd28166ec3d43a5ac29fcf6767fc96b">
+                <article data-uuid="f9d3ba9608fc415f897d603ffaebd504">
+                    <h3 class="mod" data-uuid="cda0de56b856404e80ad45e8e8092d43">The
+                        Twenty-First Century&#160;</h3>
+                    <p class="mod" data-uuid="37814d7a38d04048bbcd6f07e8f6068c">Globalization
+                        brought changes and challenges to the United States in politics and the
+                        economy. Terrorism became an international concern after the events of
+                        September 11, 2001. Military involvement on foreign soil affected countless
+                        American families. Meanwhile, America’s population is aging and becoming more
+                        diverse than ever before.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="a8dd9eaee0a0453a973e180c129feb3d">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="cc85e8848d2d47fea06aa62ff304c901">
+                    <param name="configFile" value="../../widget_data/config/cc85e8848d2d47fea06aa62ff304c901.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="3ad9b645a74b4f2ea787050484467975">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="8ddbe9c9dcd1445db885c5315920fd52">
+                <param name="configFile" value="../../widget_data/config/8ddbe9c9dcd1445db885c5315920fd52.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="973f2dfc1e3f48b1ab92661caca8cb6e">
+            <button data-teacher-view-toggle="true" data-uuid="ffabfe60aab942ceb0342608d694cd59"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cc3022d20890477d9b86a4ac5068431f">
+                <param name="configFile" value="../../widget_data/config/cc3022d20890477d9b86a4ac5068431f.json" />
+            </object>
+        </section>
+        <p data-uuid="18e76dabe9b94573b3552c88f25aaa85"><br />
+        </p>
+    </body>
+</html>

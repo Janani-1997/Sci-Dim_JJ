@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2b3d3605ea704e389cc98e745bc8dd34" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 &#160;Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="574c9f23fb6f484d8b75726c07de8c2b">
+            <div class="header-element header-container " data-uuid="4ffce04e75a6425a8ff0ea09f328f824">
+                <p class="lesson-number" data-uuid="956d1dc2dded4b72a2bf00602c6ed41d">Lesson 1</p>
+                <h2 data-uuid="2c0a9154f35f4a45a5b84f1c4722c213">Assessment</h2>
+            </div>
+            <h5 data-uuid="8c56723c82f84cfb8c0328a91ec4d901">Growth of the Cotton Industry</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="36c30de62fda44758ce41755e5cd154e">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="271066e8143c4e61bc0888372f6fafbd">
+                <param name="configFile" value="../../widget_data/config/271066e8143c4e61bc0888372f6fafbd.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="591842a690f34beab2583f841958e75d">
+            <button data-teacher-view-toggle="true" data-uuid="4bf47cef80e54bc890dbbea7263fbc18"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="921b2afabfb846648ccc9f871e635f47">
+                <param name="configFile" value="../../widget_data/config/921b2afabfb846648ccc9f871e635f47.json" />
+            </object>
+        </section>
+        <p data-uuid="f59f9a39104849d8aaacd392cb8630de"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0fde84cb55d443319c59bce96856a366">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section data-uuid="69c2ab443cb54a3d8b3d1a62408dbb38" class="module-opener">
+        <div data-uuid="1203c0e5df75442bab76bf9c3db2e60c">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="0bfab9d210b9492b9b72d9a3876a0417"/>
+            <div class="header-element" data-uuid="d7854b0f3c7447d1bf2c509aec3fec9c">
+                <section data-uuid="f98eb3321d024b788bdfe5914a120200" class="calendar-container ">
+                    <div data-uuid="a1f990af8b9c4297a22952a3c104496c" class="yellow-star-yellow-bar"></div>
+                    <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                    <h1 data-uuid="30f035b24d7f4827a0786773bc0494c6">Reform Movements in the United States</h1>
+                </section>
+                <section data-uuid="be6d3c7bbb1347299c22cea6c733712d" class="eq-container">
+                    <figure data-uuid="84f35b27c79a4791a07c5eeb42da5817" class="image ">
+                        <img alt="This image shows an Atlantic seaport, with ships in the harbor and many people and various freight all around." data-uuid="b0c1010e1ce5455284d1aea70606660e" src="../../img/module_16opener/ms_snlese454149_182p.jpg" class="" />
+                        <div data-uuid="be5ddd735012447a8909d5dd55c00b6f" class="image-metadata-container">
+                            <span class="image-text image-alt"></span>
+                            <span class="image-text image-credit"></span>
+                        </div>
+                    </figure>
+                </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="c4166fc2483a4928b9bc28409969418c">
+                <p data-uuid="62b93bd6491f4f10a78ce8b36e24522d" class="caption">Busy port cities brought goods and people across the Atlantic.</p>
+            </div>
+            <article data-uuid="5c6b50d5561c4c6e92e6bd54a4f40301">
+                <h3 data-uuid="6eb7e2e563a149a7ae65742352448333" class="eq">Essential Question</h3>
+                <h3 data-uuid="80de0fa6dcb84eb1a887b3c70ea70028" class="eqt">How successful were reformers at improving living
+                    conditions for Americans in the early 1800s?</h3>
+                <p data-uuid="713c044de00242d387d3bc7125071742">In
+                    the early 1800s, reformers sought to improve life for people living in the
+                    United States. These reformers wanted to improve life for different groups of
+                    people including immigrants, African Americans, and women. They also sought to
+                    make improvements in society—improving access to education, for example. </p>
+                <p data-uuid="1a8d8759885b49c18ab7fa98ca2a2ffa">
+                    As
+                    you read this module, look for evidence of key events of the reform movements
+                    of the United States. Note how people, decisions, circumstances, and events
+                    were affected by the actions of the reformers of this time period. When you are
+                    done, you will write a short essay answering the Essential Question for this
+                    module.<br />
+                </p>
+            </article>
+            <section data-uuid="e8ff7befc9c6484ca2980be80c5735be" class="video-container ">
+                <article data-uuid="b8b37da47cd547b8b9b822d072f363e9">
+                    <h3 data-uuid="ef01ea43f1214b75ad7331186593c4d0" class="vid">Abolitionists
+                        and the Underground Railroad</h3>
+                    <p data-uuid="dd85f4ca7b064cfea0a91149dd907423" class="vid">One group of reformers, the abolitionists, helped thousands of American slaves escape to freedom in the &#160;early 1800s. &#160;These slaves used a series of secret routes and locations to flee northward on what was called the Underground Railroad.<br />
+                    </p>
+                    <section class="video" data-uuid="710817749f0846b0b219d678dcd0cb05">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" data-uuid="94f72b06d0e84d92ad9d3f39303955ab" class="widget"><param name="configFile" value="../../widget_data/config/94f72b06d0e84d92ad9d3f39303955ab.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section data-uuid="5f52a5e10ca6407f8987f87fc04a9167" class="question-long-text">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="910b2b4bc01c4c40a172a620df33dd36" class="widget">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/910b2b4bc01c4c40a172a620df33dd36.json" />
+                </object>
+            </section>
+            <section data-uuid="c1b29115c1434b67a2131b1152684c0d" class="timeline-container ">
+                <article data-uuid="b8f00cd52e0c4d57b9d096677674e4ef">
+                    <h3 data-uuid="8cc316bea6b74ffa8487e51045ca10e7" class="mod">Reform Movements in the United States, 1815–1855
+                    </h3>
+                    <p data-uuid="2e1251a3e67249848e73026127e104a9" class="mod">In the early 1800s to mid-1800s, reformers sought to improve
+                        society and life for different groups of people including immigrants, African Americans,
+                        and women. They
+                        campaigned against slavery and for women’s rights, and they worked for access
+                        to education for African Americans and the hearing impaired. Many also
+                        supported the temperance movement.</p>
+                </article>
+                <section data-uuid="09fc3a6ae06749839368c877b6fef469" class="timeline">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" data-uuid="07d599a711144cf393f04a8400a7085f" class="widget">
+                    <param name="audio_description" value="NA" />
+                    <param name="audio_script" value="NA" />
+                    <param name="configFile" value="../../widget_data/config/07d599a711144cf393f04a8400a7085f.json" />
+                </object>
+                </section>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="390de94f7ff04b9ab3e02b150b15c706">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0143cdb38da84eb4b959cc53e27721e4">
+                <param name="configFile" value="../../widget_data/config/0143cdb38da84eb4b959cc53e27721e4.json" />
+                
+                
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="e5e9d7f66f534c979716f4b837495966">
+            <button data-teacher-view-toggle="true" data-uuid="6d79c4f39cf5444d9ff435ab23d9018f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="30a617315e264699b2442e76d55d2841">
+                <param name="configFile" value="../../widget_data/config/30a617315e264699b2442e76d55d2841.json" />
+            </object>
+        </section>
+    </body>
+</html>

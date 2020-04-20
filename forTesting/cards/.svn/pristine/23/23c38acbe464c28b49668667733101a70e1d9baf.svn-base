@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7792ae7a090b4da2b49d01129738c2b8">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="e95c5270060d41fd9faebf033a40fd1c">
+            <p class="lesson-number" data-uuid="b2a7c53b79444333a31f7f084f4491fe">Lesson 2</p>
+            <article class="header-container" data-uuid="d65f7c3d1d1442caa7844520239e5301">
+                <div class="header-element" data-uuid="0005e560727048ada9d6892b5b17495f">
+                    <h1 data-uuid="b071abcc29964ace81a92646dd3bd5fd">The
+                        Spanish-American War</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="357b9f1a65594a699d41f9d59c0b24fa"></div>
+                    <h2 data-uuid="a5f146ef55184fb7a741c4cc9697217f">The Big Idea</h2>
+                    <p data-uuid="b94cc748c9df4bc180105f909750322d">As a
+                        result of the Spanish-American War, the United States expanded its reach into
+                        new parts of the world.</p>
+                </div>
+            </article>
+            <article data-uuid="760c099b0693485bb3e9cc7bb79db91e">
+                <h3 class="if-you-were-there" data-uuid="d0f59412becb4bdca1e602aaeede23ef">If YOU were there...</h3>
+                <p data-uuid="8963f33be6e24cd6aaef6d156a1f9a62">You
+                    live in New York City in 1898. Newspaper headlines are screaming about the
+                    start of war in Cuba. You hear that Theodore Roosevelt wants volunteers for a
+                    cavalry troop called the Rough Riders. You know how to ride a horse, and you’ve
+                    admired Roosevelt ever since he was New York’s police commissioner. You know it
+                    will be dangerous, but it also sounds like a great adventure.</p>
+            </article>
+            <section class="reading-check" data-uuid="ae6af082ff1d480d8e6959146e817b91">
+                <section class="question-long-text" data-uuid="c0bad55ca6cd45c89e4c62d0b4dd5479">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="bbda02db4509447f8212aecdaf13dcba">
+                        <param name="configFile" value="../../widget_data/config/bbda02db4509447f8212aecdaf13dcba.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="40637bde0ead4c3fa4a901f149a3f376">
+            <button data-teacher-view-toggle="true" data-uuid="9d68b4963d894d63944dd09aa0585fc5"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="bcc2f86f00334440bd8be29cca7544f3">
+                <param name="configFile" value="../../widget_data/config/bcc2f86f00334440bd8be29cca7544f3.json" />
+            </object>
+        </section>
+    </body>
+</html>

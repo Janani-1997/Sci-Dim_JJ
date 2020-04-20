@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="86b5cf9293d449e7930f0975e6cc3b03">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="5833caec16394f488314c51ad970f74a">
+            <p class="lesson-number" data-uuid="c9308d71f1c8483a9266ae492f687a99">Lesson 1</p>
+            <article class="header-container" data-uuid="ed395f6771ad422a955a3ce7760af55b">
+                <div class="header-element" data-uuid="7bfa4a0bc5644b0a929d1600c05c43af">
+                    <h1 data-uuid="7da0896528a342e0bb4f3c1398e268d5">The War Begins</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="cf16068c30064251af05101bda086050"></div>
+                    <h2 data-uuid="13c0a9fea7454dc7b66df105d555ff25">The Big Idea</h2>
+                    <p data-uuid="4b4a558cbaef4af0b59aa5a8f6319ef8">The rise of aggressive
+                        totalitarian governments led to the start of World War II.</p>
+                </div>
+            </article>
+            <article data-uuid="8fdecb1e9c7340d48c5ec5a27ffb8492">
+                <h3 class="if-you-were-there" data-uuid="6be21c367df24d9bbe0bd4334de277c5">If YOU were there...</h3>
+                <p data-uuid="a2e2056c981d44489f3a57838cbc7f0e">The year is 1933, and your
+                    family is struggling through the Great Depression along with millions of
+                    others. Sometimes your parents wonder if they should have left Italy to come to
+                    the United States. But conditions in Italy are far from ideal. A dictator rules
+                    the country, and the people have little personal freedom.</p>
+            </article>
+            <section class="reading-check" data-uuid="0291dd7ff71a4831be9c5cfcc28b7d94">
+                <section class="question-long-text" data-uuid="97a0af879ae140d5af333016d2f95c0e">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="dea11b10b76c445cb8d5ffa6b4ed8f04">
+                        <param name="configFile" value="../../widget_data/config/dea11b10b76c445cb8d5ffa6b4ed8f04.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9a88d7091a6c466bb9b378e3d5e34e05">
+            <button data-teacher-view-toggle="true" data-uuid="6f0bd22e264c40d8b059378fa4669ea4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="bc10dfa34e1d4c7fa5df43d53dfdc9bc">
+                <param name="configFile" value="../../widget_data/config/bc10dfa34e1d4c7fa5df43d53dfdc9bc.json" />
+            </object>
+        </section>
+        <p data-uuid="c8834fe72a9d4295ad64f6b040569c2a"><br />
+        </p>
+    </body>
+</html>

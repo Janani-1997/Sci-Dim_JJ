@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7e8453d7a7624800b2220a0623861e7f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="6eb16f93c62b49dc8ab002a2d26f7120">
+            <div class="header-element header-container " data-uuid="e6670727d61b43c580ab72d29ee21e00">
+                <p class="lesson-number" data-uuid="70430e2f3a424b55972eda7da7e44490"><br />
+                </p>
+                <h2 data-uuid="65340fccc49e44328f92fdde7d154737"> Review</h2>
+                <p class="white" data-uuid="f1cf58c540b34a1186b5ad57c9d65cf9">In this module you’ve learned about the events
+                    that occurred during and immediately following World War I. These events had a
+                    major impact on the futures of both the United States and Europe. Now you will
+                    review some key terms and people before completing the Module Assessment.</p>
+            </div>
+            <h3 data-uuid="1e81151cba1c470688ee6c0cf99da198">Review Key Terms and People</h3>
+            <p data-uuid="4ffbb74dd6304b2eb5e0f3ca97b194ea">Define each term or person
+                shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="b1291965463d4a11bf08a40e6d09bd96">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget" data-uuid="71d9988c5f2f412d920c2d7503ccba40">
+                    <param name="configFile" value="../../widget_data/config/71d9988c5f2f412d920c2d7503ccba40.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="87afbec130824c2db1b73d1ed03f2ab9">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="6d9a615e7aea4c15b211aac9dc988e7d">
+                    <param name="configFile" value="../../widget_data/config/6d9a615e7aea4c15b211aac9dc988e7d.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="05ee4d234a4b40908185e3e92c9cd51f">
+            <button data-teacher-view-toggle="true" data-uuid="6bac519e230e47cd97853bc8d51dedb9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4c0de3428c104812ad73c302e1365483">
+                <param name="configFile" value="../../widget_data/config/4c0de3428c104812ad73c302e1365483.json" />
+            </object>
+        </section>
+        <p data-uuid="dc5850d57a9f4923bdf03d9b76f73155"><br />
+        </p>
+    </body>
+</html>

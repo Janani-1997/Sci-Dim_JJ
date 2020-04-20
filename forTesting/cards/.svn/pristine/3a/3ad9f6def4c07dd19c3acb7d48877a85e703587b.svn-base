@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8522a83d72e44844aa0b87545836a916" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="4511cabe935541b9b1153bd5751ae2b8">
+            <div class="header-element header-container " data-uuid="b15a00d84c8a40cc8e416dd5e8431895">
+                <p class="lesson-number" data-uuid="29ee6a3fc840413e9d6fd0efe9fb768a"><br />
+                </p>
+                <h2 data-uuid="5e357bc2c9a347bbbe2046e5a14bb810"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="be8107fc1b0c40efbb464c4a9ab61ab9">Part 2: Write an Explanatory Essay</h3>
+            <h6 data-uuid="ee02bb65c79a44dd87283695e50f5268">Historical Context</h6>
+            <p data-uuid="1b5f3b2c86f044d2a80cc10ce3929d5e">The
+                invention of the cotton gin allowed many southern planters to grow wealthy from
+                their cotton production. It also increased the South’s reliance on slave labor.
+                Although rich planters dominated southern society, they made up only a small
+                percentage of the population, which also included small farmers, poor whites, and
+                enslaved and free African Americans.</p>
+            <h6 data-uuid="c12c9e62d079466e8e04880e4bfaa473">Task</h6>
+            <p data-uuid="68fd7c101aa340eeb97d09fff13dc217">Southern
+                society was divided into groups that varied greatly in social and economic
+                power. Yet these groups did not live in isolation from one another. Write an explanatory
+                essay in which you discuss connections between different social groups in the
+                South.</p>
+            <p data-uuid="ab20b2d258de4ec38acff492fd7829bd">Complete the following steps as you plan and compose
+                your essay.</p>
+            <ol data-uuid="14fc542911b74b3585f39defbee9f470">
+                <li data-uuid="fc59b15843c443b0bfe8bab0c456d7fd">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="8d4b4f33b0d34be086fb80e50e8d3bf0">Use
+                    at least <i>two</i>&#160;of the sources in Part 1, and develop the essay with
+                    relevant, well-chosen text evidence from the documents.<br />
+                </li>
+                <li data-uuid="7c44052c6fea400ab657e97dd1cd1c69">
+                    Cite specific text evidence from each of the sources in your
+                    response.
+                </li>
+                <li data-uuid="59bf5ae2b55c4f01918642d831b686cf">Plan
+                    your essay so that it includes an introduction, several body paragraphs, and a
+                    concluding paragraph.<br />
+                </li>
+                <li data-uuid="d2040e78e1e342fc8f4a0606fdca2f3b">Organize your essay in a clear way that focuses on the topic and supports it with explanations and facts.<br />
+                </li>
+                <li data-uuid="58bf08f1392841189fd1057577aabfbc">Write
+                    a conclusion that sums up your ideas and supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6968ae0477e14e0b8852cb157faef8d2">
+            <button data-teacher-view-toggle="true" data-uuid="3b093e41789c442aa87d67ead648d24b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="490e34caec464f25aa9a30bb1b31626e">
+                <param name="configFile" value="../../widget_data/config/490e34caec464f25aa9a30bb1b31626e.json" />
+            </object>
+        </section>
+        <p data-uuid="771a15c3ac6a4627a439344d6e5cd87a"><br />
+        </p>
+    </body>
+</html>

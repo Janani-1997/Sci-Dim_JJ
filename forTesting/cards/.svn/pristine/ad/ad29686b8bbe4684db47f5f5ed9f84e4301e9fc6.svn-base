@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="a3f88c700a96411fb4ea18e65d947d91" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson 5 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="3950d0b3c97f4e1fbc1c5699cdcf1017">
+            <div class="header-element header-container" data-uuid="ea888ab35e0e4d5aa94cd65a635c0a6d">
+                <p class="lesson-number" data-uuid="12573f2d93b7437cbfa6c539165983d1"> Lesson 5</p>
+                <h2 data-uuid="1a377c244abf465cadd4e196b00289a9">Review</h2>
+                <p class="white" data-uuid="ccbc382b3de447b1bf6f963bd237222e">In this lesson you learned about the sequence of events leading up to the Civil War. Now you will review some key terms and people before completing the Lesson Assessment. </p>
+            </div>
+            <h3 data-uuid="442622d316d742db88ee767ee5397235">Review Key Terms and People</h3>
+            <p data-uuid="9d07c728419c4c2099cf093b6c125407">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="d5f5b0f321b044c4aefed5f573c580bb">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="b6c1961cf52c4eafa9891b2b5e21967f">
+                    <param name="configFile" value="../../widget_data/config/b6c1961cf52c4eafa9891b2b5e21967f.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="eab037d348724073aa5cf2825e733c5f">
+            <div class="go-prompt-bottom-bar" data-uuid="776e36479ded4117b7a9902f0d4528e6">
+                <h5 data-uuid="8e3f33b31e3c4532b76e7b6e3fffce3c">Review the Graphic Organizer</h5>
+                <p data-uuid="aea9953ade3d4aa4ab6aacf14bb0bf4d">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="51e3fc00cc3344749442d247847723da">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="558e30ae846544bca4d6bae43f31975a">
+                <param name="configFile" value="../../widget_data/config/558e30ae846544bca4d6bae43f31975a.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-uuid="93d3a429b66648bdbcd074c37fed0c6b">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="8c1e8a5fcdb341dd8d25022306a5e884">
+                <param name="configFile" value="../../widget_data/config/69b1f448ef9e44c5859c1f5bf79cf3ed.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="8a5d924f6f584e14b791b498568306ff"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ed602e9f8c564244b111e53f8df306c5">
+            <button data-teacher-view-toggle="true" data-uuid="86d56e387bcd4c5e9b0a8255a4a6c7ec"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d5efaf8037cb49888d70f2bebae360da">
+                <param name="configFile" value="../../widget_data/config/d5efaf8037cb49888d70f2bebae360da.json" />
+            </object>
+        </section>
+        <p data-uuid="8b439273d8354eec823b52fc1d6488d7"><br />
+        </p>
+    </body>
+</html>

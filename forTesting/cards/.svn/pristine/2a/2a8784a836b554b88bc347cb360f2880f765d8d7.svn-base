@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="553e088745784cf0a54964d983faa601">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="917fb6cf3fd342af982b71b064c93d7b">
+            <p class="lesson-number" data-uuid="dcc0a247f7934d0880349fa64eae0bab">Lesson 2</p>
+            <article class="header-container" data-uuid="369d9c0151114118aa8df4a841d21892">
+                <div class="header-element" data-uuid="bf947f9396ca46258e0ed8a55d918592">
+                    <h1 data-uuid="0a73c90a3a6a4aa6b26d2e14a8fa5fd2">The New England Colonies </h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="8ad2cad87b114b5b8487e2f282859479"></div>
+                    <h2 data-uuid="2596827ec0ae46aab65af417ba67bf1d">The Big Idea</h2>
+                    <p data-uuid="5c3a2280a5d944ddbc4527bea3bd1bc2">English colonists traveled
+                        to New England to gain religious freedom.&#160;</p>
+                </div>
+            </article>
+            <article data-uuid="4c3f0e39ad6e4c129b5a2fe4572064d1">
+                <h3 class="if-you-were-there" data-uuid="cdfb8983647e4b5e92d0cb398a595b14">If YOU were there...</h3>
+                <p data-uuid="979dc12d0f7d4755b69b73de15a2f248">You live in a town near London
+                    in the early 1700s. Some of your neighbors are starting new lives in the American
+                    colonies. You would like to go with them, but you cannot afford the cost of the
+                    trip. There is one way you can go, though. You can sign a paper promising to work
+                    as a servant for five years. After the five years, you would be free—and in a
+                    new country!</p>
+            </article>
+            <section class="question-long-text" data-uuid="12ad4c8b1c9743ec921ee079f2ed8e51">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="9c9c698ce95c49ed9e9ff5545944a36b">
+                    <param name="configFile" value="../../widget_data/config/9c9c698ce95c49ed9e9ff5545944a36b.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="66e03d2eddf54aeebc9c63c4bab98ae4">
+            <button data-teacher-view-toggle="true" data-uuid="3655376052a5432aac7f012bff284f66"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4b240d8389aa44a19ccba810ebcb652b">
+                <param name="configFile" value="../../widget_data/config/4b240d8389aa44a19ccba810ebcb652b.json" />
+            </object>
+        </section>
+        <p data-uuid="cf34722c72974d5aa2946a5acbe18ef9"><br />
+        </p>
+    </body>
+</html>

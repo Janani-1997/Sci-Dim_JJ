@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="7aee371205ff4a418207ad0380cccac1" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Carter Elected</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="bde4c31ab64f4ee5b1b93f6116b4edc1">
+            <article data-uuid="2018e2ad8be54f189403c5574ab54daf">
+                <h4 data-uuid="cd7c5083d71a44f898972427df8f3765">Main Idea</h4>
+                <p class="main-idea" data-uuid="a96567b2e94e4388822ad4cf9f0057f8">Jimmy Carter was elected president in 1976.</p>
+                <h2 data-uuid="df9a6ebae1c94a9d955d7dca572fbbbf">Carter
+                    Elected</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="6c5ec733e79646ebb15369d37ef8cd32"></div>
+            </article>
+        </section>
+        <p data-uuid="d04f3970a0d049b7948db9bc3af5b094">To oppose Republican Gerald Ford in the 1976
+            presidential election, Democrats nominated <b><dfn title="Carter, Jimmy">Jimmy
+            Carter</dfn></b>, a little-known former governor of Georgia. The Democrats
+            purposely chose a candidate who was untouched by recent government scandals.
+            Carter knew that the Vietnam War and Watergate had badly shaken American
+            voters’ trust in government. “I will never lie to you,” he told voters.<br />
+        </p>
+        <section class="interactive-map" data-uuid="dbac670e04934e5d9bbe41317b22960b">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="69e432441a3c4de1baa0666551d04b95">
+                <param name="selected_map" value="8_snlese454170_1447m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="efb302f30dbc4cdf9ca58cc3656e9f6f">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="0fbffd65251644099adf462816f4c811">
+                <param name="configFile" value="../../widget_data/config/0fbffd65251644099adf462816f4c811.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="2f201702dda84e7a91e155d00e3966dc">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="d28a57aceb1b4b6f8523f508801ef7ee">
+                <param name="configFile" value="../../widget_data/config/d28a57aceb1b4b6f8523f508801ef7ee.json" />
+            </object>
+        </section>
+        <p data-uuid="ae92c50ab2224e919a5e99d69125fcfa">Carter defeated Ford in a close election. As
+            president, Carter wanted to show a new spirit of informality and openness at
+            the White House. On inauguration day, he and his family broke with tradition by
+            walking to the inauguration rather than riding in a limousine.</p>
+        <p data-uuid="4ec8e505fda740f0b50dad1fbff9965b">Americans seemed to respond positively to his
+            straightforward style. However, Carter faced serious challenges. High
+            unemployment and inflation continued. The ongoing energy crisis also kept oil
+            prices high. Many Americans became frustrated with the president’s inability to
+            solve these problems.</p>
+        <p data-uuid="f3827224113d49cf8a993250490032e7">
+            Although Democrats controlled Congress, Carter had a hard time
+            convincing members to support his proposals. For example, Carter proposed a
+            national energy plan. It called for conservation and the use of alternative
+            energy sources such as solar energy. Congress demanded changes to the complex
+            plan. The plan was never fully passed.<br />
+        </p>
+        <section class="image-with-slider " data-uuid="57921869352543a9bd17805a505a4d9e">
+            <object type="text/html" data="../../assets/widgets/image_with_slider/index.html" class="widget" data-uuid="9eb16fb7e7e946c6905881bf26c7293e">
+                <param name="configFile" value="../../widget_data/config/9eb16fb7e7e946c6905881bf26c7293e.json" />
+            </object>
+        </section>
+        <p data-uuid="5a8f2c00eca948fe92d2ec65b17d2a20">Carter also wanted to expand the use of nuclear
+            power. This was one way he hoped to decrease the country’s dependence on
+            imported oil. But an accident at the Three Mile Island nuclear power plant in
+            Pennsylvania caused new worries about the safety of nuclear energy. On March
+            28, 1979, a reactor core at Three Mile Island overheated. As a result, the
+            plant released a small amount of radioactive gas into the air. This frightening
+            incident damaged the nuclear power industry, and the federal government put in
+            place a ban on building new reactors.<br />
+        </p>
+        <section class="question-long-text" data-uuid="48d7b714b98b4e5b93e79f18fc3ba1a1">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="497461d331774b75a9b34bfae222f74f">
+                <param name="configFile" value="../../widget_data/config/497461d331774b75a9b34bfae222f74f.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="18590ce3f27d4df5a28316d8491bab4b">
+            <div class="go-prompt-bottom-bar" data-uuid="5fe26f8af7e546a1916e9f991c2534b9">
+                <p data-uuid="4548ef983e324d34aac22aba3ad210dc">Remember
+                    to use the graphic organizer to take notes on the major social and political
+                    issues of the 1970s and the steps that President Carter took in addressing
+                    them.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="ce51b878feb3446bb297c156be45d9bf">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="622aab461bef45d1a0f3be7ce4e2909e">
+                <param name="configFile" value="../../widget_data/config/d64c53b5af3b43769b612a472e6a3fed.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="c296bb9927814d95abec43c5db83a378"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a3e7020ba05b4644a9e4e48638f64c82">
+            <button data-teacher-view-toggle="true" data-uuid="8d1268319d154bbcba9476eed0e95d52"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="374b059bb36d48f2a992e0fa130bc49e">
+                <param name="configFile" value="../../widget_data/config/374b059bb36d48f2a992e0fa130bc49e.json" />
+            </object>
+        </section>
+        <p data-uuid="e447be77e3e04b6b82f64f516ab311c0"><br />
+        </p>
+    </body>
+</html>

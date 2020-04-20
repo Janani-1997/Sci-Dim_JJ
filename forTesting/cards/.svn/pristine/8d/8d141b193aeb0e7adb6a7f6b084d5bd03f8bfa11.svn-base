@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="eea24239beb34f43835df8c430d76bd9">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>The Treaty of Paris</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="398714ca10ca43dfbebf1274d8d31912">
+            <article data-uuid="971c978df3754ca8b69710311236ce88">
+                <h4 data-uuid="05e4fe885efe4336993040688499e84e">Main Idea</h4>
+                <p class="main-idea" data-uuid="58b3e3e1a4924f669b8cf9fd7cda99b4">The British and the Americans officially ended the war by signing the Treaty of Paris of 1783.</p>
+                <h2 data-uuid="6f76a1bd6543404e943fa9273d75c7aa">The Treaty of Paris</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="7a30100bc0674455a15b31177ca78b1d"></div>
+            </article>
+        </section>
+        <p data-uuid="ea833909cbe045c99dc54698a6498b84">After Yorktown, only a few small battles took place. Lacking the money to pay for a new army, Great Britain entered into peace talks with America. Benjamin Franklin had a key role in the negotiations.</p>
+        <p data-uuid="d1d52ff0c2174a5a84e19b2a78a495fb"> Delegates took more than two years to come to a peace agreement. In the <b><dfn title="Treaty of Paris of 1783">Treaty of Paris of 1783</dfn></b>, Great Britain recognized the independence of the United States. The treaty also set America’s borders. A separate treaty between Britain and Spain returned Florida to the Spanish. British leaders also accepted American rights to settle and trade west of the original thirteen colonies.<br />
+        </p>
+        <section class="static-map" data-uuid="87defd681b9d4769a47167e0452061a3">
+            <article class="title-bar" data-uuid="3a5aa2c79ffb415ea2cb348400e2f92c">
+                <h3 data-uuid="a17ef62d17864cc69e5269332f0bdb97">North America after the Treaty of Paris of 1783</h3>
+            </article>
+            <figure class="image" data-uuid="f8ec5505f659400ebd1e2493f892c236">
+                <img alt="This map shows how the territories of North America were divided up after the Treaty of Paris. For more information, ask your teacher to describe this map to you." data-uuid="3daf8530d98743ec9155fc207878f84f" src="../../img/module_4_lesson05/ms_snlese454149_826m.png" />
+            </figure>
+            <section class="skillbuilder" data-uuid="fe87252bbcc9457dad988f53e0011d01">
+                <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="c74cc88e15774ad58c6d1b6ced17069f"><param name="configFile" value="../../widget_data/config/c74cc88e15774ad58c6d1b6ced17069f.json" /></object>
+            </section>
+            <section class="question-multiple-choice" data-uuid="32c223f331ba4867b3ec42e7d6912708">
+                <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="dddc3b92d4c74e1f838d74e67b38e7c7">
+                    <param name="configFile" value="../../widget_data/config/dddc3b92d4c74e1f838d74e67b38e7c7.json" />
+                </object>
+            </section>
+        </section>
+        <p data-uuid="6f29ef5a27e14fe0a2d484f2deee0a20">At the war’s end, many members of the Iroquois nations who had fought on the side of the British moved to Canada. Those who did not were ordered to live on reservations in the northern, central, and western parts of New York. Otherwise, when the terms of the Treaty of Paris were negotiated, the concerns of Native Americans were largely ignored.<br />
+        </p>
+        <p data-uuid="054a3c5cf3a24108a698138e0740f437"> Now that the war was over, Patriot soldiers returned to their homes and families. The courage of soldiers and civilians had made America’s victory possible. As they returned home, George Washington thanked his troops for their devotion. “I . . . wish that your latter days be as prosperous as your former ones have been glorious.”</p>
+        <section class="question-long-text" data-uuid="71d39d557e6c4298bd1d4fa0abe7fe9d">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="5d9b777788bd423f9470e7099d62bc13">
+                <param name="configFile" value="../../widget_data/config/5d9b777788bd423f9470e7099d62bc13.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="817f99f96c6547389200e3c3ca2df64c">
+            <div class="go-prompt-bottom-bar" data-uuid="d72c410293914200a8fac55d5466bbda">
+                <p data-uuid="7005aa7d0ec0451a9effedb6162dd35e">Remember to complete the graphic organizer with information on the events that led to the end of the war.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="33f720562d9047c5b20037a48b764079">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="f9f9b50429564bfda9fee4f8b6da7ef3">
+                <param name="configFile" value="../../widget_data/config/9a73db635fd648f299466b64931469aa.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="a9e63215cd0346f3b8e0e6058c190330"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d2cb0da39f504f53a09c7fcf1dac262c">
+            <button data-teacher-view-toggle="true" data-uuid="eaabd08cda344d119c8f9aaf7477e6c1"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4e94055c1dea416ea07ba5d5e41316d3">
+                <param value="../../widget_data/config/4e94055c1dea416ea07ba5d5e41316d3.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

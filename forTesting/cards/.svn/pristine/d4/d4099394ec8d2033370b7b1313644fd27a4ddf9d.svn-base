@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b94421ac4bb3400a8583b4e8d4f2eb1a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener
+        </title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="78dfff05ed7d414ea7e6603358b5628b">
+            <p class="lesson-number" data-uuid="e3f93836049342efaddb871aa6a4aadb">Lesson 1</p>
+            <article class="header-container" data-uuid="8c340ebfaddd4c41a55288de5576bf03">
+                <div class="header-element" data-uuid="33f71af018ad4af18bc8665a47819954">
+                    <h1 data-uuid="46ced203e1ab4a81aebbc19616aa3e95">The Second Industrial Revolution</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="c13630ecbf744823937e15a5b7c967de"></div>
+                    <h2 data-uuid="c9fb1574774a4dddb72f0b17fd8b4876">The Big Idea</h2>
+                    <p data-uuid="a35b10693bb341a985b213cd45ce1364">The Second Industrial Revolution led to new
+                        sources of power and advances in transportation and communication.</p>
+                </div>
+            </article>
+            <article data-uuid="da7debbc9a4f4f6dac7dfc8411e73859">
+                <h3 class="if-you-were-there" data-uuid="d6ecf493c8734263b0af80c28a618f71">If YOU were there...</h3>
+                <p data-uuid="02fe9a825ea749cdaf2e564069649f10">You live in a small town but are visiting an aunt in the
+                    city in the 1890s. You are amazed when your aunt pushes a button on the wall to
+                    turn on electric lights. At home you still use kerosene lamps. You hear a clatter
+                    outside and see an electric streetcar traveling down the street. You are
+                    shocked when a telephone rings and your aunt speaks to someone miles away!</p>
+            </article>
+            <section class="reading-check" data-uuid="685d17a9f96a411182b7cdfe1753ffe3">
+                <section class="question-long-text" data-uuid="d4d812a3d1b34fb0afc57f8dfc095cc7">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c9999db0f3f6458882e14baf0edbe104">
+                        <param name="configFile" value="../../widget_data/config/c9999db0f3f6458882e14baf0edbe104.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2cea8ed172c143e192674b8113a9fffc">
+            <button data-teacher-view-toggle="true" data-uuid="1e31263124174b5aac81229ba5d88d56"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7e17bb23c6674047b2d13b96a31689b8">
+                <param name="configFile" value="../../widget_data/config/7e17bb23c6674047b2d13b96a31689b8.json" />
+            </object>
+        </section>
+        <p data-uuid="e12028b55f754ff6807def9f5c95c75e"><br />
+        </p>
+    </body>
+</html>

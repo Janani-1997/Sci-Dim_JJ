@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="58c4087e61154110b73c573788ae4564">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="cfcf6672a0d04c29bb18a6b8f5a60025">
+            <p class="lesson-number" data-uuid="635f0982f1d342ea8953c38afe743c44">Lesson 2</p>
+            <article class="header-container" data-uuid="e225e7728ec34a2abc811d7502659523">
+                <div class="header-element" data-uuid="d839bba0b8214b5ba2bf4838f1ee1c2a">
+                    <h1 data-uuid="4675a0e43a67482b8f41b43a1cdf4c02">The Mexican-American War</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="6d1f2f2fec0e40fd8cdce6b9e1891fd6"></div>
+                    <h2 data-uuid="79a37095215948588310c74ce0f3cf64">The Big Idea</h2>
+                    <p data-uuid="96f648943c4f4e40a17558f0f6a2590e">The ideals of manifest destiny and the outcome
+                        of the Mexican-American War led to U.S. expansion to the Pacific Ocean.</p>
+                </div>
+            </article>
+            <article data-uuid="0e3244661199441a8322be828c1366e9">
+                <h3 class="if-you-were-there" data-uuid="fc3d6627b8ce4d9daf8f327f09aa1c5b">If YOU were there...</h3>
+                <p data-uuid="b7fd9dee454744e59868fb149614bd11">Your family is Californio, Spanish settlers who have lived
+                    in California for many years. You raise horses on your ranch. So far, you have
+                    gotten along with American settlers. But it has become clear that the American
+                    government wants to take over California. You hear that fighting has already started
+                    between American and Mexican troops.</p>
+            </article>
+            <section class="question-long-text" data-uuid="31587ee88aff4bc19aabcdfe816f2c7c">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e3d7c791426443f78ffd94b2f834870d">
+                    <param name="configFile" value="../../widget_data/config/e3d7c791426443f78ffd94b2f834870d.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="20301108bab4438e881f1d048486788e">
+            <button data-teacher-view-toggle="true" data-uuid="5e9c25ca0a0f4e74bdc8dfa9686b3a6d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7d91dcdd209d4066b346ce2bb8b4e07f">
+                <param name="configFile" value="../../widget_data/config/7d91dcdd209d4066b346ce2bb8b4e07f.json" />
+            </object>
+        </section>
+        <p data-uuid="f8b6823816974b9cb45d1cf1074a533d"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="fcbe20ceb6ae4e1faa2d1ac8fa2d7ca3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="b960af09e5244ec59daf137d19ac6269">
+            <p class="lesson-number" data-uuid="292fbe338a5c450c8f0ec888f384b109">Lesson 1</p>
+            <article class="header-container" data-uuid="61f1c87ce6ee44c495624988ee7ef272">
+                <div class="header-element" data-uuid="a61349722ca8453f91ca47a0c9b2f7c8">
+                    <h1 data-uuid="0a861aff9b7449b0bda9a4f7ec5e242f">The
+                        Road to War</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="e9b4123dc6ef4ec4b447acde85d473da"></div>
+                    <h2 data-uuid="f0eeef6f01f0431c9adbc8db8e3193d1">The Big Idea</h2>
+                    <p data-uuid="2734de07446d4539a0b06092231f1792">In
+                        1914 tensions in Europe exploded into the deadliest war the world had ever
+                        seen.</p>
+                </div>
+            </article>
+            <article data-uuid="58592332bd954df39e976170b73d1daf">
+                <h3 class="if-you-were-there" data-uuid="5e34d5b4fdb249fd9e3a6d6cf193ed95">If YOU were there...</h3>
+                <p data-uuid="2459fbc23d22413aa58e5269e99a5058">You
+                    are walking past a newspaper stand when a headline catches your eye:
+                    “Austria-Hungary’s Archduke Francis Ferdinand Assassinated in Sarajevo.” Your
+                    first thought is, “Who’s he?” You pick up the paper and read about the archduke
+                    and about the rising tensions in Europe related to his death. The article makes
+                    it sound like Europe is about to explode into war.</p>
+            </article>
+            <section class="reading-check" data-uuid="0b9d01adf9c74a6d8f4ef34f85d5f876">
+                <section class="question-long-text" data-uuid="65a727f7300e4969b9b0c9049d3cbb5f">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4747f756b733408ab73a4152a69b67eb">
+                        <param name="configFile" value="../../widget_data/config/4747f756b733408ab73a4152a69b67eb.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="31d521b72f1d49fbac82adcb8ce49e25">
+            <button data-teacher-view-toggle="true" data-uuid="8ac05002ab8247c294e2a14750db3611"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0d59e3571764462cb0a2b8d1c88a1812">
+                <param name="configFile" value="../../widget_data/config/0d59e3571764462cb0a2b8d1c88a1812.json" />
+            </object>
+        </section>
+        <p data-uuid="1e0a70d92eb044c7bddc26baf08b646a"><br />
+        </p>
+    </body>
+</html>

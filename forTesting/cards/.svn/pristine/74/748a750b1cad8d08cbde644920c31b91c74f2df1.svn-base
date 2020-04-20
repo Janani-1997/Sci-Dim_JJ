@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="cec8c9230b27465bacb06224d34bfcd3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="daf1e0107f074f14952fa1f1d34c04b6">
+            <p class="lesson-number" data-uuid="c53a7faef4404c41b1e8310be60b30ec">Lesson 4</p>
+            <article class="header-container" data-uuid="297c3edb1e124b80beeec29bc38a681b">
+                <div class="header-element" data-uuid="ba53894d22444d8ebdc44baa4d14d250">
+                    <h1 data-uuid="7316858f9a134fffa9d8a118450b0106">The Politics of Slavery</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="38e3ce425fc94c50884c3e1ff4cb68dc"></div>
+                    <h2 data-uuid="490fe781efa34b26ad70e9e973993707">The Big Idea</h2>
+                    <p data-uuid="c0f07369e347421490a65500f81613c1">The acquisition of new lands and antislavery
+                        writings intensified the debate over slavery.</p>
+                </div>
+            </article>
+            <article data-uuid="1c23f982952547abb8ac0cbe545663fa">
+                <h3 class="if-you-were-there" data-uuid="a8b6841c553742cd935bf7f02b19944b">If YOU were there...</h3>
+                <p data-uuid="fac593c42a9e46e39e95d342b57d0463">You are a member of Congress from the North in 1850.
+                    You have just taken part in a heated floor debate about whether or not
+                    California should be accepted into the Union as a free or slave state. Several
+                    members from the South have threatened that their states will leave the Union
+                    if California enters as a free state. The nation is on the verge of splitting
+                    up.</p>
+            </article>
+            <section class="question-long-text" data-uuid="f7990169434f4c93a4f6293f30dd7a47">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e74f9d0f166e4ba9b0d0af0da73b07d9">
+                    <param name="configFile" value="../../widget_data/config/e74f9d0f166e4ba9b0d0af0da73b07d9.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4a117997e3fb44e1aebd12070cfc30de">
+            <button data-teacher-view-toggle="true" data-uuid="b797232faa7146f1bd0cac6fc89fa567"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="61f3ab478431476c892271eb977ac7e6">
+                <param name="configFile" value="../../widget_data/config/61f3ab478431476c892271eb977ac7e6.json" />
+            </object>
+        </section>
+    </body>
+</html>

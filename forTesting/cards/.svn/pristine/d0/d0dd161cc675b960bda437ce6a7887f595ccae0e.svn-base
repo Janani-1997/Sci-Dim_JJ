@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="4513c239c5094f109cb22b4049a71e4a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="5478334171eb44acbd3cd75c2874df16">
+            <div class="header-element header-container " data-uuid="c5a6ab2b84ca496084ebc8309b098569">
+                <p class="lesson-number" data-uuid="13fb65088bb3443dbb002064dbe349e0">Lesson 3</p>
+                <h2 data-uuid="7b9d3d0cc2004b09a0926693230a33d6">Assessment</h2>
+            </div>
+            <h5 data-uuid="5272a248cc37488a81adae3e751ef631">Rapid Changes</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="33c6e587f587464791530cdb9eee650f">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="3a2d48a187434427b680ab6e3f0511c8">
+                <param name="configFile" value="../../widget_data/config/3a2d48a187434427b680ab6e3f0511c8.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="762910315e8341ee8910f739811ffbb2">
+            <button data-teacher-view-toggle="true" data-uuid="949cc0d42b6b4b1b8fe71d97454c96ee"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="543dbc570f1e4f1dac08cca7e4a19891">
+                <param name="configFile" value="../../widget_data/config/543dbc570f1e4f1dac08cca7e4a19891.json" />
+            </object>
+        </section>
+        <p data-uuid="4346b4056db24e2584b85d94b4ac6b59"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c379777ca08a461fa58a8c15ec8a7530">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="b5d15e600b0341a3a9175247fa120f26">
+            <p class="lesson-number" data-uuid="5e66b5c682d64c6890d94403282b06a3">Lesson 1</p>
+            <article class="header-container" data-uuid="baf18f919f254b3d8c48e85f682a10cb">
+                <div class="header-element" data-uuid="814159d7091447f6b90737485706ea71">
+                    <h1 data-uuid="6df457f47fcf496aaf66286e5f2bbb89">A New Wave of Immigration</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="8504351657dd4045aa4bfc9cc973b5f6"></div>
+                    <h2 data-uuid="e086ba6e10cc491e9ba51cab2bf7baf3">The Big Idea</h2>
+                    <p data-uuid="583dcfa2eee94b3eb3fa1d649b94ce5e">A new wave of immigration
+                        in the late 1800s brought large numbers of immigrants to the United States.</p>
+                </div>
+            </article>
+            <article data-uuid="5753ca6c3c9943c6b87c14be755a0c70">
+                <h3 class="if-you-were-there" data-uuid="6656c6e653db400f91cecdfeb0ca081b">If YOU were there...</h3>
+                <p data-uuid="7e44580de29340ad87160e77ed25e425">You live with your family on a small farm in Italy
+                    in the 1890s. You want to earn some money to help your parents, but there are
+                    not many jobs nearby. You have heard that jobs are easy to find in the booming
+                    factories of the United States. But you speak no English and know no one in
+                    America.</p>
+            </article>
+            <section class="reading-check" data-uuid="e1803742166948b1afce7c841e8b837d">
+                <section class="question-long-text" data-uuid="7e772f774d9e49aaa4a0d1e3d9b4bfff">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e009551ca3ca4ce4aef9cfa9d00d4a99">
+                        <param name="configFile" value="../../widget_data/config/e009551ca3ca4ce4aef9cfa9d00d4a99.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="764b9917f5bf4aa99e8cd0a0c0f536bc">
+            <button data-teacher-view-toggle="true" data-uuid="511f161849c94535b56547d211404240"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e1d09f69380a439a87a7bc093867fa7b">
+                <param name="configFile" value="../../widget_data/config/e1d09f69380a439a87a7bc093867fa7b.json" />
+            </object>
+        </section>
+        <p data-uuid="da898d019a324655be9970a3159e5578"><br />
+        </p>
+    </body>
+</html>

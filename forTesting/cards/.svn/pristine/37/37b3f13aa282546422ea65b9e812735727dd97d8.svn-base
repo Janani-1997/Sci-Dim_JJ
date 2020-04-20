@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0b4d8c5d6f2844eb982b97a943c95478" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="9a2f3fa74ee5417d8ee90b9131219dda">
+            <div class="header-element header-container " data-uuid="9c8045d4608349bcbb1b570dced0a761">
+                <p class="lesson-number" data-uuid="14eb2581d4c5400faa1f72be44221067">Lesson 3</p>
+                <h2 data-uuid="2bf92f3cd3e94dbd8c649cfa2e80448a">Assessment</h2>
+            </div>
+            <h5 data-uuid="a761bbca0be247c090b9bdf58bb01649">Declaring Independence</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="d0bf7c2a42004d3eb29856f8fe042ed3">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="d37b61df832d422cb687a61769e457cd">
+                <param name="configFile" value="../../widget_data/config/d37b61df832d422cb687a61769e457cd.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="b69f357f074b4bbc867ffe62b261a6cb">
+            <button data-teacher-view-toggle="true" data-uuid="908015b1fb92441c9836bb86f44769f4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f873bb8d859242688544389d7717434f">
+                <param name="configFile" value="../../widget_data/config/f873bb8d859242688544389d7717434f.json" />
+            </object>
+        </section>
+        <p data-uuid="02e5b129c4b34a559078a1be216df758"><br />
+        </p>
+    </body>
+</html>

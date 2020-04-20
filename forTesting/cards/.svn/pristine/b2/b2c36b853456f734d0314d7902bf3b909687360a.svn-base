@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6f292a89ad8944258b72d849c84eedb6">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="cc66644d13374f288ced9e4c08f2a521">
+            <div class="header-element header-container " data-uuid="ea834328d12f4f45b5b692f0eef99cb2">
+                <p class="lesson-number" data-uuid="b8c863090d4344d2a76a8c42cd2276aa"><br />
+                </p>
+                <h2 data-uuid="e7cc7e4dffb74a8a819829dbc65e6d89"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="0bb84b17d657484faac83e566a04a003">Part 2: Write an Analytical Essay</h3>
+            <h6 data-uuid="4c6ef778111148e197313cd072c4f75b">Historical Context</h6>
+            <p data-uuid="2455796df4a4432e9bd7441df293ec9f">When
+                Richard Nixon was elected president in 1968, the Cold War had been underway for
+                two decades. It would continue for over two more. Over those decades,
+                five presidents—Nixon, Ford, Carter, Reagan, and Bush—had to watch carefully, defend against, and negotiate with the Soviet Union. Each president
+                aimed to keep the United States safe. Each also faced unique circumstances and had his own ideas about how best to advance U.S. interests. President Nixon negotiated a d&#233;tente with and participated in the first Strategic Arms
+                Limitation Talks with the Soviet Union. After the Soviets invaded Afghanistan, Carter changed tactics, ending arms-control talks and refusing to participate in the 1980 Summer Olympics in
+                Moscow. Reagan took a tough stance against the Soviet Union and expanded the
+                U.S. military, but was willing to negotiate when new Soviet leadership, Mikhail
+                Gorbachev, took over. President George H. W. Bush helped bring the Cold War to an
+                end.</p>
+            <h6 data-uuid="1bf9b828b7504a1592c19bacf0e90f59">Task</h6>
+            <p data-uuid="0d8f177ad93d4da2aea8974eea0d9ddb">The Cold War between the United States and the Soviet Union dominated U.S. foreign policy and many of the decisions made by U.S. presidents throughout the second half of the 20th century. Write an analytical essay about the changing nature of the U.S.-USSR relationship over time using the speeches given by different presidents.</p>
+        </section>
+        <p data-uuid="a9f61cb251ab462caa1804ce7bc5cd7b">Complete the following steps as you plan and compose your essay.</p>
+        <ol data-uuid="90577c1856ed4155acbbc120b731779e">
+            <li data-uuid="a5d2ec44206e434c830999de401baf31">Review your notes and sources before you start writing.</li>
+            <li data-uuid="44b540eb80f24fa0ad32a54b62116a25">Using the <i>three</i> sources from Part 1, and develop the topic with relevant, well-chosen text evidence from the documents.</li>
+            <li data-uuid="90aa3e5af43a488b837614e6a7d9b5b2">Cite specific text evidence from each of the four sources in your response.</li>
+            <li data-uuid="9be1bff8c9cb4546aad72fd3ac8330ab">Plan your analytical essay so that it includes an
+                introduction, body paragraphs with supporting details, and a concluding
+                paragraph.</li>
+            <li data-uuid="eff9a5c463164b43a4b37c80b348d97b">Organize your essay in a clear and logical way that
+                links your details to the topic.<br />
+            </li>
+            <li data-uuid="186fe962cadc4b999d867970ee1ebde9">Write a conclusion that sums up your ideas and
+                supports the information you present.</li>
+        </ol>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d7e724befba04729a4b8a91910c38c9b">
+            <button data-teacher-view-toggle="true" data-uuid="e1f0e7612f614c27a813c254f8a5cd15"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="304cb9b692e048a49fdf12b7f4aab215">
+                <param name="configFile" value="../../widget_data/config/304cb9b692e048a49fdf12b7f4aab215.json" />
+            </object>
+        </section>
+        <p data-uuid="7b34501212964c8b90c540b9aa99388e"><br />
+        </p>
+    </body>
+</html>

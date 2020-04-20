@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d68aa91ade1844c7b7df72617defb44f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="9532143740e14f2cabd12eab5800c1fc">
+            <p class="lesson-number" data-uuid="a3e87e4db2084fd0b9411cb1bddfbc0a">Lesson 2</p>
+            <article class="header-container" data-uuid="40a9bcf560c040ec888c93bbe52021a0">
+                <div class="header-element" data-uuid="b43202e1a7024ae9bcd48d250f540ac5">
+                    <h1 data-uuid="add1549d808e418282889894dc61da77">Life during the 1920s</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="6439e562e6cf467da20caab3a3611bc4"></div>
+                    <h2 data-uuid="1f18aac9fbf74eb3a2a89827388c5a4a">The Big Idea</h2>
+                    <p data-uuid="b5795c21b1d941efab01ba7aee57bce3">Americans faced new opportunities, challenges, and fears as major
+                        changes swept the country in the 1920s.</p>
+                </div>
+            </article>
+            <article data-uuid="db87dfa305ca4fe6880adcf6f4ce68aa">
+                <h3 class="if-you-were-there" data-uuid="6f796d0833c540688939fc244e8e531e">If YOU were there...</h3>
+                <p data-uuid="a28a4d3577754cc994eb0c852745a4b2">The year is 1925. You have just finished school and you are visiting a
+                    big city for the first time. You and your friends go to a club and watch young
+                    people dancing energetically to popular music. The women have short hair and
+                    wear makeup, trying to copy the glamorous style of movie stars. Some of your
+                    friends start talking about finding an apartment and looking for jobs in the
+                    city.</p>
+            </article>
+            <section class="reading-check" data-uuid="e0771480fd4a47bb945a89e7225318ad">
+                <section class="question-long-text" data-uuid="c0b5573a70d2477da5294eaba7bcd10c">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="62ad428ad6a046478134374208383e66">
+                        <param name="configFile" value="../../widget_data/config/62ad428ad6a046478134374208383e66.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="acff3a97a1554a7d9b8e43525558ed58">
+            <button data-teacher-view-toggle="true" data-uuid="03b96492d4bf42bcb87946202f3a48a0"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a19b07cf825f4452a7c7fb4708496f91">
+                <param name="configFile" value="../../widget_data/config/a19b07cf825f4452a7c7fb4708496f91.json" />
+            </object>
+        </section>
+        <p data-uuid="92c4754b34614ea8a7b5afe224c66d12"><br />
+        </p>
+    </body>
+</html>

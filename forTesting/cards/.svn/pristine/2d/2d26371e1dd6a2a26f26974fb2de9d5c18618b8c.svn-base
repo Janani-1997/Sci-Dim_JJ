@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="9f6fb41a3d11483f9ece97c56918674d" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener" data-uuid="4e0066b02c73496ba8d993de69a4eca8">
+            <p class="lesson-number" data-uuid="1c5f0cd129974d50b4d5141ddaee2185">Lesson 2</p>
+            <article class="header-container" data-uuid="d0461228d1ec4a7eb8a57094d5cd601b">
+                <div class="header-element" data-uuid="21805a2de7704bc99c9bd66293a2748a">
+                    <h1 data-uuid="6d39611dee0b47628505dd428598462f">A
+                        New Nation</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="7d3300b779b34547926e66d8d43c5544"></div>
+                    <h2 data-uuid="0cf6a3a0957349a5bd3ff3f256830813">The Big Idea</h2>
+                    <p data-uuid="b8a418e01126494a818e9398972ca947">In
+                        its early days, the United States faced challenges and took measures to grow
+                        strong.</p>
+                </div>
+            </article>
+            <article data-uuid="e7b529507e1d4eb396209dedd43ce77d">
+                <h3 class="if-you-were-there" data-uuid="dfced61417e44a6caebb78f3052369f0">If YOU were there...</h3>
+                <p data-uuid="80a1634ea4d44754822fe4a1a80fb344">You
+                    live in a town in New England during the 1770s. In the town meeting, people are
+                    hotly debating about who will have the right to vote. Most think that only men
+                    who own property should be able to vote. Some think that all property
+                    owners—men and women—should have that right. A few others want all free men to
+                    have the vote. Now it is time for the meeting to decide.</p>
+            </article>
+            <section class="reading-check" data-uuid="002d4b1ce6aa43238ebb07a23d8b2d28">
+                <section class="question-long-text" data-uuid="ede7fe218e0e459e8d52cec69f61ae7c">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="190f057c5337403199d1b7051d350c2c">
+                        <param name="configFile" value="../../widget_data/config/190f057c5337403199d1b7051d350c2c.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="fc26093d507540f8ac47fee59f87f6b6">
+            <button data-teacher-view-toggle="true" data-uuid="4fcaa7cb53b7446cade91b7c4988d92d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ce797a4685f64446bc84c2a8da9f4e1e">
+                <param name="configFile" value="../../widget_data/config/ce797a4685f64446bc84c2a8da9f4e1e.json" />
+            </object>
+        </section>
+        <p data-uuid="dec705d4e42349a6a55e1d59381b1a84"><br />
+        </p>
+    </body>
+</html>

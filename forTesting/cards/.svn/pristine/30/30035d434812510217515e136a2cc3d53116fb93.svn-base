@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="33a902c1c6714702900e4c93826016b6">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>New England Economy</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="5204c25b6c484294a999d1c2686608ee">
+            <article data-uuid="4d5b0024c3d44452abe471b091e07da5">
+                <h4 data-uuid="872b6035a76c4f2fb1bbe92f9e5336a9">Main Idea</h4>
+                <p class="main-idea" data-uuid="16e109e1375a44c9a4db9166aaf7350a">The New England economy was based on trade and farming.</p>
+                <h2 data-uuid="493f1b65d4ec4a89afeecd52c3b15e2b">New England Economy</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="d5aa22e959ef4c83988d540e94c90ab1"></div>
+            </article>
+        </section>
+        <p data-uuid="136e4abac51b40c583dd4cfdc7794e37"> Connecticut, Massachusetts, New Hampshire, and Rhode Island were very different from the southern colonies. The often harsh climate and rocky soil meant that few New England farms could grow cash crops. Most farming families grew crops and raised animals for their own use. There was thus little demand for farm laborers. Although some people held slaves, slavery did not become as important to this region. </p>
+        <section class="image-with-hotspots" data-uuid="a757b10334d949b99ec60977c425c77e">
+            <object type="text/html" data="../../assets/widgets/image_hotspot/index.html" class="widget" data-uuid="3b1efceaf9e741c19e6c99cb40aef9e6">
+                <param name="configFile" value="../../widget_data/config/3b1efceaf9e741c19e6c99cb40aef9e6.json" />
+                <param name="reference_id" value="ref:V_HC_2749" />
+                <param name="externalwidget" value="true" />
+            </object>
+        </section>
+        <h3 data-uuid="961ef88c4c1946c790a80836abc65663">Merchants</h3>
+        <p data-uuid="ccb76bb464704abbbaff24a1a1c04db3">Trade was vital to New England’s economy. New England merchants traded goods locally, with other colonies, and overseas. Many of them traded local products such as furs, pickled beef, and pork. Many merchants grew in power and wealth, becoming leading members of the New England colonies.</p>
+        <h3 data-uuid="1c8fdd908fcb46c49fc328e7dd887703">Fishing<b> </b></h3>
+        <p data-uuid="2ab35526861c495e911f2170291c757f"> Fishing became one of the region’s leading industries. The rich waters off New England’s coast served as home to many fish, including cod, mackerel, and halibut. Merchants exported dried fish. Colonists also began hunting for whales that swam close to shore. Whales were captured with harpoons, or spears, and dragged to shore. Whaling provided valuable oil for lighting.</p>
+        <h3 data-uuid="9718158d680b4aa78e78d8266711e7b4">Shipbuilding<br />
+        </h3>
+        <p data-uuid="03d11e172e054d2c9954cdd419356d6f">Shipbuilding became an important industry in New England for several reasons. The area had plenty of forests that provided materials for shipbuilding. As trade—particularly in slaves—in the New England seaports grew, more merchant ships were built. The fishing industry also needed ships. New England shipyards made high-quality, valuable vessels. Ship owners sometimes even told their captains to sell the ship along with the cargo when they reached their destination.</p>
+        <h3 data-uuid="5455fed65d2048b2874b0ee6faef42b0">Skilled Craftspeople</h3>
+        <p data-uuid="00dc11f2068847d7858d9dfcca57f80e">The northern economy needed skilled craftspeople. Families often sent younger sons to learn skilled trades such as blacksmithing, weaving, shipbuilding, and printing. The young boys who learned skilled trades were known as apprentices.</p>
+        <p data-uuid="16571d0bbf4c43aaa0f36b83f60209d1">Apprentices lived with a master craftsman and learned from him. In exchange, the boys performed simple tasks. Apprentices promised to work for a master craftsman for a set number of years. They learned trades that were essential to the survival of the colonies. Apprentices received food and often clothing from the craftsmen. Gabriel Ginings, for example, was an apprentice in Portsmouth, Rhode Island. He received “sufficient food and raiment [clothing] suitable for such an apprentice,” as his 1663 contract stated.</p>
+        <p data-uuid="205f2769272e453b80c05f0e9f0f7da1"> After a certain amount of time had passed, apprentices became journeymen. They usually traveled and learned new skills in their trade. Eventually, they would become a master of the trade themselves. </p>
+        <section class="question-long-text" data-uuid="c13f79b0c3db4f809fb62e2a67989ea9">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b41f4fa4c544433db6a2b22dc070b44b">
+                <param name="configFile" value="../../widget_data/config/b41f4fa4c544433db6a2b22dc070b44b.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="2ff3a1ce51b348869e14912e22328ac1">
+            <div class="go-prompt-bottom-bar" data-uuid="85f74756f38e44b8ab8c0f4aef6bccaf">
+                <p data-uuid="0aa208ba19f3412fb7104fce2b11665c">Remember to use the graphic organizer to take notes on the reasons why English colonists came to New England and how their beliefs helped shape the New England colonies. </p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="74ca13f4782347d181ea1d33c3035053">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="3ed6ce523bd240e794fa89fb33ea8aea">
+                <param name="configFile" value="../../widget_data/config/79caa22cacf14294a39d7436cd99a079.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="38e6c0acd3974376849daca5a5cab8f0"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="cd061c7e1ade40989141fb6c2d40cffa">
+            <button data-teacher-view-toggle="true" data-uuid="f18311e19a4f4b01b9c53c1183953746"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3401f839000048dda9c6bcc1b8120592">
+                <param value="../../widget_data/config/3401f839000048dda9c6bcc1b8120592.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

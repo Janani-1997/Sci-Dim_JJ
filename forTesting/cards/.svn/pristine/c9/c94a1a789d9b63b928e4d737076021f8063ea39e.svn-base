@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="f02a40b55cf04e25aa80568ef5bb9cf0">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="38acdc96f0804bfe80da08b4e9681574">
+            <section class="lesson-review" data-uuid="ea5f870b026f47e39151f7295b1917fa">
+                <div class="header-element header-container " data-uuid="70d216a05ecf4902a7c8b97fa96d9ae8">
+                    <p class="lesson-number" data-uuid="fc6a833401994cfd8f777cda819a5219"> Lesson 2</p>
+                    <h2 data-uuid="3af93456011440149c5c78d713c0ab84">Review</h2>
+                    <p class="white" data-uuid="73abbdf0950c4c3eb303c98e7a9bf118">In this lesson you learned about problems the United States faced under the Articles of Confederation. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="60bdd87a47b6492a8323eb2c398c2297">Review Key Terms and People</h3>
+                <p data-uuid="d8013dd53b5c4c0abcbe892052449e99">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="79beba9bc0d84698a2ebaccd918c87fe">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="bdc3805bd7ca4d45bd15d0d10621b255">
+                
+                
+                <param name="configFile" value="../../widget_data/config/bdc3805bd7ca4d45bd15d0d10621b255.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="b24a623b7a4047dc8cf9383bc62492f1">
+            <div class="go-prompt-bottom-bar" data-uuid="cf24dd4617d14e678d63a10ea33650ed">
+                <h5 data-uuid="d23dd615596d4c5da1dc9f2ed0d48989">Review the Graphic Organizer</h5>
+                <p data-uuid="24afdfa4d49d4849bdd222d911dd4daf">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="c6e66f6960064b76ab4ec21e5f7238ac">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b24932ae8cf94194bc85cb308f389656">
+                
+                
+                <param name="configFile" value="../../widget_data/config/b24932ae8cf94194bc85cb308f389656.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="eb6a86964445440e81043d09f27aeed4">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="e85bed7a66a34c1b9b1460a52a2ee3f5">
+                <param name="configFile" value="../../widget_data/config/7ccb596c34af422788d2d2cc57fdfe86.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="37f2d2e52f004f219b4d94285ee15c53"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="36bb49e8450e442388add25f9b2e085c">
+            <button data-teacher-view-toggle="true" data-uuid="ed58d564e6554ec1ab87e7ce4c7bbcb4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="dfd47bc3d92e40cd9e54790446a73da6">
+                <param value="../../widget_data/config/dfd47bc3d92e40cd9e54790446a73da6.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

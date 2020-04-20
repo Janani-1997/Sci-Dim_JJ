@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6840669aa0c449c8af9c2a2a59cd3a0e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="634e9a0c14a443a4937d915071b923ee">
+            <p class="lesson-number" data-uuid="261d3fc34344403b95a6931669cc148c">Lesson 2</p>
+            <article class="header-container" data-uuid="f0d2ffca10e64fbbb9a9ae73fa02e51e">
+                <div class="header-element" data-uuid="7ad3658d787d4b19b02002786e5b1d6c">
+                    <h1 data-uuid="3cb713423c2d45c7912c9506a9e83285">The War in the East</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="d3c473fb27d64957b7694433f3317be0"></div>
+                    <h2 data-uuid="bdf7a3e7670f42b68bdf95d8a6f136c2">The Big Idea</h2>
+                    <p data-uuid="062fd166b7804db58d6cf8252d19b639">Confederate and Union forces faced off in Virginia
+                        and at sea.</p>
+                </div>
+            </article>
+            <article data-uuid="e62db33504cd43728765838a07424204">
+                <h3 class="if-you-were-there" data-uuid="8f7ec393106a4db680192c46653459ce">If YOU were there...</h3>
+                <p data-uuid="4763783a2daf420b82eea6fec3a342e4">You live in Washington, DC, in July 1861. You and
+                    your friends are on your way to Manassas, near Washington, to watch the battle
+                    there. Everyone expects a quick Union victory. Your wagon is loaded with food
+                    for a picnic, and people are in a holiday mood. You see some members of
+                    Congress riding toward Manassas, too. Maybe this battle will end the war!</p>
+            </article>
+            <section class="question-long-text" data-uuid="4f74b90e8f5c4c4db529bc3592c15a9b">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e7e5865a03f14e4e96559a3891e1a01a">
+                    <param name="configFile" value="../../widget_data/config/e7e5865a03f14e4e96559a3891e1a01a.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="acb836f296a042079811ab9ed2ff0680">
+            <button data-teacher-view-toggle="true" data-uuid="56f219ba2ad14827ac9e52da5142c7dd"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="009b1ac359eb44eaa8571c92a236da73">
+                <param name="configFile" value="../../widget_data/config/009b1ac359eb44eaa8571c92a236da73.json" />
+            </object>
+        </section>
+    </body>
+</html>

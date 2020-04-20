@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="171d1d647476437b8b2248039c4e22a0">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="3b5f107131364981942309421345006d">
+        <div data-uuid="edaefda7426c479f81d99c797d2af9d6">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="9e2333567ddd4d4098cdf32ca9ffdfed"/>
+        <div class="header-element" data-uuid="a94a1f4eeb5e495888b649d2dc61a0d3">
+            <section class="calendar-container " data-uuid="f2d7920932fd4005b0aca14e79ad85a6">
+                <div class="yellow-star-yellow-bar" data-uuid="c8b6dace97bc40689331b5fa27588404"></div>
+                <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                <h1 data-uuid="bade18eb88fc4d6183681d5001765329">The Roaring Twenties</h1>
+            </section>
+            <section class="eq-container" data-uuid="26507db9e3a644b0a07c50d0ecd289f9">
+                <figure class="image " data-uuid="e73c3f7c64104956ba182401742e70fc">
+                    <img alt="This painting shows a crowd of people walking around Times Square in New York City during the Roaring Twenties. " data-uuid="8bef3af0fc284734a66e7277812ddb3a" src="../../img/module_25opener/ms_snlese454149_931p.jpg" />
+                    <div class="image-metadata-container" data-uuid="bcc0b7be19584879b15e034e1b4f0f18">
+                        <span class="image-text image-alt"></span>
+                        <span class="image-text image-credit"></span>
+                    </div>
+                </figure>
+            </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="a187c77dfc844e3da6a4f2aeed650045">
+    <p class="caption" data-uuid="4a030eaf8cb74f939e73763e2b80b368">People flocked to
+        bustling city centers like New York City’s Times Square.</p>
+            </div>
+            <article data-uuid="f3cb3afb28814730a89e399216d181c2">
+                <h3 class="eq" data-uuid="e44c31b509744312ac6fb14d895b2f8e">Essential Question</h3>
+                <h3 class="eqt" data-uuid="27885f6fe84c476f91c8a4725e437bd4">How did American
+                    society change during the Roaring Twenties?</h3>
+                <p data-uuid="be59cbf58e184a6fb40dd9c833f864e3">World War I changed
+                    America’s view of the world. While a new optimism for the future gripped the
+                    nation, innovative Americans were making scientific and technological breakthroughs,
+                    and artists and writers were exploring new forms of expression. </p>
+                <p data-uuid="d455c35c89264bb783ecc5d375dc21a4">
+                    As you read this module, look for evidence of how
+                    American culture and society in the 1920s differed from culture and society
+                    before World War I. Note the key people, decisions, circumstances, and turning
+                    points that resulted in these cultural changes. When you are done, you will
+                    write a short essay answering the Essential Question for this module. </p>
+            </article>
+            <section class="video-container" data-uuid="4530045d93be4a67b47ae8c0542386e5">
+                <article data-uuid="782f75436fd74c178ed5c959a7c61267">
+                    <h3 class="vid" data-uuid="9afe97b1aceb453fbdb6f765999b8658">America Goes Dry with Prohibition</h3>
+                    <p class="vid" data-uuid="f3561781aef245d08224189e939c3ae7">Prohibition was an effort to eliminate problems
+                        associated with the excessive drinking of alcohol. However, the constitutional amendment not only did not solve problems, it revealed new ones.<br />
+                    </p>
+                    <section class="video" data-uuid="916a966cff0d41789973c7780349b9fd">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="ec436060423d4ae896e37c30bc47cf33"><param name="configFile" value="../../widget_data/config/ec436060423d4ae896e37c30bc47cf33.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="0ffd7ff545064403a9d5a69827e7cb77">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="3faa946e15704ddf8ba3ce54427012a8">
+                    <param name="configFile" value="../../widget_data/config/3faa946e15704ddf8ba3ce54427012a8.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="fca60d2ca1e5470fa3f3ca173a8e9063">
+                <article data-uuid="8a2dadb2adda4c8990d32b31b43b0ade">
+                    <h3 class="mod" data-uuid="8ac8b4b1cea6452a9b2c3a3c69415d47">The Roaring Twenties</h3>
+                    <p class="mod" data-uuid="f34b163212ea4f06a2acea905db31340">The 1920s were years of rapid economic growth in the United States.
+                        Technology changed the way Americans lived. Women and young people found new
+                        independence. Mass media spread popular trends in fashion, the arts, and
+                        entertainment. Still, groups of Americans had very different ideas about what
+                        was best for the country.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="4b0917d5d748426e90e9558fc38c38b8">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="2b09f957653f4af599870cefb996ea2a">
+                    <param name="configFile" value="../../widget_data/config/2b09f957653f4af599870cefb996ea2a.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="aab98dbee88b4612a4a16392aa4e6e1d">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ecad317b94044f3f94cb1dff823def3d">
+                <param name="configFile" value="../../widget_data/config/ecad317b94044f3f94cb1dff823def3d.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4357b6e63c6a4d0f87938f95feab76cd">
+            <button data-teacher-view-toggle="true" data-uuid="8d30bf7f283c4b87894da51dbf631e49"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e17c2dca734641c7a181bdff2d4433af">
+                <param name="configFile" value="../../widget_data/config/e17c2dca734641c7a181bdff2d4433af.json" />
+            </object>
+        </section>
+    </body>
+</html>

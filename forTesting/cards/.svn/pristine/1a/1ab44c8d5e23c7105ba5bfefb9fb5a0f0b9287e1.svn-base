@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ec8be3c7e63e44e3920c653687e441c1">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="2a4d141a2bbd4eafb58d20492c3a0e1e">
+            <p class="lesson-number" data-uuid="55fd9b2fac234e1a9200d4f8895c45ff">Lesson 2</p>
+            <article class="header-container" data-uuid="bc45c719384043378b7fd9842b17d707">
+                <div class="header-element" data-uuid="919e96c42fcb41afa30ebe005b1dcc1d">
+                    <h1 data-uuid="ab5d772fb3e64ec0bf56db7d9a6f6538">Changes in Working Life</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="3dadc71ff30e4270b45510ab139a3f76"></div>
+                    <h2 data-uuid="944280c8e5614e6b9c2a008325e4ac5e">The Big Idea</h2>
+                    <p data-uuid="b4b1a88575b847a5b5de7bec5e78d61a">The introduction of factories changed working life
+                        for many Americans.</p>
+                </div>
+            </article>
+            <article data-uuid="b9d3f3f1a3bb46d18154a5675b69bf6e">
+                <h3 class="if-you-were-there" data-uuid="dc1ed0efd4bc4863a3ef20437217a12d">If YOU were there...</h3>
+                <p data-uuid="f5a72660019d4019b24741399dff851c">You live on a dairy farm in Massachusetts in about 1820.
+                    On the farm, you get up at dawn to milk the cows, and your work goes on until
+                    nighttime. But now you have a chance at a different life. A nearby textile mill
+                    is hiring young people. You would leave the farm and live with other workers.
+                    You could go to classes. Most importantly, you could earn money of your own.</p>
+            </article>
+            <section class="question-long-text" data-uuid="66c92932221942908070eb3e1c88833e">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="485563e24a3240afb1d7f3be045714f1">
+                    <param name="configFile" value="../../widget_data/config/485563e24a3240afb1d7f3be045714f1.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="275e992dd0984da09de62100b2bdaa74">
+            <button data-teacher-view-toggle="true" data-uuid="4323ce46859e481f946353fd8d7441a4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="39caa7456c1343a28afccbbae4ed77dd">
+                <param name="configFile" value="../../widget_data/config/39caa7456c1343a28afccbbae4ed77dd.json" />
+            </object>
+        </section>
+    </body>
+</html>

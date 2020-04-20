@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="917217e53c3a420e980e0ab7df4d63fb">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Trade and Daily Life</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="1ae795ac6f8a433d8cfa56960c432454">
+            <article data-uuid="584e4a58caa449709300d1673360dc3b">
+                <h4 data-uuid="e2be5a148dce411d8e0663290ccb7f28">Main Idea</h4>
+                <p class="main-idea" data-uuid="0a933f3f387643abb3145195ba2b3910">The Transportation Revolution affected trade and
+                    daily life.</p>
+                <h2 data-uuid="7c66811d383f4cbb99b93e408d309d50">Trade and Daily Life</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="39b31527d30a4e6897a91ae1ae6e45d3"></div>
+            </article>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="6b4bee645fcf4938993cf507c03ea2da">
+            <div class="go-prompt-bottom-bar" data-uuid="0e781de4856a4ac08ae8d9122512c35c">
+                <p data-uuid="f35aa794b1544c2ca4c4611a87796d07">As you read, use the graphic organizer to take notes about how the Transportation Revolution affected trade and daily life.</p>
+            </div>
+        </section>
+        <p data-uuid="5aecbbc400b14ee99df1d42fcd40ea9f">During the 1800s the United States was transformed by a <b><dfn title="Transportation Revolution">Transportation Revolution</dfn></b>—a
+            period of rapid growth in the speed and convenience of travel because of new
+            methods of transportation. The Transportation Revolution created a boom in
+            business across the country, particularly by reducing shipping time and costs.
+            As one foreign observer declared in 1835, “The Americans . . . have joined the
+            Hudson to the Mississippi, and made the Atlantic Ocean communicate with the
+            Gulf of Mexico.”</p>
+        <p data-uuid="05fd438bd5604ede9d75731b99a059b1">These improvements were made possible largely by
+            the invention of two new forms of transportation: steamboats and steam-powered
+            trains. They enabled goods, people, and information to travel rapidly and
+            efficiently across the United States.</p>
+        <section class="reading-check" data-uuid="f122cdc1cd4644a8bb0dafaf4270970b">
+            <section class="question-long-text" data-uuid="27f60c13caef4b46ad3363ecad36edab">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="878b2fab3bad4de5938f4bd03829ed2b">
+                    <param name="configFile" value="../../widget_data/config/878b2fab3bad4de5938f4bd03829ed2b.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="35cdf71e87b4459dac92e257b1802857">
+            <div class="go-prompt-bottom-bar" data-uuid="a12dfd5c322146509f1e88468744e589">
+                <p data-uuid="8aa69e07fe7d499e986b4d219384574a">Remember to use the
+                    graphic organizer to take notes about how the Transportation Revolution affected trade and daily life.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="8977c04eb5234342abd41bd30b42737f">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="8f21fb41f35b43b58f449416f616cacc">
+                <param name="configFile" value="../../widget_data/config/8f21fb41f35b43b58f449416f616cacc.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="d16fadc8ba164b0184451e0ff5289d58"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="5661fbb1f05d43929e98eb424912706a">
+            <button data-teacher-view-toggle="true" data-uuid="0f90bad9b5d04faf90be3f67e9086f1d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d09fea7549c84f71bb14d115dc23c0ba">
+                <param value="../../widget_data/config/d09fea7549c84f71bb14d115dc23c0ba.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c9c6c23fe8c24095a3a66246c3e2d032">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Native American Culture Areas</title>
+    </head>
+    <body>
+        <section data-uuid="b00b5c4bfaab42bca91a9ea40dab7f7e" class="segment-opener">
+            <article data-uuid="b20ff49c99a54ed9ad2633c596103306">
+                <h4 data-uuid="bb35b853fb0c40ff98b5f0c9f408692d">Main Idea</h4>
+                <p data-uuid="b47dc8cc57464614ad2e94ed1d111d51" class="main-idea">Geographic areas influenced Native American cultures.</p>
+                <h2 data-uuid="a871013b839e4d3c8ff1dd78d6e3de3d">Native American Culture Areas</h2>
+                <div data-uuid="13db35cbd7754c84bd69864e1ee9e12f" class="yellow-star-yellow-bar"></div>
+            </article>
+        </section>
+        <p data-uuid="d5554db55fe247a88ef596e55322a548">Researchers use culture areas—the geographic locations that influenced societies—to help them describe ancient Native American peoples. North America is divided into several culture areas.</p>
+        <section class="interactive-map" data-uuid="b74128f6a4c14cdb8e48043379787e0c">
+            <object type="text/html" data="../../assets/widgets/map/index.html" data-uuid="9798e63ba6c3498b978a354aa8ee2d44" class="widget">
+                <param name="selected_map" value="8_snlese454170_083m" />
+            </object>
+        </section>
+        <section data-uuid="387c9c836a7442cf83bd1afa1994c157" class="skillbuilder">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" data-uuid="6d83902223d24f0289602fe40e017494" class="widget">
+                <param name="configFile" value="../../widget_data/config/6d83902223d24f0289602fe40e017494.json" />
+            </object>
+        </section>
+        <section data-uuid="27e8118878ff41778eab770375749f92" class="question-multiple-choice">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" data-uuid="5b37735913bb4fdfae57d78253bdca78" class="widget">
+                <param name="configFile" value="../../widget_data/config/5b37735913bb4fdfae57d78253bdca78.json" />
+            </object>
+        </section>
+        <h3 data-uuid="fd65b597c19b4d799347e1009e15fbfc">North and Northwest</h3>
+        <p data-uuid="7408513f14424df29528559d854caa27">The far north of North America is divided into the Arctic and Subarctic culture areas. Few plants grow in the Arctic because the ground is always frozen beneath a thin top layer of soil. This harsh environment was home to two groups of people, the Inuit and the Aleut. </p>
+        <p data-uuid="35fe88fd64b0432c9df863a44211c031">The Inuit lived in present-day northern Alaska and Canada. Their homes were igloos, hide tents, and huts. The Aleut, whose home was in western and southern Alaska, lived in multifamily houses that were partially underground. The two groups shared many cultural features, including language. Both groups survived by fishing and hunting large mammals. The Aleut and Inuit also depended on dogs for many tasks, such as &#173;hunting and pulling sleds.</p>
+        <p data-uuid="0a0e8c4567224527a3b04598127e95b7">South of the Arctic lies the Subarctic, home to groups such as the<b> </b>Dogrib and Montagnais peoples. While they followed the seasonal migrations of deer, these peoples lived in shelters made of animal skins. At other times, they lived in villages made up of log houses. Farther south, the Kwakiutl and the Chinook thrived, thanks to the rich supply of game animals, fish, and wild plants that allowed large populations to increase without the need for farming.</p>
+        <p data-uuid="12f96a6497014a5d92174aa163513d36"> Native Americans in the Pacific Northwest carved images of <b><dfn title="totems">totems</dfn></b>—ancestor or animal spirits—on tall, wooden poles. Totem poles held great religious and historical significance for Native Americans of the Northwest.</p>
+        <section data-uuid="c9e183a0606a4681a8b3f511411a3149" class=" ">
+            <section data-uuid="d6bb659e2c624e8bbeb30f57bc9aa660" class="image-with-hotspots">
+                <object type="text/html" data="../../assets/widgets/image_hotspot/index.html" data-uuid="f891265e8c5543d995b13d09e7be3e37" class="widget">
+                    <param name="configFile" value="../../widget_data/config/f891265e8c5543d995b13d09e7be3e37.json" />
+                    <param name="reference_id" value="ref:V_HC_2749" />
+                    <param name="externalwidget" value="true" />
+                </object>
+            </section>
+        </section>
+        <p data-uuid="8a8892ab6f4a49d4bfb966fa57b340fe">Feasts called potlatches were another unique, or unusual, aspect of these Native Americans’ culture. At these gatherings, hosts, usually chiefs or wealthy people, gave away most of their belongings as gifts. Those gifts would likely be distributed to friends or even neighboring tribes. By displaying their generosity, potlatch hosts increased their social status and power. Potlatches were also occasions for defining roles within the group and for granting economic privileges.</p>
+        <h3 data-uuid="1bbacea18c5540f490d442a93f83ebf3">West and Southwest</h3>
+        <p data-uuid="9fa90ff95b1a4942b3626e7a8421767f">Farther south along the Pacific coast was the California region, which included the area between the Pacific and the Sierra Nevada mountain range. Food sources were plentiful, so farming was not necessary. One major plant food was acorns, which were ground into flour. People also fished and hunted deer and other game. Most Native Americans in the California region lived in groups of families of about 50 to 300. Among these groups, including the Hupa, Miwok, and Yokuts, more than 100 languages were spoken.</p>
+        <p data-uuid="177bed480d364cf38815a366283e9eaf">The area east of the Sierra Nevada, the Great Basin, received little rain. To survive, Native Americans adapted to the drier climate by gathering seeds, digging roots, and trapping small animals for food. Most groups in this area, including the Paiute, Shoshone, and Ute, spoke the same language.</p>
+        <p data-uuid="1a15c79da048418fb5c4f9762038cbb1"> The Southwest culture region included the present-day states of Arizona and New Mexico and parts of Colorado and Texas. Pueblo groups, such as the Hopi and Zuni, lived there.</p>
+        <figure class="image-with-caption main vertical" data-uuid="3deff7c631f641f98b0d55fc68f639b0">
+            <img alt="Human figure, Southwest culture area" class="" data-uuid="32c9672537dc426b8b726bc5de574b7b" src="../../img/module_1_lesson02/ms_snlese454149_015p.png" />
+            <div class="figcaption" data-uuid="5f0994a64e2b4529a83f3e80e1beb63c">
+                <h5 data-uuid="bc897c87d39649b39e213a53841b2698"> Southwest Ceramics</h5>
+                <p class="caption" data-uuid="11564ca0a607444284ab9a085d671733">Human figure, Southwest culture area</p>
+            </div>
+        </figure>
+        <p data-uuid="549dc1fb0e6f4b01a951b14312815c66">Like the Anasazi, these Native Americans also adapted to a dry climate. The Pueblo irrigated the land and grew maize, squash, and beans. These crops were vital to southwestern peoples. The Pueblo religion focused on two key areas of Pueblo life—rain and maize. The Pueblo performed religious rituals, hoping to bring rain and a successful maize crop to their people.</p>
+        <p data-uuid="8cb1daacd125485b8d63d565a0970ed0">The Apache and Navajo also lived in the Southwest. These groups were nomadic—they moved from place to place hunting small animals and foraging for food. The Apache and Navajo also supported themselves by raiding the villages of the Pueblo and others.</p>
+        <h3 data-uuid="de6eafab96ed4934a9c9a819171e4dc4">Great Plains</h3>
+        <p data-uuid="d1dc707d58d8462b82e3518be4bb07bc">The huge Great Plains region stretches south from Canada into Texas. This culture area is bordered by the Mississippi valley on the east and the Rocky Mountains on the west. The plains were mainly grassland, home to millions of buffalo. Deer, elk, and other game also thrived there.</p>
+        <p data-uuid="010f9615291b41c2a154933d7f37a665"> Most Great Plains peoples were nomadic hunters. Many groups hunted buffalo using bows and spears. Blackfoot and Arapaho hunters sometimes chased the animals over cliffs, drove them into corrals, or trapped them in a ring of fire. Native Americans on the Plains used buffalo skins for shields, clothing, and coverings for their <b><dfn title="teepees">teepees</dfn></b>—cone-shaped shelters. Buffalo skins were also trade items.</p>
+        <section data-uuid="b9306717853342df98e6c50d10443acb" class="historical-source nobg ">
+            <article data-uuid="90d028d334944c1d828136b2fa1c4eb1" class="box gradient">
+                <div class="header-element" data-uuid="56979c9294a54c4fb22a3cd169c293dc">
+                    <h2 data-uuid="e15c81bfbfed43c2b834aaf442d0c37f" class="label"><b>Document-Based Investigation</b>   Historical Source</h2>
+                </div>
+                <div data-uuid="f32bdd8969f44a16897a7df6cbc56b7f" class="jonra">
+                    <h2 data-uuid="010cde3f4d7d4b6b8a737ab95621106c">Pawnee Star Chart</h2>
+                    <p data-uuid="ba2eb3b936044d94b4cac3316555c578" class="source">The Pawnee believed they were descended from stars and carefully observed the night sky. This map of the night sky dates to the 1700s, but historians believe that Plains Indians used similar maps before 1500. The crosses are stars and size shows a star’s brightness or importance. The Pawnee used mineral pigments to paint the chart on elk skin.</p>
+                </div>
+                <section data-uuid="52d5faa868ac4ef79adb2976f17e9244" class="image-with-hotspots">
+                    <object type="text/html" data="../../assets/widgets/image_hotspot/index.html" data-uuid="109652e6086a4e4ba7e3005d5420296c" class="widget">
+                        <param name="configFile" value="../../widget_data/config/109652e6086a4e4ba7e3005d5420296c.json" />
+                        <param name="reference_id" value="ref:V_HC_2749" />
+                        <param name="externalwidget" value="true" />
+                    </object>
+                </section>
+                <section class="skillbuilder" data-uuid="4c7525fd98b54410802db5b25bc0707f">
+                    <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" data-uuid="97c1c7acc8ec422a94caa895afdd9c23" class="widget">
+                        <param name="configFile" value="../../widget_data/config/97c1c7acc8ec422a94caa895afdd9c23.json" />
+                    </object>
+                </section>
+            </article>
+            <section data-uuid="b3be403713f6445e9cff390596c4c6d9" class="question-long-text">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="b0051925eaa14593a31ed42ea6a25519" class="widget">
+                    <param name="configFile" value="../../widget_data/config/b0051925eaa14593a31ed42ea6a25519.json" />
+                </object>
+            </section>
+        </section>
+        <p data-uuid="71e606bc5e9c4b7caf44af83d00e4cf5">Some Plains groups were farmers, while others depended more on gathering foods in addition to hunting. For example, some groups of Sioux gathered wild rice and speared fish. The Mandan and Pawnee settled in villages and grew corn, beans, and squash. The Pawnee lived in round lodges made of dirt. </p>
+        <p data-uuid="f6462f2313c24e70ac2b3863cc731627"> Like some other Native American groups, Pawnee society was <b><dfn title="matrilineal">matrilineal</dfn></b>. This means that people traced their ancestry through their mothers, not their fathers. In some groups, such as the Sioux, women organized societies focused on the community’s well-being. Men of the Sioux belonged to military societies that acted as a police force.</p>
+        <h3 data-uuid="1f24cdc1f5814e8eb90ed9aa00e26efb">Northeast and Southeast</h3>
+        <p data-uuid="9caece57246a438bb13bef6d8be8d99b">Eastern North America was rich in sources of food and shelter. Animals, plant foods, fish, and wood for housing were plentiful in the region’s woodlands and river valleys.</p>
+        <p data-uuid="e421daaa396a44898e689bc2b02b985c">Most southeastern groups, including the Cherokee, Creek, and Seminole, lived in farming villages governed by village councils. In the Northeast, groups like the Algonquian survived by hunting and gathering plants. Those in the south farmed, hunted, gathered plants, and fished. Many groups used strings of beads known as wampum for money.</p>
+        <p data-uuid="72f4662b1841423ab6ac921cc570d1aa">To the east of the Algonquian lived the Iroquois (or Haudenosaunee). They were farmers, hunters, and traders. Among their crops were squash, corn, and beans. During the cold winters, the Iroquois cut holes in the ice over rivers and lakes to catch fish. In the spring, they tapped the region’s maple trees to make syrup. The Iroquois lived in longhouses, or rectangular homes made from logs and bark, that housed eight to ten families.</p>
+        <figure data-uuid="3889382db66f41d4ad86741243628a7c" class="image-with-caption main">
+            <img alt="This photo shows an Iroquois longhouse, a style of dwelling used by several Native American groups in the past. This longhouse is made of wood, bark, and branches. It is long in length but narrow in width. Longhouses may have one or two doors, but no windows. " data-uuid="21d3cf49b924426b98533d44a94be453" src="../../img/module_1_lesson02/ms_snlese454149_018p.jpg" />
+            <div class="figcaption" data-uuid="d7fe899df52d48a094fc2210d38cf4af">
+                <h5 data-uuid="5e0f6f11e5024b1094c96b23202fa1f0">Iroquois Longhouse</h5>
+                <p class="caption" data-uuid="b95d370a137e453eae41843adabc4869"> The Iroquois lived in longhouses covered in tree bark. These were about 50 feet long and 18 feet high.</p>
+            </div>
+        </figure>
+        <p data-uuid="bf20188cb4384d9e86d1312214f64902">Five Iroquois nations—the Cayuga, Mohawk, Oneida, Onondaga, and Seneca—formed a political alliance called the <b><dfn title="Iroquois League">Iroquois League</dfn></b>. This is also known as the Iroquois Confederation. In 1722 a sixth nation, the Tuscarora, joined the league. The Confederation kept peace among its members and waged war to protect its territory from invasion. </p>
+        <p data-uuid="07bc1778b8b54628a16755efa6b3bc24"> Highly organized and extremely powerful, the Iroquois Confederation held strong for hundreds of years. Its government was founded in the Great Law of Peace, an oral constitution that emphasized the equality of all people. The confederation made decisions through representatives and consensus, or agreement. Some scholars propose that the constitution and structure of the Iroquois Confederation inspired the framers of the U.S. Constitution.<br />
+        </p>
+        <section data-uuid="4e3e8dfc1f60454fb5e7ab6d2cd81aa0" class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="1037c34e0fec4432b279a6a73e4ab86b" class="widget">
+                <param name="configFile" value="../../widget_data/config/1037c34e0fec4432b279a6a73e4ab86b.json" />
+            </object>
+        </section>
+        <section data-uuid="ed48491b54284f869e323dae4dae2771" class="graphic-organizer-prompt ">
+            <div data-uuid="93b15984dae24cdc9c6530761f3e1be0" class="go-prompt-bottom-bar">
+                <p data-uuid="012b460140a844b685cc15f89aa86031">Remember to use the graphic organizer to take notes on Native American culture areas. </p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="88698af04274490487cb8e6d397624af">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="c5ef094a6a1849ad88d5101cc1175b5b">
+                <param name="configFile" value="../../widget_data/config/3e52867d594742cbb25a7793050c7436.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="954a32e5c9564f8e887ad604c2ce3255"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="51078bdb3d6445e8b6a56829c35c4a93">
+            <button data-teacher-view-toggle="true" data-uuid="228c429e1af141cb801c08b6038fb30a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cb07a241f110422b87087f4cf2045a9d">
+                <param value="../../widget_data/config/cb07a241f110422b87087f4cf2045a9d.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ac166046283f4cee97432fc6dd86b86b">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="785f25ee3d194de1ad22127ee6a509bf">
+            <div class="header-element header-container " data-uuid="4f9f69cdfdbf4e899d85923889c792b9">
+                <p class="lesson-number" data-uuid="7a85d2a7f09b4db9854cff2dae7be614"> Lesson 2</p>
+                <h2 data-uuid="c2d03a7ebd3f47108423aee114ecd7ab">Review</h2>
+                <p class="white" data-uuid="7b23a735fb9640188cde6f6307b5316c">In this lesson you learned about the events leading up to the United States entering the war and the steps taken to prepare for the fighting. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="8bd0393551984b2e9ddd542c9887dd89">Review Key Terms and People</h3>
+            <p data-uuid="a79bc8a946334daaaae4e62c45f02c0e">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="d1e3d899254a42eab0234a35fe1dd8a6">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="947ca52f5cd745a39111a416dc148b32">
+                    <param name="configFile" value="../../widget_data/config/947ca52f5cd745a39111a416dc148b32.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="4678709ef12a49b39b5a5b33cddc7551">
+            <div class="go-prompt-bottom-bar" data-uuid="ae084108e4444529bbca6c9b4dcb6258">
+                <h5 data-uuid="6e5f2f7ecfba4d5286e777365cd03e55">Review the Graphic Organizer</h5>
+                <p data-uuid="1b77f5572ce94d60a64b217157c7d04b">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="75f9bd91c60c479ba39a85ebfc36f6d3">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="210818b857064b9dad07ad76a3b63c41">
+                <param name="configFile" value="../../widget_data/config/210818b857064b9dad07ad76a3b63c41.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer full bleed" data-go="v0.1.0" data-csm-hide="true" data-uuid="75003eb043734f9b909ccbf1ea9ed5f5">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="23ebf32a20a6446d9cac079cb511b264">
+                <param name="configFile" value="../../widget_data/config/7f80e77ede604c1eb071218a0a357d10.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="159dceffbbff4331b8aa994e619b1b5a"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="02c1349975b241d9b7e880b1bab4f9b6">
+            <button data-teacher-view-toggle="true" data-uuid="32c3e76d86054f77b7bbed76db860e7a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="fa435341d8704e8fb6c3f82929c5dfb8">
+                <param value="../../widget_data/config/fa435341d8704e8fb6c3f82929c5dfb8.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

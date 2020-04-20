@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="dfb880742718412d8957dbcd1fa4b3bd">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Executive Branch</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="20bc5c9a067c4339ae3ef407388b1dcb">
+            <article data-uuid="20eae71bfb3c4645bc80bfa11032200b">
+                <h4 data-uuid="0df1cb6eaf464485b771b815e00cd006">Main Idea</h4>
+                <p class="main-idea" data-uuid="610693fbcb2c4669ba184c6c95943f4a">The executive branch enforces the nation’s laws.</p>
+                <h2 data-uuid="9e79ed4fb67643ff9010d1e5cb2a55e9">Executive Branch</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="4bf01c03136d4e9f8dd95be7dd8f41f5"></div>
+            </article>
+        </section>
+        <h3 data-uuid="eff58eef41744cce9f56404b29a868e5">President and Vice President</h3>
+        <p data-uuid="d64b9e4d10284cc18a79bfe8ce8600bd">Article II of the Constitution describes the powers of the president. As head of the executive branch, the president is the most powerful elected leader in the United States. To qualify for the presidency or vice presidency, one must be a native-born U.S. citizen at least 35 years old. The president must also have been a U.S. resident for 14 years.</p>
+        <section class="cause-effect" data-uuid="f1a7a42c62fd4dc88f500c567b21e952">
+            <article class="box" data-uuid="631f2bb6379040b89130b79bf8c4b9ea">
+                <div class="header-element" data-uuid="963cbb2d142c4f328eeaeaae88d7705e">
+                </div>
+                <div class="quickfacts" data-uuid="8815e9eb94d54a2c93215087b731e3ba">
+                    <h5 data-uuid="4d70d5e3a08248ce9dd31999ef6d2cfa">QUICK FACTS</h5>
+                </div>
+                <h2 data-uuid="8537f0afa439465d8736eb5429338bb5">Responsibilities of the President</h2>
+                <p data-uuid="6af92c42c1764234b983ab3f8a4b76a8">In addition to the president and vice president, the executive branch includes the many departments and agencies that manage and enforce the laws.</p>
+            </article>
+        </section>
+        <section class="table-pattern" data-uuid="63343ad0c45541c29ec104affc39302b">
+            <table class="tabular-list" data-uuid="93ee9cd6299d41e198e5447f064a000e">
+                <thead>
+                    <tr>
+                        <th class="column " data-uuid="4af6978d5e8e483a8e0c7466916ba274">Executive Branch (President)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="head" data-uuid="a4098d984eb24c228f4fa88466e754db">
+                            <ul data-uuid="ba775150c598430e8f42c286d930cf60">
+                                <li data-uuid="fde6df68b9fd4ebca504154f3b8e3727">Proposes laws<br />
+                                </li>
+                                <li data-uuid="88be1f4ff96c46eab7dfbcdedb0cefef">Administers laws</li>
+                                <li data-uuid="e951af8ec2824bfc90cebf3ed1e5664f">Commands armed forces</li>
+                                <li data-uuid="bc0baff911fe430c9c458528ea6161b3">Appoints ambassadors and other officials</li>
+                                <li data-uuid="4f7a0dab551e488c9c3bb33e06dc9990">Conducts foreign policy</li>
+                                <li data-uuid="6423f8c828674059bafa082b949a23f1">Makes treaties</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <p data-uuid="7b65831afecd4b7cab58f509fe11d57c">Americans elect a president and vice president every four years. Franklin D. Roosevelt, who won four times, was the only president to serve more than two terms. Now, the Twenty-Second Amendment limits presidents to two terms. If a president dies, resigns, or is removed from office, the vice president becomes president for the rest of the term.</p>
+        <p data-uuid="3439eb0d92114423a2a7bad996e3a904">The House of Representatives can <b><dfn title="impeach">impeach</dfn></b>, or vote to bring charges of serious crimes against, a president. Impeachment cases are tried in the Senate. If a president is found guilty, Congress can remove him from office. In 1868 Andrew Johnson was the first president to be impeached. President Bill Clinton was impeached in 1998. However, the Senate found each man not guilty.</p>
+        <p data-uuid="f078a810af134128b7f11ab116f76dbd">The president has many powers including administering laws and handling foreign policy. </p>
+        <h3 data-uuid="bb68ceb5a33a4053a41adb510fd90315">Working with Congress</h3>
+        <p data-uuid="0ac0debbc67c4ceca0ac60471f99c04b">The president and Congress are often on different sides of an issue. However, they must still work together.</p>
+        <p data-uuid="ceeb5965ce63447f82a6f04c5c1f599a"> Congress passes laws. The president, however, can ask Congress to pass or reject bills. The president also can <b><dfn title="veto">veto</dfn></b>, or cancel, laws Congress has passed. Congress can try to override, or undo, the veto. However, this is difficult since it takes a two-thirds majority vote. </p>
+        <section class="process-steps" data-uuid="b9b6f3d0a03f4e7ebf77011338c1777a">
+            <object type="text/html" data="../../assets/widgets/process_steps/index.html" class="widget" data-uuid="1b2757fd971446039a738d0bc0356448">
+                <param name="configFile" value="../../widget_data/config/1b2757fd971446039a738d0bc0356448.json" />
+            </object>
+        </section>
+        <h3 data-uuid="522d938e8acd492c8eaa02f7bfd46f43">Other Powers and Duties</h3>
+        <p data-uuid="c033b6a05d2d44a4be87936f6b1d2f3c">To carry out laws affecting the Constitution, treaties, and statutes, the president issues <b><dfn title="executive orders">executive orders</dfn></b>. These commands have the power of law. The president also may grant <b><dfn title="pardon">pardons</dfn></b>, or freedom from punishment, to persons convicted of federal crimes or facing criminal charges.</p>
+        <p data-uuid="fefa0147e714492fb97be255e92dbc94">The president also commands the armed forces. In emergencies, the president can call on U.S. troops. Only Congress, however, can declare war. Other executive duties include conducting foreign relations and creating treaties. </p>
+        <p data-uuid="d9ea3719c51b4047af6f0b39eeb06a28">Executive departments do most of the executive branch work. As of 2014 there were 15 such departments. The president chooses department heads, who are called secretaries, and the Senate approves them. The heads make up the cabinet, which advises the president. The Office of Homeland Security was established in 2002 to address the increased threat of terrorism following September 11, 2001. In 2003 the office became the Department of Homeland Security, the newest executive department.</p>
+        <section class="question-long-text" data-uuid="919dced721724179af2d1d1bad8a1085">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="8caf12f825e6437c88ca036afd00f670">
+                <param name="configFile" value="../../widget_data/config/8caf12f825e6437c88ca036afd00f670.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="e2a88049bcd847d9959c9701336c1f96">
+            <div class="go-prompt-bottom-bar" data-uuid="add0e8c0b95b4f5da860280ebdc8caa8">
+                <p data-uuid="9889b21e64e146d4bb4d38f14014bcb0">Remember to use the graphic organizer to take notes on the executive branch.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="f26925a180674e9bb6e6852ce90fb0e3">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="5a3b4249a1e44330b45a1d3ca3acc97c">
+                <param name="configFile" value="../../widget_data/config/7478a3643b7144ab839ebc17fddad506.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="d657f6abc969460891f6918d729a9910"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7a061d75eebc4633a9c5261593f3c2f4">
+            <button data-teacher-view-toggle="true" data-uuid="9218494e37934a5da62643d9b83f321d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5197be6eab264f96955360a319c3c949">
+                <param value="../../widget_data/config/5197be6eab264f96955360a319c3c949.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

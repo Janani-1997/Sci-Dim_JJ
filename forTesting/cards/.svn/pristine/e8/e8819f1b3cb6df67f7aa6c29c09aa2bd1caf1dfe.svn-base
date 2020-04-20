@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="7765bbc0c68c4681a8afc958d9855e94" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>The Stock Market Crashes</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="6933cf6de26f4a05b5ea06ff90469dd7">
+            <article data-uuid="0813b1cb6921499c8c96fd6008ebde4a">
+                <h4 data-uuid="f22ea01d81f94950bcf03a7db64ac6ae">Main Idea</h4>
+                <p class="main-idea" data-uuid="f4873279c6764394b3e921cb048bf5fb">The U.S. stock market crashed in 1929.</p>
+                <h2 data-uuid="4507a11d2e5145f085e4790059154192">The Stock Market Crashes</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="4cabe2979a2444979ea88658791bf5f8"></div>
+            </article>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="f857ae9e261345bc8f7f43f72746ee1e">
+            <div class="go-prompt-bottom-bar" data-uuid="facc64686648458584e9ff4aa4fd287b">
+                <p data-uuid="6a7ee21606634cb3afdb4332268395de">As you read, use the graphic organizer to take notes on the stock market crash.</p>
+            </div>
+        </section>
+        <p data-uuid="b608ade483e841d2ad826c00cfb0300a">During the boom years of the 1920s, one General Motors executive boldly declared: “Anyone not only can be rich, but ought to be rich.” Many people relied on the stock market to increase their wealth. The stock market is a market that people can use to buy or sell shares of ownership in a company. For almost all of the Roaring Twenties, the stock market was a bull market, or one with rising stock values. It seemed easy to make money by investing in stocks. For example, you could have bought shares in the Radio Corporation of America for $85 each at the beginning of 1928. You could have sold them a year later for $549 each. </p>
+        <p data-uuid="d52706e77c7e4e18beda0555392edbf5">The chance to make huge profits from small investments encouraged many people to buy stocks. Some people could not afford the stocks’ full price. They began <dfn title="buying on margin">buying on margin</dfn>—purchasing stocks on credit, or with borrowed money. These stockholders planned to sell the stocks at a higher price. Then they would pay back the loan and keep what remained as profit. But this plan was risky because it only worked if stock values went up. Few considered what would happen if the bull market turned into a bear market, or one with declining stock prices. </p>
+        <p data-uuid="d93ff77c027f47b885d9f9b842a8c15c">The Federal Reserve Board became concerned about the growing popularity of buying on margin. In the late 1920s the Board tried to make it more difficult and more costly for brokers to offer margin loans to investors. These actions helped decrease the amount that brokers borrowed from banks. However, soon, brokers began borrowing from large corporations and the risky investing practice continued.</p>
+        <section class="graph-pattern columns" data-uuid="77f571c9c50642c2829afd4e958c44be">
+            <div class="header-element" data-uuid="7c0f9693ef5e44b6811e0ebd24e3f1d6">
+                <section class="white-box" data-uuid="70787104b2264795a93f84b4fbd59cb6"></section>
+            </div>
+            <h5 class="column-head feature" data-uuid="249a4bcb59cd486483e3849c82794bce"><span>Black Tuesday</span><br />
+            </h5>
+            <p class="intro-feature" data-uuid="8c9ec5381f8046218ccf581cf3b57306">More than 16 million shares were traded on Wall Street on Black Tuesday, a record that stood for 39 years. Just weeks later, roughly one-third of the value of the stock market had disappeared.</p>
+            <article class="column-container" data-uuid="0ae45a9b1a444851a0f7b9d3ccf83331">
+                <section class="graphs" data-uuid="52c8e6a6d3814e92b81cdafeb9e11928">
+                    <img alt="This graph shows the rise and sudden drop in stock prices between March 1929 and January 1930. " data-uuid="154ee038b4bc4fbb94788b1770a11999" src="../../img/module_26_lesson01/ms_snlese454149_black_tuesday_t.png" />
+                </section>
+                <aside class="col-2-begin-container" data-uuid="c847c6a1a1e442e4960a9b659f1429a7">
+                    <figure class="image-with-caption two-col align" data-uuid="4147a8ccf78440d1ac806c4ebd461a0a">
+                        <img alt="This is a photograph of Black Tuesday on Wall Street, with the streets of New York crowded with people and cars." src="../../img/module_26_lesson01/ms_snlese454149_686p.jpg" data-uuid="89b83bf070624b4583b72580f286c3db" />
+                        <div class="figcaption" data-uuid="79406710b5cb48da9b6ffe96873b2ad1">
+                            <p class="caption" data-uuid="cf3d685c8d5d44528434a2f781a588a7">Crowd outside the New York Stock Exchange on Black Tuesday</p>
+                        </div>
+                    </figure>
+                </aside>
+            </article>
+        </section>
+        <section class="skillbuilder" data-uuid="349455f31a304ee897db1ec01abac96f">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="4bed3368cdfb4ab7bb7a224d9d154cce">
+                <param name="configFile" value="../../widget_data/config/4bed3368cdfb4ab7bb7a224d9d154cce.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="5042b87f14c243be9ea8b97d426f8749">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="bbb94fada5844cffa68372f2c147b7e8">
+                <param name="configFile" value="../../widget_data/config/bbb94fada5844cffa68372f2c147b7e8.json" />
+            </object>
+        </section>
+        <p data-uuid="e8eb7f4ea9c1492fb0006bde9af1e3c2">Stock prices peaked in the late summer of 1929. Then prices started to drop. Frightened investors who had bought stocks on margin rushed to sell their stocks in order to pay off their loans. On Thursday, October 24, panic hit the stock market. Within three hours the market had lost $11 billion in value. The following Monday, prices dropped again. On Tuesday, October 29—a day that became known as <dfn title="Black Tuesday">Black Tuesday</dfn>—the stock market crashed. So many people wanted to sell their stocks, and so few wanted to buy, that stock prices collapsed. One journalist described the nightmare: </p>
+        <section class="pullquote_wrapper" data-uuid="52609110e8e14adfa2caed3092179a03">
+            <p class="pullquote hang" data-uuid="40115ae2f96f4a44b35e501c3c756f95">“The wires to other cities were jammed with frantic orders to sell [stock]. So were the cables, radio, and telephones to Europe and the rest of the world. Buyers were few, sometimes wholly absent . . . This was real panic . . . When the closing bell rang, the great bull market was dead and buried.”</p>
+            <div class="pullquote_attribution_wrapper" data-uuid="102994695d8c4d3bbcb8cf2d8e6fd708">
+                <p class="pullquote_address" data-uuid="c0e31facba294657bc9f5540c5542522">—Jonathan Norton Leonard<br />
+                </p>
+                <p class="p_source" data-uuid="93ea24b52d3440bdb8ee1d6f92c56bbe">from <i>Three Years Down</i><span class="important"></span></p>
+            </div>
+        </section>
+        <p data-uuid="073a52bdb78f41079fae422a7800a2b8">In September 1929 the total value of all stocks was $87 billion. Less than two months later, more than $30 billion in stock value had disappeared. Investors who had bought stocks on margin became stuck with large debts.</p>
+        <section class="question-long-text" data-uuid="f2882d1bc75a45508bcbaa5e10c58324">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="9cfbd58c256e4021b317a9754c007270">
+                <param name="configFile" value="../../widget_data/config/9cfbd58c256e4021b317a9754c007270.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="f93fa904bad3483791296f08839762a2">
+            <div class="go-prompt-bottom-bar" data-uuid="eb1fd01c190a4a6cbe7e10e9d5bbc87e">
+                <p data-uuid="6d13ba6499d644e1aac6dd1a85d107e6">Remember to use the graphic organizer to take notes on the stock market crash.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="5c25e83d334b43258d17f99da9102814">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="5835a83c3a484ce0ba806a6340832ac6">
+                <param name="configFile" value="../../widget_data/config/5835a83c3a484ce0ba806a6340832ac6.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="8db11ef2fa424571a78f82d1cb18d212"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ed71dccc92674fc88c55f07ba68603d5">
+            <button data-teacher-view-toggle="true" data-uuid="b2aa7cc5d5dd42be86658c6a65ca15fb"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="9a4061871068409cb3c739670c2290bb">
+                <param name="configFile" value="../../widget_data/config/9a4061871068409cb3c739670c2290bb.json" />
+            </object>
+        </section>
+        <p data-uuid="571d8922910c466f81533a9f2462d11d"><br />
+        </p>
+    </body>
+</html>

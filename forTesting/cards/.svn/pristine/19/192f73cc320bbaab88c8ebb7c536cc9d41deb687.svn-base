@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7cc46046b6434342a419f0f2e91953c0">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="8f95544b47574ac58edc15804f2c3f26">
+            <div class="header-element header-container " data-uuid="baea566be1284a399c5b01cb11ec2591">
+                <p class="lesson-number" data-uuid="54f2e6fb3315406f91aa47c4db9a3b44"><br />
+                </p>
+                <h2 data-uuid="671228e85a8442e993887710e14f33d2"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="1515b7e439d14f9eb2e776802331d9fe">Part 2: Write a Compare and Contrast Essay</h3>
+            <h6 data-uuid="b93765a779664723b8fe0302ada354a9">Historical Context</h6>
+            <p data-uuid="06aeb75551174dc0ba252c4e39709920">The English colonies began with the founding of
+                Jamestown in 1607. Despite a difficult
+                beginning, the southern colonies flourished. People seeking religious freedom
+                started the New England colonies. The middle colonies were known for the
+                diversity of people who settled them. Over time the 13 English colonies
+                continued to grow despite many challenges.</p>
+            <h6 data-uuid="5b9c34f442df4824835895988582257f">Task</h6>
+            <p data-uuid="57cac0686eaf48c5b08d59b560eea749">People in the 13 English colonies came from a
+                wide range of backgrounds and had different experiences. Write an essay in
+                which you compare and contrast the various perspectives of the people who lived
+                in the 13 English colonies.</p>
+            <p data-uuid="2ff3210df232415d9e1290b316ab090e">Complete the following steps as you plan and compose your essay.<br />
+            </p>
+        </section>
+        <section class="module-close-dbi" data-uuid="9cb35df360b040c79abe2761a3175135">
+            <ol data-uuid="5cfdbb9fcbd24001ad08328ec31debaa">
+                <li data-uuid="09a0d85ad3904bc885dae13ac0928713">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="026c6e6b9ef348a8a0d8d1c757991410">
+                    Use at least <i>three</i> of the sources in Part 1, and develop the topic
+                    with relevant, well-chosen text evidence from the documents.
+                </li>
+                <li data-uuid="57c0593c46664246b2bfaae2d62214c1">
+                    Cite specific text evidence from each of the sources in your
+                    response.
+                </li>
+                <li data-uuid="fb03763a09194a20b8d2b779b13371a3">
+                    Plan your essay so that it includes an introduction, several body&#160;paragraphs,
+                    and a concluding paragraph.</li>
+                <li data-uuid="64157561923444ccaa7d0d160db0b623">Organize your essay in a clear and logical way that highlights
+                    comparisons and contrasts.<br />
+                </li>
+                <li data-uuid="993922cbb4f44acb9b95db7f15f3fa5f">Write a conclusion that sums up your
+                    ideas and supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f88638b1ba4d4214b1ca8473fd9e1e24">
+            <button data-teacher-view-toggle="true" data-uuid="6d6364de3e2a4ed1a6dd4100b3301c5d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="afad5808dc3442dd81cba7c11563cd6e">
+                <param name="configFile" value="../../widget_data/config/afad5808dc3442dd81cba7c11563cd6e.json" />
+            </object>
+        </section>
+        <p data-uuid="9457762fb5a24d9c8a67a74e4cba4769"><br />
+        </p>
+    </body>
+</html>

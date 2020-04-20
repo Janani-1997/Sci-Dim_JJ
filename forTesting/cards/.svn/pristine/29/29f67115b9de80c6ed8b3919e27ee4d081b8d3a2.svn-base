@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="601e025cecbb4d27bc2aac2a574f8ae5" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson 4 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="d063fd5a993449ed86e5ffd65c99ad86">
+            <div class="header-element header-container" data-uuid="1c27b1f8cb2c4c188ee6e37e1ff27f49">
+                <p class="lesson-number" data-uuid="cdf0cd115abd430d966dfbb84540b8d8">Lesson 4</p>
+                <h2 data-uuid="c9f43920dd814bae8c12564c11e76c74">Assessment</h2>
+            </div>
+            <h5 data-uuid="305659a8d96b48568aa0249e8d4cafa1">The Nation Expands</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="06fdd049f62b4e04a70567b9ee4ed95a">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="e7f457c285e94b4d89d4e4da43358df4">
+                <param name="configFile" value="../../widget_data/config/e7f457c285e94b4d89d4e4da43358df4.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7629524e25074bbfbec5191bf692bca5">
+            <button data-teacher-view-toggle="true" data-uuid="7fd18bbd903a4b0aa5c1405bc22492f9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a838794d63fd4b98a0b6dec72cdebb5b">
+                <param name="configFile" value="../../widget_data/config/a838794d63fd4b98a0b6dec72cdebb5b.json" />
+            </object>
+        </section>
+        <p data-uuid="0ecd2dbec6834d73be4cb9017306ab55"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d9dea503ef1446deba205f90ce3f5ca6">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Election of 1860</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="eb4a23836c5a42639685f2eef5d8a924">
+            <article data-uuid="0e96f9d53bb1434d9e7fe62f711eb2fa">
+                <h4 data-uuid="561c792d90ec4eb4ad55ade417b779dd">Main Idea</h4>
+                <p class="main-idea" data-uuid="a63bf69b3dc145778348b1fb65e40ec5">The outcome of the election of 1860 divided the United States.</p>
+                <h2 data-uuid="46a4191edeb64df9abe7d4ecf30fff1b">Election of 1860</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="df10d7be94414535b71957b70b128802"></div>
+            </article>
+        </section>
+        <p data-uuid="86a77adcaa6349a8a63ad4f86e87b289">In this climate of distrust, Americans prepared for another presidential election in 1860. The northern and southern Democrats could not agree on a candidate. Northern Democrats chose Senator Stephen Douglas. Southern Democrats backed the current vice president, <b><dfn title="Breckinridge, John C.">John C. Breckinridge</dfn></b> of Kentucky, who supported slavery in the territories.</p>
+        <p data-uuid="f8ff624d89f24e3280d9abd3a1d00582">Meanwhile, a new political party emerged. The <b><dfn title="Constitutional Union Party">Constitutional Union Party</dfn></b> recognized “no political principle other than the Constitution of the country, the Union of the states, and the enforcement of the laws.” Members of this new party met in Baltimore, Maryland, and selected <b><dfn title="Bell, John">John Bell</dfn></b> of Tennessee as their candidate. Bell was a slaveholder, but he had opposed the Kansas-Nebraska Act in 1854.</p>
+        <p data-uuid="4b9d63cd62ce4d949a26a97aa1f7f1ed">Senator William Seward of New York was the Republicans’ leading candidate at the start of their convention. But it turned out that Lincoln appealed to more party members. A moderate who was against the spread of slavery, Lincoln promised not to abolish slavery where it already existed.</p>
+        <p data-uuid="eb09f9fa4d4c4e42b555cee8326a9ff0"> Douglas, Breckinridge, and Bell each knew he might not win the election. They hoped to win enough electoral votes to prevent Lincoln from winning in the Electoral College. But with a unified Republican Party behind him, Lincoln won. Although he received the highest number of votes, he won only about 40 percent of the overall popular vote.<br />
+        </p>
+        <section class="interactive-map" data-uuid="3fc7f0a0f1ba4ef49d560f041e9f4f4f">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="5c0ced478c83411b9733ed46ad3c9e05">
+                <param name="selected_map" value="8_snlese454170_416m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="8f19318342cb470f9a3c2eaba4d36c4f">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="7816cd856dd94981869bf79f494dc698">
+                <param name="configFile" value="../../widget_data/config/7816cd856dd94981869bf79f494dc698.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="3896e7e203a44f8eae2cd544a7fd1467">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="e35b53bb30c640fdb5c6b3228eab0bd3">
+                <param name="configFile" value="../../widget_data/config/e35b53bb30c640fdb5c6b3228eab0bd3.json" />
+            </object>
+        </section>
+        <p data-uuid="2791d30b4acb4708b74b7d92b6bc9049">Lincoln won 180 of 183 electoral votes in free states. Douglas had the second-highest number of popular votes, but he won only one state. He earned just 12 electoral votes. Breckinridge and Bell split electoral votes in other slave states.</p>
+        <p data-uuid="47a0e1a2f1ad4452aa8ffd0cef0d6765"> The election results angered southerners. Lincoln did not campaign in their region and did not carry any southern states, but he became the next president. The election signaled that the South was losing its national political power.</p>
+        <section class="question-long-text" data-uuid="4441a33e0d4d4ef6916478d7a6918249">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="d0bcfc2d8a284d0f8d5932215ec29c4b">
+                <param name="configFile" value="../../widget_data/config/d0bcfc2d8a284d0f8d5932215ec29c4b.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="718ba1b052b741998d15a6b3f714e449">
+            <div class="go-prompt-bottom-bar" data-uuid="f623163e4046438d9141408adbcd5756">
+                <p data-uuid="ab18facc8ea74414b2836854bd0119b2">Remember to use the graphic organizer to take notes on the election of 1860.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="5beaca89074b489bbb2e2ce57532c952">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="ebe80c0cb676469ab2ebf0d64c695fe2">
+                <param name="configFile" value="../../widget_data/config/bb24df7b50ed4c7eb053f1f39583d587.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="819c64158f0d417ab2b5127b5387db88"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="e43c714b3e6844409ddc130428d9efb5">
+            <button data-teacher-view-toggle="true" data-uuid="a6c23b80ce0a4d7883a0f40233cda638"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="60136c87a3404d4fa6eafcfe75abb8f7">
+                <param value="../../widget_data/config/60136c87a3404d4fa6eafcfe75abb8f7.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

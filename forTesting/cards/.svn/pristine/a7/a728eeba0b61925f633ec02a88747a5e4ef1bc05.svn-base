@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3a400daf3e52449fad89787b7cc96ef7">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="8c31c6ed89594210be6269cbdfb4e7d6">
+            <p class="lesson-number" data-uuid="dd2601dd958144a996e8ccaa44f2db6c">Lesson 1</p>
+            <article class="header-container" data-uuid="bf65f9f9d3fe4d70bee353b54c4cb2fb">
+                <div class="header-element" data-uuid="ab3af570caed48d7b119d80a10301ccd">
+                    <h1 data-uuid="4468fc692a2f4c99b367f313e907f8c6">Europeans
+                        Set Sail</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="a88de9972b5c42069de6267bb6886d76"></div>
+                    <h2 data-uuid="72f3e882f8ad4ff4b3e77d5334ff8d5d">The Big Idea</h2>
+                    <p data-uuid="17f99ccad3224f50959d9d482d5dcd7c">Europeans explored the world, searching for new
+                        lands and new trade routes.</p>
+                </div>
+            </article>
+            <article data-uuid="f8d9c4166d264646bdd861aaa7a66835">
+                <h3 class="if-you-were-there" data-uuid="39d1e52a58b744ebacf9ead1faf54b7b">If YOU were there...</h3>
+                <p data-uuid="cb43c2195819464290cb0611fde9d7a9">You
+                    are a sailor living in Portugal in the mid-1400s. Several of your friends are
+                    excited about joining an expedition to sail to new, unexplored lands. Although
+                    Portuguese navigators have made improvements to sailing ships and advancements
+                    in ocean travel, you have heard about the dangers other sailors have faced on
+                    the open seas.</p>
+            </article>
+            <section class="question-long-text" data-uuid="4ade26e7bf6f4242b5d85bfff4a33555">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="79e34c72221f4323afe90aa7a6aef284">
+                    <param name="configFile" value="../../widget_data/config/79e34c72221f4323afe90aa7a6aef284.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0ddb7318e2f741d6b7da6dacb3bcc373">
+            <button data-teacher-view-toggle="true" data-uuid="dfbbb7a40cb44d50aeab85c1899793be"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e85f9312726a4a8e9d0e869cc9c6ecf2">
+                <param value="../../widget_data/config/e85f9312726a4a8e9d0e869cc9c6ecf2.json" name="configFile" />
+            </object>
+        </section>
+        <p data-uuid="3ce5361446814ce9821971ed8da65a41"><br />
+        </p>
+    </body>
+</html>

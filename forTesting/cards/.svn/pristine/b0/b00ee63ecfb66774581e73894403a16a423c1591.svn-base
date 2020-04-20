@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="12b715c30a18462297668f3bf558aa0f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="ebf4ddaed945446ca4d65b62b808a0a3">
+            <div class="header-element header-container" data-uuid="96d584583abc4fb2b2b4c3cc3dc0dfd6">
+                <p class="lesson-number" data-uuid="ba12adfc1e5c457789f06f5e797d7e35"><br />
+                </p>
+                <h2 data-uuid="f78c59645437404ebcfc28fc0956d9ec"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="4138ad0b3d4d4df8b58358647fdb3de8">Part 2: Write an Argument</h3>
+            <h6 data-uuid="871ce1feb70647589c6fb1d5968a2e8b">Historical Context</h6>
+            <p data-uuid="bf1b13f954e044bf8b2c9cfe1c50786d">During
+                the 1960s, the United States was committed to the Cold War policy of stopping
+                communism worldwide. When communists threatened to take control of the
+                Southeast Asian nation of Vietnam, the United States sent troops to stop them.
+                Initially, a majority of Americans supported the Vietnam War; after years of
+                fighting, however, many began to call for an end to U.S. involvement.</p>
+            <h6 data-uuid="36908750f095422e8907dcb6ae7c2875">Task</h6>
+            <p data-uuid="7ea7ea3ef8ec4b11949dfe0718f7b845">Was the United States right to become involved
+                in the Vietnam War? Did the U.S. achieve its goals there? Did the effects of
+                the war justify the costs? Write an argument either supporting or opposing
+                American involvement in the war.</p>
+            <p data-uuid="62b3b220bfcf4a4b9ed43af42cb3f55f">Complete
+                the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="c8f758b603904b259b53b6e52d9d39d3">
+                <li data-uuid="82678aa49c0345d8a20c0ae62b1c60dd">Review your notes
+                    and sources before you start writing.</li>
+                <li data-uuid="1fefbe775cf040bfaa12a87385965950">
+                    Use at least two
+                    of the sources in Part 1, and develop the topic with relevant, well-chosen
+                    text or visual evidence from the documents.
+                </li>
+                <li data-uuid="996f1a2dc78b4ae3993b24b3776d76f9">
+                    Cite specific text
+                    or visual evidence from each of the sources in your response.
+                </li>
+                <li data-uuid="46d2e61e7b8545768455463ef34160db">
+                    Plan your essay so
+                    that it includes an introduction, several body paragraphs, and a
+                    concluding paragraph.
+                </li>
+                <li data-uuid="14df75313e3d4fcaba1e386fcd32576b">&#160;Clearly state your claim, or position on the topic, and
+                    consider any opposing claims.</li>
+                <li data-uuid="8c7f55de19d04d9e9288a75b1f0bb23e">Support your claim with logical reasoning and evidence from
+                    credible sources.</li>
+                <li data-uuid="413f2e41637841329cff29fc0f756205">Organize your essay in a clear and logical way and use
+                    linking words and phrases to clarify the relationship between claims and
+                    counterclaims, as well as between ideas.</li>
+                <li data-uuid="d745f04d12d2429db3a1726db9f71f72">Write a conclusion that sums up your ideas and supports the
+                    argument you present.</li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="b88ab9a5747742dbba88b8b79c26fcdf">
+            <button data-teacher-view-toggle="true" data-uuid="69057f259ef14f5ea72b3f9549264703"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a754a953c59a49cb894ef4aa91e1fed0">
+                <param name="configFile" value="../../widget_data/config/a754a953c59a49cb894ef4aa91e1fed0.json" />
+            </object>
+        </section>
+    </body>
+</html>

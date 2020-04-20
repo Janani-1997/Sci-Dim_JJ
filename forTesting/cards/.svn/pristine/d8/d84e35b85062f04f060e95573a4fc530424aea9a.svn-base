@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="5c98a48900e64f76adea633217cb47ae" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>The D-Day Invasion</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="83df792108c24fe4af181a6585996b28">
+            <article data-uuid="550c0ce481434b44a028ab25adffcbd7">
+                <h4 data-uuid="78d37416d2e94e598df60ffc29a261f2">Main Idea</h4>
+                <p class="main-idea" data-uuid="23526557a9204865a045c1940cfe87f9">In the D-Day invasion, Allied forces attacked German-controlled France.</p>
+                <h2 data-uuid="45733595682d41e89ea4d34cd9a1c253">The D-Day Invasion</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="e9e56faa9620462a955b3609dd65b712"></div>
+            </article>
+        </section>
+        <p data-uuid="28c51cbfdb914336b96366c329505e91">After hard-fought victories in North Africa and Italy, the Allies were ready for an even tougher task—the invasion of German-occupied France. This was the first step toward the goal of liberating Europe and forcing Hitler to surrender.</p>
+        <p data-uuid="563b93762dc84531bf25e7e640e2821b">Dwight Eisenhower was in charge of planning what would be the largest sea-to-land invasion ever attempted. Eisenhower knew that German forces were expecting an invasion of France. The Germans had planted mines and stretched barbed wire along the French coastline. Heavily armed German soldiers waited on the beaches in bombproof bunkers. Eisenhower warned his troops of the danger but expressed confidence in their ability to succeed. “The hopes and prayers of liberty-loving people everywhere march with you,” he told them.</p>
+        <p data-uuid="8dbb9f6cb960407291fc5ede7d7b2e5f"> American, British, and Canadian troops invaded France on June 6, 1944—known as <dfn title="D-Day">D-Day</dfn>, or “designated day.” They crossed the choppy waters of the English Channel and landed on five beaches in Normandy. More than 6,000 ships, 11,000 planes, and 156,000 men were part of the invasion. Soldiers jumped from boats and waded ashore, often under heavy fire.<br />
+        </p>
+        <figure class="image-with-caption feature" data-uuid="69f58f452f1843dc998ce2cf72029c13">
+            <img alt="This black-and-white photo shows many American soldiers landing on the beach at Normandy, France, on D-Day. " data-uuid="569391c43fb24ef9a3132c7b6c2a4a19" src="../../img/module_27_lesson03/ms_snlese454149_441p.jpg" />
+            <div class="figcaption" data-uuid="11ad91ddf1bd43c2886fa8d3c7bb2c40">
+                <p class="caption" data-uuid="2fb50e6d92f647afabb1ef3e2b4b0bbd">American soldiers landed on the beaches of Normandy during the D-Day invasion.</p>
+            </div>
+        </figure>
+        <p data-uuid="0e7736dc2755486dbeec3f0d3ad92ead">The Americans landed on two beaches, codenamed Utah and Omaha. Fighting was especially fierce on Omaha Beach, where almost 3,000 men were killed or wounded. “The entire beach was strewn with mines,” wrote one U.S. soldier to his wife. “With a stream of lead coming towards us, we were at the mercy of the Germans.”</p>
+        <p data-uuid="55f2d8053e5d4aa797a673d2fc77795a">By the end of D-Day, all five beaches were secured. The Allies then began driving east through French villages and countryside toward Germany.</p>
+        <section class="interactive-map" data-uuid="657345d70d6b4c7d84f5c99904320a88">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="d3533f570cf445548a079f4b78772616">
+                <param name="selected_map" value="8_snlese454170_1393m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="728822cd08634d24b611e149c2b9fa41">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="9972934409f04f278074c3dbc01021bb">
+                <param name="configFile" value="../../widget_data/config/9972934409f04f278074c3dbc01021bb.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="6c691d1d6b1f4026990129b49b684fa9">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="6545fbb4d55b40fd908804ea4d7becc5">
+                <param name="configFile" value="../../widget_data/config/6545fbb4d55b40fd908804ea4d7becc5.json" />
+            </object>
+        </section>
+        <p data-uuid="6a9371dad892489780c769d60b929a49">The Allies had fought hard to get to this position. Fortunately, their war strategies had worked well for them. Many victories in battles had help lead them to their goal of overtaking Germany. They would continue to march east, fighting Hitler's soldiers and reclaiming land that had been lost.</p>
+        <section class="question-long-text" data-uuid="73b841dde7d44349a1374ed6d803aa6b">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="bf771f13636b4903a4edd719d6d1f130">
+                <param name="configFile" value="../../widget_data/config/bf771f13636b4903a4edd719d6d1f130.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="d3f2227c938c4ffeb5b6dc71d4cb6cc4">
+            <div class="go-prompt-bottom-bar" data-uuid="2848409686f54e0aa8fff1c0494f3624">
+                <p data-uuid="1aa5b6d552994178870263942f43dee7">Remember to use the graphic organizer to take notes on the significance of major World War II battles and campaigns.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="74f3b7209bb947f1b3e6f89aa17c935d">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="8427db6ae4e64a82a63f8085dba9a12e">
+                <param name="configFile" value="../../widget_data/config/879f61c424bd46138d83591f44619f27.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="d8ed0e701a674ab3a0a3c555db408ee1"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="e1cafde5fc8d4c7fad2617d31680b743">
+            <button data-teacher-view-toggle="true" data-uuid="0e607ff16dee4c89a179e39799974e6b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b9bb451cb44e477c876ab34af4f897d0">
+                <param name="configFile" value="../../widget_data/config/b9bb451cb44e477c876ab34af4f897d0.json" />
+            </object>
+        </section>
+        <p data-uuid="c7e8eee19033451585653d32861885b9"><br />
+        </p>
+    </body>
+</html>

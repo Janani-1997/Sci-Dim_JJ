@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="027396eaf0854d41a98d46bcbd2d6c30">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="af723fd9f5f24a8db5632d64af0e77f9">
+            <p class="lesson-number" data-uuid="08f6e01ed4644c69ac6e054950485b38">Lesson 3</p>
+            <article class="header-container" data-uuid="d8998c36b6394f6eb5a07e0a2eb900e3">
+                <div class="header-element" data-uuid="57525974a5d6496e8c3e35da67f35686">
+                    <h1 data-uuid="3be7c7c8669b457bb3d1f9e465fb7293">Reconstruction in the South</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="5b8f15e99c984c728a415b959eabbef8"></div>
+                    <h2 data-uuid="7d3f754e7c2c488dbeafb9688c89f8bb">The Big Idea</h2>
+                    <p data-uuid="c3968691df7b42efa797cd7a3d4acb2a">As Reconstruction ended, African Americans faced
+                        new hurdles and the South attempted to rebuild.</p>
+                </div>
+            </article>
+            <article data-uuid="aa732a5c057b456bae8e8f7bfce875ef">
+                <h3 class="if-you-were-there" data-uuid="56e46fc281c9430bbc41d862fe291226">If YOU were there...</h3>
+                <p data-uuid="596a0a38c49744dfbbd5f1d8cf809ff2">You live on a farm in the South in the 1870s. Times
+                    are hard because you do not own your farm. Instead, you and your family work in
+                    a landowner’s cotton fields. You never seem to earn enough to buy land of your
+                    own. Some of your neighbors have decided to give up farming and move to the
+                    city. Others are going to work in the textile mills. But you have always been a
+                    farmer.</p>
+            </article>
+            <section class="question-long-text" data-uuid="9c1d0c8840a44c3eb93c19e75bee813d">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="1273f1282c3544c0947510a24badc15a">
+                    <param name="configFile" value="../../widget_data/config/1273f1282c3544c0947510a24badc15a.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9a455df3815744bbac3997905fd089bc">
+            <button data-teacher-view-toggle="true" data-uuid="2992f16ec69e457ea74a72fbd3768e07"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6eaad1eda4af4ce7883ca374cb3bf041">
+                <param name="configFile" value="../../widget_data/config/6eaad1eda4af4ce7883ca374cb3bf041.json" />
+            </object>
+        </section>
+    </body>
+</html>

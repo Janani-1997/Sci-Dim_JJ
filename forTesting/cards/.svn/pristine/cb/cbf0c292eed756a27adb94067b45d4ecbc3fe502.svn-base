@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c90a7f2c222d4dd69edcb97a19f88aeb">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="c8c34448369d4cd08861264208a787ec">
+            <p class="lesson-number" data-uuid="7c8b5b9020584503b7d0d531a23af159">Lesson 3</p>
+            <article class="header-container" data-uuid="05ddcdbe7e81475cbadae2e21c6eb109">
+                <div class="header-element" data-uuid="1d83b7dccea54844a687422a17ee43c9">
+                    <h1 data-uuid="e11a99c3ee844721817c21d46a0492a8">Trading
+                        Kingdoms of West Africa</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="d579a77733614ea9b6f7bef0fcfd2fc8"></div>
+                    <h2 data-uuid="7e2b94cbeef4408ebaf311646294b703">The Big Idea</h2>
+                    <p data-uuid="6622a8d32ea64a608140a8fe487d0faf">Using
+                        trade to gain wealth, Ghana, Mali, and Songhai were West Africa’s most powerful
+                        kingdoms.</p>
+                </div>
+            </article>
+            <article data-uuid="415eb0e80c8d447d8f61980e5057e133">
+                <h3 class="if-you-were-there" data-uuid="59c4dddff6f5433ea668425bec3ed1e5">If YOU were there...</h3>
+                <p data-uuid="21569417368e4d85a273b5f3dd066825">You are a trader’s assistant from the Middle East, traveling
+                    across the Sahara in a caravan headed for West Africa. The caravan carries many
+                    goods, but the most precious is salt. Your job is to trade the salt for gold
+                    and return the gold to your employer immediately. Your boss never meets the
+                    traders face to face.</p>
+            </article>
+            <section class="reading-check" data-uuid="df3e230b7d42463984136e5f02b8071d">
+                <section class="question-long-text" data-uuid="4870475e50c04f12ad35be3bbcc27e0d">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4286afd6c201461ca41dfb28e4fedba5">
+                        <param name="configFile" value="../../widget_data/config/4286afd6c201461ca41dfb28e4fedba5.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="baabeef39a8c47d5ae6436feea5dbd08">
+            <button data-teacher-view-toggle="true" data-uuid="86534625773e4a3dabc2aade95f0ba43"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b8541a601b844c68959f5890586bd67a">
+                <param name="configFile" value="../../widget_data/config/b8541a601b844c68959f5890586bd67a.json" />
+            </object>
+        </section>
+    </body>
+</html>

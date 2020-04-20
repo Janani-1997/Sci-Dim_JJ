@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3268815dd13f472690cd6e6de701cebf">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="783d8af834d3448a89ff8d9314845d34">
+            <p class="lesson-number" data-uuid="754bb4e680f444b387d4cd31005af628">Lesson 2</p>
+            <article class="header-container" data-uuid="25b1f09cf0d54c9bb562559fb233bcd0">
+                <div class="header-element" data-uuid="8f5dd4492d49482aa67a580179e245de">
+                    <h1 data-uuid="56a724f59eea4fa4bde30109671b2e32">Roosevelt’s New Deal</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="ca803c67d7fc4e82aa602b1cc7508602"></div>
+                    <h2 data-uuid="5c4994fdf9f24ca297d4e2112585a1d0">The Big Idea</h2>
+                    <p data-uuid="9dad5113535a487e8cec2550e42ae1e6">Franklin Roosevelt’s New Deal included government programs designed to
+                        relieve unemployment and help the economy recover.</p>
+                </div>
+            </article>
+            <article data-uuid="416055ca06df4fca80b5cfe0d2536507">
+                <h3 class="if-you-were-there" data-uuid="790b27ac957b40cb9d9584d4cb7157a9">If YOU were there...</h3>
+                <p data-uuid="cd09609854424178975fdb14f11dabf6">It has been five months since you lost your job. One of your friends has
+                    found work in a new government program that is hiring young people to work in
+                    national parks and forests. The pay is low, and you would have to leave home,
+                    but you would have enough food, a place to live, and a little money to send
+                    back to your family every month.</p>
+            </article>
+            <section class="reading-check" data-uuid="04edb2b3a6cc4e3193d69512ca090f24">
+                <section class="question-long-text" data-uuid="a453a3d6c12d42e99088506c9b6d80f4">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="7d4033c0ebe44d27888fcca1520f4e94">
+                        <param name="configFile" value="../../widget_data/config/7d4033c0ebe44d27888fcca1520f4e94.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a0594e1c2cc343ec9a32acec646428ef">
+            <button data-teacher-view-toggle="true" data-uuid="5531a9a590024a57856d56077f931e0e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="9980d36ffc504e848f92ca0a8b913c3c">
+                <param name="configFile" value="../../widget_data/config/9980d36ffc504e848f92ca0a8b913c3c.json" />
+            </object>
+        </section>
+        <p data-uuid="bff5663fb0ad4fbd9a59261a24fd92c7"><br />
+        </p>
+    </body>
+</html>

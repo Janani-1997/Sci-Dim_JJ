@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3bffad09cc244bf39a62530d5a7ea5b3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="5b3edda0478146fcb3f7513f87344c7c">
+            <div class="header-element header-container " data-uuid="342a51265044404fa8f9ac40c4dd538a">
+                <p class="lesson-number" data-uuid="9bb477da862a446fabfc9ea33cb7ccca"> Lesson 1</p>
+                <h2 data-uuid="8e0e2a5074654d5a816f8eb869f67854">Review</h2>
+                <p class="white" data-uuid="63cd35b4f61b43e6b76d6641904eb5fc"></p>
+                <p class="white" data-uuid="f722443f6bf9468c8fc2851a27221583"> In this lesson you learned that new sources of power and advances in transportation and communication changed Americans' lives in the late 1800s. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="b43242317b4f47bcaa70d9b5480f2133">Review Key Terms and People</h3>
+            <p data-uuid="a9d9b53171bc4ecb9e3af5280b67ab8f">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="3064c0156d614bd5bb7b8fedfb3b0d38">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="026ad52446424103a5193a0338893c9a">
+                <param name="configFile" value="../../widget_data/config/026ad52446424103a5193a0338893c9a.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="7757bdd932a04af6bc01875debbd5dcb">
+            <div class="go-prompt-bottom-bar" data-uuid="95949eb0150745309ceb1002b7004595">
+                <h5 data-uuid="86dcec94cd7543e6a6b4cf2dd0150d0c">Review the Graphic Organizer</h5>
+                <p data-uuid="cbf80c65eeef429cbe50772f624f6a64">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="b6cf00485af34f36a9fa7e068d27e30f">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ce16c0907bf94668a160bbc4833f5179">
+                <param name="configFile" value="../../widget_data/config/ce16c0907bf94668a160bbc4833f5179.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="8ee9122d3e62422aab1ef91fdda79360">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="e9905400f0324ea7bc4c83d5c669203c">
+                <param name="configFile" value="../../widget_data/config/8130f98a9e8843de8f52be50cf0372e6.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="447c563c436249919eafe6152e61a0ae"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="34c782f8c89c484fa68010f83d209b87">
+            <button data-teacher-view-toggle="true" data-uuid="08174453fef24138a7bcbfee5af48564"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3de78defa58a4e9b8967407ae6bfff8d">
+                <param value="../../widget_data/config/3de78defa58a4e9b8967407ae6bfff8d.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

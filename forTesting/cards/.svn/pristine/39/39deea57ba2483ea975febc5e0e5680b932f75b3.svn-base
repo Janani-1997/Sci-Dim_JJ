@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e3009f7ca4fb4da98c09f83d48fb9cf3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Introduction</title>
+    </head>
+    <body class="bg-tint">
+        <section data-uuid="10bddbf4bb1340bdabf60393aa7242e9" class="constitution bg">
+            <div data-uuid="863ffed62a68456caa7339dbbe238d0d" class="header-element  ">
+                <div data-uuid="283e27193b47433da0d08ef44df65ac4" class="banner"></div>
+            </div>
+            <h2 data-uuid="16f89ef39b5a4e6898436732a7b1cc4f">The Constitution of the United States</h2>
+            <section data-uuid="0816f21be8f942c6973a00ffc62e7d75" class="pullquote_wrapper">
+                <p data-uuid="41a4d266d43040edb33e0df3a2ffaf25" class="pullquote hang">“The Constitution of the United States was made not merely for the generation that then existed, but for posterity - unlimited, undefined, endless, perpetual posterity.“</p>
+                <div class="pullquote_attribution_wrapper" data-uuid="25dc0ff456c74ceb9964ca989945052d">
+                <p data-uuid="6819236ab79f4838bca5299dfd3b8beb" class="pullquote_address">—Henry Clay, U.S. Senator</p>
+                <p data-uuid="326f45668be448b79143d30141c1cf4e" class="p_source">speech before the U.S. Senate, 1850</p>
+                
+                </div>
+            </section>
+            <h3 data-uuid="51325d1d22c74cc59dda3af219612c8e">A Lasting Plan for Government</h3>
+            <p data-uuid="f8c46228ea7a45ee80e2ae3dba44f9ed">The delegates who met in the spring of 1787 to revise the Articles of Confederation included many of the ablest leaders of the United States. Convinced that the Confederation could never strong enough to bring order and prosperity to the new nation, they abandoned all thought of revising the Articles. Instead, they drafted an entirely new plan for government—the Constitution of the United States of America.</p>
+            <p data-uuid="36e34533093e4c1b94a4af324b1927f3">Patrick Henry called this action “a revolution as radical as that which separated us from Great Britain.” And, an unknown observer called the result “the most wonderful work ever struck off at a given time by the brain and purpose of man.” Revised, modified, and amended, the Constitution has served the American people for well-over 200 years, becoming a model for representative government around the world. </p>
+            <p data-uuid="29d5c6d481ed43489021299d5d41246f">The Constitution has survived for two main reasons. First, it describes the structure of the national government, its powers, and the limits of its power. As part of this, the Constitution guarantees the rights and liberties of the people, even in times of crisis. Second, the document is designed to be a “living” document, capable of being amended, or changed, to meet new the needs of new times and circumstances.</p>
+        </section>
+    </body>
+</html>

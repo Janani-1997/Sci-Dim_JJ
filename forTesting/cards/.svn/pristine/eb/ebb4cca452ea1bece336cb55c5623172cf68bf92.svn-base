@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="5a921b2571104f0383397a9fd2fe55ec">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="5a391b7668a94ff6b4230cd1a32d5581">
+            <p class="lesson-number" data-uuid="3b85fa4142894fa092d05802fc93e55b">Lesson 2</p>
+            <article class="header-container" data-uuid="50a482b1bb8c44e89b857e61db4736bb">
+                <div class="header-element" data-uuid="0d660451fdd9470884d36ad35f613921">
+                    <h1 data-uuid="899429fa95594c0dba995accd90a9bcf">Europeans
+                        Reach the Americas</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="dc1516722ed74377a64fc2e1ca1288b8"></div>
+                    <h2 data-uuid="ef472a3d5eeb4c51b60fc1deeb757084">The Big Idea</h2>
+                    <p data-uuid="225c598c0a4242dcbda8e9e2f0d71f00">Christopher Columbus’s voyages led to new
+                        exchanges between Europe, Africa, and the Americas.</p>
+                </div>
+            </article>
+            <article data-uuid="eaf25331b21841638409dd587231b683">
+                <h3 class="if-you-were-there" data-uuid="0a94335715544d8980bc1f6dd73045b1">If YOU were there...</h3>
+                <p data-uuid="904d55587bc94e16a3cb200acc9ee8b8">You are a European explorer who just returned to
+                    your homeland from the Americas. While you were gone, you tried new and
+                    different foods, including corn, potatoes, and cocoa. You have brought some of
+                    these foods back with you. You want your friends and family to sample these
+                    items, but they resist.</p>
+            </article>
+            <section class="question-long-text" data-uuid="a4ff400dd260429c8c89add72ebb69a0">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="340ee7623ac0416b9f29f40d33816829">
+                    <param name="configFile" value="../../widget_data/config/340ee7623ac0416b9f29f40d33816829.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view full-bleed" data-teacher-view="v0.1.0" data-uuid="5419a930a29c4385b1d182d638c11098">
+            <button data-teacher-view-toggle="true" data-uuid="08f812d92e224b11b03ba65e220b1253"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f854d4a273d2405eba1260a034ef8410">
+                <param name="configFile" value="../../widget_data/config/f854d4a273d2405eba1260a034ef8410.json" />
+            </object>
+        </section>
+        <p data-uuid="8ea4452360c64ba7988465464100ec86"><br />
+        </p>
+    </body>
+</html>

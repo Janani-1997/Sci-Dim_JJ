@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="af7209a3f77142b1a0af408a07ad9771" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="0b1fb877a09044f292aed022765127fb">
+            <div class="header-element header-container " data-uuid="1ac4645c21b24c0e88b8200299154360">
+                <p class="lesson-number" data-uuid="42618630ba454e0084ebc46514a7780f">Lesson 1</p>
+                <h2 data-uuid="9e5b96522cd34f9a88e0e36c77d496ec">Assessment</h2>
+            </div>
+            <h5 data-uuid="fa13251adec1492096c83f2e147ac531">The Articles of Confederation</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="b3be81804bb24727a90384c8be86da28">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="dbbc76cd198b4f779a2211aa972f92e1">
+                <param name="configFile" value="../../widget_data/config/dbbc76cd198b4f779a2211aa972f92e1.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="261a3feb6e3e4472ac1920610e339f74">
+            <button data-teacher-view-toggle="true" data-uuid="69e8f8edc8174836b82135b05d4f1652"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a6cb035b5af04f50a7f4266dbf23fae5">
+                <param name="configFile" value="../../widget_data/config/a6cb035b5af04f50a7f4266dbf23fae5.json" />
+            </object>
+        </section>
+        <p data-uuid="42ea218f29494b90bc9daafaccd0bdfe"><br />
+        </p>
+    </body>
+</html>

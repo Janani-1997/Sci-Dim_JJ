@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="aa0cf7fcd21b4e71860d7099363449fd">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="17ac6fdfea704b9b93e6b28ad1101e42">
+            <p class="lesson-number" data-uuid="e0f652403d6f4f2f80de2db12aa6eb7d">Lesson 1</p>
+            <article class="header-container" data-uuid="b94e495470bf4c38bba2e22965aa6e1a">
+                <div class="header-element" data-uuid="34da63f73b0641acbbe9dc15ff5b19c8">
+                    <h1 data-uuid="09b657f3824d48689e3599c3e44e70c1">The
+                        Civil Rights Movement Takes Shape</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="15b54349b4884935b9c01709c0ae1c2d"></div>
+                    <h2 data-uuid="5eed05349e334db68c6ed0bf212013b7">The Big Idea</h2>
+                    <p data-uuid="5dae7eb9b9584bdabef17dc41dc07f44">Civil rights activists used legal challenges and
+                        public protests to confront segregation.</p>
+                </div>
+            </article>
+            <article data-uuid="1c7f8cd7eb6944739ef3916efc77e50c">
+                <h3 class="if-you-were-there" data-uuid="1708beee638d42f9b84eefbd43a59643">If YOU were there...</h3>
+                <p data-uuid="3b8512b491cb46178f8f06b9f070737e">You are an African American student in the 1950s.
+                    You get up early every day and take a long bus ride across the city to an
+                    African American public school. There is another school just three blocks from
+                    your home, but only white students are welcome there. You have heard, however,
+                    that this school will soon be opening its doors to black students as well.</p>
+            </article>
+            <section class="reading-check" data-uuid="0339a9f06eae44709ead5546dc5dae2f">
+                <section class="question-long-text" data-uuid="7520c6873cb0436d9edbb37af698b0fe">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="d12170b47ea1498493717a0388c1b926">
+                        <param name="configFile" value="../../widget_data/config/d12170b47ea1498493717a0388c1b926.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0a82506c1fb44af487eefc6816a65262">
+            <button data-teacher-view-toggle="true" data-uuid="5825088f529c472993fb66c75bfc7272"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="26bb68a73fe84be7a40c009fb23a23e7">
+                <param name="configFile" value="../../widget_data/config/26bb68a73fe84be7a40c009fb23a23e7.json" />
+            </object>
+        </section>
+        <p data-uuid="720ec0da7dc04214a9e6a00fffe8298a"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="20b1d3d899aa4e35b4c277a5f3de138a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="5f31dcafffb04eb69f7259340f1a384a">
+            <div class="header-element header-container " data-uuid="33917e09924940ce85a23fdaf7636bc7">
+                <p class="lesson-number" data-uuid="cd80c1afef974f3b89daef6b05f21e6b"><br />
+                </p>
+                <h2 data-uuid="88399f464a9244ccb2ca0eae35250fe3"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="7e7ba7aa3a854880829e206df3ba6243">In this module, you’ve learned about the first
+                    national government formed in the United States and why the weakness of that  government led political leaders to create the
+                    Constitution and a new model of government. Now it’s your turn to demonstrate
+                    your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="8e602bbf43304740a57e6bb6e83419d3">Did compromise make the U.S. Constitution
+                stronger or weaker?</h3>
+            <p data-uuid="efca33fca6bc426bb1512b10b2004bb2">Write a persuasive essay answering this
+                question. Your essay should include key people, events, and turning points in
+                the creation of the Constitution. Be sure to cite evidence to support your
+                position, and organize your essay into an introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="06cbebb39d7d479aa3bad70cc4a6c62c">
+            <button data-teacher-view-toggle="true" data-uuid="6cd0f2b37d89480daee2d3b24eaa44f4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="2c984d8b838546c3b3280bf44edd09bf">
+                <param name="configFile" value="../../widget_data/config/2c984d8b838546c3b3280bf44edd09bf.json" />
+            </object>
+        </section>
+        <p data-uuid="8951d8ee5270438a9d429cd97874de82"><br />
+        </p>
+    </body>
+</html>

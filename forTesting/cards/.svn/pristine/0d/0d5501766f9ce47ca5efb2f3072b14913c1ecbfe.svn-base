@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="9f1e2940f115477eabefab26c1b73129">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="4786fd5297e84832864227c2b7f82cc6">
+        <div data-uuid="38f0e2999f214b848c0d8d0eadb2e984">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="00d06125b12c48ffb62bc7cdc13f7f50"/>
+         <div class="header-element" data-uuid="d277972b60de4e898d0a46a0f48e9af4">
+                        <section class="calendar-container-bottom" data-uuid="d9d195d629584c9196e4682a02086a86">
+                            <div class="yellow-star-yellow-bar" data-uuid="0345bb1a68844eedad7f4c1be5905e78"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="2e75048abc354953903bc235361ed056">The English Colonies</h1>
+                        </section>
+            <section class="eq-container" data-uuid="a5eb014daa53413ebe7b94663b6aba02">
+                <figure class="image " data-uuid="33895b5243b84f8199fcb2c4804d9083">
+                   
+                        <img alt="This photo shows modern-day people reenacting daily life in Plymouth Colony, an early colony in New England. The colony was settled by a group of people called Pilgrims, who left England seeking religious freedom. " class="" data-uuid="e133f820eb4646bdaa6ae5eebfd6643b" src="../../img/module_3opener/ms_snlese454149_514p.jpg" />
+                         </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="c8aa3fb827e24e5c97119f3282c1be6d">
+                        <p class="caption" data-uuid="c18cca6f8d414912a7f15c47e9c172fc">Today historical interpreters demonstrate life in the Plymouth colony at a living history museum.</p>
+                    </div>
+               
+
+            <article data-uuid="ce8330d18fe54e54849775dcccbc7a59">
+                <h3 class="eq" data-uuid="8f70d5da0b714349b8ee0554d5a1d25a">Essential Question</h3>
+                <h3 class="eqt" data-uuid="a504eda3fb06412cb8a54a3bdaed814f">How did the colonial
+                    experience shape America’s political and social ideals?</h3>
+                <p data-uuid="3d3eab353d154a4b8bea3142f641f5e3">As you read this module, look for ways that the
+                    colonial experience shaped America’s political and social ideals. Note the key political
+                    and social developments that occurred in the 13 English colonies. When you are
+                    done, you will write a short essay answering the Essential Question for this
+                    module.</p>
+            </article>
+            <section class="video-container " data-uuid="3417047afc414e74aef53a914a0edd5e">
+                <article data-uuid="1ecda9d4957148eb9e2fea680219c3cc">
+                    <h3 class="vid" data-uuid="34abec9337484e97a395c606796613bd">Life
+                        in Jamestown</h3>
+                    <p class="vid" data-uuid="8ab25a38c9ae412fa724aef45c59a480">In 1607 English leaders established the colony of Jamestown in Virginia. They saw the colony as a source of raw materials and as a market for English goods. The Jamestown settlers, who had braved a long and dangerous journey across the North Atlantic, struggled to survive the hazards of their new land.</p>
+                    <section class="video" data-uuid="68c28e4c4f444a0d887f058a21a64983">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="473f480366e94f92887e39aec9d2cfc8"><param name="configFile" value="../../widget_data/config/473f480366e94f92887e39aec9d2cfc8.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="17111993204e403fa9d2d9b3c1b370f0">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="31dcb60cdbb040158175cae58029a1a1">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/31dcb60cdbb040158175cae58029a1a1.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="58c518a80b304bdaaf24e1decedbfec5">
+                <article data-uuid="4df4302226ed4c508db9a1e54eb2209c">
+                    <h3 class="mod" data-uuid="6272c6eb612d48719a0966b7aa049605">The English Colonies, 1600–1770</h3>
+                    <p class="mod" data-uuid="a0ec14fe0fea4927b4582ec11f84edb6">English colonists first settled along the east
+                        coast of North America. They brought their culture and their legal system. They
+                        spread north and south and moved into the interior of the continent. These
+                        settlements were just one part of an expanding British influence around the
+                        world.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="94bf51bdd2774d168433ab174202457e">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="966c852db13949e58dcb3ea5f88c9416">
+                    <param name="audio_description" value="na" />
+                    <param name="audio_script" value="na" />
+                    <param name="configFile" value="../../widget_data/config/966c852db13949e58dcb3ea5f88c9416.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="5561b6e1a8b446e09f4ad76acde17ce6">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2e9a0b60f38d421fb9b079a221da12e3">
+                
+                
+                <param name="configFile" value="../../widget_data/config/2e9a0b60f38d421fb9b079a221da12e3.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="dc16f6efbd2f40ddab15b1ffedd6b52f">
+            <button data-teacher-view-toggle="true" data-uuid="8d46f90429694b2b909a3364f450d695"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="05040aff9aeb49db88b614e48f68c40f">
+                <param name="configFile" value="../../widget_data/config/05040aff9aeb49db88b614e48f68c40f.json" />
+            </object>
+        </section>
+        <p data-uuid="c18787f08f994401a69200ab96fda912"><br />
+        </p>
+    </body>
+</html>

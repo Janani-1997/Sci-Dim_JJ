@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="54653797c42d4e5587136765cae20f94">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="cbcecca625784863bc2d1ca63b1ed129">
+        <div data-uuid="25f1bf396b04465f914c038a1f4619c1">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="c2dc20163f0e4f64a0a037907ebda507"/>
+            <div class="header-element" data-uuid="7ca849be0c4448f6898a07949d18dcc5">
+                <section class="calendar-container" data-uuid="d433509ca8484ff6815a554af3e803a2">
+                    <div class="yellow-star-yellow-bar" data-uuid="b3df0377dac14e0ba4e26390729c8fd5"></div>
+                    <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                    <h1 data-uuid="8d8d5110f5bf41afa9b94df22cdf372b">The Civil War</h1>
+                </section>
+                <section class="eq-container" data-uuid="4a5271691b8f4097946ac6458ac6e5a6">
+                    <figure class="image-with-caption " data-uuid="0670635c359b4882910355769c7dd15c">
+                        <img alt="This photograph shows a group of Union soldiers with drums, standing in front of a tent and an American flag." data-uuid="d1511ef121ca4f038ce4a1643e8cb5b9" src="../../img/module_18opener/ms_snlese454149_551p.jpg" />
+                    </figure>
+                </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="3794136fe0c647148308f61cccb1a6bb">
+                <p class="caption" data-uuid="364ba864579f423897a74793a4f8379b">These drummers supported Union soldiers as they prepared for and fought in battles.</p>
+            </div>
+            <article data-uuid="ff347839f02c41b2a910752f19145ae9">
+                <h3 class="eq" data-uuid="f8660a1483fa4ed49ff6e2fdd82cda1b">Essential Question</h3>
+                <h3 class="eqt" data-uuid="b4e2b56a28dd42088e39554aab814aed">How did the Civil War transform the nation?</h3>
+                <p data-uuid="4eb8ca0aff974ef3bc8b431255c2fcb2">The Civil War threatened the very existence of the United States. It was a war that divided families as well as the government. The Civil War would define and transform the future of democratic government not only for the United States but for the world as well.</p>
+                <p data-uuid="c05e7c18bf48431f9298fc055725c5fb">As you read this module, look for evidence of ways the Civil War transformed the nation. Note how the key people, decisions, circumstances, and turning points were a part of this transformation. When you are done, you may be asked to write a short essay answering the Essential Question for this module.</p>
+            </article>
+            <section class="video-container " data-uuid="90f4d38a49db4115bced7c986b713bfa">
+                <article data-uuid="c9e8e5dbeb2a43b09b3427e744961d7a">
+                    <h3 class="vid" data-uuid="7b423a6ca45244328ba10d680edc9345">Emancipation Proclamation</h3>
+                    <p data-uuid="396ecb0ac2334bed8f3cb46cd2a74eb8" class="vid">Slavery had long divided the nation and was one of the main reasons for war. Abraham Lincoln’s main goal was to preserve the nation. At the same time, he grew to understand that the nation needed to transform. At just the right time and place, he decided to make a bold decision about slavery. Lincoln’s Emancipation Proclamation is famous for freeing the slaves in the states that were still in rebellion against the Union.</p>
+                    <section data-uuid="67a66ba596bd459ab062ef8cc90630f3" class="video">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="ee7b346572d341b2aa640d5cdf4167b5"><param name="configFile" value="../../widget_data/config/ee7b346572d341b2aa640d5cdf4167b5.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="1af0b870a5ba449f9d525adc4b8bfe06">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b6bb5839c0e94e46a8de6265e5ce764c">
+                    <param name="configFile" value="../../widget_data/config/b6bb5839c0e94e46a8de6265e5ce764c.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="1121b84f899c4d9a868b11fc537d8da7">
+                <article data-uuid="4acbae75b5e744f7a0d028766cd22802">
+                    <h3 class="mod" data-uuid="9eed18bb9e024a25ad135987ac3f55c3">The Civil War, 1860–1866
+                    </h3>
+                    <p class="mod" data-uuid="117eb3011ffc4818baad657e4026dc70">The Civil War arose from divisions in the nation
+                        that had reached the breaking point. It split families apart and caused
+                        suffering for those at home as well as for soldiers on the battlefields. Challenges
+                        after the war included restoring national unity, rebuilding the South, and
+                        helping newly freed African Americans make new lives for themselves.<br />
+                    </p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="e5137f7036cb4ff894047ad586e906a8">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="58372af400734af69fcbd180b0d7a4a6">
+                    <param name="audio_description" value="NA" />
+                    <param name="audio_script" value="NA" />
+                    <param name="configFile" value="../../widget_data/config/58372af400734af69fcbd180b0d7a4a6.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="09a85ba9e3fe4f60be8fbf743c7da089">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c6816e36e11f43acb893ffb05eaadf06">
+                <param name="configFile" value="../../widget_data/config/c6816e36e11f43acb893ffb05eaadf06.json" />
+                
+                
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="1daf66f5cb834729b7553455afe375cc">
+            <button data-teacher-view-toggle="true" data-uuid="e8f28c27c0e040f0a219c98a55f28ced"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="fe90e4c3f6584f33ab8052f430b32af0">
+                <param name="configFile" value="../../widget_data/config/fe90e4c3f6584f33ab8052f430b32af0.json" />
+            </object>
+        </section>
+        <p data-uuid="c73d2ba34e37485d90bec2e4be54b3b0"><br />
+        </p>
+    </body>
+</html>

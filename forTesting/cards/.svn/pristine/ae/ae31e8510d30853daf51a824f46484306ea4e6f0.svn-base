@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="1f1e7f1329e841f9b24843dc125f08a1">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="25c13af2436645ba8e9dd505337d24f6">
+            <p class="lesson-number" data-uuid="d497d09d3d37432090486c564b46e2a2">Lesson 1</p>
+            <article class="header-container" data-uuid="d3a7c004ddcd4715bd47ec5a2a517a16">
+                <div class="header-element" data-uuid="df3f7a11e50040ad9b1d0c63fc6c1fc6">
+                    <h1 data-uuid="5d1fc4be9355416cb6186a3e82931252">Establishing the Constitution</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="a03aa33221e6457ab05bedc820fbe54c"></div>
+                    <h2 data-uuid="879ae19c7f2845f1ae748c9d4ddf499d">The Big Idea</h2>
+                    <p data-uuid="208fbdd14ead4c3694b0829ce216a070">A new constitution strengthened the national government while protecting
+                        individual freedoms.&#160;</p>
+                </div>
+            </article>
+            <article data-uuid="95d0b8caec7e46489f123254f3a8ccdf">
+                <h3 class="if-you-were-there" data-uuid="63d66848ab4c4de7b7537397a2542659">If YOU were there...</h3>
+                <p data-uuid="cbd0cc287b974335ada37d0771c003de">You are representing your county at the New York Convention in 1788. You
+                    will be voting on the new Constitution. The majority of delegates oppose the
+                    new Constitution. They think it will give the national government too much
+                    power. You have read that the Constitution proposes a government that is shared
+                    between a federal government and the states. By the time you arrive in
+                    Poughkeepsie for the convention, eight states have already ratified the
+                    Constitution.</p>
+            </article>
+            <section class="question-long-text" data-uuid="0607c133318d43f7b9f1206194da59f5">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="9ea956f074b9440a810d496566a493a6">
+                    <param name="configFile" value="../../widget_data/config/9ea956f074b9440a810d496566a493a6.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8c7cc1c8c1494117ac208345eacc2a71">
+            <button data-teacher-view-toggle="true" data-uuid="0224a4424625412b82346baf96d14b32"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8f7a1b0de34e438e9a7d3d23300d5575">
+                <param name="configFile" value="../../widget_data/config/8f7a1b0de34e438e9a7d3d23300d5575.json" />
+            </object>
+        </section>
+        <p data-uuid="4db7030a8a6840fe80b8a066c5261a04"><br />
+        </p>
+    </body>
+</html>

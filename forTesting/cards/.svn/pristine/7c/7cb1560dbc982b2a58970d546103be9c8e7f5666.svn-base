@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="91e97a0b639d49e1b771bd6559e39647">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="0601aa04343d4c31a7f8926364060d18">
+        <div data-uuid="801eb24c4e8440cb860fc1d39a53bdd8">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="0754cb2b47944525a097c5600b73c245"/>
+         <div class="header-element" data-uuid="b2b1a9f6f57b4024ba6d8f81c9663249">
+                        <section class="calendar-container-bottom" data-uuid="1bc4ae25b24349579d9f3e90f3f0dfcf">
+                            <div class="yellow-star-yellow-bar" data-uuid="45d416c2a06e440eb6157ce21132b26c"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="f9d87173a4294a1095fff462189fbf1b">A Divided Nation</h1>
+                        </section>
+            <section class="eq-container" data-uuid="31cc1be5a2f04a51a8e5c4981818c360">
+                <figure class="image " data-uuid="af8e5392e21747f19e5e754d9dd9c31a">
+                   
+                        <img alt="" data-uuid="8226321053cd4452930152f4b5ef9eb9" src="../../img/module_17opener/8_snlese454170_401p.jpg" />
+                         </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="1b83ac8898d5403ca92ea237aca0bba5">
+                        <p class="caption" data-uuid="c1cbdf0f759c44bd8145ea7092516291">This woodcut image shows an event known as the Marais des Cygnes Massacre. In 1858 a pro-slavery gang rounded up a group of slavery opponents near the town of Trading Post, Kansas. They marched the men into a ravine and opened fire on them, killing five and seriously wounding five others.</p>
+                    </div>
+               
+            <article data-uuid="92c3414941e6403a9f9f698e86fcdecf">
+                <h3 class="eq" data-uuid="72f25d871d64424daa207a5bac67f758">Essential Question</h3>
+                <h3 class="eqt" data-uuid="29f9b3a8edbf4980b4d6b5ee1c396693">Could the Civil War have been avoided?</h3>
+                <p data-uuid="b37bfbab83d742eb8d5e482c3cf254bc">In 1860 the United States broke apart over the issue of slavery, with southern states choosing to leave the Union. Soon, the nation was plunged into a bloody Civil War. Could this outcome have been avoided? As you read, consider the events that helped increase conflict between slavery supporters and opponents, and the South’s reaction to Abraham Lincoln’s election as president. When you are done, you will write a short essay answering the Essential Question for this module.</p>
+            </article>
+            <section class="video-container " data-uuid="b1d39931f60e4748b84d2a5428b3383f">
+                <article data-uuid="46d845484c0d42f9a2f77b8fd49d6f2f">
+                    <h3 class="vid" data-uuid="9b71d62a58c84b1f9d006ef5a418dd9e">The Debate Over Slavery</h3>
+                    <p class="vid" data-uuid="ef5790a4c4334dcaa7f4e74789ebaefc">In the 1850s slavery became an increasingly divisive issue. The Fugitive Slave Act of 1850, along with the publication of <i>Uncle Tom's Cabin,</i> a novel that showed the brutality of slavery, polarized the nation.&#160;</p>
+                    <section class="video" data-uuid="8ef20cb3bff948ddb9ab6a2d43cd7797">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="b48e4b6139aa41609054e7c4656b05cb">
+                            <param name="configFile" value="../../widget_data/config/b48e4b6139aa41609054e7c4656b05cb.json" />
+                        </object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="a845626f373c44c2abd68966b433a520">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="7265ad47cd99435eb1c12801562fcfdf">
+                    <param name="configFile" value="../../widget_data/config/7265ad47cd99435eb1c12801562fcfdf.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="03987ba1c88b40dd96dab6cb90ba949c">
+                <article data-uuid="4264f3ff623449899cb1c71b5860c4a3">
+                    <h3 data-uuid="2a112ff7e79c4c74967679d8ede8d43a" class="mod">A Divided Nation, 1845–1865</h3>
+                    <p class="mod" data-uuid="da8bc53a08ee4e849b121ec1afccedf4">Sectional tensions increased throughout the 1850s until they reached a boiling point with the election of Abraham Lincoln as president. Shortly after the election South Carolina seceded from the Union.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="dd77a8948c67484e90f883c8c27715a2">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="e3fd8ccdceed46cabe49a5e4851377d0">
+                    <param name="configFile" value="../../widget_data/config/e3fd8ccdceed46cabe49a5e4851377d0.json" />
+                    <param name="audio_description" value="NA" />
+                    <param name="audio_script" value="NA" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="be74474ec7c14ec587f89c21b1ab41f2">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="5d99bf9f1041408287292ab63e7bbfe4">
+                <param name="configFile" value="../../widget_data/config/5d99bf9f1041408287292ab63e7bbfe4.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="83392b8937b749c0b54ea0b111dce04a">
+            <button data-teacher-view-toggle="true" data-uuid="04732e9a87e943e493e2cfc47655606b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7624844a250d4b83a35e0209cb66f24a">
+                <param name="configFile" value="../../widget_data/config/7624844a250d4b83a35e0209cb66f24a.json" />
+            </object>
+        </section>
+    </body>
+</html>

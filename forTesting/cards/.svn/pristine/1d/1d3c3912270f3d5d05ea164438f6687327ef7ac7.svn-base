@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7d498cb1757643bbbb2a8583fa22d925">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 &#160;Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="61bdfb0cca4242b58578de1b2d30b0f2">
+            <div class="header-element header-container " data-uuid="5d8e23c522dd40f192b423a016709c1a">
+                <p class="lesson-number" data-uuid="9fd4228e06084d06bdf217c59de4e0b8">Lesson 3</p>
+                <h2 data-uuid="aaac9b87b9854c37b1bd91f57ce58cab">Assessment</h2>
+            </div>
+            <h5 data-uuid="029b053c964c48759ed76c73f9e5ef37">The Movement to End Slavery</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="aa12651741e246a885a47cd0b6998225">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="a2b6e7361f7144a181669e8013045b1d">
+                <param name="configFile" value="../../widget_data/config/a2b6e7361f7144a181669e8013045b1d.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f18d4874026f48dead5fb60039c06bc9">
+            <button data-teacher-view-toggle="true" data-uuid="f0382fff3fb4438bba59f122f815a599"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1dc363ed9e684f69916680463dfd20dc">
+                <param name="configFile" value="../../widget_data/config/1dc363ed9e684f69916680463dfd20dc.json" />
+            </object>
+        </section>
+        <p data-uuid="da0468b52c564373a462bb5c2b25fa1d"><br />
+        </p>
+    </body>
+</html>

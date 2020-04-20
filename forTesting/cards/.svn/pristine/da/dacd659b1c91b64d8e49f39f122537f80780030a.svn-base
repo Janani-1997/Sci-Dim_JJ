@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d38c432f87644e92b38b84f84b55ffe1">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="9d178636c301491eaa4e29de14477f0d">
+            <p class="lesson-number" data-uuid="fb88c70f08e144c49b206f3680da2b03">Lesson 1</p>
+            <article class="header-container" data-uuid="cc8efc29aa514ef1ac0b67be62c71376">
+                <div class="header-element" data-uuid="73e5cf20fb7d40a48e9e11f36c97b49c">
+                    <h1 data-uuid="de3998c036aa4d8ba015c494e6e52533">Nixon’s
+                        Presidency and Watergate</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="c59b7619c32f41ab98361fbde86e3cee"></div>
+                    <h2 data-uuid="49af2dfcbdb34f6b927130bd7f09b174">The Big Idea</h2>
+                    <p data-uuid="e7917e86362447a5b90bc5040bdfb93f">Richard Nixon’s policies helped ease Cold War
+                        tensions before the Watergate scandal brought down his presidency.
+                        <!--
+                            &&#65533;&#65533;6v&#65533;
+                        -->
+                    </p>
+                </div>
+            </article>
+            <article data-uuid="e3da2fa9d7ce4baf8ac33ea81ea42b3a">
+                <h3 class="if-you-were-there" data-uuid="daf825610a7b4103a54c1ca33cd739fe">If YOU were there...</h3>
+                <p data-uuid="f5c6b75a6a0f4aef97d9e5ea5c9011bc">You experienced a decade of conflict and change
+                    in the 1960s. You were a witness to major events in the civil rights movement,
+                    and you lived through frightening Cold War crises. You saw leaders assassinated
+                    and astronauts walk on the moon. You have some friends who fought in Vietnam
+                    and others who led antiwar protests.</p>
+            </article>
+            <section class="reading-check" data-uuid="d145cd74f69d4d7185517f50cbb38c73">
+                <section class="question-long-text" data-uuid="4f911265b3394ae394fad6bad84a5137">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f85b0812b2f04515beb612f6f366b93d">
+                        <param name="configFile" value="../../widget_data/config/f85b0812b2f04515beb612f6f366b93d.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="960f16013b4047f38ce13c2244b9f172">
+            <button data-teacher-view-toggle="true" data-uuid="a3a1f5039f8c48baa748145647075d70"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="70fb3a51a57b4240a6c29c68f599d537">
+                <param name="configFile" value="../../widget_data/config/70fb3a51a57b4240a6c29c68f599d537.json" />
+            </object>
+        </section>
+        <p data-uuid="af70f909f402428b9fc95b8208e4fa1c"><br />
+        </p>
+    </body>
+</html>

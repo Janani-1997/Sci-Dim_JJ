@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ce4d200712394e54864cb2bbcfc458f2">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Search for a Northwest Passage</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="67bd7413306d4f9088cc9dd2a86ba3b6">
+            <article data-uuid="1f3b8d63d0944318bafb103f488025aa">
+                <h4 data-uuid="a3339d8098b04eb9a56b6d97592dcd5b">Main Idea</h4>
+                <p class="main-idea" data-uuid="2b3efff489454e9ab5f3c0eb8605692a">Several explorers searched for a Northwest Passage to the Pacific Ocean.</p>
+                <h2 data-uuid="f935d958f58a4e71be056de5edb9f498">Search for a Northwest Passage</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="e02ee5b146044fbf81529100b6f949fc"></div>
+            </article>
+        </section>
+        <p data-uuid="93b7072033d24dc39aaf04852dee1d35">Europeans wanted to find a <b><dfn title="Northwest Passage">Northwest Passage</dfn></b>, a water route through North America that would allow ships to sail from the Atlantic to the Pacific. The English began sending explorers to find it.</p>
+        <p data-uuid="8464dad816ba42269e31615847eb806e">Italian sailor John Cabot knew that the king of England wanted to find such a route. Cabot offered to pay for his own expedition, asking only that the king of England grant him a royal charter to any lands he found. The king agreed, and Cabot made voyages to North America for England in 1497 and 1498.</p>
+        <p data-uuid="e1ff86d9f28c4bda82a23e4955e33843"> Cabot sailed to North America, but he left very few records of his journeys. It is believed that he traveled along the coast of present-day Newfoundland in Canada. Although Cabot did not find a passage to the Pacific Ocean, his voyages were successful. They became the basis of England’s claim to land in North America.<br />
+        </p>
+        <section class="interactive-map" data-uuid="c547d39b02f84211ab02777fa56d8c62">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="e7f6c0e2db7d43bbba58cb5a54e67e99">
+                <param name="selected_map" value="8_snlese454170_214m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="9b9fafc81f5d420195a2f7343a7439ab">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="ec5ce5a77c3d40d6bc9de63245d40237">
+                <param name="configFile" value="../../widget_data/config/ec5ce5a77c3d40d6bc9de63245d40237.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="409525e633ba42ac814898b85b3d44b4">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="9bac835c01894eafb2fce366c4e4137c">
+                <param name="configFile" value="../../widget_data/config/9bac835c01894eafb2fce366c4e4137c.json" />
+            </object>
+        </section>
+        <p data-uuid="af78796bffb647b28f6a4d0dd81b8b97">In 1524 France sent an Italian captain, Giovanni da Verrazano (vayr-ah-<span class="smallcaps">ZAH</span>-noh), to seek a Northwest Passage. Verrazano sailed along the coast of North America from present-day North Carolina to Maine. <b><dfn title="Cartier, Jacques">Jacques Cartier</dfn> </b>(kahr-<span class="smallcaps">TYAY</span>), a French sailor, led France’s next major exploration of North America. He made two trips to what is now Canada. Cartier sailed into the Saint Lawrence River and traveled all the way to present-day Montreal, claiming the areas he explored for France.</p>
+        <p data-uuid="6ee4ebdd3abc43cdb62e6269b07e47f9">The Dutch also entered the race. They hired English captain Henry Hudson to find a Northwest Passage. Hudson first sailed to present-day New York in 1609. The following year Hudson returned to North America, sailing under the English flag. He traveled far to the north. Eventually he reached a strait that he hoped would lead to the Pacific Ocean. Instead, it led into a huge bay, later named Hudson Bay.</p>
+        <p data-uuid="31bdf1244ec24ab89e7b3aebb7e15cee"> None of these explorers ever found a Northwest Passage. Their explorations, however, led to increased European interest in North America.<br />
+        </p>
+        <section class="reading-check" data-uuid="ed00d64633e74bf39060f692463a9b21">
+            <section class="question-long-text" data-uuid="07032d099e7c430e80fec062bd1c37fd">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2364bc5829ec409983baccb4635544e1">
+                    <param name="configFile" value="../../widget_data/config/2364bc5829ec409983baccb4635544e1.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="b7bc3b6990ec49ac87da4cde1541bf16">
+            <div class="go-prompt-bottom-bar" data-uuid="9c4d96d3d3af46c0b229481a46d34275">
+                <p data-uuid="0843cb7cc41b441990aa34036fce4f98">Remember to use the graphic organizer to take notes about European exploration and settlement.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="1edacf5cbe114757b40da54400c56c68">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="e80281548f8b44aebf9eb4ad267dc2fe">
+                <param name="configFile" value="../../widget_data/config/94e6db626fc043808720c6c82721971e.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="800e2323569a4ae5ab015831b3173a4c"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="fc10d2cfcad446c880e37b461738d011">
+            <button data-teacher-view-toggle="true" data-uuid="d9a8feddb6cb4b079efcec171b7c347b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5eff13e6b3614992a9515d35c1d5b503">
+                <param value="../../widget_data/config/5eff13e6b3614992a9515d35c1d5b503.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

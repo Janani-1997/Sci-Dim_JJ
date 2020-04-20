@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="158df73eef7c4fd3b87f55c525933a06">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Other Explorers Sail to the Americas</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="380a549e73cc47459bcd1810d78da38f">
+            <article data-uuid="652e5d8b51c547b9b3c995bbeeef914f">
+                <h4 data-uuid="1094fd8f52bf48e898c835be7d987e2f">Main Idea</h4>
+                <p class="main-idea" data-uuid="1830c5c86b6a46159fe81c24870d0411">After Columbus’s voyages, other explorers sailed to the Americas.</p>
+                <h2 data-uuid="18d01ae559a542ea8f699c53e1ebecf9">Other Explorers Sail to the Americas</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="ec0e5f2c55514920956710cdabb075e3"></div>
+            </article>
+        </section>
+        <p data-uuid="9cd75a3284454826b264bb111f43ecfa">Columbus’s discoveries inspired others to sail across the Atlantic Ocean. In 1501 explorer Amerigo Vespucci (vuh-SPOO-chee) led a Spanish fleet to the coast of present-day South America. He was convinced the land he reached was not Asia. Instead, Vespucci believed he had found a “new world.” A German mapmaker labeled the continents across the ocean America in honor of Vespucci. Europeans began using the names North America and South America for these lands.</p>
+        <p data-uuid="6132b80f12d9473b9fff74a56f89fb8b">In a Spanish settlement in present-day Panama, another explorer, Vasco N&#250;&#241;ez de Balboa (NOON-yays day bahl-BOH-uh), heard stories from local Native Americans about another ocean farther west. Balboa set out to find it. For weeks he and his men struggled through thick jungle and deadly swamps. In 1513 they reached the top of a mountain. From this spot Balboa saw a great blue sea—the Pacific Ocean—stretching out before him.</p>
+        <p data-uuid="a730788a0c394afa9541ba26379ea35e">In 1519 <b><dfn title="Magellan (muh-JEL-uhn), Ferdinand">Ferdinand Magellan</dfn></b> (muh-JEHL-uhn), a Portuguese navigator, set out with a Spanish fleet to sail down the east coast of South America. After sailing around the southern tip of the continent, Magellan continued into the Pacific even though his ships were dangerously low on food and fresh water.</p>
+        <p data-uuid="14a5a05a8b1544d3ad13a9804c7627e3"> Magellan’s fleet sailed across the Pacific Ocean. In the Philippines, Magellan was killed in a battle with native peoples. Down to three ships, the expedition continued sailing west into the Indian Ocean. In 1522 the voyage’s only remaining ship returned to Spain. Only 18 members of Magellan’s original crew survived. These sailors were the first people to <b><dfn title="circumnavigate">circumnavigate</dfn></b>, or go all the way around, the globe. Their entire journey was some 40,000 miles long.</p>
+        <section class="interactive-map" data-uuid="ff16e51a07cf47bc86e57a3d06b59cb0">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="5abdcd91731743f09722934162a68730">
+                <param name="selected_map" value="8_snlese454170_206m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="ca084d81617647cca5118d25cadee8eb">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="18db1e725414432e89db4cc4d574b8a7">
+                <param name="configFile" value="../../widget_data/config/18db1e725414432e89db4cc4d574b8a7.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="1e6c3eb2329b4abc9be46a35c5601abc">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="23b25800ef6c4c2ab3ef39b2d7dbbb15">
+                <param name="configFile" value="../../widget_data/config/23b25800ef6c4c2ab3ef39b2d7dbbb15.json" />
+            </object>
+        </section>
+        <p data-uuid="db5bffdf66cc4d96931e57a5b1e472d4">European explorers and settlers took plants and animals with them to the Americas. They also brought back a variety of new plants and animals to Europe, Asia, and Africa. This transfer became known as the <b><dfn title="Columbian Exchange">Columbian Exchange</dfn></b> because it started with Columbus’s explorations. <br />
+        </p>
+        <p data-uuid="d55a9d6d4083464d92c92eb12bea3475"> European explorers found many plants in the Americas that were unknown to them, including corn, potatoes, squash, tobacco, and cocoa. They brought these items to Europe, where they were highly valued. Turkeys, too, made the journey from the Americas to Europe. The explorers introduced horses, cattle, and pigs to the Americas. Native Americans came to use these animals for food and transportation. They also started to farm European grains such as wheat and barley. Citrus fruits and &#173;sugarcane were other plants that came from Europe. These became important crops over time.</p>
+        <figure class="image-with-caption feature" data-uuid="c559d9b4b540423bb5ecfba28f97a981">
+            <img alt="" data-uuid="143ab4769a85493db0ac4fd6baf7791b" src="../../img/module_2_lesson02/8_snlese454170_599m.png" />
+            <div class="figcaption" data-uuid="4c5b2d3fe82f4e3aa518db9d90c9d873">
+                <h5 data-uuid="b036780ce4e84ae78b7c2671d9700dec">The Columbian Exchange</h5>
+                <p class="caption" data-uuid="68787370756947f789d7487582a859c7">The arrival of the Spanish in the Americas sparked a series
+                    of cultural exchanges, including the transfer of food, plants, and animals.</p>
+            </div>
+        </figure>
+        <p data-uuid="5f0c3e08b0ad41509ea2ab446c3aa215">Without intending to do so, the explorers also introduced deadly new diseases to the Americas. Native Americans had no natural resistance to European diseases. As a result, diseases such as smallpox killed from 80 to 95 percent of the native population within 150 years of Columbus’s arrival. Not only did these deaths devastate Native American communities, they also had a terrible long-term effect. Soon after they established colonies, Europeans, especially the Spanish, forced Native Americans to work as laborers, raising food and mining for gold and silver. But because so many native people died from the new diseases, a labor shortage soon developed. The Europeans began looking for a new source of workers. They turned to Africa and began importing enslaved Africans. Over many years, Europeans shipped millions of slaves to the New World colonies.<br />
+        </p>
+        <p data-uuid="a19d72f469f24d168ec5c47fd0e59cab">The Columbian Exchange changed the world for all time. Environments, agriculture, trade relationships, and even entire cultures were affected in Europe, Africa, and the Americas. Some changes, such as the death of Native Americans from new diseases, happened very quickly. Others happened more gradually. For example, as some mountain-dwelling Native Americans acquired horses, which had come from Europe, they moved down to the Great Plains. There these peoples adopted lifestyles that depended on the buffalo herds.</p>
+        <p data-uuid="1a364523a0c24bff9ba0f718a55665e5"> Over time, a trading pattern involving the exchange of raw materials, manufactured products, and slaves developed among Europe, Africa, and the Americas. This trading pattern would affect many aspects of history, both in the New World and the old.</p>
+        <section class="question-long-text" data-uuid="0a6999910f894e1db95425b1560bb4fe">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="682abffe898c4c52a25791b96b96a673">
+                <param name="configFile" value="../../widget_data/config/682abffe898c4c52a25791b96b96a673.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="fb6729beb8904c3583ff50439e742d8f">
+            <div class="go-prompt-bottom-bar" data-uuid="b852fd00c76e4de4978d21383b7c8c8d">
+                <p data-uuid="b6781f065a1f4baa9f5dd066370e5fa9">Remember to use the graphic organizer to take notes about the voyages of European explorers and their important results.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="3d35d457cd7b4c5591857d3e28cdec6b">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="ac6653795ed14ba89b5ce16c7c0b0641">
+                <param name="configFile" value="../../widget_data/config/be9724dd06224c4b829574adb4b03b31.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="4e8a8e6bcfbb4a96a036cf0146b8d858"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7bfed92568194337a8c52bcbb82f8cec">
+            <button data-teacher-view-toggle="true" data-uuid="3b402fd869904a869dd5057ba570dfaf"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="740afd381ee04d19843ba77bd4e7052a">
+                <param value="../../widget_data/config/740afd381ee04d19843ba77bd4e7052a.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

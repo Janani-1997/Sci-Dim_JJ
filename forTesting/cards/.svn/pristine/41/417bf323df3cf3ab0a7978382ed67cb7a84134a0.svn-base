@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="12d366df2cbe4f0181e65dd2cdcf8c66">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Native American Languages</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="a7ecfdb9ee4b4d208b3fc408400ee320">
+            <article data-uuid="594b03756e5b47f39b9df8e302f94300">
+                <h4 data-uuid="329c26fbef644069bfb4ddd60d357feb">Main Idea</h4>
+                <p class="main-idea" data-uuid="e2e976249f27463cb685e8fa21198636">Language united Native American groups and contributed to cultural diversity.</p>
+                <h2 data-uuid="3d1541dc63574eee99dcbd8d4b43fa85">Native American Languages</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="3a1848f446e1485bae639503b6c5312d"></div>
+            </article>
+        </section>
+        <p data-uuid="088e46a516d84ae3b29519d8432ab912">Some Native American culture areas, such as the Arctic, occupied large regions, but had few culturally distinct groups of people. By contrast, the California and Northwest Coast areas were home to many culturally different groups. Language played an important part in the cultural diversity of these regions.<br />
+        </p>
+        <p data-uuid="0ae9c56712ec4e4f94ab9efc5cd9fa46"> At the time of European contact, about 300 languages were spoken in North America. Most could be grouped into 29 language families, or languages that descend from a common ancestor. Present-day California was home to more than 70 languages and 20 language families, some of which covered areas no larger than a modern county. Other language families occupied broader territory. One of the largest, the Uto-Aztecan language family, covered about a fourth of what is now the continental United States. Today the Shoshone in the Great Basin and the Hopi in the Southwest continue to speak Uto-Aztecan languages.</p>
+        <section class="question-long-text" data-uuid="04aceb9f1b7d4e0a9bbb8aaeafe064eb">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="335d5cfa961a481d87dca095cd3082b6">
+                <param name="configFile" value="../../widget_data/config/335d5cfa961a481d87dca095cd3082b6.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="96a21f73f9684af2ae0448e227a9917f">
+            <div class="go-prompt-bottom-bar" data-uuid="7b72ae5053d1469cafc7352003c51b47">
+                <p data-uuid="df239625a58441db91c8f4d2ee2c4178">Remember to use the graphic organizer to take notes on Native American languages.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="746a928e7f5d49e5aaaa1028e1d25cc4">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="af83ec01e6044b40a5c11ff03f7e07df">
+                <param name="configFile" value="../../widget_data/config/3e52867d594742cbb25a7793050c7436.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="fe64796896ad48ab827c9c51b939fcc4"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="bb0db7a1dd154f158d353f5a41778e0d">
+            <button data-teacher-view-toggle="true" data-uuid="ba6f68c47d0b48f5966f123f7f7c5e4d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="734805cf2cdd4b44830408f061973933">
+                <param value="../../widget_data/config/734805cf2cdd4b44830408f061973933.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

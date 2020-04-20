@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="cb4840b972904c01a095be7455b76a6c">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="569ad61f169845f697937bdc6cb60994">
+        <div data-uuid="453f001c7410441786e2dc4c8dd30d76">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="70ab7797dfc341a5a7075f41a6dd7378"/>
+        <div class="header-element" data-uuid="5691f58ff04746978334cc5c3f4a53ab">
+            <section class="calendar-container" data-uuid="8d968caa3ee245d5b6a47f4227202e99">
+                <div class="yellow-star-yellow-bar" data-uuid="7e9abd019908444ebbdd02da20569472"></div>
+                <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                <h1 data-uuid="3d9fadbfa3b2490eaaa431a88df5fdbc">Reconstruction</h1>
+            </section>
+            <section class="eq-container" data-uuid="099534df02574f82942470cfcc71cd70">
+                <figure class="image " data-uuid="d3affc3a31f244e4ab28398b248ba094">
+                    <img alt="This black-and-white photo shows the ruins of a Southern plantation after the Civil War. Debris from crushed buildings is everywhere. An African American family leaning against a ruined pillar is the focus of the photo. " data-uuid="084df156a97e471b95e6dcd07322f809" src="../../img/module_19opener/ms_snlese454149_366p.jpg" />
+                </figure>
+            </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="9b5f81c379384ad7ad6807a18d8b331e">
+    <p class="caption" data-uuid="c356c9c88d454858917992414b765e20">The ruins of this southern plantation stand as a bleak reminder of the changes brought to the South by the Civil War.</p>
+            </div>
+            <article data-uuid="7bcb604268ad4bdab5c60877d0e89f3b">
+                <h3 class="eq" data-uuid="364e9aef25da414c9ab1260998f0bc1e">Essential Question</h3>
+                <h3 class="eqt" data-uuid="8918b9e21e2940d598a633b3224042f4">To what extent did Reconstruction achieve its goals?</h3>
+                <p data-uuid="90efdb2328934c36868eb8d2bcebbab8"></p>
+                <p data-uuid="995dfd4a6e2042bfa98ad65f9901b571">Following the Civil War, Congress implemented a plan to reconstruct the South. Despite landmark constitutional amendments and the presence of federal troops, gains for southern African Americans were limited. After 12 years, and in response to fierce resistance from many white southerners, the federal government declared Reconstruction over.</p>
+                <p data-uuid="575ece449e644c38ac257455fc42d0ca">As you read this module, look for evidence of key events in the Reconstruction period. Note the key people, decisions, circumstances, and turning points that positively or negatively affected the efforts toward unity and equality for all. When you are done, you will write a short essay answering the Essential Question for this module.</p>
+            </article>
+            <section class="video-container " data-uuid="3b73b2b7db9b439a964051279b010517">
+                <article data-uuid="6dfb39b5b7df44568db5c552f3a3e3c3">
+                    <h3 class="vid" data-uuid="5c1de189d4e348778dc84e2c3da448a4">Lincoln’s Legacy</h3>
+                    <p class="vid" data-uuid="72df2447bb9940a9802c4bdfc1b2993e">In March 1865, Abraham Lincoln delivered his second inaugural address. In his speech, Lincoln outlined a plan to reunite the nation. He had hoped for a spirit of healing and reconciliation. Just a month later, however, an assassin ended Lincoln’s life. Reconstruction would follow a different path than the president intended.</p>
+                    <section class="video" data-uuid="ad02f7d9ca8745048f42c5a3933419f2">
+                    <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="1765f79ef8bf4da786eef98a026e0a03"><param name="configFile" value="../../widget_data/config/1765f79ef8bf4da786eef98a026e0a03.json" /></object>
+                    
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="b9c7a80e97eb47f6953628a56089544c">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b56c4a2983de47a49cf7d11d8c964656">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/b56c4a2983de47a49cf7d11d8c964656.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="ea3aa4ee96d640dbaae588ee55445e81">
+                <article data-uuid="c83d46fa1e334bed82adf46a0b406baa">
+                    <h3 class="mod" data-uuid="479370df69794bb585cf32dbb13bd915">Reconstruction, 1860–1880
+                    </h3>
+                    <p class="mod" data-uuid="5d793cbe9ac54001a9564fe41a0a4950">The differences that caused the Civil War, and
+                        the bitterness that followed, created further divisions in American politics and society
+                        after the war ended. A reunified United States began to take a larger
+                        role in the world. The new nations of Italy and Germany changed the balance of
+                        power in Europe, and in Asia, Japan became more powerful.<br />
+                    </p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="37247c5bb4d948588e2a3a02cfa3036b">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="b3968cd659644dd19af3b53e53064eb8">
+                    <param name="configFile" value="../../widget_data/config/b3968cd659644dd19af3b53e53064eb8.json" />
+                    <param name="audio_description" value="NA" />
+                    <param name="audio_script" value="NA" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="d31ea4e7a8ea4a9eb66b85758df0f165">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2b5f93d57b91465d90c413a1f7e23a08">
+                <param name="configFile" value="../../widget_data/config/2b5f93d57b91465d90c413a1f7e23a08.json" />
+                
+                
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="431b1f3b3e8b4fcb8b389b5be5cdfe24">
+            <button data-teacher-view-toggle="true" data-uuid="6780545c9c514b3cb87ecf886c2e1dfa"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3c40c7e4b8874206a536e6a159df6fe5">
+                <param name="configFile" value="../../widget_data/config/3c40c7e4b8874206a536e6a159df6fe5.json" />
+            </object>
+        </section>
+        <p data-uuid="5987989ad9d94316a8aabfe1ada167c8"><br />
+        </p>
+    </body>
+</html>

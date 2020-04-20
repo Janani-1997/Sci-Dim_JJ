@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b7c1e843538d43a0b0218189a44fb929">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="dbbf0baa0b11443f94e735172e9f0d51">
+            <div class="header-element header-container " data-uuid="763cf7aedf774664a5d03208d5d5e239">
+                <p class="lesson-number" data-uuid="da5add3291a642398f818b1fc2aa4814">
+                    Lesson 3</p>
+                <h2 data-uuid="c7c5754c00e647d1a093989519f9f98c">Review</h2>
+                <p class="white" data-uuid="03832a3761844a82bbf0e454b28ac6a2">In this lesson you learned that U.S. foreign
+                    policy was characterized by both compromise and strong leadership in the years
+                    following the War of 1812. Now you will review some key terms and people before
+                    completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="9bfd38f09161428e9417113d62c8d666">Review Key Terms and People</h3>
+            <p data-uuid="8d13abb2f5ee45ab983d7e14f03dd9e6">Define each term or person shown on the card. Flip the card to check your answer.&#160;</p>
+        </section>
+        <section class="flipcard" data-uuid="a13464cf3d9c468e9b29ae24d061cd49">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="84bf0f883ca34b68ae03810e2b61105e">
+                <param name="configFile" value="../../widget_data/config/84bf0f883ca34b68ae03810e2b61105e.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev " data-uuid="1bc84aa5dd0e477b89b00ad863359074">
+            <div class="go-prompt-bottom-bar" data-uuid="ca26fb5122a040c4bfb3f26d1d00ef3c">
+                <h5 data-uuid="012bbb2b66834ec6ad1d4b23c8239d55">Review the Graphic Organizer</h5>
+                <p data-uuid="4ea5c487244f4cc4996889cc0ecfac74">Review your graphic organizer notes and use them
+                    to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="209f578e09f04583b62564c7b5a6fec3">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="1598b320ef1a478ca026a97cd39ec627">
+                <param name="configFile" value="../../widget_data/config/1598b320ef1a478ca026a97cd39ec627.json" />  
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="611a4cae46cc4e9c8f2e96266dd390c8">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="3dc2f240323a4031b45dc875e67fb314">
+
+<param name="configFile" value="../../widget_data/config/6db58358811548b38c5dc5a37a987d49.json" />
+</object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="df31c0ffd15e49be9b69d68cbcf3a7a3"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f549c3957d274a4ea2f5d88516f1d7c8">
+            <button data-teacher-view-toggle="true" data-uuid="f7112ae20f434df0bc6bde0e7b8500dc"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1cf0feb58d6a4a3ea730776dd40129a0">
+                <param value="../../widget_data/config/1cf0feb58d6a4a3ea730776dd40129a0.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

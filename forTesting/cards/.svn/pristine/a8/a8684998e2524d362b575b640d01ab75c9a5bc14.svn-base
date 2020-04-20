@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="1d86ddf8a42a4cc39b20280161494f4c">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="2e76ac1a5689424892212d905c1090ed">
+            <div class="header-element header-container " data-uuid="98492cd4d33448b49ca90d3a150ee2af">
+                <p class="lesson-number" data-uuid="1f8942132d424f7baebecb3e634c307e">Lesson 1</p>
+                <h2 data-uuid="ef411b69c533454f800439a5237d5d2a">Assessment</h2>
+            </div>
+            <h5 data-uuid="4a7857654e474c6e8f4945e59149ab85">Kennedy and Foreign Policy</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="3a8f2837d5be46a9a3a53143d1e0eb96">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="e254eac147a44af3b8ee622b7bbe8731">
+                <param name="configFile" value="../../widget_data/config/e254eac147a44af3b8ee622b7bbe8731.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="95914afe611948c0bd639fdfff5af82f">
+            <button data-teacher-view-toggle="true" data-uuid="3cdeb2d9a4474e66b73cc2a59be0a50e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ac151771367b4b429ef04f31cdef8a21">
+                <param name="configFile" value="../../widget_data/config/ac151771367b4b429ef04f31cdef8a21.json" />
+            </object>
+        </section>
+        <p data-uuid="9ab3fe5ec9e846ba897b5450486f1252"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ce33434147294ea08c4b5cb69d853a52" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="7d758b5d4d234efdbb9ef195f9d9ef33">
+            <div class="header-element header-container " data-uuid="cca9fff929924a4d90e18bf9609ba578">
+                <p class="lesson-number" data-uuid="66c3ffea02f04a9aba3990c8a0658bfb"><br />
+                </p>
+                <h2 data-uuid="4b1cdc42a39e4f4dbad935704f5944b7"> Review</h2>
+                <p class="white" data-uuid="6ad2ff3b84134980854d70eb0e113748">In this module you learned about European exploration of the sea and of the Americas, how geography affected exploration, and how societies were affected when Europeans and Native Americans met. Now you will review some key terms and people before completing the Module Assessment.</p>
+            </div>
+            <h3 data-uuid="d4428ce0a29348c39eb3ff5534f46e0e">Review Key Terms and People</h3>
+<p data-uuid="b1ac67eebd4b40c8a60d7fe302c047b5">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="3f4f7a02003345ba970e76541e164c5c">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="38b1d53cae11477f8066c993bad97508">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/38b1d53cae11477f8066c993bad97508.json" />
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="1ef7d97f3b754157a03dc195066d65c5">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="c22d2de4ac804781b19b0c8a6fe1698f">
+                    <param name="configFile" value="../../widget_data/config/c22d2de4ac804781b19b0c8a6fe1698f.json" />
+                    <param name="audio_description" value="NA" />
+                    <param name="audio_script" value="NA" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d87bf2a8a95744d38ef04ef591314f15">
+            <button data-teacher-view-toggle="true" data-uuid="339ad65655414b87b149a7790ce30f2d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4c5c6fe0e88b4653b8656533f6127e47">
+                <param name="configFile" value="../../widget_data/config/4c5c6fe0e88b4653b8656533f6127e47.json" />
+            </object>
+        </section>
+        <p data-uuid="f5479052d57948d1b3ca72596ce47c25"><br />
+        </p>
+    </body>
+</html>

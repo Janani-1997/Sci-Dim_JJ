@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="be2456709a2a4f0c8d610d5b34b924c8">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="36b7474cb44d41728195761a81580717">
+            <div class="header-element header-container " data-uuid="c2182c37010c4e3f93b3f5dd4d3dfd21">
+                <p class="lesson-number" data-uuid="a9f960ed7dbe4ea8ab1c94ef58c4ef8b"><br />
+                </p>
+                <h2 data-uuid="db23a40ce30a48b3b2b21c6c447bfcb9"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="07dac33c6edc4e16b94dbe0630f12e2f">Part 2: Write an Explanatory Essay</h3>
+            <h6 data-uuid="563ba788907e4486a7a8fc9c98c259f9">Historical Context</h6>
+            <p data-uuid="0a58fc4aaad1416dbf383b672d7fabef">The rise of totalitarianism and the desire of Germany and Japan for expansion of territory led to conflict overseas. At first, the United States tried to remain
+                neutral, but the Japanese bombing of Pearl Harbor put an end to that plan. The war brought
+                major changes to Americans. Many young men joined the fight in Europe and the
+                Pacific while those who stayed behind made sacrifices of their own.</p>
+            <h6 data-uuid="0be0753796304c23a0fc8614a43fc3d3">Task</h6>
+            <p data-uuid="554a14f1ef504faa832fd14b37b7a5f4">Americans of all ages and backgrounds pitched in to help the
+                United States and its allies win the war. Write an explanatory essay in which
+                you tell how they helped and why they put so much effort into winning a war
+                fought overseas.</p>
+            <p data-uuid="8b06db5bf6594fcd9679cd060ba947a6">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="e37bf913a02c4800b204025ba91e2571">
+                <li data-uuid="e0216f6f4b0442aba5c9235354072648">Review your notes and sources before you start writing.<br />
+                </li>
+                <li data-uuid="87d7c09ca4be4bed985520102c1db72b">Use at least <i>four</i> of the sources in Part 1, and develop the topic with relevant, well-chosen text or visual evidence from the documents.<br />
+                </li>
+                <li data-uuid="6de4a0fab07e4ecab315aab5986707a9">Cite specific text or visual evidence from each of the sources in your response.<br />
+                </li>
+                <li data-uuid="f4c33b47d8ae4b0694a312dfaa6880f2">Plan your essay so that it includes an introduction, several body paragraphs, and a concluding paragraph.<br />
+                </li>
+                <li data-uuid="021e8b99545c471498415dc30d5164e1">Establish a formal tone and use transitions to improve the flow of your writing, connect ideas, and clarify meaning.</li>
+                <li data-uuid="a815125f61b24d07aad93e8fab905d5a">Organize your essay in a clear way that focuses on the topic and supports it with well-chosen facts, details, and examples.</li>
+                <li data-uuid="7fe339cf7d094b1e9580153b0c52390c">Use precise, descriptive language and social studies terms to explain your topic.<br />
+                </li>
+                <li data-uuid="64cb35992b8c47efbf3d7aab1f176ab6">Write a conclusion that sums up your ideas and supports the information you present.</li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0279bcb9438947d9bea3e9858ffead50">
+            <button data-teacher-view-toggle="true" data-uuid="be856f60cdf3429ba42d139971baa791"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1b508207ccdf4160aab40f9dbe7ee818">
+                <param name="configFile" value="../../widget_data/config/1b508207ccdf4160aab40f9dbe7ee818.json" />
+            </object>
+        </section>
+        <p data-uuid="e5399d5c19b84e528529034b9ae07629"><br />
+        </p>
+    </body>
+</html>

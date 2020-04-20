@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="59715a866fd34695827a9a66aae52292" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener" data-uuid="6b6587a3583449d5817fa76205a266fa">
+            <p class="lesson-number" data-uuid="f59cda9e011743288abc95c187687c14">Lesson 1</p>
+            <article class="header-container" data-uuid="13bd60186dfa449192b491e489e4dd6d">
+                <div class="header-element" data-uuid="bbc01a201b1e4f79800ac614d0494b0d">
+                    <h1 data-uuid="803d440525d042d09f7997ae2ff419a1">Our
+                        Colonial Heritage</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="fcd9daf825ce4da297dab7e7ab2c9d5e"></div>
+                    <h2 data-uuid="3bd057e09f7a451d85f15fffb0796676">The Big Idea</h2>
+                    <p data-uuid="18f946e2e1c24c11bd47d5418cc29acb">The
+                        English founded thirteen colonies along the east coast of North America.</p>
+                </div>
+            </article>
+            <article data-uuid="20262ec458b6408a803a93c18330f27d">
+                <h3 class="if-you-were-there" data-uuid="b1728168ac8e4215abb5c21a26d95399">If YOU were there...</h3>
+                <p data-uuid="5f1d5e215b3340d8aa058632268d46ca">A
+                    year ago, in 1609, you moved to the colony of Virginia. Life here has been
+                    hard. During the winter many people died of cold or sickness. Food is always
+                    scarce. Now it is spring, and a ship has come from England bringing supplies.
+                    In a week it will sail home. Some of your neighbors are giving up and returning
+                    to England. They ask you to come, too.&#160;</p>
+            </article>
+            <section class="reading-check" data-uuid="243c7f7bc11b4e1d8e44245449b4524f">
+                <section class="question-long-text" data-uuid="3819f09e99b1421ca6120fe78d7bea33">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ad523c8a461e4ae2afeadd891b4d907e">
+                        <param name="configFile" value="../../widget_data/config/ad523c8a461e4ae2afeadd891b4d907e.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="935e4bd5986f4671adfa2a3174e5b409">
+            <button data-teacher-view-toggle="true" data-uuid="cb951cf0d29b49c088585a45b61cf6f2"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ae41955814ff42ecaf34c3f5e56afe1f">
+                <param name="configFile" value="../../widget_data/config/ae41955814ff42ecaf34c3f5e56afe1f.json" />
+            </object>
+        </section>
+        <p data-uuid="9ef3a1b1609e4125bc30d81a049dd33d"><br />
+        </p>
+    </body>
+</html>

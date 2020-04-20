@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="46e46c6fc8494068972051401ee69cee">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="89aa5361de9c48d784c819c70b3fc34b">
+        <div data-uuid="8ad1575013dc4eca9c70c4a02a82837c">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="47142622b9ec479b8471accd7f97c009"/>
+            <div class="header-element" data-uuid="db0e6974653548c7afa45d0fce7815a1">
+                <section class="calendar-container " data-uuid="8e87f835680c4fdf9c30164db1a64eea">
+                    <div class="yellow-star-yellow-bar" data-uuid="13389c7445944694b9559500acaeed4a"></div>
+                    <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                    <h1 data-uuid="f7c015d17642403b845bd1be5f370e2c">America, Africa, and Europe before 1500</h1>
+                </section>
+                <section class="eq-container" data-uuid="140654ac415e440ba397820e29202fa2">
+                    <figure class="image " data-uuid="96de59b3206f46d48aa9e43e9545dc0f">
+                        <img alt="This photo shows the Tikal Temple in northern Guatemala. It is part of the ruins of an ancient Mayan civilization that thrived around 700 AD. " data-uuid="3621b51d1e234b0285866c3014b5cda7" src="../../img/module_1opener/ms_snlese454149_007p.jpg" />
+                    </figure>
+                </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="32e9270d4ed6419db651caeffa01e2d1">
+                <p class="caption" data-uuid="103a4eab953c43e5a979ef5b5af5e2f8">Abandoned centuries ago, the pyramids and palaces of Tikal are reminders of early Mayan civilization in the Americas.</p>
+            </div>
+            <article data-uuid="f166dc590f0943a4b35ce409c95f7c41">
+                <h3 class="eq" data-uuid="2f9338632ab14c65948da3841f7606ca">Essential Question</h3>
+                <h3 class="eqt" data-uuid="cdfb096791214a9aaf8b86739665631d">Why might a U.S. historian study the Americas,
+                    Africa, and Europe before 1500?</h3>
+                <p data-uuid="219b46ee3875425a9d583b9c9aa4bade">The story of the United States often starts with
+                    the Italian explorer Christopher Columbus. In 1492, on a quest to find an easy
+                    ocean route to India, Columbus accidentally “discovered” a land previously
+                    unknown to Europeans—the Americas. Is this really where the story starts?
+                    Historians would argue that it’s necessary to dig deeper, into the histories of
+                    the people who would shape the nation. This includes the ancient and complex
+                    cultures of the Americas, as well as those in Africa and Europe. In this
+                    module you will study the Americas, Africa, and Europe before 1500. When
+                    you are done, you will write a short essay answering the Essential Question for
+                    this module.</p>
+            </article>
+            <section class="video-container " data-uuid="bbb5cd89bc6f4939a7ae3a05e05aaeb5">
+                <article data-uuid="14b12ae2a7d14c49af923690b2f741d1">
+                    <h3 class="vid" data-uuid="70b602a049f14feb8c87880424e61688">Mexico’s Ancient Civilizations</h3>
+                    <p class="vid" data-uuid="7899bc9047b9444786d2d83d6135673c">By 1500 the Americas were home to tens of millions of people. The earliest American civilizations arose in southern Mexico and in the northern parts of Central America. Some had built highly advanced civilizations that rivaled the empires of Africa and Europe.&#160;</p>
+                    <section class="video" data-uuid="14066df6db9040458e229dac7b921397">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="9da0c9a800b541138beb91b4070d16b9">
+                            <param name="configFile" value="../../widget_data/config/9da0c9a800b541138beb91b4070d16b9.json" />
+                        </object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="b4fe19711da14c8bb373f696f5e9eecf">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="fb7683ae976b4e619f4a05d489527fc9">
+                    <param name="configFile" value="../../widget_data/config/fb7683ae976b4e619f4a05d489527fc9.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="543e97c84d1a4573969541caee4b91d5">
+                <article data-uuid="f792c2cf268948e6a2c4feeb055433ae">
+                    <h3 class="mod" data-uuid="45a7386f546c42f2a7565fbe6363e3dd">America, Africa, and Europe before 1500
+                    </h3>
+                    <p class="mod" data-uuid="ad1f2ec9524243228b6d5fe0c6fa3ddb">Beginning around 38,000 BC, people migrated to
+                        the Americas and spread across the continents. Some settled, learned to
+                        cultivate corn and other crops, and developed unique civilizations. At the same
+                        time, civilizations rose, flourished, and died in Europe and Africa. The
+                        civilizations of the Americas, Europe, and Africa were brought together when
+                        Christopher Columbus reached the Americas in 1492.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="e4dfed56c3db49d09f6d473c1db36647">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="29d465b54d504f7894ea21005e80a3bb">
+                    <param name="audio_description" value="NA" />
+                    <param name="audio_script" value="NA" />
+                    <param name="configFile" value="../../widget_data/config/29d465b54d504f7894ea21005e80a3bb.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="5f6a6cc86fa24503816613849e9c4510">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2be27e8423ba45198d13193b1fe9639c">
+                <param name="configFile" value="../../widget_data/config/2be27e8423ba45198d13193b1fe9639c.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7e8d1cee071b4904a36652bba0aadbc4">
+            <button data-teacher-view-toggle="true" data-uuid="38858b8ccca84859afb1932529a3ffbb"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c7065de8b99844a4827d83de8bebf007">
+                <param name="configFile" value="../../widget_data/config/c7065de8b99844a4827d83de8bebf007.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c88e087eee9e4e458dc097ac90830a41">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="11c6b5bc66314b49982dbc74fbc7e57d">
+            <p class="lesson-number" data-uuid="489b3715319446679aae4fef242f9887">Lesson 4</p>
+            <article class="header-container" data-uuid="75e0820b08014416bfa4c08dda2cccb7">
+                <div class="header-element" data-uuid="eed967ecc9c34cfaa763e2a0bbbc08a1">
+                    <h1 data-uuid="a31c519ffd3d43f4ab97370a555261f3">Life in the English Colonies </h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="bf7c1fc0080f4891903bc9623dc8035b"></div>
+                    <h2 data-uuid="09ca4a829ec048e38c2d106b94bd7d0b">The Big Idea</h2>
+                    <p data-uuid="3eae1c5d4257488db750d6f81b972112">The English colonies
+                        continued to grow despite many challenges.</p>
+                </div>
+            </article>
+            <article data-uuid="fbf0b366bc1b498cba6a2af87c1ea744">
+                <h3 class="if-you-were-there" data-uuid="f3d75706c11d4f1981cd6c1351747d90">If YOU were there...</h3>
+                <p data-uuid="d0237db1f7bf4579b16f5d6f9c33b53f">Your family migrated to
+                    America in the 1700s and started a small farm in western Pennsylvania. Now, more
+                    and more people are moving in. You would like to move farther west, into the
+                    Ohio River valley. But a new law says you cannot move west of the mountains because
+                    it is too dangerous. Still, you are restless and want more land and more
+                    freedom.</p>
+            </article>
+            <section class="question-long-text" data-uuid="f8860bc223394454b0e30ca4f33be165">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4c02179653ac48bd98a31dadd9868ee2">
+                    <param name="configFile" value="../../widget_data/config/4c02179653ac48bd98a31dadd9868ee2.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="e00e008dbd2b43a99b83e7aad47a8c56">
+            <button data-teacher-view-toggle="true" data-uuid="6a3d3a0739ed4c8f99649c0423e98ec7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="853150f7bac14bdb838639f2369d6f3e">
+                <param name="configFile" value="../../widget_data/config/853150f7bac14bdb838639f2369d6f3e.json" />
+            </object>
+        </section>
+        <p data-uuid="9a55758b984d498ba6cff927d8dfb3e7"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="f832120bc10e4daaa2923f3c086ab65a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="14052a32a7af49de936815eba567e1a1">
+            <section class="lesson-review" data-uuid="a3f42a5abba44ef9b1e5326b3774cad5">
+                <div class="header-element header-container " data-uuid="936348c0d1574d5bafcb5bb6258169b8">
+                    <p class="lesson-number" data-uuid="e5d57fcd590342f5a7472b34e15c37fb"> Lesson 3</p>
+                    <h2 data-uuid="15216c3194674b6384ed8f91575eaf98">Review</h2>
+                    <p class="white" data-uuid="89fe6cf5643346ed9ccae97fbdd6667c">In this lesson you learned about abolitionist movements in the United States and the opposition to these movements. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="38eee12a38a34736b541226f3356a6c2">Review Key Terms and People</h3>
+                <p data-uuid="374a9b8f26744a598ad66fb45e7736af">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="506692f176144876bdcb472c8743136b">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="3c7aaed82c34432bb49bf93ab2b396f9">
+                
+                
+                <param name="configFile" value="../../widget_data/config/3c7aaed82c34432bb49bf93ab2b396f9.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="c0a49a1fd00b447889bd8e4598ed7c46">
+            <div class="go-prompt-bottom-bar" data-uuid="ec7eb961f57e4447a8cb289a9a8d068d">
+                <h5 data-uuid="f7228e71807441f5865f79a9f96472d8">Review the Graphic Organizer</h5>
+                <p data-uuid="a8065b471147497990f5e0d02515e4f8">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="bddd96f9e82542d494cfb5fc89792279">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="a2db52749afc4bc9aca4ba4fc01ec7ba">
+                
+                
+                <param name="configFile" value="../../widget_data/config/a2db52749afc4bc9aca4ba4fc01ec7ba.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="805c79ee0ac547d9af49c77a495d3069">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="a2510409e0584588ac5515d83911b64a">
+                <param name="configFile" value="../../widget_data/config/16588edbd5d64de59feea23f92f1f087.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="ad2895b200e34548b3ea72797d1ea4f4"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="810057b3fed742a69a11ce0f4db5f079">
+            <button data-teacher-view-toggle="true" data-uuid="10db1c4493274337a2a901d855e97edb"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1479b22148464050b789626508ad1b4a">
+                <param value="../../widget_data/config/1479b22148464050b789626508ad1b4a.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

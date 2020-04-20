@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="209f8f9210224d78b12361ccfd36856b">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="8d0d00c0a39a46a3b56ba152caec23f7">
+            <p class="lesson-number" data-uuid="47d99b68c86244c28ab38d8afdc13380">Lesson 2</p>
+            <article class="header-container" data-uuid="53228970d82b470c8f34a71db6ec0b3d">
+                <div class="header-element" data-uuid="4cc64f163e3540faa14c7347d6d13283">
+                    <h1 data-uuid="6e9c84cc96a84090a3872b74e9bcd343">Hamilton and National Finances</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="c635a74ab6b24088a7299271f8fa7488"></div>
+                    <h2 data-uuid="6ddba6e129ab4e59b50c5441c0b320c5">The Big Idea</h2>
+                    <p data-uuid="c16a157feb6446c791b9875b4eebea72">Treasury secretary Alexander Hamilton developed a financial
+                        plan for the national government.&#160;</p>
+                </div>
+            </article>
+            <article data-uuid="e454a803acd945f6a0a1f1c592ae50e6">
+                <h3 class="if-you-were-there" data-uuid="3f9fee248dbc47c3b93ae99fc17ad2d3">If YOU were there...</h3>
+                <p data-uuid="ea310a14743a4d918d792eec4acc2288">You live on a plantation in North Carolina in the
+                    1790s. You have just heard that the federal government plans to pay most of the
+                    northern states’ debts from the war. Your neighbors are outraged about this
+                    idea. It means more taxes and tariffs! New York and Massachusetts are far away,
+                    they say. Why should North Carolina farmers have to pay northern debts?&#160;</p>
+            </article>
+            <section class="reading-check" data-uuid="79ea2e89b5aa4b6f8bd0c345564c240c">
+                <section class="question-long-text" data-uuid="338f9bc10d3249baa84f996b17b5e223">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="64cd1070398c47719ef02af3a62af245">
+                        <param name="configFile" value="../../widget_data/config/64cd1070398c47719ef02af3a62af245.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8919c53e1dc14ef9a7181d006989ab4d">
+            <button data-teacher-view-toggle="true" data-uuid="45fcb156426a4d1293fe45c40859bda8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="9c4b2e35977e4d87abc391bd0de15d05">
+                <param name="configFile" value="../../widget_data/config/9c4b2e35977e4d87abc391bd0de15d05.json" />
+            </object>
+        </section>
+    </body>
+</html>

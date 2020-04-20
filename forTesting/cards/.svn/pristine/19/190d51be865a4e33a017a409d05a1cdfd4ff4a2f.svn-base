@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="fe62e9858f824bca906cee0de2958c5c" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Social Critics</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="91333588a9f8405393dbe53e57a44f97">
+            <article data-uuid="23ec677e43c34fdb92d0a9c85923c3df">
+                <h4 data-uuid="2a6531a86fc44ffa85bdd7658e59c52e">Main Idea</h4>
+                <p class="main-idea" data-uuid="42e475bb168447a5bf5bb9da3f5400d9">Social critics found fault with 1950s society.</p>
+                <h2 data-uuid="c55bfd2b88b44d038d62c65f0f4e4361">Social Critics</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="75dea5920e7749d998bb0dc070729914"></div>
+            </article>
+        </section>
+        <p data-uuid="a75777cf6e1746e5aa788edb3e61792b">Though the postwar
+            years were happy and productive for many Americans, not everyone was happy with
+            American society in the 1950s. Some women, for instance, were frustrated that
+            they could only find work in a limited number of fields such as teaching,
+            nursing, or office work. Others were discouraged by the expectation that they
+            would give up their jobs when they got married. One woman recalled,</p>
+        <section class="pullquote_wrapper" data-uuid="808bd89ea4714e498cd062e0bdbb45c3">
+            <p class="pullquote blue-2 hang" data-uuid="e3a16132cd164b69be21eb7384ca6aa5">“There was always the
+                assumption, even when I was getting my graduate degree in education, that any
+                work I did was temporary, something to do until I assumed [began] my principal
+                role in life which was to be the perfect wife and mother, supported by my
+                husband.”</p>
+            <div class="pullquote_attribution_wrapper" data-uuid="080dbfe4715a4915b6965efacfc9f382">
+                <p class="pullquote_address" data-uuid="b05e8b06b9044394b89f568f82d995de">—Sally Ann Carter</p>
+                <p class="p_source" data-uuid="117a13abf20745f6944672acaa6434bc">quoted in <i>The
+                    Fifties: A Women’s Oral History,</i> by Brett Harvey<span class="important"></span></p>
+            </div>
+        </section>
+        <figure class="image-with-caption one-third right top-align" data-uuid="413a3922a8c0433a987417009cfe8c6d">
+            <img alt="This is a photograph of novelist Ralph Ellison." class="" data-uuid="22b1b545898343f1876f53910edbfed1" src="../../img/module_28_lesson03/ms_snlese454149_478p.jpg" />
+            <div class="figcaption" data-uuid="6a06887088034d47a74c9a92404e7867">
+                <p class="caption" data-uuid="4d06d12d26d84e5a9771e6685ceef6e7">Ralph Ellison’s novels discussed discrimination against African Americans.</p>
+            </div>
+        </figure>
+        <p data-uuid="125d972e105a4b49bb38c0cac1742519">Many writers commented on 1950s society in their
+            work. In 1951 J. D. Salinger published <i>The Catcher in the Rye</i>. The
+            novel’s teenage narrator, Holden Caulfield, criticizes the “phoniness” of the
+            adults around him, who he believed loved only money and wanted everyone to be
+            the same. In his 1952 novel <i>Invisible Man,</i> Ralph Ellison wrote about how
+            African Americans felt left out by American society. “I am an invisible man,”
+            Ellison wrote. “I am invisible, understand, simply because people refuse to see
+            me.”</p>
+        <p data-uuid="ffe4cd88c9cc45e0ba8fd3721712020c">Young people known as beatniks, or <dfn title="beats">beats</dfn>, criticized society with unusual
+            writing styles and rebellious behavior. The works of beat poet Allen Ginsberg
+            and novelist Jack Kerouac inspired many young people to question the rules of
+            mainstream American society. Many young people also identified with rebellious
+            characters in popular movies of the 1950s. In the 1953 film <i>The Wild One,</i>
+            actor Marlon Brando plays Johnny, a wild biker who challenges the rules of
+            society. When asked, “Hey Johnny, what are you rebelling against?” Johnny
+            replies, “Whadda ya got?”</p>
+        <section class="question-long-text" data-uuid="2c76111dae51454790b01d489a042fa9">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0b954660ab544bb8b549807c5ec187c6">
+                <param name="configFile" value="../../widget_data/config/0b954660ab544bb8b549807c5ec187c6.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt" data-uuid="836cbbaa2f1044e3a78e67bf9b5334a6">
+            <div class="go-prompt-bottom-bar" data-uuid="cc339005573e4816a14290d765bf60dc">
+                <p data-uuid="2b13842d33d14f0f92c816eca7d49fff">Remember to complete the
+                    graphic organizer with information on the suburban lifestyle and culture of the
+                    1950s.
+                    <!--
+                        -&#65533;&#65533;[&#65533;͵
+                    -->
+                </p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="263ab280ff214e288caeb5952473185e">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="cf0b1819bc474612a11a79f8dde8ef09">
+                <param name="configFile" value="../../widget_data/config/e4eee815061a49f5b70fc79b8d7cb397.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="22585f573f294fafa2ec6e27ea81fc1e"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="46a1ccf3952d44a7bc08541f7fdb9ee5">
+            <button data-teacher-view-toggle="true" data-uuid="5b1facf8fc364665a0c7fec2aac026cb"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="76bfede392314de3b91802d4989888bb">
+                <param name="configFile" value="../../widget_data/config/76bfede392314de3b91802d4989888bb.json" />
+            </object>
+        </section>
+        <p data-uuid="3a12402e151e4da4ac71b9249eee9168"><br />
+        </p>
+    </body>
+</html>

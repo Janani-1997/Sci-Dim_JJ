@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="31a937658973474db936f7b4ac9e4891">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="5d94bc8593294d2caa38042a069bd0e4">
+            <div class="header-element header-container " data-uuid="8cd092f83b034a13997d1f06ca43bcad">
+                <h2 data-uuid="de1d2a6d9d59448098004ead9aa2fccc"><br />
+                </h2>
+                <h2 data-uuid="dd1c9fd28888460ebc19efc2932c3e80"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="6b02dc3c4ed349daa0b330f8558740d4">In this module you’ve learned about how slavery
+                    began in the United States and how it became an increasingly divisive issue. Now
+                    it’s your turn to demonstrate your understanding of the module content by
+                    writing an essay.</p>
+            </div>
+            <h3 data-uuid="71cf1100292c42d0b44b0681b10b51f5">How did slavery shape life in the United States?</h3>
+            <p data-uuid="36bdaa7fb31a4fbcbdfd435c239a751c">Write a persuasive essay answering this
+                question. Your essay should include key people, key events, and the results of
+                those events. Remember to state a clear position, include details from the text
+                to support the position, and include a conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="96cc5aa305884ebfb3a47fb86722ee60">
+            <button data-teacher-view-toggle="true" data-uuid="5db0b053eb1e4a359e4209bfedbfd99f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c153ad03f3b54525a045c6835417d3aa">
+                <param name="configFile" value="../../widget_data/config/c153ad03f3b54525a045c6835417d3aa.json" />
+            </object>
+        </section>
+        <p data-uuid="c0463e594f8c4664a8e42b25a1b474d3"><br />
+        </p>
+    </body>
+</html>

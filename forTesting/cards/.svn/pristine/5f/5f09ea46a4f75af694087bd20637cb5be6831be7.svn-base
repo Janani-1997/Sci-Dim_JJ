@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="9626e3d0948c48c9838fcb56deaf9cba">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Article  VI: Supremacy of the National Government</title>
+    </head>
+    <body class="bg-tint">
+        <section class="constitution bg" data-uuid="aab27cabf4b4438eb5d62e82dac03167">
+            <div class="yellow-star-yellowgray-bar" data-uuid="6b1e4de00ed4451e835d3a1f4e5ad712"></div>
+            <h3 data-uuid="33ab657ed20e49cdaceca6272dc1bf32">Article VI: Supremacy of National Government</h3>
+            <p data-uuid="429e1fa4c42a423f8f909096fe4789c4">All
+                Debts contracted and Engagements entered into, before the Adoption of this
+                Constitution, shall be as valid against the United States under this
+                Constitution, as under the Confederation.</p>
+            <p data-uuid="353e3c8d97c3444ab7b71ca463e6755e">
+                This
+                Constitution, and the Laws of the United States which shall be made in
+                Pursuance thereof; and all Treaties made, or which shall be made, under the
+                Authority of the United States, shall be the supreme Law of the Land; and the
+                Judges in every State shall be bound thereby, any Thing in the Constitution or
+                Laws of any State to the Contrary notwithstanding.</p>
+            <section class="extension" data-uuid="b9a771976bc344a4b580377540e77a30">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="8f561c64a2f8411dbce48ed77fd93ca5">
+                    <param name="configFile" value="../../widget_data/config/8f561c64a2f8411dbce48ed77fd93ca5.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <p data-uuid="ce902ffddd9447db9956109c09269568">The Senators and Representatives before
+                mentioned, and the Members of the several State Legislatures, and all executive
+                and judicial Officers, both of the United States and of the several States,
+                shall be bound by Oath or Affirmation, to support this Constitution; but no
+                religious Test shall ever be required as a Qualification to any Office or
+                public Trust under the United States.</p>
+            <section class="question-long-text bg" data-uuid="8116f2e479c044c9830601458ab3ccfd">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="eb76f394889e4c1cb80605217d70a274">
+                    <param name="configFile" value="../../widget_data/config/eb76f394889e4c1cb80605217d70a274.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2bb0122b5ae14fa4ba20db08cf8de3e7">
+            <button data-teacher-view-toggle="true" data-uuid="3d1a4f2bbaff4d2280f08596928f6c14"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="37ba527943d746598746eeb52933cfbf">
+                <param name="configFile" value="../../widget_data/config/37ba527943d746598746eeb52933cfbf.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="13b70732353446b08e2ab0eec72e5169" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Rush of Inventions</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="9cb0add774934daca033eedb43f8d6b3">
+            <article data-uuid="47f874a3d31b49f388c6d4a882846f6a">
+                <h4 data-uuid="25cacf31308a4f4195e6550e94038865">Main Idea</h4>
+                <p class="main-idea" data-uuid="c33e50c8f9614802ae4096a2266d6003">A rush of inventions at the end of the 1800s changed Americans’ lives.</p>
+                <h2 data-uuid="dec1ca2b17f84b7893b3ebb09b655673">Rush of Inventions</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="4da8ab57265047fdb0834f80e14a7697"></div>
+            </article>
+        </section>
+        <p data-uuid="93a97a85bf5e4d09b9a967962d62aedf">In the late 1800s inventors focused on finding solutions to practical problems. Communication and transportation took the lead.</p>
+        <figure class="image-with-caption main" data-uuid="c569cc1dcd7a461bbd932e4291a2b453">
+            <div class="figcaption" data-uuid="d65035548ba9458caa6b64d5eabffc78">
+                <h5 data-uuid="396ba03aaf7147939b2ac8a21b8f6d78">Timeline: The Spirit of Innovation</h5>
+                <p class="caption" data-uuid="e907d805eeaf433bbb95d0fd27aa3728">Improvements in steel production and the use of oil and electricity as power sources led to inventions that changed the ways Americans communicated, traveled, worked, and lived.</p>
+            </div>
+            <img alt="" data-uuid="3bdbc110e0834b6480d1a8ae6ffefc06" src="../../img/module_20_lesson01/ms_snlese454149_the_spirit_of_innovation.png" />
+        </figure>
+        <section class="skillbuilder" data-uuid="13dd305f550a4337b5603372dd1cefbc">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="e72662126f53412f9cba2efda7772f96">
+                <param name="configFile" value="../../widget_data/config/e72662126f53412f9cba2efda7772f96.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="bf186464166e47ed9fb6796c613817f4">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="226539a74861458aa83b0ce00e7ec9fa">
+                <param name="configFile" value="../../widget_data/config/226539a74861458aa83b0ce00e7ec9fa.json" />
+            </object>
+        </section>
+        <h3 data-uuid="d5363411c3b74161b7f3bc59a0c7e45e">Advances in Communication</h3>
+        <p data-uuid="9a37e4e614a6430fbad338d483104a21">Great advances in communication technologies took place in the late 1800s. By 1861 telegraph wires connected the East and West coasts. Five years later, a telegraph cable laid across the floor of the Atlantic Ocean connected the United States and Great Britain.</p>
+        <p data-uuid="e0e42d7b845846c185649de1e285d1a2"> However, the telegraph carried only written messages and was difficult for untrained people to use. These problems were solved in March 1876, when inventor <b><dfn title="Bell, Alexander Graham">Alexander Graham Bell</dfn></b> patented the telephone. Bell was a Scottish-born speech teacher who studied the science of sound. He called the telephone a “talking telegraph.”<br />
+        </p>
+        <section class="extension" data-uuid="5d64cd3579f14f8395732e7f6d53fbe9">
+            <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="2befbcad4445492db9932153736577ba">
+                <param name="configFile" value="../../widget_data/config/2befbcad4445492db9932153736577ba.json" />
+                <param name="audiopath" value="" />
+                <param name="widgettype" value="shortplayer" />
+            </object>
+        </section>
+        <p data-uuid="76baa8ae98bd4d0fb76c8c9fce6006a5">Companies quickly found telephones to be an essential business tool. People wanted them in their homes, too. Telephone companies raced to lay thousands of miles of phone lines. By 1880 there were about 55,000 telephones in the United States. By 1900 about 1.5 million telephones had been installed in homes and offices across the nation.<br />
+        </p>
+        <section class="image-carousel" data-uuid="2cb55c733cc04870ae2fd7483b001b1c">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html" data-uuid="8491731d17c94bc08f643fd14922efda">
+                <param name="configFile" value="../../widget_data/config/8491731d17c94bc08f643fd14922efda.json" />
+                <param name="credit" value="[null,null,null]" />
+            </object>
+        </section>
+        <h3 data-uuid="ddeefac9220e472e882a099bca1f7248"> Automobiles and Planes</h3>
+        <p data-uuid="fd4811cfa3ff408fbfa42daaab226a77">In 1876 a German engineer invented an engine powered by gasoline, another fuel made from oil. In 1893 two brothers, Charles and J. Frank Duryea, used a gasoline engine to build the first practical motor car in the United States. By the early 1900s, thousands of cars were being built in the United States.</p>
+        <p data-uuid="45e0b36ef4ca47e68d800bd77227c4e9"> At first, cars were luxury items that only the wealthy could buy. That changed when a young entrepreneur, <dfn title="Ford, Henry">Henry Ford</dfn>, introduced the Model T in 1908. Ford aimed to make “a motor car for the great multitude.” At first, Ford’s mechanics built Model Ts one car at a time, but this soon changed. Ford started by simplifying his design and making all of his cars identical. This brought the cost down, but not enough to make cars affordable to ordinary people. So Ford studied manufacturing processes that would reduce costs by increasing productivity and efficiency, such as using interchangeable parts and the assembly line.<br />
+        </p>
+        <section class="video" data-uuid="3ec3439116ff4bdc9fe20e5ff9c6e734">
+            <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="c6f78f2bb3f44e3bb125ad7b698379ce">
+                <param name="configFile" value="../../widget_data/config/c6f78f2bb3f44e3bb125ad7b698379ce.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="93da85732fa244c38f73921f1f9e9d26">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="3ae850ed1bcd45e9883b889bf7b9e9cd">
+                <param name="configFile" value="../../widget_data/config/3ae850ed1bcd45e9883b889bf7b9e9cd.json" />
+            </object>
+        </section>
+        <p data-uuid="f8819eb00f374f139b8016b87b3ad174">Ford became the first to implement a large-scale <dfn title="moving assembly line">moving assembly line</dfn> to make cars. On Ford’s assembly line, each car that was being built moved along a conveyor belt to workers at various workstations. The work of building the car was broken down into 84 steps. Each worker was trained to do just one job, requiring simple skills and interchangeable parts. This process allowed Ford to produce more cars at a lower cost. In its first year, the Ford assembly line produced a car every hour and a half. The cars sold for under $500, about half the cost of the first Model Ts and a price that many people could afford.<br />
+        </p>
+        <p data-uuid="bc6de418b30c467d9a18622d8b380f82">New engine technology helped make another breakthrough in transportation possible—air flight. Brothers <b><dfn title="Wright, Orville">Wilbur and Orville Wright</dfn></b> built a lightweight airplane that used a small, gas-powered engine. On December 17, 1903, the Wright brothers tried out their airplane at Kitty Hawk, North Carolina. In freezing temperatures and a strong wind, Orville climbed into the pilot’s seat and the plane took off across the beach. It flew just inches above the ground and landed 120 feet from where it had started. This short trip—12 seconds in all—was the first true flight in an airplane. The Wright brothers quickly followed this success with even longer flights.<br />
+        </p>
+        <section class="video" data-uuid="13c3a11fb781444581821bfe535f367a">
+            <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="749e570a25d147e2b48c9fc1efe76892">
+                <param name="configFile" value="../../widget_data/config/749e570a25d147e2b48c9fc1efe76892.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="0788876d99914c8dbadc7ce8bf738c3a">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="d7a405a2fca14556ae771a0a69977fc7">
+                <param name="configFile" value="../../widget_data/config/d7a405a2fca14556ae771a0a69977fc7.json" />
+            </object>
+        </section>
+        <p data-uuid="b0f5fcc1d72b48dba50bbdd993ef14e3">Airplanes would soon give Americans another transportation option. Passenger airlines first flew through American skies in the 1920s. Early flights offered little comfort—some passengers wore goggles and helmets for protection. Moreover, planes couldn’t fly over mountains or at night. In fact, for cross-country travel, trains were more comfortable, faster, and less expensive option. Still, for a handful of Americans, the thrill of air travel outweighed the early discomfort.<br />
+        </p>
+        <section class="true_false_game type-true-false" data-uuid="720806dbcc4147f8ac201c34c44286ba">
+            <object type="text/html" data="../../assets/widgets/true_false_game/index.html" class="widget" data-uuid="4b7ffc1bf8d44d44b9ba5fb664ce79dc">
+                <param name="configFile" value="../../widget_data/config/4b7ffc1bf8d44d44b9ba5fb664ce79dc.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="94fd45a246ba4c55814254c4ea143da0">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2b3a6a77953f41c39c5e9f314fe5bd49">
+                <param name="configFile" value="../../widget_data/config/2b3a6a77953f41c39c5e9f314fe5bd49.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="7af532bf6320466388319ada899b0932">
+            <div class="go-prompt-bottom-bar" data-uuid="b09f4ae3594141088381724d482f0417">
+                <p data-uuid="3554eff5de414ae1a44e1d37b4a67410">Remember to use the graphic organizer to take notes on key inventions and breakthroughs.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer full bleed" data-go="v0.1.0" data-csm-hide="true" data-uuid="ebfc7877ab9e4fa097ea069a1646f4bd">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="dbece974cb8d42a49831583454d27892">
+                <param name="configFile" value="../../widget_data/config/8130f98a9e8843de8f52be50cf0372e6.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="c4e38d5a9f754bacb0a9ae8c5e94e24b"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6fc68dc427e344369b2b558c05ac1d70">
+            <button data-teacher-view-toggle="true" data-uuid="2445c7d7df1c49c58c8357848bb475f9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="567d76a8dde74961b55b25bc777dfd8d">
+                <param name="configFile" value="../../widget_data/config/567d76a8dde74961b55b25bc777dfd8d.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d19863ceb24045debbaea71a41ffa0c8">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="ff36337faa5b4c5bb5871a51dd7501ad">
+            <p class="lesson-number" data-uuid="fee845b81aba4117a73c1cb3f99ace34">Lesson 1</p>
+            <article class="header-container" data-uuid="273010f1c9b641eaa6a99052a48f345c">
+                <div class="header-element" data-uuid="761e28d037b54e3faff0dfe1a89b1236">
+                    <h1 data-uuid="ac80a1c36e8349cc97b3f53ce24e4eb9">The War Begins</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="a82008aa2ce4437f8be502ec849ed40a"></div>
+                    <h2 data-uuid="ac2e2f876acb457e943b71ce54e0ea20">The Big Idea</h2>
+                    <p data-uuid="e1321dc8245c4146aa04bb9d5d9bea25">Civil war broke out between the North and the South
+                        in 1861.</p>
+                </div>
+            </article>
+            <article data-uuid="107fe5ee718e44baa81f857772b69e18">
+                <h3 class="if-you-were-there" data-uuid="ef4ff6cf256c47d0930be3ed1e79c2a5">If YOU were there...</h3>
+                <p data-uuid="5df122d60a2947ca8681863730a4add3">You are a college student in Charleston in early
+                    1861. Seven southern states have left the Union and formed their own
+                    government. All-out war seems unavoidable. Your friends have begun to volunteer
+                    for either the Union or the Confederate forces. You are torn between loyalty to
+                    your home state and to the United States.</p>
+            </article>
+            <section class="question-long-text" data-uuid="477f8f3da90d4cf9b64afd26c27d682e">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="9fdf1ba5080d400085114683f37e9ea0">
+                    <param name="configFile" value="../../widget_data/config/9fdf1ba5080d400085114683f37e9ea0.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7f4e21084cdf4d568208678f25db1b0c">
+            <button data-teacher-view-toggle="true" data-uuid="81d517fbbc0e46b6b9141e72135265ed"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e9b3162055de47b5b677b25d82766cd0">
+                <param name="configFile" value="../../widget_data/config/e9b3162055de47b5b677b25d82766cd0.json" />
+            </object>
+        </section>
+    </body>
+</html>

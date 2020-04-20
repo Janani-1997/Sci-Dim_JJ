@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2f5552442365433bbb49732c8c520c22">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="1e0295c439d041179b474070972b7675">
+            <div class="header-element header-container " data-uuid="920144b34cdb43279dd229c7fe4e1a68">
+                <p class="lesson-number" data-uuid="58423823ee564c6cb3ce6c2e4b3ee6ef"><br />
+                </p>
+                <h2 data-uuid="0777471b9da749d297050a6d720a16d9"> Review</h2>
+                <p class="white" data-uuid="92069fc563754f55b9a8fa6c9e827ba6">In this module, you’ve learned about U.S.
+                    involvement in World War II. Now you will review some key terms and people
+                    before completing the Module Assessment.</p>
+            </div>
+            <h3 data-uuid="68b2ba0774d743fabd740fad312549b0">Review Key Terms and People</h3>
+            <p data-uuid="912601980cd84996b589db408cecc160">Define each term or person
+                shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="5f5b4b769d0a44d88033c8f3a49776eb">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget" data-uuid="5a2ccec97219433c981e1826e5dc1cdb">
+                    <param name="configFile" value="../../widget_data/config/5a2ccec97219433c981e1826e5dc1cdb.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="179d3824179046299ac498dcbfb31189">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="26d75b9c98254810a5610e00d304ce0f">
+                    <param name="configFile" value="../../widget_data/config/26d75b9c98254810a5610e00d304ce0f.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9610129a5cba4bfd9bb3b6d5b7f0b1cf">
+            <button data-teacher-view-toggle="true" data-uuid="f0c8d184180a468da036ad1a4ceea1fa"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="535015341fbc4fbf8c47f63c33759990">
+                <param name="configFile" value="../../widget_data/config/535015341fbc4fbf8c47f63c33759990.json" />
+            </object>
+        </section>
+        <p data-uuid="ec4ba934369e4c8e8fa884c715998c1b"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d29ff7e1849949c691fba8edc7792cb1">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="ec6d998322c74218a8b8756e5291bfab">
+            <p class="lesson-number" data-uuid="87b88126dd664aa28a7fa25fdc62d55e">Lesson 1</p>
+            <article class="header-container" data-uuid="914ffa9b75a84750a8cef7b5850395d7">
+                <div class="header-element" data-uuid="4acdd363c5824a0f9a84d2dd33d56916">
+                    <h1 data-uuid="2805313fae864aab99dcc8711764fff8">Immigrants and Urban Challenges</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="f4f58496c7ee4355a0b9f6709f58b715"></div>
+                    <h2 data-uuid="02cb698e941a4119bfd015d215d862c1">The Big Idea</h2>
+                    <p data-uuid="361f1c3d8eec43cfb74d735bd4dfda0b">The population of the United States grew rapidly
+                        in the early 1800s with the arrival of millions of immigrants.</p>
+                </div>
+            </article>
+            <article data-uuid="1ea9a5f653c54435b257110ebb66abdd">
+                <h3 class="if-you-were-there" data-uuid="7626cb3f1de64659b320008b518bde98">If YOU were there...</h3>
+                <p data-uuid="87e515a1042a418482ab2fc20d9938aa">It is 1850, and you are
+                    a German immigrant standing on the deck of a steamboat, crossing Lake Erie.
+                    Other immigrants are on board, but they are strangers to you. Soon, you will
+                    arrive at your new home in Cleveland, Ohio. You’ve been told that other Germans
+                    have settled there. You hope to find friends and work as a baker. Right now,
+                    America seems very big and very strange.</p>
+            </article>
+            <section class="question-long-text" data-uuid="8125d1ab43774cfa93dde58b37102066">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="175f08bfe2f44e5386c0fe27d129e677">
+                    <param name="configFile" value="../../widget_data/config/175f08bfe2f44e5386c0fe27d129e677.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="e1cafde264404d73897d28c12684531b">
+            <button data-teacher-view-toggle="true" data-uuid="067ea29c2f554b918416101a3f8fc13e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="09eb491bb4be4d3c8922f049c0de9685">
+                <param name="configFile" value="../../widget_data/config/09eb491bb4be4d3c8922f049c0de9685.json" />
+            </object>
+        </section>
+    </body>
+</html>

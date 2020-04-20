@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3278ea18ba2b471298d80d9db073c310">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="12962611e6384e3fb0bcac6f01f2999d">
+            <div class="header-element header-container " data-uuid="7d67d5f79b3f413884e66362d35e1178">
+                <p class="lesson-number" data-uuid="874b824a048b42b4900251d35926ec31">Lesson 1</p>
+                <h2 data-uuid="a9890e8763644ae0b3f8a29103f5f1e4">Review</h2>
+                <p class="white" data-uuid="02ee3bc18d7548489d74aeaf12e58090">In this lesson you learned about how the
+                    invention of the cotton gin sparked a boom in this crop in the South. Now you will review
+                    some key terms and people before completing the Lesson Assessment. &#160;</p>
+            </div>
+            <h3 data-uuid="4b1f4e42fbf746a78691d4a53d1a1867">Review Key Terms and People</h3>
+            <p data-uuid="7c597ca575d143c99e4e0c5e17f1d421">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="lesson-close-header" data-uuid="8855c3ed5b4e41db958f8a297b4c0062">
+            <section class="flipcard" data-uuid="45bbeeabf3ff4242b22cb9f442856717">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="854270c983d54cffa5d357479af22c85">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/854270c983d54cffa5d357479af22c85.json" />
+                </object>
+            </section>
+            <section class="graphic-organizer-prompt-less-rev" data-uuid="3cd6712e9bcf4b188685f8ea736b320d">
+                <div class="go-prompt-bottom-bar" data-uuid="26cdfd12b56143b98c5b4cd956fbba70">
+                    <h5 data-uuid="6f4b234a145a4eacb7ed070b59814eec">Review the Graphic Organizer</h5>
+                    <p data-uuid="4826158ba13d43afbbdf093705544fce">Review your graphic organizer notes and use them
+                        to answer the following question.</p>
+                </div>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="87195b17f8534b9d90981a236d9f1988">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="9f28dfeee7f14f6ba79bab9c6aa32da3">
+                <param name="configFile" value="../../widget_data/config/9f28dfeee7f14f6ba79bab9c6aa32da3.json" />
+                
+                
+            </object>
+        </section>
+        <section data-go="v0.1.0" data-csm-hide="true" data-uuid="d0c62e18991044cbbb75e0fcfb7d0e5a" class="graphic-organizer">
+            <object type="text/html" data="../../assets/widgets/go/index.html" data-go-content="true" data-uuid="45d2abaf367345f1a5499a467ff7383c" class="widget">
+                <param name="configFile" value="../../widget_data/config/ee891ee739954b1b86f8fcceb6bb8292.json" />
+            </object>
+            <button data-go-toggle="true" data-uuid="18e3c5aae5d74bbaa288fa1953d09a13" class="go-close-btn"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d08f7802f499435dba7d43a87917682b">
+            <button data-teacher-view-toggle="true" data-uuid="ceefcd56cf174d0ebb06c9f4286e7574"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="22dfe2c648cc4844805f028cb1398c16">
+                <param value="../../widget_data/config/22dfe2c648cc4844805f028cb1398c16.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

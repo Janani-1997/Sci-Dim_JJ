@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="757d223e1e3944c4a9c41383bd586e41" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="44381a7fc2e24f58aed2811955b51c0c">
+            <div class="header-element header-container " data-uuid="6c4a3b61b1be4b1b9ce471f04c640da0">
+                <p class="lesson-number" data-uuid="439b6076cb594e8fb3c5123d66c08bcf">Lesson 1</p>
+                <h2 data-uuid="98e47ef6083b4b5b9890d5bb05996cb9">Assessment</h2>
+            </div>
+            <h5 data-uuid="8ef579d2758e4df79bcd4031b686473d">The United States Gains Overseas Territories</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="fd304d3bb4c545c9a0daa61b358c21c9">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="37f08440db164add93676454ebec09ca">
+                <param name="configFile" value="../../widget_data/config/37f08440db164add93676454ebec09ca.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="eac690e3f43542cc890b37d69f902623">
+            <button data-teacher-view-toggle="true" data-uuid="ebda4f1b4ca64e14bd510b5a0dea267e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5d78c193e6f34f3185230b186bfb891c">
+                <param name="configFile" value="../../widget_data/config/5d78c193e6f34f3185230b186bfb891c.json" />
+            </object>
+        </section>
+        <p data-uuid="2f278c0cd7e549d59f3208cabc6dbf63"><br />
+        </p>
+    </body>
+</html>

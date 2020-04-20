@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ccbabaeebb52489496a3e5d45b3a6199">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>A National Bank</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="67685c94dcf049a88b2cea32deccd4f0">
+            <article data-uuid="7458808fdf70448e8026a99d26c62026">
+                <h4 data-uuid="16affe75a0014be88c30263abd3bea35">Main Idea</h4>
+                <p class="main-idea" data-uuid="e9ae7b111475443880253e6858c0866c"> Hamilton created a national bank to strengthen the U.S. economy.</p>
+                <h2 data-uuid="5810ffa24d1646da9f22ff559f753666">A National Bank</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="0994bd25ea6c41ebb42932be35575ee7"></div>
+            </article>
+        </section>
+        <p data-uuid="9b3e861421534415901a375962a13b61">Hamilton’s and Jefferson’s differences became more and more public in early 1791. The two men had very different opinions about how the government should approach its economic problems.</p>
+        <h3 data-uuid="dc222bccb5074f41be1887972b79de77">Hamilton’s Plan for a National Bank</h3>
+        <p data-uuid="1201cd87ddc245f980c12e63247334df">Hamilton wanted to start a national bank where the government could safely deposit its money. The bank would also make loans to the government and businesses. Hamilton also thought that the United States should build a national mint, a place to make coins. Then the country could begin issuing its own currency.</p>
+        <figure class="image-with-caption text-center main" data-uuid="d5dbfce3060b4cdbbee33878e902ffaa">
+            <img alt="This is a black and white illustration of the first building of the national mint. It was located in Philadelphia and was the first federal building erected under the Constitution. The U.S. flag flies from the top of the building. Surrounding buildings are also shown. " data-uuid="7421f920dc5d4276bfec15dd338f5f4d" src="../../img/module_7_lesson02/8_snlese454170_731p.jpg" />
+            <div class="figcaption" data-uuid="ef535e681b4c4a5dbcf5c9e4a0139291">
+                <p class="caption" data-uuid="e9e6c72a8a7e49abaa5a1089565fa470"> Soon after the Constitution was ratified, Alexander Hamilton started preparing plans for a national mint. The Coinage Act was passed by Congress on April 2, 1792. This authorized the construction of a Mint building in what was then the nation’s capital in Philadelphia. This was the first federal building erected under the Constitution.</p>
+            </div>
+        </figure>
+        <p data-uuid="9a56204b65d04199844baa854574c255">Hamilton knew that people who wanted to protect states’ rights might have a strong reaction to the idea of a national bank, so he suggested limiting it to a 20-year charter. After that time Congress could decide whether to extend the charter. Hamilton also asked each state to start its own bank so the national bank would not have a monopoly.</p>
+        <h3 data-uuid="d2e55853467448bd87c238c714dd2a5d">Jefferson Opposes the Bank</h3>
+        <p data-uuid="cd118a1df7b34d208139e09bbf8470ed">Both Jefferson and Madison believed that Hamilton’s plans for the economy gave too much power to the federal government. They also thought the U.S. Constitution did not give Congress the power to create a bank. But Hamilton quoted the elastic clause, which states that Congress can “make all laws which shall be necessary and proper” to govern the nation.</p>
+        <p data-uuid="87950c4e69ad49c59768e71e80b304ef">Hamilton declared that the clause allowed the government to create a national bank. Hamilton believed in <b><dfn title="loose construction">loose construction</dfn></b> of the Constitution. Loose construction means that the federal government can take reasonable actions that the Constitution does not specifically forbid.</p>
+        <p data-uuid="5f940f23eb3a42ae9eeff6a482d464dd">Jefferson thought that the elastic clause should be used only in special cases. He wrote to President Washington, “The Constitution allows only the means which are ‘necessary,’ not those which are merely ‘convenient.’” Jefferson believed in <b><dfn title="strict construction">strict construction</dfn></b> of the Constitution. People who favor strict construction think that the federal government should do only what the Constitution specifically says it can do.</p>
+        <section class="drag-and-drop" data-uuid="40465d93af9f4b9bb381949b8a753b2b">
+            <object type="text/html" data="../../assets/widgets/drag_and_drop_matching/index.html" class="widget" height="1020" data-uuid="e36afe1794194ce09f866a271b50b8dd">
+                <param name="configFile" value="../../widget_data/config/e36afe1794194ce09f866a271b50b8dd.json" />
+                <param name="header" value="Alexander Hamilton and Thomas Jefferson had very different views on how to structure the government and the economy of the new nation." />
+                <param name="externalwidget" value="true" />
+            </object>
+        </section>
+        <p data-uuid="88975f4818ee4a7383ef07b2e8d7b83f"> President Washington and Congress agreed with Hamilton. They hoped a bank would offer stability for the U.S. economy. In February 1791 Congress enacted the charter for the <b><dfn title="Bank of the United States">Bank of the United States</dfn></b>—the country’s first national bank. The bank played an important role in making the U.S. economy more stable.<br />
+        </p>
+        <section class="compare_images " data-uuid="bd733f68599d4cf99c119956aa42c9d2">
+            <object type="text/html" data="../../assets/widgets/primarysource/index.html" class="widget" data-uuid="62d36f4ff13c44ed93618d2882822919">
+                <param name="configFile" value="../../widget_data/config/62d36f4ff13c44ed93618d2882822919.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="280338e1bc9940a3916c6e9b6ea1a513">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="3b0f899b175343b3a4c1fd6e8c43a857">
+                <param name="configFile" value="../../widget_data/config/3b0f899b175343b3a4c1fd6e8c43a857.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="f0ce38ccebf94419ad050fc23d4cb9cf">
+            <div class="go-prompt-bottom-bar" data-uuid="7d17e46bfd174ceab8daa09696370ac5">
+                <p data-uuid="3b40acba14d742d9a36d1d704f5433cf">Remember to complete the graphic organizer to take notes on how Hamilton created a national bank to strengthen the U.S. economy.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="4f4d7fa5ace54a9ab47398206995bab8">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="d82d8ab072024c26bd138f0c79163da3">
+                <param name="configFile" value="../../widget_data/config/22665e67fbd444b9be843282d31ee807.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="7c23379eb86c4a3ba690fafec8147ac0"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="3b6d7f6c1a384dd2b22003ea4c9e557b">
+            <button data-teacher-view-toggle="true" data-uuid="e95a84b6fda24481b3e1c03ff31b8c53"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f8a127ecdbdb4eeeb25d11c12d9ea2b5">
+                <param value="../../widget_data/config/f8a127ecdbdb4eeeb25d11c12d9ea2b5.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

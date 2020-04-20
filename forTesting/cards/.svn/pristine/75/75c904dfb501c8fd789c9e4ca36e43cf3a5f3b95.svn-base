@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="792fcac15b1349b294c4281499c35191">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="78cd4a6d24aa4641a8efaf34a5c3d42c">
+            <section class="lesson-review" data-uuid="78e9b81cd07d4c4db3e097fa3820fdc9">
+                <div class="header-element header-container " data-uuid="1cf3323b07574149b97f573c024aa943">
+                    <p class="lesson-number" data-uuid="812768197a12452b935df7d1f1854fa7"> Lesson 1</p>
+                    <h2 data-uuid="29d5efe869c74548bbc961de521dc247">Review</h2>
+                    <p class="white" data-uuid="5f58eae3a4ec47d7826e3b986bc8b773">In this lesson you learned about how the first system of government in the United States was formed. Now you will review some key terms and people before completing the Lesson Assessment. </p>
+                </div>
+                <h3 data-uuid="98f815f866134f7ea70861f62b4459c8">Review Key Terms and People</h3>
+                <p data-uuid="1efa7354d3c14e3e9bea4c802c81cccb">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="30192529a21f4621b06fd50130d83dd7">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="6fbbe72a579346afbe6fbfdb5f0f5dbc">
+                
+                
+                <param name="configFile" value="../../widget_data/config/6fbbe72a579346afbe6fbfdb5f0f5dbc.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="3bd2f392a1604dc68f999fe2559e76d8">
+            <div class="go-prompt-bottom-bar" data-uuid="fb2b5e97d0b0405084cc91d8511de660">
+                <h5 data-uuid="0b5eeec7a19647e8b1a2d0a1ef5d2c97">Review the Graphic Organizer</h5>
+                <p data-uuid="cc3cf72f1fa349f49f2347a2defeb17d">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="b0b033436e01420a9c212c3946e4d3e1">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="55458363d7ba4c2d9a5a559b167c332a">
+                <param name="configFile" value="../../widget_data/config/55458363d7ba4c2d9a5a559b167c332a.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="6705b248b50144c284c3e283583db817">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="38f662886d7e4f0ea6a445c517a23528">
+                <param name="configFile" value="../../widget_data/config/4debb707bccd44fa8111ab3ec0108ad5.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="725fab8ea3c344a793f713473139ff5f"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="75bd406aabb44544aaeb7f0ceb57b8bd">
+            <button data-teacher-view-toggle="true" data-uuid="d817349a62944c5b9486105303da5f7e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ea64113643174ef99d4154fb4fb107ed">
+                <param value="../../widget_data/config/ea64113643174ef99d4154fb4fb107ed.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

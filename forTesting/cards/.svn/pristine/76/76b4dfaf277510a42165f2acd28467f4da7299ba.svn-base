@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="706ffc3d96f746c4a7fa87d1df1b3f99">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="ad61cf9981914c6e8c5f4c13dcac8a82">
+            <section class="lesson-review" data-uuid="4861d0da52e14a639f1f558fd24b3cee">
+                <div class="header-element header-container " data-uuid="33d54b604b394187948ea3c01cc955b6">
+                    <p class="lesson-number" data-uuid="99d771a2a61e4d78969b5288626edccf"> Lesson 1</p>
+                    <h2 data-uuid="58c069a372404012a8e73ff8252bc2ee">Review</h2>
+                    <p class="white" data-uuid="99866eca42cd4aac8df2e93601761395">In this lesson you learned about how the annexation of new lands and antislavery literature intensified the debate over slavery. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="074d59fedea643518fa591ea264ccc1e">Review Key Terms and People</h3>
+                <p data-uuid="994aca7120924f488955771eb49bb534">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="4907e66f625f40a0909a42adad424bc6">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="30567ab363f047ec9cbb95728b85ea8b">
+                <param name="configFile" value="../../widget_data/config/30567ab363f047ec9cbb95728b85ea8b.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="dc9369ad2c4d449a96dc1d34b24f9604">
+            <div class="go-prompt-bottom-bar" data-uuid="4f811711545e47f28343a40e32a6e74a">
+                <h5 data-uuid="9a15f0ba68674b86847d24b0f9ade821">Review the Graphic Organizer</h5>
+                <p data-uuid="c90a82c6fb6449f095b4d1a2d2c7408e">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="97805afd415f44c39f397158fd42ed41">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2f0de1c3af9341b1abd309d42f2b825a">
+                
+                
+                <param name="configFile" value="../../widget_data/config/2f0de1c3af9341b1abd309d42f2b825a.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="481622397e4d4b908f22333be3b307aa">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="87c515e905f14372912b23f9f1604311">
+                <param name="configFile" value="../../widget_data/config/919f854cfce24ec4875da4ef4afc2f10.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="5f24f077348d41f6b80387ff2297e794"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="295d5c00a0fd4995adea5f863713ddde">
+            <button data-teacher-view-toggle="true" data-uuid="293c596bcc85468191ada1f5b54b49e6"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5d356e865b334ec191e7aadd926fba37">
+                <param value="../../widget_data/config/5d356e865b334ec191e7aadd926fba37.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

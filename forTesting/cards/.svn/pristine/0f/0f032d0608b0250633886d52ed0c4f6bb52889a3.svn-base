@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="df1c94c41b3845b2a9367144d885d03a" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Election of 1932</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="40f0b521399c4f61a60bcad3a04f7448">
+            <article data-uuid="941b1a7f66f348059e038fe5ac9d46fa">
+                <h4 data-uuid="4a086547da354ac785305e2da6f827ac">Main Idea</h4>
+                <p class="main-idea" data-uuid="c307e7de9b24434b90f7c42ce459d00f">Roosevelt defeated Hoover in the election of 1932.</p>
+                <h2 data-uuid="ab5341b1670e428385745b8bc308ad69">Election of 1932</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="c1fe67fdb5894b56b6372bf07582373b"></div>
+            </article>
+        </section>
+        <p data-uuid="d21bd5873d254812bdd86dfdf516fcc3">The Republican Party nominated Herbert Hoover again for president in 1932, but few people believed he could win. Regarding his chances of reelection, even Hoover realized that “the prospects are dark.” Still, he began campaigning hard for a second term. </p>
+        <p data-uuid="b14be5adb89645cbb0da9dcb570c4965">He called the election “a contest between two philosophies of government.” He warned that the government aid programs Democrats were promising would weaken Americans’ spirit of self-reliance. </p>
+        <p data-uuid="818df765c0de49148989a0b81ac4942e">By 1932, however, much of the public had lost confidence in Hoover. His insistence on limited government action earned him the reputation as a “do-nothing” president. Many even blamed him for the Depression. In contrast, as governor of New York during the first years of the Depression, Democratic presidential candidate <b><dfn title="Roosevelt, Franklin D.">Franklin D. Roosevelt</dfn></b> had taken active steps to provide aid. He directed the state government to provide relief for the state’s citizens, especially farmers. He also helped establish the Temporary Emergency Relief Administration, which gave unemployment assistance to many out-of-work New Yorkers. Roosevelt’s programs provided help for one in every ten New York families. </p>
+        <section class="biography" data-uuid="f73a6e24e3124a47abb3a355ac343bd4">
+            <div class="header-element" data-uuid="346bab1c856c457f998642b9f98d33e6">
+                Biography
+            </div>
+            <p class="name" data-uuid="d47948bb94e34fa2a409bea69fb14b54">Franklin Delano Roosevelt</p>
+            <p class="date" data-uuid="ea741472859f4115bd9f817d703e00ea">1882–1945</p>
+            <figure class="image-metadata bio-image" data-uuid="d2856620529b41e394ff3c1d9e646da5">
+                <img alt="This is an artist's rendering of President Franklin D. Roosevelt." src="../../img/module_26_lesson01/ms_snlese454149_672a.png" data-uuid="3126cbc199a1442ab3b9b1245e233e97" />
+                <div class="images-metadata-container" data-uuid="d1524a9d2fe64a42a71424dfae4def60">
+                    <span class="image-text image-alt"> </span>
+                    <span class="image-text image-credit"> </span>
+                </div>
+            </figure>
+            <p data-uuid="b82cf8cc1dad4287917c368589a7146d">Roosevelt lived much of his life in New York State, where he served in the state senate and as governor. He also lived in Washington, DC, while he was serving as assistant secretary of the navy and later as president. </p>
+            <p data-uuid="2ee781fdb58a41278d7e2cfbcef6f3af">As president, he began the New Deal, a set of government programs designed to help the country survive and recover from the Great Depression. He gave many Americans hope for the future when he spoke to them in his fireside chats. </p>
+            <p data-uuid="9705e61a7efe4105945cc0e394be025d"> Roosevelt led the United States during two of the most serious crises that our country has ever faced: the Great Depression and World War II. He served as president for 12 years, longer than any other president.</p>
+            <div class="blue-star-blue-bar" data-uuid="315354a68ae349d983b7263de631aa3d">
+                <span class="star"></span>
+            </div>
+        </section>
+        <p data-uuid="63b1efe45bdd4201b152aa46fea6c499">Roosevelt’s confident and optimistic personality appealed to many voters. At the Democratic Party convention, Roosevelt declared to Americans: “I pledge you, I pledge myself, to a new deal for the American people.” Voters responded overwhelmingly to this message of hope. Roosevelt won the 1932 election in a landslide. He received 57 percent of the popular vote and swept the electoral vote in all but six states. In addition, the Democrats won strong majorities in both houses of Congress.</p>
+        <section class="question-long-text" data-uuid="f2a88354d39444ee811370b8ddffb919">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="211bcf42239e405dba19bcbb2ae92d3b">
+                <param name="configFile" value="../../widget_data/config/211bcf42239e405dba19bcbb2ae92d3b.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="dc9eb9bd7f964283a3b5a22eabe756e7">
+            <div class="go-prompt-bottom-bar" data-uuid="069ecc32e4fc46e89f8e90098187c385">
+                <p data-uuid="0a43ac9007304a10b49e0a649741044d">Remember to use the graphic organizer to take notes on the Election of 1932.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="c852ea464fd440d6b78afcf4d34641e0">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="cd1077c0d9724e6fbe12e975761e33d7">
+                <param name="configFile" value="../../widget_data/config/5835a83c3a484ce0ba806a6340832ac6.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="2a70aac4dcc541d6b3559d6029836110"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="663f41072216477881617b7bd315638a">
+            <button data-teacher-view-toggle="true" data-uuid="28cba8a3659744fe9e8d515bb90ccfb5"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6a26787fdce14943ae9c2b9c48317427">
+                <param name="configFile" value="../../widget_data/config/6a26787fdce14943ae9c2b9c48317427.json" />
+            </object>
+        </section>
+        <p data-uuid="b0961d8086b24f9d84689ed8cc677111"><br />
+        </p>
+    </body>
+</html>

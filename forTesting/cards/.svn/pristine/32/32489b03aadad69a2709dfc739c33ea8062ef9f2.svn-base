@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="33762b21958f4e1c96d1e4fbe1d9edca">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="ad6803fd637f4048af616b76918005b8">
+            <div class="header-element header-container" data-uuid="bd6fdf836fd048449fd4266fd3623ddf">
+                <p class="lesson-number" data-uuid="37fdbd4e9bea447f8c15e64d3077f5ec">
+                    Lesson 3</p>
+                <h2 data-uuid="c1b805dc46a046aba7fd46cfb237a4cf">Review</h2>
+                <p class="white" data-uuid="93afeec4553d46e0ba8a8f9ed6770695">In this lesson you learned about the changes that occurred in American society during the postwar years. Now you will
+                    review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="4175915359bc422787f8cf9f690394e4">Review Key Terms and People</h3>
+            <p data-uuid="22c9ec9cd1f44178ac7aeee3997e66cc">Define each term or person shown on the card.
+                Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="55496cfec11e4f348d84233262003027">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="cb4ce29aee654799890846f16bb324de">
+                <param name="configFile" value="../../widget_data/config/cb4ce29aee654799890846f16bb324de.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="1c01de161b994160951557b230a6203f">
+            <div class="go-prompt-bottom-bar" data-uuid="080ff025fa554ae7ac2b99e2c5c2579a">
+                <h5 data-uuid="3cea4515283b497ea42cc2667ab538bf">Review the Graphic Organizer</h5>
+                <p data-uuid="866f0872942c47fdaf119cafd8a872ef">Review your graphic organizer notes and use them
+                    to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="7adb13b7eede4b04bc47dccdabfb8df2">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f68240a122a048078abb21cb3453e20d">
+                <param name="configFile" value="../../widget_data/config/f68240a122a048078abb21cb3453e20d.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="0c48a45a920a45e7ab7a85cf15c96618">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="4c522430538541358bb1f1f7110a08a3">
+                <param name="configFile" value="../../widget_data/config/e4eee815061a49f5b70fc79b8d7cb397.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="1b69be7ac693499da593ad45a4450081"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="87cce669f752430baaba33dcca3a4d2a">
+            <button data-teacher-view-toggle="true" data-uuid="c6cc83a5c58d49a499ef9225843b57bd"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="988baafdab4c4f36925efd71ffcdc85c">
+                <param name="configFile" value="../../widget_data/config/988baafdab4c4f36925efd71ffcdc85c.json" />
+            </object>
+        </section>
+    </body>
+</html>

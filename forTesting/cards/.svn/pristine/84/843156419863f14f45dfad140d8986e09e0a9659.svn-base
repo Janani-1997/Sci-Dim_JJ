@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="4afccc61cfb5487bbb0607a44773431f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="91e5d0c2ca154745bd7a0ad8c24b2570">
+        <div data-uuid="fa06f7f02d734aa78983db08f4f38cd6">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="b9744ba9b8da4a7398deb3436b7e400f"/>
+        <div class="header-element" data-uuid="7f46a5c942644680a8ca601ebf7e268d">
+                        <section class="calendar-container-bottom" data-uuid="34d0730e30454b25bcbc402a49a970c8">
+                            <div class="yellow-star-yellow-bar" data-uuid="ce784de705ef4662a082ad331cf77546"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="6abd04f8c13b4e8c946034e24161cd04">Slavery in the United States</h1>
+                        </section>
+            <section class="eq-container" data-uuid="e4a2182db3894e5cbe8a151f69e9c345">
+                <figure class="image " data-uuid="c9a05ff6c8cd4135be0e2bdd3b8c4381">
+                    
+                        <img alt="This painting shows a family of enslaved people—a man, a woman, and a child—riding a galloping horse as they flee from their enslavement. The child is in front, the man is in the middle, and the woman is riding on the back of the horse. She is looking behind them to see if anyone is following. " class="" data-uuid="ab89c2dc90cb466082472754278aa02c" src="../../img/module_15opener/ms_snlese454149_157p.jpg" />
+                         </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="897bd61aa089436392c890aab8e39e0d">
+                        <p class="caption" data-uuid="dd2e32837c9e41c4a4a997fa49c967d9"><i>A Ride for Liberty—The Fugitive Slaves</i>, painted by Eastman Johnson in 1862, shows a family of fugitive slaves making a daring escape.</p>
+                    </div>
+               
+            <article data-uuid="b821036df3d54004a494c478361196ae">
+                <h3 class="eq" data-uuid="aee5860fcafe4c96b92b364cb46e54e0">Essential Question</h3>
+                <h3 class="eqt" data-uuid="f4a312287675474d801f72c3ef8eda83">How did slavery shape life in the United States?</h3>
+                <p data-uuid="739051a1f5a54da5b57c0b8112c13d62">Beginning in the early 1600s, European colonists
+                    imported Africans to the Americas to work as slaves in their colonies. As the
+                    practice of using African slaves grew in the United States, American society
+                    changed in particular ways. How did slavery shape life in the United States? As
+                    you read this module, look for evidence of how slavery affected various groups
+                    in American society, including enslaved Africans, southern planters, American
+                    citizens in free states, and politicians. When you are done, you will write a
+                    short essay answering the Essential Question for this module.</p>
+            </article>
+            <section class="video-container " data-uuid="b57b27c3ba4346b6afb46caf30ad2c6f">
+                <article data-uuid="e10de356a1624179b7533ada69bebcb0">
+                    <h3 class="vid" data-uuid="a97804f894e24e5bb7e3c536d63cae0d">Freedom’s Road: Slavery and the Opposition</h3>
+                    <p class="vid" data-uuid="a77772b2cfe04372a54ad9ca195a0a34">During the colonial period, both northerners and
+                        southerners owned slaves. As an industrial economy developed in the North,
+                        however, slavery began to disappear in northern states. Meanwhile, in the South,
+                        the labor-intensive agricultural economy led planters to keep slaves.&#160;<br />
+                    </p>
+                    <section class="video" data-uuid="5c02c1002a7140fc9fc0ab8f82687022">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="ba375c72c1254c28ba152281c394ecc6">
+                            <param name="configFile" value="../../widget_data/config/ba375c72c1254c28ba152281c394ecc6.json" />
+                        </object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="9af4aab324124112960fbfbd87f3bd88">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0e9979f31d184f2189a5b34f9fcbb2dc">
+                    <param name="configFile" value="../../widget_data/config/0e9979f31d184f2189a5b34f9fcbb2dc.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="5cb1e7895fe44ed79877a247b239084e">
+                <article data-uuid="026ea3390b4d44909de1788e68b44066">
+                    <h3 class="mod" data-uuid="8eb8e934affd4d69adffe4f6ddd787ef">Slavery in the United States, 1619–1852</h3>
+                    <p class="mod" data-uuid="0cf5f853bda844039cbd7fb8a5261531">A growing abolitionist movement, fear of slave
+                        rebellions, and industrialization in the textile industry shaped the
+                        development of slavery in the United States. Slavery in the South continued
+                        even after European nations had banned the slave trade and the United States had
+                        made it illegal to import slaves.<br />
+                    </p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="a7179cb3fccc4f84a2a471e14f779fa0">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="fb5c4193abd9465da4f9b4d8f712c350">
+                    <param name="configFile" value="../../widget_data/config/fb5c4193abd9465da4f9b4d8f712c350.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="756c4e3800324475a6a31a70ea582d2e">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="3d104458139a402590a71f5760ccd4d9">
+                <param name="configFile" value="../../widget_data/config/3d104458139a402590a71f5760ccd4d9.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d16457fed0224188b0f5710ebe2041c8">
+            <button data-teacher-view-toggle="true" data-uuid="b2394a530ec4442581c1a28950faae93"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="345c30ddc9c54acdac219e59845cfce9">
+                <param name="configFile" value="../../widget_data/config/345c30ddc9c54acdac219e59845cfce9.json" />
+            </object>
+        </section>
+    </body>
+</html>

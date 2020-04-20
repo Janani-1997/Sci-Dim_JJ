@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="bff009bfbc7e45c5852f8e8174d52769" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 5 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="c7c885554fea4f799a9261ca4a7f44fa">
+            <div class="header-element header-container " data-uuid="d9ebafd2b1614560abf59c9e319f7a18">
+                <p class="lesson-number" data-uuid="78b7956ecafe4b68bfefa1b88680dbbd">Lesson 5</p>
+                <h2 data-uuid="dce9b87d4d2940a8a9bcd5d775f7225b">Assessment</h2>
+            </div>
+            <h5 data-uuid="a518e73c7b6941119c8041e358b0abc9">Independence!</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="0cba1417be68437497359e986da8e7c2">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="39140c58e29245b081ad875bee3b4b9c">
+                <param name="configFile" value="../../widget_data/config/39140c58e29245b081ad875bee3b4b9c.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7fd01a7cb51b4242a7b810654e5ce5ae">
+            <button data-teacher-view-toggle="true" data-uuid="00ab772aede64d51889d009c3708d69e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="34272ccb4c8b43bc92249eafb9a60d9e">
+                <param name="configFile" value="../../widget_data/config/34272ccb4c8b43bc92249eafb9a60d9e.json" />
+            </object>
+        </section>
+    </body>
+</html>

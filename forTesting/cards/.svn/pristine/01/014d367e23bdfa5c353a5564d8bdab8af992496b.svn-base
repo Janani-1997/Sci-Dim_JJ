@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="34aa3cf59f9b43cda763db13102b8896">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="55eeab9a29d44aac9787373e7b4b7aac">
+            <div class="header-element header-container " data-uuid="66410516b031447792cfda4ae8f273c3">
+                <p class="lesson-number" data-uuid="1e64f35e371b453aabcd3af3a8776ecd"> Lesson 1</p>
+                <h2 data-uuid="2200eca738ac440687b31fabea505d4b">Review</h2>
+                <p class="white" data-uuid="1a8b006fc5a441a7a22987fc5c6c2334">In this lesson, you learned about the stock market crash and the economic collapse that followed. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="1b725a86aea7497fab95a2bf9bece258">Review Key Terms and People</h3>
+            <p data-uuid="5c13498328ae467996869dad7fc16d32">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="8a2e1a2118db435ea26bc5bb6a78c498">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="64ccf3e90c7a4aef9a32772ec7b69a1d">
+                <param name="configFile" value="../../widget_data/config/64ccf3e90c7a4aef9a32772ec7b69a1d.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="7fdd49fb03b344ac8be277467416058b">
+            <div class="go-prompt-bottom-bar" data-uuid="d7d36f0069bf423dbd76428493fe86a8">
+                <h5 data-uuid="7f3b18a861e74af1b5e387c776bbf504">Review the Graphic Organizer</h5>
+                <p data-uuid="33f4d715f0f04ac28783c122ca1ad68d">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="2e65e408121e46af9046c8c6cda2ac5a">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="5b84d485d67049dc80d4b517721731a6">
+                <param name="configFile" value="../../widget_data/config/5b84d485d67049dc80d4b517721731a6.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="4fb8beb28434495ab06353117bfcdf04">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="880cb35f78774927b7a5f5aeab46a826">
+                <param name="configFile" value="../../widget_data/config/5835a83c3a484ce0ba806a6340832ac6.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="5ab324c6e84048e193558056211f0614"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="72edb85e235e41029a6bc907198251ad">
+            <button data-teacher-view-toggle="true" data-uuid="908a40793ece4358939fe6f54c7503a4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ab95e23bcde24e21927d1b9503cc11ba">
+                <param name="configFile" value="../../widget_data/config/ab95e23bcde24e21927d1b9503cc11ba.json" />
+            </object>
+        </section>
+    </body>
+</html>

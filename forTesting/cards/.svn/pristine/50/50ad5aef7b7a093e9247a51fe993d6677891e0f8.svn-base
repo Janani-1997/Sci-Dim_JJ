@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="fe0c092582f94174b3c3b03717f692e7">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="10baf666b71a433c85974a52a878afaf">
+            <section class="lesson-review" data-uuid="f5f9c4903f154f5e80f67422ec86d562">
+                <div class="header-element header-container " data-uuid="2c8c74961fad47b4bfb29548a7fe7f18">
+                    <p class="lesson-number" data-uuid="5759427c3e1f44b0a3f8a5bf3d3352ff"> Lesson 3</p>
+                    <h2 data-uuid="50fcfbc12fd74636a296b90531285a34">Review</h2>
+                    <p class="white" data-uuid="c1c9f37c3c94429a9b2fd0daa11c1965">In this lesson you learned about the Bill of Rights. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="93ca617cc7094bd9902823e958c819f1">Review Key Terms and People</h3>
+                <p data-uuid="66ba9ff05151421a8d2b1c9986c8086a">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="61b9d5968c1047f28b1105354e893ebf">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="e493c2896eab4ee596411be5a322fb7f">
+                <param name="configFile" value="../../widget_data/config/e493c2896eab4ee596411be5a322fb7f.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="2e69d7ee17ec4d8fbd5402f94eb99559">
+            <div class="go-prompt-bottom-bar" data-uuid="3020bbb5e6b5448a924db263da32dc49">
+                <h5 data-uuid="865bc64bc04b403a90c69dd982da110a">Review the Graphic Organizer</h5>
+                <p data-uuid="89a2ff91645343b79e5878845a454394">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="34df83a231a24b01b2506370238a2708">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="10abdc18344949bebd02c536ac698a19">
+                
+                
+                <param name="configFile" value="../../widget_data/config/10abdc18344949bebd02c536ac698a19.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="1450b5e3f53b42a08dd734b15963f84b">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="43e394bca6d445809b5a6bab99611ee9">
+                <param name="configFile" value="../../widget_data/config/ab79432967dd47feaed51476a2d6a0bf.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="3583d96af2414b3bb7150e00bb90daa4"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ae11830f804b49e0b00e2e7742318317">
+            <button data-teacher-view-toggle="true" data-uuid="c6f0196628ba4278b92e5e2a05b13eb3"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="929a1c962d3e4284a1aceb1a5b22026b">
+                <param value="../../widget_data/config/929a1c962d3e4284a1aceb1a5b22026b.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d249c83455d940d4add88b5e54c06239">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="9829b224a37d43fc892ffb930d1b1c2c">
+            <p class="lesson-number" data-uuid="70c04ecf161c45409f0dd743680b0b5a">Lesson 3</p>
+            <article class="header-container" data-uuid="71ad16c39cd341b1810672e22a864728">
+                <div class="header-element" data-uuid="8f6f50704b984918820a24664010673a">
+                    <h1 data-uuid="4c6afab0fe304f91b01cc927c770f9af">Americans Face Hard Times</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="12c44a87c21d408eaa55b5cc59bbc7fd"></div>
+                    <h2 data-uuid="96bb8e587feb485fadc6fb291776b5c0">The Big Idea</h2>
+                    <p data-uuid="468e293b9ee6470f9e3a776ef372b38f">All over the country, Americans struggled to survive the Great
+                        Depression.</p>
+                </div>
+            </article>
+            <article data-uuid="12dae864f5ab4baa87fec1cdfe801f5a">
+                <h3 class="if-you-were-there" data-uuid="eed37f5103f247cda5b7070453f953af">If YOU were there...</h3>
+                <p data-uuid="2d7449f07b274558a461139af1079d56">You own a wheat farm on the Great Plains, where you and your family live
+                    and work. Wheat prices have been low for years, and you have managed to get by
+                    only by borrowing thousands of dollars. Now the region is suffering through a
+                    terrible drought. Without water, you have been unable to grow any wheat at all.
+                    But if you do not start paying your debts, you will lose your farm.</p>
+            </article>
+            <section class="reading-check" data-uuid="28ba00d077624c8c93458f63a39536e9">
+                <section class="question-long-text" data-uuid="7328ecfe2bcc454e9589447581eb5346">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="8ed8287ef2bb4e029d71fe014eba6cc1">
+                        <param name="configFile" value="../../widget_data/config/8ed8287ef2bb4e029d71fe014eba6cc1.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2854efe5852f470792068af2fc780524">
+            <button data-teacher-view-toggle="true" data-uuid="042517a11e22419089dd8fb70f70f821"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c545df0ddfd742a5bcc9c7286db73959">
+                <param name="configFile" value="../../widget_data/config/c545df0ddfd742a5bcc9c7286db73959.json" />
+            </object>
+        </section>
+        <p data-uuid="bebe446883ef4df788e4bdf7af165508"><br />
+        </p>
+    </body>
+</html>

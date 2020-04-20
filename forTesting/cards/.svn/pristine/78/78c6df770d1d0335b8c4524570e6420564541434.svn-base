@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="21eb5810d7a64a429277595e5cf4b02e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Ku Klux Klan</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="bd999cc5703f45d48e5ead933779a6ca">
+            <article data-uuid="911738b3313f4a8aa5793d45baf445d2">
+                <h4 data-uuid="fc16b71c996f44cfb196d74325b5f05d">Main Idea</h4>
+                <p class="main-idea" data-uuid="31d07abcc77c45ca8c72c3c7778c2356">The Ku Klux Klan was organized as African Americans moved into positions of power.</p>
+                <h2 data-uuid="1321fc2dfefe4ed9aa367b8c355af5dd">Ku Klux Klan</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="a5fd80249b5347bca509702c73b7092f"></div>
+            </article>
+        </section>
+        <p data-uuid="deea73ee1b8b4613b61de4628b2468a9">As more African Americans took office, resistance to Reconstruction increased among white southerners. Democrats claimed that the Reconstruction governments were corrupt, illegal, and unjust. They also disliked having federal soldiers stationed in their states. Many white southerners disapproved of African American officeholders. One Democrat noted, “‘A white man’s government’ [is] the most popular rallying cry we have.” In 1866 a group of white southerners in Tennessee created the <b><dfn title="Ku Klux Klan">Ku Klux Klan</dfn></b>. This secret society opposed civil rights, particularly suffrage, for African Americans. The Klan used violence and terror against African Americans. The group’s membership grew rapidly as it spread throughout the South. Klan members wore robes and disguises to hide their identities. They attacked—and even murdered—African Americans, white Republican voters, and public officials, usually at night.</p>
+        <section class="image-carousel" data-uuid="fc58413e62404b83a06e8345b553a556">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html" data-uuid="4426fcfe7a9a42f69c98238136e4e008">
+                <param name="configFile" value="../../widget_data/config/4426fcfe7a9a42f69c98238136e4e008.json" />
+                <param name="credit" value="[null,null]" />
+            </object>
+        </section>
+        <p data-uuid="66c63e91355f42e8a6137996f9582fd1">Local governments did little to stop the violence. Many officials feared the Klan or were sympathetic to its activities. In 1870 and 1871 the federal government took action. In an affirmation of federal authority, Congress passed laws, called the <b><dfn title="Enforcement Acts">Enforcement Acts</dfn></b>, that made it a federal crime to interfere with elections or to deny citizens equal protection under the law. </p>
+        <p data-uuid="c67079ab4b574273b9a1c0c9b11680a9">Within a few years, the Klan was no longer an organized threat. But groups of white vigilantes, including the White League in Louisiana and the Red Shirts in Mississippi and North and South Carolina, continued to assault African Americans and Republicans throughout the 1870s. Unlike the Ku Klux Klan, the White League and the Red Shirts operated openly.</p>
+        <section class="question-long-text" data-uuid="12b77fdc0c7f4a8abbbc41525ab46745">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c08255efb4df42d5b2e856a9f321583f">
+                <param name="configFile" value="../../widget_data/config/c08255efb4df42d5b2e856a9f321583f.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="291a6007515e474dbfa81261c928451f">
+            <div class="go-prompt-bottom-bar" data-uuid="ce72755a375746a68bc1170fdb71aa31">
+                <p data-uuid="6c0a0324de8f4a619a9ad45222f39386">Remember to use the graphic organizer to take notes on the effects of the Ku Klux Klan and vigilante groups in the South.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="81b4fefd66e14bca85c8cc39e8c33905">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="77a37b6fb52b4e0eb1197626a51a73bd">
+                <param name="configFile" value="../../widget_data/config/e29a0db8bc684c7c9b8a7236f1393d24.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="d6dfaa3871c14de09c37b6c26abf88e0"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="bc9185a38eaf46eb8077c7a7276c5fc6">
+            <button data-teacher-view-toggle="true" data-uuid="f546d6b7725f47fd9c40c5f044403628"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="bd7d754be80249fd838f1b6867ffe271">
+                <param value="../../widget_data/config/bd7d754be80249fd838f1b6867ffe271.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

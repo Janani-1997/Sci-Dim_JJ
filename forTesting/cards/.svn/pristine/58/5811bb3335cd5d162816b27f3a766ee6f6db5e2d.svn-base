@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8254da517a724586a1cf9eb71d3c3065" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="b75c638e9eb7450780ddc02503bf4acb">
+            <div class="header-element header-container " data-uuid="a65d4bb534e84acebd1ce224f9b220c1">
+                <p class="lesson-number" data-uuid="4d28dbb04cfb499b83f160f8d318419d"><br />
+                </p>
+                <h2 data-uuid="613e1bb4a76b428999a4828cd6fad15f"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="ce19888b016d45248efffcb1af1bbae9">Part 2: Write a Presentation</h3>
+            <h6 data-uuid="8d205ef701654a58a3e533894e28755b">Historical Context</h6>
+            <p data-uuid="ae57b73f63b1498b8ec503191743d344">In the early to mid-1800s, there were many changes in
+                American society due to the goals of social reformers. These reformers made
+                changes in the lives of immigrants, African Americans, and women. They also
+                made changes to society as a whole including improving education and the prison
+                system. New ways of thinking changed society, too, for example, transcendentalism.
+                Changes in arts and culture also occurred with new movements in art and
+                literature.</p>
+            <h6 data-uuid="ab6cc80c8e4f425a97e079acd46781b0">Task</h6>
+            <p data-uuid="70ffe50f13704d1a8c1e766a70b6bf73">Many of the reformers of this time were excellent
+                speakers, essayists, and journalists. They used their power with words to share
+                the message of the reforms they wished to make. Write a presentation in which you
+                inform your audience of the goals and work of reform movements in the United
+                States in the early 1800s.</p>
+            <p data-uuid="7d857d7df49b40958f6145250ad029e0">Complete the following steps as you plan and compose
+                your essay.</p>
+            <ol data-uuid="dd4cd529cb5e407f8f79af77fde720b2">
+                <li data-uuid="bb26c78f22af4ed0a38b6334ccefb73c">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="3dea14bc60fb4233afaf59bb1c839274">
+                    Use at least <i>four</i>
+                    of the sources in Part 1, and develop the topic with relevant, well-chosen text
+                    evidence from the documents.</li>
+                <li data-uuid="cb48f06d1d8d4fabb1f9f1f26c876f0a">
+                    Develop your topic with well-chosen facts, details, and examples.</li>
+                <li data-uuid="83ce8d18fb304a20bdf3091b2e48d2eb">
+                    Plan your presentation so that it includes an introduction,
+                    several body paragraphs, and a concluding paragraph.</li>
+                <li data-uuid="39ba8f0a5cc54fdc9acf1080dea00319">Present
+                    information logically and concisely so that an audience can easily identify your key points.<br />
+                </li>
+                <li data-uuid="f609a7c21ed84bcaa1dbc9aeca0218ce">Write a conclusion that sums up your ideas and supports the your main points.<br />
+                </li>
+                <li data-uuid="545e6387a6b049ce81051c1a4170cdf1">Use technology, such as the Internet or a presentation program, to write and publish your presentation.&#160;</li>
+                <li data-uuid="7f4e4c09ef464209bca37ec0f2c3bcaf">Use images and other media to illustrate your major points and connect ideas.<br />
+                </li>
+                <li data-uuid="342c435dad25427380dc9fcc19220d62">Practice delivering your presentation, using appropriate eye contact and speaking loudly and clearly enough to be heard by an audience.&#160;</li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ca2e28dbf9b34746bc7a155199e3d2c8">
+            <button data-teacher-view-toggle="true" data-uuid="412a09bdf1e84df2a0c9c46c534e08c7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a2d7a39141c942a78a1eac01d1b92ab6">
+                <param name="configFile" value="../../widget_data/config/a2d7a39141c942a78a1eac01d1b92ab6.json" />
+            </object>
+        </section>
+        <p data-uuid="ec691cca8d8c47e296df86105273ac00"><br />
+        </p>
+    </body>
+</html>

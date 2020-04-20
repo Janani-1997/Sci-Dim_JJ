@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2fb04e8f69664ca6bf525779b827b717">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="0b5a07471fb149309237263558734902">
+            <p class="lesson-number" data-uuid="557547feb39b4c258f7c93a965a54683">Lesson 3</p>
+            <article class="header-container" data-uuid="331032f1cc914d3280bc432e05269e9e">
+                <div class="header-element" data-uuid="c7e12887ef0d447a8436216011911b88">
+                    <h1 data-uuid="fb3a3fcc92dc492b8f0fc6ad283cd1c4">Political Divisions</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="0ea7980792fb4076b210071e6b9961e1"></div>
+                    <h2 data-uuid="bf1b0a026eff4fd28dfad8845cb7196a">The Big Idea</h2>
+                    <p data-uuid="8d18b26347d84db2b8ef16a7a6f4d661">The split over the issue of slavery intensified
+                        due to political division and judicial decisions.</p>
+                </div>
+            </article>
+            <article data-uuid="b86fed39a93945e8ac7723acca1615c4">
+                <h3 class="if-you-were-there" data-uuid="2f8b4b27557d4066ae8b43a3645303f2">If YOU were there...</h3>
+                <p data-uuid="0ec1f75b233e49fd9e2ad9014c13b8cf">You are traveling through Michigan in July 1854. As you pass
+                    through the town of Jackson, you see a crowd of several hundred people gathered
+                    under the trees. You join them and find that it is a political rally.
+                    Antislavery supporters from different parties are meeting to form a new
+                    political party. Speakers promise to fight slavery “until the contest be
+                    terminated.”</p>
+            </article>
+            <section class="question-long-text" data-uuid="2c0d008c550e4dae8270dae08abdb52f">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="bb3e62512ac746a485a630e3733b035c">
+                    <param name="configFile" value="../../widget_data/config/bb3e62512ac746a485a630e3733b035c.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ccee6d0c59f6453c94300cfad7e72975">
+            <button data-teacher-view-toggle="true" data-uuid="9e7e2ced595e46709e313257890c81ce"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6c99f5d115f44547952f527e5fd89cf6">
+                <param name="configFile" value="../../widget_data/config/6c99f5d115f44547952f527e5fd89cf6.json" />
+            </object>
+        </section>
+    </body>
+</html>

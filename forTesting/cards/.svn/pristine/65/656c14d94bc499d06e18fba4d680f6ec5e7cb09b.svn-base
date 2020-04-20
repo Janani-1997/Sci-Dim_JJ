@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d02ef5ad29f94f8d956edab08d54dac0" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="86486bef46904ee580a39a00419a65c3">
+            <div class="header-element header-container " data-uuid="cdb6bcf7af4240b5aa289d4bd1a06f6f">
+                <p class="lesson-number" data-uuid="65fe2412067b4178b6614d0679e5d05f">Lesson 4</p>
+                <h2 data-uuid="10c1292ff2be426697aea0fce8d157b3">Assessment</h2>
+            </div>
+            <h5 data-uuid="3ea2bdb414db4097932b9eb44b085cd0">Farming and Populism</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="243e2c9d0ba2469e965d4ccc8eec4176">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="4bb3d3a1e5ab45ca8df84c2749ab0c14">
+                <param name="widgettype" value="closedassess" />
+                <param name="assessment-title" value="" />
+                <param name="item-id" value="493977666/493797375,493984801/493989361,494012883/494006269,496699595,496703327,496703797" />
+                <param name="assessmenturl" value="" />
+                <param name="openquesstart" value="4" />
+                <param name="configFile" value="../../widget_data/config/4bb3d3a1e5ab45ca8df84c2749ab0c14.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0167e598c2e0448e87a2e2c6bb3bd24b">
+            <button data-teacher-view-toggle="true" data-uuid="214f527159ad47e2bc8319e4d0adc09c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1c8358e3016340dd942e25a8543444e5">
+                <param name="configFile" value="../../widget_data/config/1c8358e3016340dd942e25a8543444e5.json" />
+            </object>
+        </section>
+    </body>
+</html>

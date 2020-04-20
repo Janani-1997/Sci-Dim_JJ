@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="aee0c9dd548a48e1abff4b104073019c">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="2860ae5801ce4360bd45da165c4cdf46">
+            <div class="header-element header-container " data-uuid="5b171447ba094cdeb3dbd0079d9f393d">
+                <p class="lesson-number" data-uuid="61f59001cfa0440d9e1dc445afcb2d50"> Lesson 1</p>
+                <h2 data-uuid="b440bdec32c04af5ae07b9eb36cd7a58">Review</h2>
+                <p class="white" data-uuid="738df1de97ef4108b68d892f547dad16">In this lesson you learned that the Industrial Revolution started with the textile industry in England, but soon spread to the United States. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="6a7fa84b6490445b850916443e42ea12">Review Key Terms and People</h3>
+            <p data-uuid="9ec000bf75f24b04a5d022a2da800244">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="d49662a5f9414bc0aab9aa8e2894221a">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="dea6d1a9a63c47c2ba49ec1055983f48">
+                <param name="configFile" value="../../widget_data/config/dea6d1a9a63c47c2ba49ec1055983f48.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev " data-uuid="e69055aced9e43d59b46e7e19c62ad19">
+            <div class="go-prompt-bottom-bar" data-uuid="495488d759da4be6bdd2aec94aabdafd">
+                <h5 data-uuid="445aa46fde9f4f82b93ea67b7489c7ae">Review the Graphic Organizer</h5>
+                <p data-uuid="8eaba42ef7f4462db250591889762b13">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="be08526dbc274c48b676bfcc4e781910">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="751868c01db84a23ac7ef668cae90e7e">
+                <param name="configFile" value="../../widget_data/config/751868c01db84a23ac7ef668cae90e7e.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="13fbfbfec4f1440790ba676b3f873774">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="dcc44b9531b94a778abb63d070c56991">
+                <param name="configFile" value="../../widget_data/config/340ef3ec299a4aac89ed71707f66767c.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="0e39293a0e9b43f7857f5fb03ae8be48"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a4964e243f5d4434a83aba4b072fa417">
+            <button data-teacher-view-toggle="true" data-uuid="5241cbc9a93f4b39b7b1930d6a92952e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cd25815acc944efd9ee91e1b2ad81dfc">
+                <param value="../../widget_data/config/cd25815acc944efd9ee91e1b2ad81dfc.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

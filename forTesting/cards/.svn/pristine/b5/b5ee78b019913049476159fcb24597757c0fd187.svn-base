@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="fdc3806d46bb4e8babdb000ff395d2df">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="4d4094e0e9004cbb99ff6110f0750be9">
+            <p class="lesson-number" data-uuid="35c943be2ae541cb927bf5aa165d7595">Lesson 3</p>
+            <article class="header-container" data-uuid="1d9bc46a57f246dd9256986161a75c3c">
+                <div class="header-element" data-uuid="dcb1247348e44375982a0f78cb7b1cc4">
+                    <h1 data-uuid="6a6783c86f0144759628b3249aa6580c">The Transportation Revolution</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="1c3efb673feb4952aa8d4d747b8c34fc"></div>
+                    <h2 data-uuid="f52c2ebe80c24712872b795d41c1a22a">The Big Idea</h2>
+                    <p data-uuid="443a960e59f54f9984aa3db7958bfbf1">New forms of transportation improved business,
+                        travel, and communication in the United States.</p>
+                </div>
+            </article>
+            <article data-uuid="16982e29f11c495bb054a86746d1a574">
+                <h3 class="if-you-were-there" data-uuid="43d64b1f8f41466792fc5d88a0217ba7">If YOU were there...</h3>
+                <p data-uuid="4d7648d922d24423bd8d1f77a5bb3f57">You live in a small town in Iowa in the 1860s.
+                    You’ve never been more than 30 miles from home and have always traveled by
+                    wagon or on horseback. Now there are plans to build a railroad westward from
+                    Chicago, 200 miles to the east. The tracks will come through your town! Twice a
+                    week, trains will bring goods from the city and take people farther west.</p>
+            </article>
+            <section class="question-long-text" data-uuid="7d9d21a54bb24e5e8570d91b525e142a">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="631211108be047b4ab2b332b59d858fa">
+                    <param name="configFile" value="../../widget_data/config/631211108be047b4ab2b332b59d858fa.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4c2c75eff34a442b99172222c47c3152">
+            <button data-teacher-view-toggle="true" data-uuid="3818bc28112c44aa90e8b71b1237d024"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="80970a1dd68649d09a64bdeb8e3aa6b8">
+                <param name="configFile" value="../../widget_data/config/80970a1dd68649d09a64bdeb8e3aa6b8.json" />
+            </object>
+        </section>
+        <p data-uuid="ef6b6c2ba6f74cd2892a9f5f441ae8c4"><br />
+        </p>
+    </body>
+</html>

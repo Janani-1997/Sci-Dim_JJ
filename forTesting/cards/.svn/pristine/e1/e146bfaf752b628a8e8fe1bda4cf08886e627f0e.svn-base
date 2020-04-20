@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="fc5f2fc7e4c24f0081526fa7f1109a1e" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson 2 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="278280ae961e47049e748465a2e386b7">
+            <div class="header-element header-container" data-uuid="c287beb48a5e4073847835b5de7eaf7a">
+                <p class="lesson-number" data-uuid="44b7059dc8a24330882f32f616fea117">Lesson 2</p>
+                <h2 data-uuid="c2c4fc21375f4a7587753ac7ee455be6">Assessment</h2>
+            </div>
+            <h5 data-uuid="ad2f377c08cf47d5929a5445a027d36f">A New Nation</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="3af9ede10d684522bc907c61be75d27b">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="a85b39f8abe146c7b9e1ebb3ce2912c4">
+                <param name="configFile" value="../../widget_data/config/a85b39f8abe146c7b9e1ebb3ce2912c4.json" />
+            </object>
+        </section>
+        <p data-uuid="462a7124683e4a83822606f45eda96dc"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="45d7f4e3c4c642dcabaf5f9fc5119f94">
+            <button data-teacher-view-toggle="true" data-uuid="caeafeefc9a04f0aba8000aa10d4efd7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="28281d0050514ddfb729c99e0e026885">
+                <param name="configFile" value="../../widget_data/config/28281d0050514ddfb729c99e0e026885.json" />
+            </object>
+        </section>
+        <p data-uuid="bf53583366d049b6bfa77747ba758e20"><br />
+        </p>
+    </body>
+</html>

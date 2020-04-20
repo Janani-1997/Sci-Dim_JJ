@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="9de517778a624da1a08f7a72de8b142d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Henry Ford</title>
+    </head>
+    <body>
+        <section class="ssna-mmc" data-uuid="f4c54c8b05fc4f46bd36b537a0791dc8">
+            <object type="text/html" data="../../assets/widgets/mmc/index.html" class="widget" data-uuid="5337297491b44d28af8b07212a3501ac">
+                <param name="configFile" value="../../widget_data/config/5337297491b44d28af8b07212a3501ac.json" />
+            </object>
+        </section>
+    </body>
+</html>

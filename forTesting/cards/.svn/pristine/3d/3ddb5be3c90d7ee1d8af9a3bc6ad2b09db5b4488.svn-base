@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="884fa8847408488cbbc1db9c99580d05">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="6df87845a7664fc08c919c53ee3c8553">
+            <p class="lesson-number" data-uuid="d4fd978bb2ec434b91b1bcfb5f82662a">Lesson 3</p>
+            <article class="header-container" data-uuid="394499108ada4fcea44601d11a3f66b0">
+                <div class="header-element" data-uuid="452ad661cea34d97a61ae540644f09e0">
+                    <h1 data-uuid="48d19bccf50943f18017d83bb00983e3">The Movement to End Slavery</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="61e72dd10f924d3db27bc5070945f834"></div>
+                    <h2 data-uuid="05f0b9ca94d942e993672ceb6aba8138">The Big Idea</h2>
+                    <p data-uuid="9acddaf0eb9e40bbb1cdce1f5c1e9268">In
+                        the mid-1800s debate over slavery increased as abolitionists organized to
+                        challenge slavery in the United States.</p>
+                </div>
+            </article>
+            <article data-uuid="49c05b37cfb24a94a7869c3b551091bc">
+                <h3 class="if-you-were-there" data-uuid="6e7ab933191845788f2091497b2e294b">If YOU were there...</h3>
+                <p data-uuid="45c42ea100ee4367adfb6d3471e719fe">You live in southern Ohio in the 1850s. A friend
+                    who lives across the river in Kentucky has asked you to join a network that
+                    helps escaping slaves. She reminds you that your house has a secret cellar
+                    where you could easily hide fugitives for a few days. You are opposed to
+                    slavery. But you know this might get you in trouble with your neighbors—and
+                    with the law.</p>
+            </article>
+            <section class="question-long-text" data-uuid="fdf7b7ce779245b3bb13cd880eaeb163">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="1f1b2e5bb94e46e2b7ee0eeda6aec236">
+                    <param name="configFile" value="../../widget_data/config/1f1b2e5bb94e46e2b7ee0eeda6aec236.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="10148305bb2f40f999bce5fc9a51b9c2">
+            <button data-teacher-view-toggle="true" data-uuid="705b1afd27d84dfd85358862c97f9bff"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="aa2e809d6f9e4883b2aed6bba92b1fb7">
+                <param name="configFile" value="../../widget_data/config/aa2e809d6f9e4883b2aed6bba92b1fb7.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="1243f9c494934c6884c98cdcc5b08350" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="a8a1d5483e8c4abbadf192ee92ab5a5b">
+            <div class="header-element header-container " data-uuid="9fbff7f0613649479c8b1971ffa9171e">
+                <p class="lesson-number" data-uuid="df681144de434f36a6169a98466054ac"><br />
+                </p>
+                <h2 data-uuid="05ed8bc2770940cabcecc8120519d87c"> Review</h2>
+                <p class="white" data-uuid="6b4c3af0f3274f5583658c7950afbbe2">In this module you learned about reform movements in the United States between the years 1815 and 1855. These reform movements changed the lives of many people, including immigrants, city dwellers, African Americans, and women. Now you will review some key terms and people
+                    before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="c07521dc800c4dfd9cdb43e19835d842">Review Key Terms and People</h3>
+<p data-uuid="26c395f0cb1d4228b359391516c9304c">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="a3c46c518b514369a1ea67b8d4bbc79b">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget" data-uuid="5497fad61a194c23af58760c99e87c21">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/5497fad61a194c23af58760c99e87c21.json" />
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="64cbdda1f74b4471bfea0a020520e21a">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="8ad4020728664aefb42296f332c38033">
+                    <param name="configFile" value="../../widget_data/config/8ad4020728664aefb42296f332c38033.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a528573cebb74b1992e97a65bcd0ae17">
+            <button data-teacher-view-toggle="true" data-uuid="1ebeeea2709442b9b811963a7e79789e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="615005429d3143f4b9b9344c827bb288">
+                <param name="configFile" value="../../widget_data/config/615005429d3143f4b9b9344c827bb288.json" />
+            </object>
+        </section>
+        <p data-uuid="267a4adbda0444a59c8f83b36ae9a9cf"><br />
+        </p>
+    </body>
+</html>

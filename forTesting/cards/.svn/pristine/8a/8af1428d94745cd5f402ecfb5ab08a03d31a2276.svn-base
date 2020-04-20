@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="142b8894d56c44ea93577fae72c6ea86">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="9d72137b939848f4a1db4160db6d6eb2">
+            <p class="lesson-number" data-uuid="09be3b1f97b9494b9934362a235ea861">Lesson 2</p>
+            <article class="header-container" data-uuid="b4870e707f704dff954fb5c677a8da8d">
+                <div class="header-element" data-uuid="070b98192bd64b929a9b03a6ca2dfbd5">
+                    <h1 data-uuid="120ea6901d8440a9b860dc9a69eccb49">Big Business</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="9848fcaa1416451e8bbd53aa3570926b"></div>
+                    <h2 data-uuid="f9d08716868b4b5c99cc2d9d38bbbdd4">The Big Idea</h2>
+                    <p data-uuid="5c8b786dad3a40109259b2707baec6d6">The growth of big business in the late 1800s led
+                        to the creation of monopolies.</p>
+                </div>
+            </article>
+            <article data-uuid="d29618427c1b4754954233066d4256d5">
+                <h3 class="if-you-were-there" data-uuid="d50c6a6bcdc34889b223aa8e3a06b37f">If YOU were there...</h3>
+                <p data-uuid="4accf952b31a4b81b0bd3ffce6508a93">It is 1895, and your town is home to a large
+                    corporation. The company’s founder and owner, a wealthy man, lives in a mansion
+                    on a hill. He is a fair employer but not especially generous. Many townspeople
+                    work in his factory. You and other town leaders feel that he should contribute
+                    more to local charities and community organizations.</p>
+            </article>
+            <section class="reading-check" data-uuid="1fe27742010d46399569384bed55c668">
+                <section class="question-long-text" data-uuid="cb25174edb684552b755d414e41742dd">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="bb01b6caf0784a749df9ebb45ad6155e">
+                        <param name="configFile" value="../../widget_data/config/bb01b6caf0784a749df9ebb45ad6155e.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a14efa17470b4ffdadce781eb8faaafb">
+            <button data-teacher-view-toggle="true" data-uuid="62cca7985ffe4c0a97dc071708ed5689"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a0c63cf5435343348f43ae7c0e490d70">
+                <param name="configFile" value="../../widget_data/config/a0c63cf5435343348f43ae7c0e490d70.json" />
+            </object>
+        </section>
+        <p data-uuid="2c95cb08478f4f9fb5c01080dad6f128"><br />
+        </p>
+    </body>
+</html>

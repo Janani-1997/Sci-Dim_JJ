@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="7ac82a423d0746929ac1b6dd6e4ad840" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson 3 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="105fce3b46e9446c8312d80b29a976d8">
+            <div class="header-element header-container" data-uuid="f8ad0c6a10ae44fc9d459f059346dab9">
+                <p class="lesson-number" data-uuid="c629418f0e2e4066914a1bdc73cb7542">Lesson 3</p>
+                <h2 data-uuid="5729d48bd82a4923a81ecbd0c8d49ace">Assessment</h2>
+            </div>
+            <h5 data-uuid="0f7f9cff523f4dd1863a4279604868b5">The New Republic</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="83a80872741e40ae95d90435f293d1a6">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="bbc1fa7c81e44b4ab2046a99ce315541">
+                <param name="configFile" value="../../widget_data/config/bbc1fa7c81e44b4ab2046a99ce315541.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f19f3e136f514d7db0bac14ae2fc1ba9">
+            <button data-teacher-view-toggle="true" data-uuid="160f1c76fb604ddbb041739d3e829ef7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3d01fff9dbd84eb78bcfdb285446ae02">
+                <param name="configFile" value="../../widget_data/config/3d01fff9dbd84eb78bcfdb285446ae02.json" />
+            </object>
+        </section>
+        <p data-uuid="4d32390d78be49c8ab93f8d059a0ae1d"><br />
+        </p>
+    </body>
+</html>

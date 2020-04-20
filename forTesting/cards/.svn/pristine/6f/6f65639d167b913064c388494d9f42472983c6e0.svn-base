@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="f7bf2b5874ee45fbbe8b18c728cbd269">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="3ac15b5927014b149d6fa9d8fadf24c4">
+            <div class="header-element header-container " data-uuid="fbb365501f2e4fe39ec395b274b4561e">
+                <p class="lesson-number" data-uuid="88a7ca17efd44a009f8e86432b2a746c">Lesson 3</p>
+                <h2 data-uuid="74575d2debd44a74864570e9ed8ed765">Review</h2>
+                <p class="white" data-uuid="86ec669935924b65b5e358b526111ebd">In this lesson you learned how Native Americans and the U.S. government came into conflict over land in the West. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="ace4f46c49b24a5abad7584dfb257dde">Review Key Terms and People</h3>
+            <p data-uuid="3bd821b5fd0047a9b45babff0328fecb">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="c4236b0655674c4e8e08a8fb6d0850ac">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="d8ed590324fd4b6abda9d9b842dae8ba">
+                <param name="configFile" value="../../widget_data/config/d8ed590324fd4b6abda9d9b842dae8ba.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="560a3ec2bff54644a55a23f3ee3f7fae">
+            <div class="go-prompt-bottom-bar" data-uuid="5f02b023c7d5470a95e72bd821f3d52a">
+                <h5 data-uuid="f68143611f7f4c7b8c4357c549f4f17c">Review the Graphic Organizer</h5>
+                <p data-uuid="87832b1219224d4ebdf1bcbb2fe755ec">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="6a411b0d6fa5460b95e70ebb294e1d1e">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="5f1cf2df8cb543d2b6ab18a518debbd0">
+                <param name="configFile" value="../../widget_data/config/5f1cf2df8cb543d2b6ab18a518debbd0.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="df7a0babf5af45c7a92d19ed120e6c33">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="c2d1ff8c0f3e47429d661c148c281bd1">
+                <param name="configFile" value="../../widget_data/config/54201dfae0074da5b6c0e880b7a1cfd4.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="d19f1f18f4ed4d41a830d5cdca884dff"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="bfb7d15b80224df7a931126390f385ce">
+            <button data-teacher-view-toggle="true" data-uuid="aa1b8143f7e044b9b5bc5e00fc538122"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c41325134287480db301f62622bced59">
+                <param name="configFile" value="../../widget_data/config/c41325134287480db301f62622bced59.json" />
+            </object>
+        </section>
+    </body>
+</html>

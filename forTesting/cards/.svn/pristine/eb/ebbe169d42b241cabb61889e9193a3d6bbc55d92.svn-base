@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="9fdd0716299b4464b8b0beaee1af64a8" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="4e4ac952111d4c27a03e49219f61f279">
+            <div class="header-element header-container" data-uuid="76717d20db1946829af53bf4d46fbef8">
+                <p class="lesson-number" data-uuid="e19f005b00274eb3bdbfc03173421edc"> Lesson 2</p>
+                <h2 data-uuid="ccb30d729bb54308ae17919b0cd4b1b4">Review</h2>
+                <p class="white" data-uuid="b11e8551325441a9a7ed93fbbb156f7e">In this lesson you learned about the problems facing the United States in its early days and the steps leaders took to correct them. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="b0d0f79e9e234ac3819a8941c1c49f72">Review Key Terms and People</h3>
+            <p data-uuid="70b98007181847a39408dad6a0ca0fd8">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="8db05ae66b774558bc67ec2bc7602cbe">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="50bae630baf943c2845456c9027691a0">
+                <param name="configFile" value="../../widget_data/config/50bae630baf943c2845456c9027691a0.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="0f373d43d4534fac811fe02cef5f9c0a">
+            <div class="go-prompt-bottom-bar" data-uuid="e7ce936aeb974718ab312efbe1a0a9ab">
+                <h5 data-uuid="e6552eb038a04a2ab70de388721578f8">Review the Graphic Organizer</h5>
+                <p data-uuid="a4c69ac9aef6493386480ee8dbe34ff4">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="09d2e01dd86e443a9a4d111751718ef0">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="1e4cb1184f834425afac05cbfb69410d">
+                <param name="configFile" value="../../widget_data/config/1e4cb1184f834425afac05cbfb69410d.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-uuid="204dac689dec4b0b929edc3b862dd88f">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="f995980fd105407d96a3f453b78b5dbc">
+                <param name="configFile" value="../../widget_data/config/45d5f08578d748cdb857e920d01fc3de.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="c97e781c1cd8410dac53eb20fb99fc74"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="79de7fd2fe6f461893c5362ad7a828aa">
+            <button data-teacher-view-toggle="true" data-uuid="b85eb20e0009420cac89a7e9cb07bc41"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5a75a01655964ec0b986921904036ee5">
+                <param name="configFile" value="../../widget_data/config/5a75a01655964ec0b986921904036ee5.json" />
+            </object>
+        </section>
+        <p data-uuid="cfa7b7186cfc4121ba696ba11f7a9542"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="045f3be361bf443b907952648b8bbba3" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lewis and Clark</title>
+    </head>
+    <body>
+        <section class="ssna-mmc" data-uuid="a390d36f86c74ad292ea11401c36a663">
+            <object type="text/html" data="../../assets/widgets/mmc/index.html" class="widget" data-uuid="91265b971e7c4d87b4c6925a33a3a588">
+                <param name="configFile" value="../../widget_data/config/91265b971e7c4d87b4c6925a33a3a588.json" />
+            </object>
+        </section>
+        <p data-uuid="f9eb0ed81117436da4c1b65686c17de3"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4853281d85b1460f94f8076cc9c85b8a">
+            <button data-teacher-view-toggle="true" data-uuid="1d0212b07ebb489aaa7d72b69c506bb4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f357383306154efbb5903eb3bb26b98f">
+                <param name="configFile" value="../../widget_data/config/f357383306154efbb5903eb3bb26b98f.json" />
+            </object>
+        </section>
+        <p data-uuid="2f25c2174f6f41b4859b9b4da40b3e68"><br />
+        </p>
+    </body>
+</html>

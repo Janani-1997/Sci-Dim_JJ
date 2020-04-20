@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c5701607539b41a0aeaed0b718b0faaf" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="707c28c1bee74a218d5a00e9b5fa695e">
+            <div class="header-element header-container " data-uuid="f588ef0bb8044e0b8cac7e6abccad1ee">
+                <p class="lesson-number" data-uuid="698edcc8cf8942cead392cfd3bf62f37">Lesson 2</p>
+                <h2 data-uuid="c26d9b1c8fb64cdca0ae41403ec71269">Assessment</h2>
+            </div>
+            <h5 data-uuid="14d08a7820714c82be5fa3201b5357f8">Kennedy, Johnson, and Civil Rights</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="28a77e386a94486d891bf42f11af7423">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="40d08624a39144f2914d8da6156ffe32">
+                <param name="configFile" value="../../widget_data/config/40d08624a39144f2914d8da6156ffe32.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0eff07ca991e4eff8bcebb8c76c23d23">
+            <button data-teacher-view-toggle="true" data-uuid="45c476e99aa84f74891ac78cc1f13f63"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="98bcc900fd4f4fe685b4f597cca3e09e">
+                <param name="configFile" value="../../widget_data/config/98bcc900fd4f4fe685b4f597cca3e09e.json" />
+            </object>
+        </section>
+        <p data-uuid="5e40cda5223c4a4798e10d9c4d942b00"><br />
+        </p>
+    </body>
+</html>

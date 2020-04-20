@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8e858a07a1e744b486d829ead002d804">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="e01dd3a4d35449a5b5175a81edf1ad93">
+            <p class="lesson-number" data-uuid="2a7fc9b906fd4d0d80880fea9dac442f">Lesson 4</p>
+            <article class="header-container" data-uuid="ccd49b3808ec4ec0852491cbb96949e0">
+                <div class="header-element" data-uuid="e7fcfc0298a74434883dd7f7b9d73817">
+                    <h1 data-uuid="22eb8c2c37ee4ab19ee771f9e50fc39e">Europe before 1500</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="857deacbe74345968aa2dd97ace499d6"></div>
+                    <h2 data-uuid="fc01be2c74fa4857a174810bd31ef0a3">The Big Idea</h2>
+                    <p data-uuid="02f7bc4f57114ee8a16939a56c0c298c">New
+                        ideas and trade changed Europeans’ lives.</p>
+                </div>
+            </article>
+            <article data-uuid="5a566b626c794ca881ba9c2a5f517208">
+                <h3 class="if-you-were-there" data-uuid="c8fb0b983f2b48bba8ab89086bbd7d2a">If YOU were there...</h3>
+                <p data-uuid="ded171fca8f3469ca56076a8c8cae2a3">You are a peasant in the Middle Ages, living on the
+                    land of a noble. Although you and your family work very hard from sunrise to
+                    sundown, much of the food you grow goes to the noble. Your house is very small
+                    and has a dirt floor. Your parents are tired and weak, and you wish you could
+                    do something to improve their lives.</p>
+            </article>
+            <section class="question-long-text" data-uuid="b2c789908db74435a2f9b5d173b8f3d1">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ebdff556ffbd45dabb3e296b856b326b">
+                    <param name="configFile" value="../../widget_data/config/ebdff556ffbd45dabb3e296b856b326b.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="86f0c5f6fb47443383c28e5317698ff5">
+            <button data-teacher-view-toggle="true" data-uuid="a430c80d15934e2ebe5698fba769f35d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="11708e5a85da4bcb91403d61aade3b1c">
+                <param name="configFile" value="../../widget_data/config/11708e5a85da4bcb91403d61aade3b1c.json" />
+            </object>
+        </section>
+        <p data-uuid="2e6d48798ddd4fd6a401b0100b5854a3"><br />
+        </p>
+    </body>
+</html>

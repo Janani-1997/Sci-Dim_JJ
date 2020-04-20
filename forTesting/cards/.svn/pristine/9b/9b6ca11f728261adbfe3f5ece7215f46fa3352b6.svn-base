@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e1b9a507b03e46bebf9e953034c65a1a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="eb025b076bb946798a563bb7ba61991f">
+            <section class="lesson-review" data-uuid="d6478928289e4a2cbfa4f870ad57c671">
+                <div class="header-element header-container " data-uuid="19756b8c6a114ae9b066d79907b90b49">
+                    <p class="lesson-number" data-uuid="cc9f246de60c427985b219948dea5d8f"> Lesson 4</p>
+                    <h2 data-uuid="4383a32e70d24f4f9facec97f751aca3">Review</h2>
+                    <p class="white" data-uuid="4e6aa2e6615a4455bb89ea111d08dfc9">In this lesson you learned that the English, French, Dutch, and Swedish explored the North American continent and later established colonies there. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="ccdea6f61ebc4d4d84b6c23e7e906fef">Review Key Terms and People</h3>
+                <p data-uuid="e5f4836635934009b4f87bba9cb716ed">Define each term or person shown on the card. Flip the card to check your answer.<br />
+                </p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="484a4c23ddff4b96a12b1e54b88f0cca">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="491f6ed991a047e490d4863dbe96f044">
+                
+                
+                <param name="configFile" value="../../widget_data/config/491f6ed991a047e490d4863dbe96f044.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="f09912511f3b4c14a2d3342223d22e54">
+            <div class="go-prompt-bottom-bar" data-uuid="ba812ccc28234c148f132955e9fc02b0">
+                <h5 data-uuid="401013939b3f45abbb046c705c71d2a4">Review the Graphic Organizer</h5>
+                <p data-uuid="005a0336578f49b2ba90e891338396c9">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="3c0a12710b504d5ea1761192a6a3a645">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="72afc484bd634e8a97fd895c9c1e5573">
+                <param name="configFile" value="../../widget_data/config/72afc484bd634e8a97fd895c9c1e5573.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="7b9a756a400a49bea9af3506a1c1f8e6">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="09fdf653431142b3b8999deb2393a5ec">
+                <param name="configFile" value="../../widget_data/config/94e6db626fc043808720c6c82721971e.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="9e1acfce81264f708c2c9e1b774ad8b6"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f45337dcae634be19e0d95808b565b81">
+            <button data-teacher-view-toggle="true" data-uuid="84bc87b95e484efb98a0c29337fa5fd8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c96243609d3848bfa7b88ce39e82989c">
+                <param value="../../widget_data/config/c96243609d3848bfa7b88ce39e82989c.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

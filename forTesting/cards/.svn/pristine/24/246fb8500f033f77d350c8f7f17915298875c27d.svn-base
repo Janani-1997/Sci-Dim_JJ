@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d0496b9b01ac4ca2b51a8dc5e4aaf883">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section data-uuid="2e6b3a51571d474cbd5c79520824ac11" class="lesson-opener ">
+            <p data-uuid="6f48a8473260495d810c2decd1b0be75" class="lesson-number">Lesson 2</p>
+            <article data-uuid="de8620f80ed849d1bf0d76871d81a243" class="header-container">
+                <div data-uuid="b89f4b91e47548ad8ee7da8b55ed0ae8" class="header-element">
+                    <h1 data-uuid="4cfb55a6a0a64c55829ed8bd1d41c59d">Domestic
+                        and Foreign Policy Issues</h1>
+                    <div data-uuid="7032b52dc0d747e0873c295b8394fb16" class="yellow-star-yellow-bar"></div>
+                    <h2 data-uuid="ea73c4b27da84acd99be569e18c82e44">The Big Idea</h2>
+                    <p data-uuid="0eb480229aa9443d8e08b185b005ed0f">Presidents George W. Bush and Barack Obama led the
+                        country through many domestic and foreign challenges.</p>
+                </div>
+            </article>
+            <article data-uuid="cd65ee947dd24558be288999dd5e8b27">
+                <h3 data-uuid="9d2ec92f98d34654991fbe280ede6c8c" class="if-you-were-there">If YOU were there...</h3>
+                <p data-uuid="21eaa80335e4413ba49131850ef3ba32">The Department of Homeland Security has just been
+                    established to protect the United States from foreign and domestic threats. You
+                    are part of the department’s leadership.</p>
+            </article>
+            <section data-uuid="7599b872bc834c9eba92f0187d417ec1" class="reading-check">
+                <section data-uuid="4ef98b3882ab4548a416ef09162b9138" class="question-long-text">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="99fb64adda5c492ab8706e78d86184fe" class="widget">
+                        <param name="configFile" value="../../widget_data/config/99fb64adda5c492ab8706e78d86184fe.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section data-teacher-view="v0.1.0" data-uuid="07e8c9dd33024f219c45ae83c54fd8e5" class="teacher-view">
+            <button data-teacher-view-toggle="true" data-uuid="77d3bd8609e24b9d8223ab8e129238a7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" data-uuid="73bd3349a05d49f39667aad5ce352e1d" class="widget">
+                <param name="configFile" value="../../widget_data/config/73bd3349a05d49f39667aad5ce352e1d.json" />
+            </object>
+        </section>
+        <p data-uuid="b722899d294847d3a160deddd77ad276"><br />
+        </p>
+    </body>
+</html>

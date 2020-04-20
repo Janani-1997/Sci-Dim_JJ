@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="1fed9bb02c394042ab5ffc813d6f2517">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="b67c3af73a784f609cd19ec85dee4496">
+            <div class="header-element header-container " data-uuid="2e0326d0889143a08a77bbccb283eeec">
+                <p class="lesson-number" data-uuid="1eaa6403d08a4b749ec6a0eeb6d446b9">
+                    Lesson 4</p>
+                <h2 data-uuid="5c8528297b7249b883397b585df7e921">Review</h2>
+                <p class="white" data-uuid="d77842836d8647d8870516e8ac84d259">In this lesson you learned how settlers on the Great Plains created new communities and a unique political movement. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+        </section>
+        <h3 data-uuid="f05e26ed53da43b18bcc29a207ebe709">Review Key Terms and People</h3>
+        <p data-uuid="ad282b40b986415fadccb5518551a9c9">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        <section class="flipcard" data-uuid="c70b56898d5e4b048adda3d704d5e21d">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="2d28e56abf854d31b9a81e1e836ee153">
+                <param name="configFile" value="../../widget_data/config/2d28e56abf854d31b9a81e1e836ee153.json" />
+                <param name="audio_description" value="" />
+                <param name="audio_script" value="" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev " data-uuid="f12fc6be94e345ce9a0029721d1c8329">
+            <div class="go-prompt-bottom-bar" data-uuid="5a6fece3743e4c03947436eef4b9e02a">
+                <h5 data-uuid="04e2931427c14a00b9c59e69e8c22fcc">Review the Graphic Organizer</h5>
+                <p data-uuid="65420900e07b48d395cf605299ffeccd">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="5b51332019054737b3cd35db41c1c70e">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="1eb431cdb931487b8987f73dc43329b4">
+                <param name="configFile" value="../../widget_data/config/1eb431cdb931487b8987f73dc43329b4.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="880915f3d9b945378e58bb8dc9259fd3">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="83989939b480411d81a9de96954d771a">
+                <param name="configFile" value="../../widget_data/config/ace71e76ddac40c6ac979d76f7df5bcb.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="33e61047e7ee44e8aad4466376c65184"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9e12fde1f51841a9a4b94d5eb551a107">
+            <button data-teacher-view-toggle="true" data-uuid="bdcc4ac55508413aa2362173ed5d031f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="fd4ad4982ee34845911b20cec4b562a9">
+                <param name="configFile" value="../../widget_data/config/fd4ad4982ee34845911b20cec4b562a9.json" />
+            </object>
+        </section>
+    </body>
+</html>

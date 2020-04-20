@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="80042a846cce4ed9b35c3acf0bad9cfc">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="8e18dcfc8ec648108da4bd41af8b8a96">
+            <p class="lesson-number" data-uuid="897c7b4ea39040a5b405cd3e9d702fef">Lesson 2</p>
+            <article class="header-container" data-uuid="47be84bf16a1449182c4f111613bff9c">
+                <div class="header-element" data-uuid="fd2af36ddd03454dae4ae88b6c62160b">
+                    <h1 data-uuid="41aad79e517d48ca906cf1ba7402454f">Southern Society</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="1a356aa8b66b413197294985d02d1682"></div>
+                    <h2 data-uuid="aac23a518937489cb7dc9750df9b477d">The Big Idea</h2>
+                    <p data-uuid="4e20ad8d15664a35b27a49c6798b28fa">Southern society centered around agriculture.</p>
+                </div>
+            </article>
+            <article data-uuid="2582bdba243d4ebebb7da7b10af4540b">
+                <h3 class="if-you-were-there" data-uuid="bffe4f61f4c74294aea2737e71c3e69e">If YOU were there...</h3>
+                <p data-uuid="5b2ad5d43dd24af1b686cae733055960">Your family owns a small farm in Georgia in the
+                    1840s. Sometimes you work in the fields, but more often you tend the vegetable
+                    garden and peach orchard. Since you have no close neighbors, you look forward
+                    to Sundays. Going to church gives you a chance to socialize with other young
+                    people. Sometimes you wonder what it would be like to live in a city like
+                    Savannah.</p>
+            </article>
+            <section class="question-long-text" data-uuid="c8982d76454b485392be901dee607925">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b7fecf100eb942759abeca928f5e2c26">
+                    <param name="configFile" value="../../widget_data/config/b7fecf100eb942759abeca928f5e2c26.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9e9e279344ac4d238dc1bdf662743966">
+            <button data-teacher-view-toggle="true" data-uuid="41b71991a75c42abb974b538d18f00af"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b6781de17e14401a8e6b4e79610e1160">
+                <param name="configFile" value="../../widget_data/config/b6781de17e14401a8e6b4e79610e1160.json" />
+            </object>
+        </section>
+    </body>
+</html>

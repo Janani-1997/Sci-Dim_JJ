@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="056d1217daef4b4380bf8875f1204e08">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="ae97374617d245169dda4f8dba8d1348">
+            <p class="lesson-number" data-uuid="4e986c09632346a2ad1a6260297740f2">Lesson 1</p>
+            <article class="header-container" data-uuid="8195fc073ef74c30acac5855fded6c66">
+                <div class="header-element" data-uuid="912b49638d4b4188847a08149e32d263">
+                    <h1 data-uuid="5f0619836e634b4da63fa50ada10e079">Washington Leads a New Nation</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="7a69de524a22489eb7c97ea171e90e82"></div>
+                    <h2 data-uuid="30e0394b9544455aa1dfb3e1463702ad">The Big Idea</h2>
+                    <p data-uuid="c5cfcac01a7648f0abc1763b3e97c502">President Washington and members of Congress established a new national government.</p>
+                </div>
+            </article>
+            <article data-uuid="199e726e61204d6f877ea8ac8f129ce2">
+                <h3 class="if-you-were-there" data-uuid="3679d2f834904bff9a2ae5ecf4cbc277">If YOU were there...</h3>
+                <p data-uuid="0c0c8452e2344a26b3bc0f5c374cff39">You are a seamstress in New York City in 1789.
+                    You’ve joined the excited crowd in the streets for Inauguration Day. Church
+                    bells are ringing, and people are cheering. Even though you were just a young
+                    child during the Revolution, Washington is your hero. Now you watch as he takes
+                    the oath of office. You are proud to see that he is wearing a suit of
+                    American-made cloth.</p>
+            </article>
+            <section class="question-long-text" data-uuid="0793e78ba19d4c529660ab7206d8bc55">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="823996d0fa2e414484352f914c3a0c8a">
+                    <param name="configFile" value="../../widget_data/config/823996d0fa2e414484352f914c3a0c8a.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="bd19c89b1a454669a538659e24379faa">
+            <button data-teacher-view-toggle="true" data-uuid="e328c8726ed4445b872da999859c4557"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0bdf6fb3a02f4cd3a2c61f78e90929b8">
+                <param name="configFile" value="../../widget_data/config/0bdf6fb3a02f4cd3a2c61f78e90929b8.json" />
+            </object>
+        </section>
+        <p data-uuid="cc54b6b63d824ba98461a534ef908f36"><br />
+        </p>
+    </body>
+</html>

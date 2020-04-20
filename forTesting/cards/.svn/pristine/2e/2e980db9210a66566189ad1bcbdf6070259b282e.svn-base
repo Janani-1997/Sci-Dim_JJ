@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="11245cfda0d644a6bd68b120a8e7c119">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="6c5156a89cab4aa39acefc23dd7ad1e8">
+            <div class="header-element header-container " data-uuid="e306f08f19b649709f196a953ab7c5f4">
+                <p class="lesson-number" data-uuid="ac269670260342c19b6be0616c9ef4a1"><br />
+                </p>
+                <h2 data-uuid="68a99f23064a48d8bca6bb4f1805bb08"> Review</h2>
+                <p class="white" data-uuid="3772c7d6fecf4f57ac5d1be80b8a8525">In this module you learned about what different countries and groups of people gained and lost during the time of westward expansion. Now
+                    you will review some key terms and people and order events in a timeline before completing the Lesson
+                    Assessment.</p>
+            </div>
+        </section>
+        <section class="lesson-review" data-uuid="0a443f40f4374cd1bb834b0ec0af738d">
+            <h3 data-uuid="a00c6fbd495b451399a6a46b4754359b">Review Key Terms and People</h3>
+        </section>
+        <p data-uuid="4196bc1bfe2e478e97dfe8dd56220f90">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        <section class="flipcard" data-uuid="f9d7f8fd79de4797be0e64fecc4b11e4">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="a36bb8fab72845b49df6f678fabde1be">
+                <param name="configFile" value="../../widget_data/config/a36bb8fab72845b49df6f678fabde1be.json" />
+                
+                
+            </object>
+        </section>
+        <section class="sequence_timeline" data-uuid="6f98ff91fb9342858092ee00a23c67e0">
+            <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="6ac4c055fa544ff09c0d0d3bcff90cbe">
+                <param name="configFile" value="../../widget_data/config/6ac4c055fa544ff09c0d0d3bcff90cbe.json" />
+                
+                
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="df347ddaa94e42458960da00785b5e64">
+            <button data-teacher-view-toggle="true" data-uuid="65c5d41d669443cda7e81f4513304ff5"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e6120b0e98fe46129e1aff799e40c166">
+                <param name="configFile" value="../../widget_data/config/e6120b0e98fe46129e1aff799e40c166.json" />
+            </object>
+        </section>
+        <p data-uuid="4d22c6bd70a94cb3b4c220cc71347380"><br />
+        </p>
+    </body>
+</html>

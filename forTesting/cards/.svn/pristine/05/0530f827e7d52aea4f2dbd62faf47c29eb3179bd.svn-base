@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8dc107c1b9df4792823088f1e0457133">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="976ae69a09a34bea8d9a5846ff962aa5">
+        <div data-uuid="626ff3afe3ac4c36940f6f4d8b520968">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="d4e445575b004fc4b961eff63a89001f"/>
+        <div class="header-element" data-uuid="78b408c4b67f494ebf241b1a28db6ce1">
+                        <section class="calendar-container-bottom" data-uuid="16e03acdb7c2489f8d6d61066b73c8b4">
+                            <div class="yellow-star-yellow-bar" data-uuid="fc707fef616e479797752a6f9b6da88e"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="0e62e19fd89c46c1b22c8970033c80d9">The Great Depression</h1>
+                        </section>
+            <section class="eq-container" data-uuid="8e2584b6dd8749a68fea9e94b59e8874">
+                <figure class="image " data-uuid="f937f74f18434317b3db396e72b7be29">
+                    
+                        <img alt="This photograph shows a group of men standing around a car with a sign advertising that the car is for sale, as the owner lost everything in the stock market crash." data-uuid="d58b1b72bba14579abdda37c3176833f" src="../../img/module_26opener/ms_snlese454149_663p.jpg" />
+                          </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="4a7e0be4cd52456a9147e88d92a2819a">
+                        <p class="caption" data-uuid="348d12a197814606ae2f214783ecb4bd">The Great Depression forced many people to sell everything they owned just to survive.</p> 
+                    </div>
+              
+            
+            <article data-uuid="2dcb4267eaee4640ba3e4a97568f21bc">
+                <h3 class="eq" data-uuid="f438326b5f61431999ff0abb3c32a8fb">Essential Question</h3>
+                <h3 class="eqt" data-uuid="71adcc4551c043248577220dce7dcbb5">Was the Great Depression inevitable?</h3>
+                <p data-uuid="1dc588cc94e74048a4104e6934612fcf">As you read this module, look for evidence of what caused the Great
+                    Depression. Note the key people, decisions, circumstances, and turning points
+                    that resulted in the efforts to bring about economic recovery. When you are done, you will write a short essay
+                    answering the Essential Question for this module.</p>
+            </article>
+            <section class="video-container " data-uuid="302b2025850c4aa9a117b19dfdb855df">
+                <article data-uuid="9225f80f3eab433493dddd0fbff0dcf1">
+                    <h3 class="vid" data-uuid="6efa890e3ac348a1a380b1af8cc38d27">The Great Depression</h3>
+                    <p class="vid" data-uuid="9f9bd6120eba45c79aeb4e8ad0b1f6ab">America experienced a decade of high times and prosperity in the 1920s.
+                        This golden era came to a crashing end in 1929 with the onset of the Great
+                        Depression. Millions lost their jobs and fell into poverty, causing many to
+                        doubt the future of their nation. Inspired by a new president who offered hope
+                        and promised action, Americans resolved to weather the crisis.&#160;</p>
+                    <section class="video" data-uuid="db8f196db3d944c281ba4119fa8ea498">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="7e4a85a3c6f54be4a088685470e5d234"><param name="configFile" value="../../widget_data/config/7e4a85a3c6f54be4a088685470e5d234.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="845669aa6dac44ca90e8c647b85f63bb">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="d3c01efefb68456c945b20e220554de6">
+                    <param name="configFile" value="../../widget_data/config/d3c01efefb68456c945b20e220554de6.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="ceb8a6f86ad148f99a8b0e6bbe5f0e7d">
+                <article data-uuid="2f6e688233514120a5d10a0e5b1d72fe">
+                    <h3 class="mod" data-uuid="ce5a532776c14328ac4ade4c07542330">The Great Depression 1925–1940</h3>
+                    <p class="mod" data-uuid="5cddda9bac454f8db5daafdb77cee121">The Roaring Twenties gave way to a severe economic decline, known as the
+                        Great Depression. Millions of people lost their jobs, their homes, and their savings.
+                        When President Franklin D. Roosevelt was elected president, he resolved to help
+                        the people, and the country, get back on their feet.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="5538212c930941c5957bb7dac727ccfd">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="b1b2886e0a464baba9eedb0998fa815e">
+                    <param name="configFile" value="../../widget_data/config/b1b2886e0a464baba9eedb0998fa815e.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="82f42085b7454d94bab487a87deec505">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ce57706d78ee4e37aed73ae98a3fd6ae">
+                <param name="configFile" value="../../widget_data/config/ce57706d78ee4e37aed73ae98a3fd6ae.json" />
+            </object>
+        </section>
+        <p data-uuid="7e219c3f57a143878a4c5681cbced728"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4824aeff345a471f831a49ddf0c0b51f">
+            <button data-teacher-view-toggle="true" data-uuid="1351e0da3a6f4d68a37f9134cb1047f7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="48c1e36c756a47849d9dc741c094a758">
+                <param name="configFile" value="../../widget_data/config/48c1e36c756a47849d9dc741c094a758.json" />
+            </object>
+        </section>
+        <p data-uuid="b68f5c61894440b0ab5dfd5e5aac1ef2"><br />
+        </p>
+    </body>
+</html>

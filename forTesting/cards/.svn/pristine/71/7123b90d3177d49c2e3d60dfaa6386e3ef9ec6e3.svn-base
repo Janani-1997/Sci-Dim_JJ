@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="177ae575e0384ac79d68b4524be90068" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Ford as President</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="7a889a46f26a49babaf7aa38d6669f00">
+            <article data-uuid="26ee7d94bae449a29b5ff2da1659d0be">
+                <h4 data-uuid="041356c7e2db4f8a8e0549db52403f24">Main Idea</h4>
+                <p class="main-idea" data-uuid="71a5efe4692d46e7bcd1af39ed465379">Gerald Ford became president upon Nixon’s
+                    resignation and faced many challenges.</p>
+                <h2 data-uuid="b381b94b755748ba9e81c87eddb8cde5">Ford
+                    as President</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="108e662ab9e24277a26f268b7b933187"></div>
+            </article>
+        </section>
+        <p data-uuid="e6e8f1b8ac374dbf9e16ddf2130103a2">Vice President Gerald Ford became the first
+            modern president to hold the office without being elected to it. He was sworn
+            into the presidency after Nixon resigned.<br />
+        </p>
+        <figure class="image-with-caption main vertical" data-uuid="3fa3724304f84d19ae1222e5454e2b62">
+            <img alt="This black-and-white photo shows a U.S. Marine and another man taking down the official presidential photo of Nixon and replacing it with one of Gerald Ford. " data-uuid="3a8239b829b64d17bda7c003c0068583" src="../../img/module_31_lesson01/ms_snlese454149_739p.jpg" />
+            <div class="figcaption" data-uuid="99fbf860daea46eeb3646b330c895787">
+                <h5 data-uuid="b2be8c4927ab4db88cc748a7fee03cd5">Ford Becomes President</h5>
+                <p class="caption" data-uuid="4da94e3bb1a5421ea9d0ffe6c1f11cc1">A U.S. Marine changes the official presidential
+                    photograph from one of Nixon to one of Ford.</p>
+            </div>
+        </figure>
+        <p data-uuid="01a62d3a8b564d2f844697ec654f7d08">Ford lost some public support when he granted
+            Richard Nixon a <dfn title="pardon">pardon</dfn>, or freedom from punishment. He declared it was best for
+            the nation that Nixon not be tried for his crime. Ford stated that Nixon would
+            be “cruelly and excessively penalized” and “ugly passions would again be
+            aroused [stirred].”</p>
+        <p data-uuid="e2249ce6d863444689abe5c7b01c1671">Other issues added to Ford’s difficulties.
+            Oil prices and unemployment remained high, and stagflation continued. The
+            United States also had an increasing trade deficit, an imbalance in which a
+            country imports more than it exports.</p>
+        <p data-uuid="f7287279e0b949f6a2b875f0514efa01">
+            Ford argued that inflation was the main cause of the economic troubles.
+            He began a campaign called Whip Inflation Now (WIN). WIN encouraged people to
+            save money and businesses to hold down wages and prices. Ford’s plan met with
+            resistance from many members of Congress, who wanted to increase spending to
+            help the poor and unemployed. In 1975 Ford and Congress began to compromise.
+            Still, inflation and unemployment remained high.<br />
+        </p>
+        <section class="question-long-text" data-uuid="a19ead0df23444ad82ba7fc78f8a5d17">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="30127729cba347d186ffcbb83a4ab8f7">
+                <param name="configFile" value="../../widget_data/config/30127729cba347d186ffcbb83a4ab8f7.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="931f0cdbf69d4edba7f5a87d6fe338ff">
+            <div class="go-prompt-bottom-bar" data-uuid="a543f0fa9e8f412d83e356a2d6d578f9">
+                <p data-uuid="16e9eaa6366b4f5c8105b1b93df02243">Remember
+                    to use the graphic organizer to take notes on both the positive and negative outcomes
+                    of the Nixon presidency.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="4e157029c9294f3ca0f4dc657186043b">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="47eab8029d624a15917faeab3072b935">
+                <param name="configFile" value="../../widget_data/config/10f7cbcb07a1400d9ce5e287e0711cf8.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="1e2d2a6b1196416a85e4316cd6ae0b71"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="fdf602be1b894f55ad24a3e9610cddaf">
+            <button data-teacher-view-toggle="true" data-uuid="9314bcbad78f4a6a94ff8982a9969049"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f58fd948eb7c4df793ab3c7330372317">
+                <param name="configFile" value="../../widget_data/config/f58fd948eb7c4df793ab3c7330372317.json" />
+            </object>
+        </section>
+        <p data-uuid="8a6e3e68b51d4a5daeb9801f3db7387a"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="4370356d98614acdbcde75e23d2e4d6e" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Limits of Reform</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="97617f1eed194d99af9d3657a7d2e75c">
+            <article data-uuid="1b001d73a46447869005dff6fb31ef21">
+                <h4 data-uuid="7e9583fad3f54f97907a2d75b28394de">Main Idea</h4>
+                <p class="main-idea" data-uuid="52edc4ad01fe44eda5f3207ffcfdca57">Progressive reforms failed to benefit all minorities.</p>
+                <h2 data-uuid="334be8bb74894f7299f9bc23dadb26e2">Limits of Reform</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="4218ba3c8e604a258804f5f962dc995d"></div>
+            </article>
+        </section>
+        <p data-uuid="b7ed353151004f5592a5e8a21ee6dd1b">The Progressive movement achieved some remarkable successes. But Progressive efforts at reform had limits. In addition to overlooking the challenges faced by African Americans, white reformers also overlooked the discrimination faced by other ethnic groups. Native Americans, for example, were largely left behind by the Progressive movement. Some reformers tried to improve conditions for Native Americans by culturally assimilating them into, or having them adopt, white American culture. Unfortunately, these efforts often came at a high cost to Native American culture, religion, and language.</p>
+        <p data-uuid="704eb5660b96423485d11e83c6da1b9c">In 1911, two Native American Progressives, Dr. Carlos Montezuma and Dr. Charles Eastman, founded the Society of American Indians. It was the first national organization that aimed to unite diverse Native American groups in an effort to promote American Indian rights. Many of its early leaders believed that integration into white society would help end Native American poverty. Many other Native Americans, however, wanted to preserve their traditional culture. They resisted the movement to adopt white culture and worked to preserve Native American culture.</p>
+        <p data-uuid="cdb3a2ba331d4776b3b27177afc9a445"> Immigrants from non-European countries also formed groups to help support their members. Chinese immigrants, for example, organized associations in the communities in which they lived. District associations, cultural groups, churches, and temples provided public services that white reformers ignored. San Francisco’s Chinese Hospital was built in 1925 by such a group. Anti-Chinese riots in some western towns and cities caused Chinese immigration to drop, however.</p>
+        <figure class="image-with-caption main" data-uuid="02eed28e8a31420d98c79aa827d05977">
+            <img alt="This photograph shows men and children on the steps of a joss house in San Francisco's Chinatown." data-uuid="45b3c8125684488ebda2c024e73933b0" src="../../img/module_22_lesson03/8_snlese454170_1436p.jpg" />
+            <div class="figcaption" data-uuid="603d039e89e84b46b991bf5ced9ab7b0">
+                <p class="caption" data-uuid="53aef96a33ad4df6bd7a3450d2a0f81d">Residents of San Francisco’s Chinatown gather outside a joss house, or place of worship.</p>
+            </div>
+        </figure>
+        <p data-uuid="ff5e9e3b9afc45328a2a4c0b71bded94">Immigrants from Mexico increased during this time. The borders between the United States and its neighbors were fairly easy to cross. Many Mexican immigrants moved to the South and Southwest. They became an important part of the societies and economies of these regions. Many Mexican immigrants found jobs in the mining and railroad industries. Others became farmers or migrant workers. Progressive labor laws and factory reforms did nothing to improve the poor living and working conditions of migrant farm workers.</p>
+        <section class="question-long-text" data-uuid="b62ac603f49241e49e0fb82ddaa8e193">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="7a4a54ef470d4282ab128a94d3784c87">
+                <param name="configFile" value="../../widget_data/config/7a4a54ef470d4282ab128a94d3784c87.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="cb04ea4041404a39908e7c357c44cf94">
+            <div class="go-prompt-bottom-bar" data-uuid="570071d71bd2457a970de1621e92dcd5">
+                <p data-uuid="789081f00cce4b92a5c230861587e1ea">As you read, use the graphic organizer to take notes on the progressive reforms introduced by the temperance movement, the women’s suffrage movement, and African Americans.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer full bleed" data-go="v0.1.0" data-csm-hide="true" data-uuid="089e617eaf5340ad8025c9fa8ec1923e">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="f7ac325d7cd145dabbff20956c043a82">
+                <param name="configFile" value="../../widget_data/config/a5a1085b429c449b9cc6beb03fc218f3.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="7e4e677c150740d5a2e3711ae4740986"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f74fa3ca63134f3293096c460bfa99b6">
+            <button data-teacher-view-toggle="true" data-uuid="9f10e178d2f04594a744fb9c99f593a8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="fa2a848a9c64408d9b9b7664beab0028">
+                <param name="configFile" value="../../widget_data/config/fa2a848a9c64408d9b9b7664beab0028.json" />
+            </object>
+        </section>
+        <p data-uuid="2e376dbec9b44a398a6bc916902c6655"><br />
+        </p>
+    </body>
+</html>

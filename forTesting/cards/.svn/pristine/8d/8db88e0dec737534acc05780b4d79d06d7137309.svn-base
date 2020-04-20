@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e659e32871ed4b71a1f9f45eaca4853a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="947ee670fa4841a8b05ecc7a5e40f3a1">
+            <p class="lesson-number" data-uuid="8034f965a2084434b99e223c85274ca3">Lesson 3</p>
+            <article class="header-container" data-uuid="ef6d6ffd65b94c04918030ae2f56cda6">
+                <div class="header-element" data-uuid="f526680a05764116856a746c4e866c24">
+                    <h1 data-uuid="c7278fb3769e42a09a193db8ed46272e">City Life</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="ca24a0615e4749909fbe6ec97a71928e"></div>
+                    <h2 data-uuid="6dda636eddd842fa82919430edbb7559">The Big Idea</h2>
+                    <p data-uuid="090e783c1d8a428aa73d5f21423c4cd6">The rapid growth of cities in the late 1800s
+                        created both challenges and opportunities.</p>
+                </div>
+            </article>
+            <article data-uuid="3270832388e0418a94a9cdd84ce585c5">
+                <h3 class="if-you-were-there" data-uuid="d8d3fa2ce4894361a437eb6b22be023e">If YOU were there...</h3>
+                <p data-uuid="9e17e9907fd9457e90112cc19c6ab86f">You live in a fast-growing city in 1895. When you
+                    walk the streets, you meet families who are packed into run-down apartments in
+                    crowded, filthy neighborhoods. You meet immigrants who want to study English
+                    but have no money for classes. You are determined to help these city residents
+                    improve their lives.</p>
+            </article>
+            <section class="reading-check" data-uuid="db08db9caacd46bc95790d6e6c5a379b">
+                <section class="question-long-text" data-uuid="573cf570bde9432abda21d2b31aa2b6e">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="7e1227fe08c8459dbedc12c5fd290901">
+                        <param name="configFile" value="../../widget_data/config/7e1227fe08c8459dbedc12c5fd290901.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="76b77b22ba6a47b5b63765373f31620d">
+            <button data-teacher-view-toggle="true" data-uuid="172a47403da249f8be0be551affa8a95"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7c54971316e5489fb1235253bdf8c383">
+                <param name="configFile" value="../../widget_data/config/7c54971316e5489fb1235253bdf8c383.json" />
+            </object>
+        </section>
+        <p data-uuid="2712d6938f924e64905bdb7c44289cef"><br />
+        </p>
+    </body>
+</html>

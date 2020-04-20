@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="64157407325847e4b558616e6f5fb116">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="c5d448eb2b99420bbfbd65feebdd97cd">
+            <div class="header-element header-container " data-uuid="e9117b90a4e84e1b9633b7c3df59ac13">
+                <p class="lesson-number" data-uuid="17a64aa711174afa952d502e69828f33">Lesson 3</p>
+                <h2 data-uuid="387d8cc8c3fc42bb90b6a2bea0070ac8">Assessment</h2>
+            </div>
+            <h5 data-uuid="922168878c4544938dafa791d89b2708">Trading Kingdoms of West Africa</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="c52179d5e5684994b4277cd33b8e4e79">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="398c7d8bbf2a491ab8b51a7b4d4ce63f">
+                <param name="configFile" value="../../widget_data/config/398c7d8bbf2a491ab8b51a7b4d4ce63f.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="17ae1add91be48f2ae0ba97a980ac53b">
+            <button data-teacher-view-toggle="true" data-uuid="c242d80b713d45df88c75a4f6f9149bc"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1351928f246647e6835d339fa79bfa82">
+                <param name="configFile" value="../../widget_data/config/1351928f246647e6835d339fa79bfa82.json" />
+            </object>
+        </section>
+        <p data-uuid="41dc60d4646845248f6b832b784596f5"><br />
+        </p>
+    </body>
+</html>

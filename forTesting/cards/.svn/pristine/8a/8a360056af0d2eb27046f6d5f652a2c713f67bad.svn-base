@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="868a1413f826479585f4e47b54eda166" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="dd7ac93f2e0c4dd482df027d3c2c8532">
+            <div class="header-element header-container " data-uuid="b22a34bdcd48454e9f091785a3907527">
+                <p class="lesson-number" data-uuid="1dfcafd8ff224e3e98096baba5d41079">Lesson 3</p>
+                <h2 data-uuid="41c9ba52c6974e15a409c2c675d91f58">Assessment</h2>
+            </div>
+            <h5 data-uuid="7a3d12ff2bd04e0996bc682d1a491900">Wars for the West</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="87256631bdd14940827e7c79610f7be0">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="8ceaabb00d4b4e67b9d4ae30c5219135">
+                <param name="widgettype" value="closedassess" />
+                <param name="assessment-title" value="" />
+                <param name="item-id" value="493462585/493475974,493497844/493497888,493569394/493577849,496699033,496699331,496699504" />
+                <param name="assessmenturl" value="" />
+                <param name="openquesstart" value="4" />
+                <param name="configFile" value="../../widget_data/config/8ceaabb00d4b4e67b9d4ae30c5219135.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8842b98ce1524a91bd114b8e25624eef">
+            <button data-teacher-view-toggle="true" data-uuid="31b0f3d258c944b9bff8a720921e53bb"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a363bd126fea4e3786d9f9010b12238f">
+                <param name="configFile" value="../../widget_data/config/a363bd126fea4e3786d9f9010b12238f.json" />
+            </object>
+        </section>
+    </body>
+</html>

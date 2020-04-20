@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="5449880c92f840de85aea775fbf6b45f" enumeration="" designation="" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="c73555e5975f4942bc05e0e2f0de3b18">
+            <div class="header-element header-container " data-uuid="1b834da853d643ae896df67201642e31">
+                <p class="lesson-number" data-uuid="9e18768161714a2198c4cfdfbb8c5a95"><br />
+                </p>
+                <h2 data-uuid="65ce857f6b0649f0a5b9c45f30bcbe2c"> Review</h2>
+                <p class="white" data-uuid="ed1fdd4a74da41abaf44e8a4d116ebc8">In
+                    this module you’ve learned about the political, economic, and
+                    technological changes that altered the way Americans lived and viewed the world
+                    in the early decades of the 21st century. Now you will
+                    review some key terms and people before completing the Module Assessment.</p>
+            </div>
+            <h3 data-uuid="c04975d577f2404f846d855544e28566">Review Key Terms and People</h3>
+            <p data-uuid="3d0e3bfde2da43eb9ceff8c173ae2bde">Define each term or person
+                shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="a07dc393c64a43999a567cf9a63de9ad">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget" data-uuid="b734beef78a44ed787626d452413d03f">
+                    <param name="configFile" value="../../widget_data/config/b734beef78a44ed787626d452413d03f.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="fa0ca25062af429eacd96d1ec6eb5536">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="3e0e26a1f17f4e63bb5095025533ccb9">
+                    <param name="configFile" value="../../widget_data/config/3e0e26a1f17f4e63bb5095025533ccb9.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="08c3d9b60e7a484786aea9aab7822f5b">
+            <button data-teacher-view-toggle="true" data-uuid="571700a007454b488383cac6939a70ca"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="62d2d4d264f244c39f21af85916218d4">
+                <param name="configFile" value="../../widget_data/config/62d2d4d264f244c39f21af85916218d4.json" />
+            </object>
+        </section>
+        <p data-uuid="099f207de23c4f31889f24c3a18b0bca"><br />
+        </p>
+    </body>
+</html>

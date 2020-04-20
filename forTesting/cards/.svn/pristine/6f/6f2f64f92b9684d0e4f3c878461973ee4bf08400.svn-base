@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="efb7814b94ef417cbe42d04a3181551e" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Race to the Moon</title>
+    </head>
+    <body>
+        <section data-uuid="ade3fa3a438f4bba9b66b711bf5f7718" class="segment-opener">
+            <article data-uuid="5db17cdec1404c2da350d44a995780e5">
+                <h4 data-uuid="2b2ec676d4bf4431bfd272eabbf278ee">Main Idea</h4>
+                <p data-uuid="7e00664b49764539836046e2d11b657c" class="main-idea">The United States and the Soviet Union raced to send a person to the moon.</p>
+                <h2 data-uuid="6ec5905b69f34d6d932f7b174ca911fe">Race to the Moon</h2>
+                <div data-uuid="249f5f97e2bc4264ac29c091986ce7e2" class="yellow-star-yellow-bar">
+                </div>
+            </article>
+        </section>
+        <p data-uuid="ef4712b203d04d2ea3d924ee87cb8d36">Although Kennedy and Khrushchev had taken some steps to prevent conflicts, the Cold War continued. One aspect of the Cold War that heated up in the 1960s was the space race—the competition between the United States and the Soviet Union to explore space. The Soviet Union pulled ahead in April 1961 when Soviet cosmonaut Yuri Gagarin became the first person to travel into space, orbiting Earth once.</p>
+        <p data-uuid="eda2734ae098494ba5c6da09b986b6c8"> The United States was determined to catch up to and surpass the Soviet Union in the space race. Kennedy outlined a bold plan in a 1961 speech to Congress:</p>
+        <section data-uuid="0d2f77e8349044c48fb2036d339bb71f" class="pullquote_wrapper">
+            <p data-uuid="1cb8cd11c4574ea99412435a66d10219" class="pullquote hang">“I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on the moon and returning him safely to the earth.”</p>
+            <div class="pullquote_attribution_wrapper" data-uuid="d8e551476c284a3aa8da3027764a3d00">
+                <p data-uuid="dedb4d26ad39485abc989a85d55f5594" class="pullquote_address">—John F. Kennedy<br />
+                </p>
+                <p data-uuid="2bbecd41118c461fac37fa519cdf88dc" class="p_source">speech to Congress, May 25, 1961<span class="important"></span></p>
+            </div>
+        </section>
+        <p data-uuid="fe85daf82e3048789680812ca810d157">It is difficult for us to imagine what it was like for Kennedy’s audience to hear these words. Space travel seems normal to us today. But to people in the early 1960s, the idea of humans landing on the moon seemed like something out of a science fiction novel. Still, Americans supported the project. Congress provided NASA with billions of dollars to fund the development of new space-travel technology.</p>
+        <p data-uuid="353cd66caf1d4dc7b7158eeae0b0fc00"> In May 1961 astronaut Alan Shepard Jr. became the first U.S. astronaut in space. The next year, John Glenn became the first American to orbit Earth. Then NASA pushed ahead with Project Apollo, with the goal of landing an astronaut on the moon. Even with careful planning, Apollo astronauts faced great danger. Three astronauts died in a fire during a prelaunch test in 1967.<br />
+        </p>
+        <section data-uuid="fef5b421b7434c04a983d2a7293c8791" class="image-with-slider ">
+            <object type="text/html" data="../../assets/widgets/image_with_slider/index.html" data-uuid="60ef2e573c4f4fb69020c5499fc1c838" class="widget">
+                <param name="configFile" value="../../widget_data/config/60ef2e573c4f4fb69020c5499fc1c838.json" />
+            </object>
+        </section>
+        <section data-uuid="f93454c8004e4d3db4180bcc3b83f738" class="skillbuilder">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" data-uuid="09b68e17b5af4f9c96b9e420a00d8468" class="widget">
+                <param name="configFile" value="../../widget_data/config/09b68e17b5af4f9c96b9e420a00d8468.json" />
+            </object>
+        </section>
+        <section data-uuid="6d37af005fe342c09d6dddf27f2eefec" class="question-multiple-choice">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" data-uuid="e884c4e8a1fc40efa1abe620fcd0c196" class="widget">
+                <param name="configFile" value="../../widget_data/config/e884c4e8a1fc40efa1abe620fcd0c196.json" />
+            </object>
+        </section>
+        <p data-uuid="83d742d81fdf461ba39ee67fd1824347">On July 20, 1969, while millions of people around the world watched on television, the lunar module <i>Eagle </i>landed on the surface of the moon. American astronauts <b><dfn title="Armstrong, Neil">Neil Armstrong</dfn></b> and <b><dfn title="Aldrin, Edwin “Buzz”">Edwin “Buzz” Aldrin</dfn></b> climbed out and became the first people to walk on the moon. “That’s one small step for [a] man, one giant leap for mankind,” said Armstrong as he touched the lunar surface. Armstrong and Aldrin planted the American flag on the moon’s surface and collected samples of moon rocks. The Apollo program continued, achieving five more successful moon landings by 1972.</p>
+        <section data-uuid="a057f6f6b3ab405493c7a97ebc7ccfd9" class="image-with-hotspots">
+            <object type="text/html" data="../../assets/widgets/image_hotspot/index.html" data-uuid="d962d550fecb4c73b2c2af1dcbba29eb" class="widget">
+                <param name="configFile" value="../../widget_data/config/d962d550fecb4c73b2c2af1dcbba29eb.json" />
+                <param name="reference_id" value="ref:V_HC_2749" />
+                <param name="externalwidget" value="true" />
+            </object>
+        </section>
+        <section data-uuid="f86ae5e5ee2846e4a1c8960c7131984e" class="question-long-text more-space-above">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="e5d4d9ccb34c484ea29357a36bb73fa4" class="widget">
+                <param name="configFile" value="../../widget_data/config/e5d4d9ccb34c484ea29357a36bb73fa4.json" />
+            </object>
+        </section>
+        <section data-uuid="cd68d6d49ce44357a4e685f7d9d38d57" class="graphic-organizer-prompt ">
+            <div data-uuid="fcc63db0e06742de992c83b713ac79de" class="go-prompt-bottom-bar">
+                <p data-uuid="18919bee28f0466985c5f3a0f9541527">Remember to use the graphic organizer to take notes on the Kennedy administration’s Cold War policies.</p>
+            </div>
+        </section>
+        <section data-go="v0.1.0" data-csm-hide="true" data-uuid="890381ed1186463fb7fda96d90d8d652" class="graphic-organizer">
+            <object type="text/html" data="../../assets/widgets/go/index.html" data-go-content="true" data-uuid="6faaadf36df14f7182d9fb674d09f7ca" class="widget">
+                <param name="configFile" value="../../widget_data/config/ad5748b547ab46048cfc1ed4e99e6727.json" />
+            </object>
+            <button data-go-toggle="true" data-uuid="344be578a93f4279bbac8a6ab8c36f81" class="go-close-btn">
+            </button>
+        </section>
+        <section data-teacher-view="v0.1.0" data-uuid="e04f6966cd1343fbad3b1ef898206cb3" class="teacher-view">
+            <button data-teacher-view-toggle="true" data-uuid="9307138a5d4a494681c36675eb84d404">
+            </button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" data-uuid="05957e13c68542a899a1f2e443ebcb38" class="widget">
+                <param name="configFile" value="../../widget_data/config/05957e13c68542a899a1f2e443ebcb38.json" />
+            </object>
+        </section>
+        <p data-uuid="166b98fd95b342a0b92365955a5a03ff"><br />
+        </p>
+    </body>
+</html>

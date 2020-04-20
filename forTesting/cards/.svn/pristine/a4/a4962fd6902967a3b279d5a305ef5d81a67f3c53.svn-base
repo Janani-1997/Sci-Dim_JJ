@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="a945da563b194181806d16be63237a6e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Article IV: Relations among States</title>
+    </head>
+    <body class="bg-tint">
+        <section class="constitution bg" data-uuid="15a99ce55ff846ce99f8e8fb461ec07a">
+            <div class="yellow-star-yellowgray-bar" data-uuid="d052e3a5fe3e47cfabf9a7d9b7277dcf"></div>
+            <h3 data-uuid="3abec52ee52945dd81dc144de76e0d74">Article IV: Relations among States</h3>
+            <h4 data-uuid="2f48b047f44b41c797d39228139e6a13">Section
+                1. State Acts and Records</h4>
+            <p data-uuid="9234df45f02e4dea8539e9b31e01c5c0">Full Faith and Credit shall be given in each
+                State to the public Acts, Records, and judicial Proceedings of every other
+                State. And the Congress may by general Laws prescribe the Manner in which such
+                Acts, Records and Proceedings shall be proved, and the Effect thereof.</p>
+            <section class="extension" data-uuid="bb98eb9e23d545ca98a4a6f10131bcf8">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="f4ead606579a4f7f8047c8ccd4699626">
+                    <param name="configFile" value="../../widget_data/config/f4ead606579a4f7f8047c8ccd4699626.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <h4 data-uuid="e67869a38be14457b2eb55ef67e25037">Section 2.
+                Rights of Citizens</h4>
+            <ol data-uuid="96c5f6f7345b470d9e8e651804891168">
+                <li data-uuid="2bf94ac3009c489f8301e17433819b37"><b>Citizenship</b> The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States.</li>
+                <li data-uuid="f1f89fec5e0647bdb260527a4a940a22"><b>Extradition</b> A
+                    Person charged in any State with Treason, Felony, or other Crime, who shall
+                    flee from Justice, and be found in another State, shall on Demand of the
+                    executive Authority of the State from which he fled, be delivered up, to be
+                    removed to the State having Jurisdiction of the Crime.<br />
+                </li>
+                <li data-uuid="9de213e7e5dc4900a661917af583ab3c"><b>Fugitive Slaves </b><span class="strikethru">No
+                    Person held to Service or Labour in one State, under the Laws thereof, escaping
+                    into another, shall, in Consequence of any Law or Regulation therein, be
+                    discharged from such Service or Labour, but shall be delivered up on Claim of
+                    the Party to whom such Service or Labour may be due.</span><br />
+                </li>
+            </ol>
+            <h4 data-uuid="ed156dabf5e34b779238c9b1f5ce8891">Section
+                3. New States</h4>
+            <ol data-uuid="bf77582bc031499bb621f3dc2a4a5e51">
+                <li data-uuid="ba84e84a67874f40b5ad2d31ce1dfd36"><b></b><b>Admission</b> New States may be admitted by the Congress into
+                    this Union; but no new State shall be formed or erected within the Jurisdiction
+                    of any other State; nor any State be formed by the Junction of two or more
+                    States, or Parts of States, without the Consent of the Legislatures of the
+                    States concerned as well as of the Congress.&#160;</li>
+                <li data-uuid="0514dbc3cab44a2f9de6113795c73b17"><b></b><b>Congressional Authority</b>
+                    The Congress shall have Power to dispose of and make all needful Rules and
+                    Regulations respecting the Territory or other Property belonging to the United
+                    States; and nothing in this Constitution shall be so construed as to Prejudice
+                    any Claims of the United States, or of any particular State.</li>
+            </ol>
+            <h4 data-uuid="8ef8130504214255933b98c42ab204a2">Section
+                4. Guarantees to the States</h4>
+            <p data-uuid="02e1cfea685f43fd8570a391d6105699">The United States shall guarantee to every State
+                in this Union a Republican Form of Government, and shall protect each of them
+                against Invasion; and on Application of the Legislature, or of the Executive
+                (when the Legislature cannot be convened), against domestic Violence.</p>
+            <section class="extension" data-uuid="f0a2b855c3b9474d98a114f2d5749945">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="4fac658e1be64687a9b55652991e2cee">
+                    <param name="configFile" value="../../widget_data/config/4fac658e1be64687a9b55652991e2cee.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <section class="question-long-text bg" data-uuid="1fda14cc184c41bbb4cec6b6f2787b6b">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e5f5dafe8de24db1a6a6748975889263">
+                    <param name="configFile" value="../../widget_data/config/e5f5dafe8de24db1a6a6748975889263.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="19f686b892274a8e8dda5ca0411f7402">
+            <button data-teacher-view-toggle="true" data-uuid="f577cf6a88a345d39cd8d5b7105764b6"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="07481b58a3cc4c08a65f1ef4fa75a09b">
+                <param name="configFile" value="../../widget_data/config/07481b58a3cc4c08a65f1ef4fa75a09b.json" />
+            </object>
+        </section>
+    </body>
+</html>

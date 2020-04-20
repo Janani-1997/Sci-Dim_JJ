@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="675a1796aa6443cbb10df821076734d0">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Article III: The Judiciary</title>
+    </head>
+    <body class="bg-tint">
+        <section class="constitution bg" data-uuid="b0b758820364466ba1afb0d0486133e7">
+            <div class="yellow-star-yellowgray-bar" data-uuid="86acc932e6244e069e0056673d0bbcce"></div>
+            <h3 data-uuid="a39a53472bd445729587c06838ce4638">Article III: The Judiciary&#160;</h3>
+            <h4 data-uuid="179b7b8c929148b783794cc822310ae2">Section
+                1. Federal
+                Courts and Judges</h4>
+            <p data-uuid="c1a6b8c9846743e4a750288503a1e69d">The judicial Power of the United States shall be
+                vested in one supreme Court, and in such inferior Courts as the Congress may
+                from time to time ordain and establish. The Judges, both of the supreme and
+                inferior Courts, shall hold their Offices during good Behavior, and shall, at
+                stated Times, receive for their Services a Compensation, which shall not be
+                diminished during their Continuance in Office.<br />
+            </p>
+            <section class="extension" data-uuid="72ef7c23a0b54f22bd68a6ce9b1b36d8">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="faac2fc8f7794d08b82cc059a4e6a161">
+                    <param name="configFile" value="../../widget_data/config/faac2fc8f7794d08b82cc059a4e6a161.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <h4 data-uuid="09f7a017428d4ba98cc55870a3972738">Section
+                2. Authority of the Courts</h4>
+            <ol data-uuid="5bae564a0d2a48d58d8ae6d446dfe1a6">
+                <li data-uuid="2591028f2fa64356a2cd03dc91e8e695"><b>General Authority</b> The judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority;—to all Cases affecting Ambassadors, other public Ministers and Consuls;—to all Cases of admiralty and maritime Jurisdiction;—to Controversies to which the United States shall be a Party;—to Controversies between two or more States—between a State and Citizens of another State; <span class="strikethru">—between Citizens of different States;</span>—between Citizens of the same State claiming Lands under Grants of different States<span class="strikethru">, and between a State, or the Citizens thereof, and foreign States, Citizens or Subjects.</span></li>
+                <li data-uuid="cadbcf5252234418bf60f8cd89af5215"><b>Supreme Authority</b> In
+                    all Cases affecting Ambassadors, other public Ministers and Consuls, and those
+                    in which a State shall be Party, the supreme Court shall have original
+                    Jurisdiction. In all the other Cases before mentioned, the supreme Court shall
+                    have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and
+                    under such Regulations as the Congress shall make.
+                    <br />
+                </li>
+                <li data-uuid="f57c7def774e40e7bdfa704383f6acce"><b>Trial by Jury</b>
+                    The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury; and
+                    such Trial shall be held in the State where the said Crimes shall have been
+                    committed; but when not committed within any State, the Trial shall be at such
+                    Place or Places as the Congress may by Law have directed.
+                </li>
+            </ol>
+            <section class="extension" data-uuid="b26203618e1f473fbf9f132b93a936e8">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="3651408bd2844eb89404336d2c4d3d30">
+                    <param name="configFile" value="../../widget_data/config/3651408bd2844eb89404336d2c4d3d30.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <h4 data-uuid="46dbac5bf71549bdbaf0392e93e96f46">Section 3. Treason</h4>
+            <ol data-uuid="b3297caae8874fdfa19e2ab38ea12d92">
+                <li data-uuid="2154202b940e4da3a13e0b8dfcef42e6"><b>Definition Treason</b> against the United States, shall consist only in levying War against them, or in adhering to their Enemies, giving them Aid and Comfort. No Person shall be convicted of Treason unless on the Testimony of two Witnesses to the same overt Act, or on Confession in open Court.</li>
+                <li data-uuid="b93f42aacb8a4a62a748567538befcfc"><b>Punishment</b>
+                    The Congress shall have Power to declare the Punishment of Treason, but no
+                    Attainder of Treason shall work <a href="[remark:60ca89f117ae40a28e963d3fa662447e]"> Corruption of Blood</a>, or Forfeiture
+                    except during the Life of the Person attainted.<br />
+                </li>
+            </ol>
+            <section class="question-long-text bg" data-uuid="efc44268819d43e5aafd00cffa9f510c">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="06cedf36cd8548f387b167b6a798258c">
+                    <param name="configFile" value="../../widget_data/config/06cedf36cd8548f387b167b6a798258c.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="b930df3ef19e47548522fe4e4e1d37e1">
+            <button data-teacher-view-toggle="true" data-uuid="16f48828a05b455b981bbfb571e2a7e4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d40cb925d782410d8d1fa61e30ebf84a">
+                <param name="configFile" value="../../widget_data/config/d40cb925d782410d8d1fa61e30ebf84a.json" />
+            </object>
+        </section>
+    </body>
+</html>

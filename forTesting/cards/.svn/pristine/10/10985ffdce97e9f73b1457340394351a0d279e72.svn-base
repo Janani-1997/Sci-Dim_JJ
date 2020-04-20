@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e9f0665d42dc4da3bede44b05fd7091b">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="33736e41795244e284bc1c279e99cf8f">
+            <p class="lesson-number" data-uuid="9b75d2dc075643ee9a9654223bc0dbc3">Lesson 3</p>
+            <article class="header-container" data-uuid="4c71d88e28ed4118991e952e2adacdaa">
+                <div class="header-element" data-uuid="36ecdacc793b43d9aea0cf9f0e4a41fa">
+                    <h1 data-uuid="4a0515c6a0b94852a95b76b55e3895b9">Creating the Constitution</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="00fc326f31674e668175378a781b1a67"></div>
+                    <h2 data-uuid="8e96102a03304acdb03cfdf58e0edc06">The Big Idea</h2>
+                    <p data-uuid="fedffb4a0d6e40a594729bac911c3455">A new constitution provided a framework for a
+                        stronger national government.</p>
+                </div>
+            </article>
+            <article data-uuid="2e94871e66d0421290a1037202d56ffc">
+                <h3 class="if-you-were-there" data-uuid="94707e4d9b7a4c2ba816f0c0c664d6be">If YOU were there...</h3>
+                <p data-uuid="57872b2731814b4193357cac094e69bf">You are a merchant in Connecticut in 1787. You
+                    have been a member of your state legislature for several years. This spring,
+                    the legislature is choosing delegates to a convention to revise the Articles of
+                    Confederation. Delegates will meet in Philadelphia. It means leaving your
+                    business in others’ hands for most of the summer. Still, you hope to be chosen.</p>
+            </article>
+            <section class="question-long-text" data-uuid="3cf7f5ddfd2b4da8a2763ee867a1ee46">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="7c18156e5e7c4ccab0707e498479924c">
+                    <param name="configFile" value="../../widget_data/config/7c18156e5e7c4ccab0707e498479924c.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a5c1106506b34facb602299d2cfbb5e3">
+            <button data-teacher-view-toggle="true" data-uuid="9958bc3626e7458985ff546d73adeddc"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b94789f7c22345a7bc01aaab369fe911">
+                <param name="configFile" value="../../widget_data/config/b94789f7c22345a7bc01aaab369fe911.json" />
+            </object>
+        </section>
+        <p data-uuid="94acf81daed842ebae4e1a019235754d"><br />
+        </p>
+    </body>
+</html>

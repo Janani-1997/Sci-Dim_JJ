@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e3988998df9e471b89437cc215a13a2d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener" data-uuid="e535a30a28fe44f8b117adda448e4973">
+            <p class="lesson-number" data-uuid="9a5c8e36d605439abba7bbbedf70348f">Lesson 2</p>
+            <article class="header-container" data-uuid="6dfd929740534c4fa53877adecc332e4">
+                <div class="header-element" data-uuid="543c96fb3aa947f1838fd2b21135bb39">
+                    <h1 data-uuid="e767c6965f354672aff717d4e27ab726">Americans Prepare for War</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="bc1ccfadb48041b4907f9f5b62ae7bac"></div>
+                    <h2 data-uuid="73500ff403704daa9f4a723991bfcd7a">The Big Idea</h2>
+                    <p data-uuid="a940608e80f94c1d8b4185d9405ab6f4">After entering World War I in 1917, Americans began the massive effort of preparing for war.&#160;</p>
+                </div>
+            </article>
+            <article data-uuid="02ac65fdffad45439653bc541805d16b">
+                <h3 class="if-you-were-there" data-uuid="64169c7752b8447cb0150358a2c1ba43">If YOU were there...</h3>
+                <p data-uuid="057a641db49e4ddd817e9e6c529e2fc0">Everywhere you go, people are talking about the war in
+                    Europe. The United States has just joined the fighting on the side of the
+                    Allied powers. Many young men you know are volunteering to fight. Women are
+                    signing up to drive ambulances or work as nurses. You know that the situation
+                    in Europe is dangerous, but you want to serve your country.</p>
+            </article>
+            <section class="reading-check" data-uuid="19342aa8e5bb4ffbaa3e68a8cb68492c">
+                <section class="question-long-text" data-uuid="f8849fb0b69244258cd972cc27c923e1">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="378077f0de534945b7ee900390964c95">
+                        <param name="configFile" value="../../widget_data/config/378077f0de534945b7ee900390964c95.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="5400b9ec14d3448c963949f0ca9d096d">
+            <button data-teacher-view-toggle="true" data-uuid="441c9e53126c48fc8bb6291ddf4c87e2"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="68c7bb2c5f6746feb1cb4e3a9acc2e93">
+                <param name="configFile" value="../../widget_data/config/68c7bb2c5f6746feb1cb4e3a9acc2e93.json" />
+            </object>
+        </section>
+        <p data-uuid="3b60d4f26fb9426fbd0e4d8795cb295a"><br />
+        </p>
+    </body>
+</html>

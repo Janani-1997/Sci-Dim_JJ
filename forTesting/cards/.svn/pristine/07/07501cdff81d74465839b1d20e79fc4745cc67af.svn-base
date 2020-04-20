@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="cad076285b384d408477cc24cce12a6d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="81533411fe3d47779548a90749ebcdc8">
+            <p class="lesson-number" data-uuid="344ded37b68f4fe49855533bda6896a2">Lesson 2</p>
+            <article class="header-container" data-uuid="a084353717a04eab8b18e3e93f4580c9">
+                <div class="header-element" data-uuid="080beaf9a38e4add8dd37866e7f62a77">
+                    <h1 data-uuid="0d381c35d2364654a77e819126185498">Trouble in Kansas </h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="c2aba37fc87c44cb88a1dd33389ee935"></div>
+                    <h2 data-uuid="43e9858f4a7044b8b52d890fd1da98db">The Big Idea</h2>
+                    <p data-uuid="b91af2b46bb343958f3ae339902bfd4e">The Kansas-Nebraska Act
+                        heightened tensions in the conflict over slavery.&#160;</p>
+                </div>
+            </article>
+            <article data-uuid="3a5543119f564f1193545a5236887043">
+                <h3 class="if-you-were-there" data-uuid="cba899e1c87f4c4e9c76ae291d100f1f">If YOU were there...</h3>
+                <p data-uuid="c765a9b62b6c4293ba96db5bf2aa9403">
+                    You live on a New England farm in 1855. You often
+                    think about moving West. But the last few harvests have been bad, and you can’t
+                    afford to have another bad harvest. Now the Emigrant Aid Society offers to help
+                    you move to&#160;Kansas. To bring in antislavery voters like you, they’ll give
+                    you a wagon, livestock, and farm machines. Still, you&#160;know that Kansas
+                    might be dangerous.</p>
+            </article>
+            <section class="question-long-text" data-uuid="fb843c79b74c44a380b1f0bcc06b6ac3">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ceae7c0d3a504175b9db9952cafef1fa">
+                    <param name="configFile" value="../../widget_data/config/ceae7c0d3a504175b9db9952cafef1fa.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="050d6462989e4bcf8347c46cdf8d5534">
+            <button data-teacher-view-toggle="true" data-uuid="1fe5a8f773934b6a8de7496ef2aa5d14"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3623ed1fa2fe4ef8b56fbf1e4b2856dc">
+                <param name="configFile" value="../../widget_data/config/3623ed1fa2fe4ef8b56fbf1e4b2856dc.json" />
+            </object>
+        </section>
+    </body>
+</html>

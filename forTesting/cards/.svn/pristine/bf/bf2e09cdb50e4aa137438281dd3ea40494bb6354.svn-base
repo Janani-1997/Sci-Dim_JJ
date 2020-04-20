@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8b363385044e44eeaaa8babff326e566">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="18131b8ad25b465aacdccda0f70c9ba3">
+            <p class="lesson-number" data-uuid="6c9f72d8e8b946fbbcdbb55058e01bdd">Lesson 3</p>
+            <article class="header-container" data-uuid="92e2965e20e84ff59df20a6ca981ce30">
+                <div class="header-element" data-uuid="4137f8f30d3c427fb030d3e2d8f9b705">
+                    <h1 data-uuid="10da6baa16dd458cac07f953603a60f9">The Jazz Age</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="2f6e91fb7f2c42c59c36272e015701f9"></div>
+                    <h2 data-uuid="1ae2a59f4f574284aea7a20f36c5f9d2">The Big Idea</h2>
+                    <p data-uuid="d230ab46788f4d7aa4761f11b398e0ee">Musicians, artists, actors,
+                        and writers contributed to American popular culture in the 1920s.</p>
+                </div>
+            </article>
+            <article data-uuid="3e2caf88660e4114a0324e7e6a4c32aa">
+                <h3 class="if-you-were-there" data-uuid="b9d0b0b9c2194d34a30a0f6509c864b8">If YOU were there...</h3>
+                <p data-uuid="323db1fef4424146a237d37ccaa1bcb8">The year is 1924. The New York Giants are playing the Washington
+                    Senators in the World Series. You just bought your first radio, and you are
+                    listening to an announcer describe the tense action as the seventh and deciding
+                    game goes into extra innings. You used to have to wait to read about the games
+                    in the newspaper. Now you can follow your favorite team pitch by pitch!</p>
+            </article>
+            <section class="reading-check" data-uuid="cfae5e8ac1aa4ef59c1d09b06168cff4">
+                <section class="question-long-text" data-uuid="325eea192d9a4f4ca1cb2c7bcc799cc4">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4e8a7d18b0a044b5b49354ce3faf404d">
+                        <param name="configFile" value="../../widget_data/config/4e8a7d18b0a044b5b49354ce3faf404d.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="024e0f71d75b4056b0ae1eea55b3d11c">
+            <button data-teacher-view-toggle="true" data-uuid="4c56791750424388804b821267d576a6"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="440b66ba6f794309bc947790d50aae2c">
+                <param name="configFile" value="../../widget_data/config/440b66ba6f794309bc947790d50aae2c.json" />
+            </object>
+        </section>
+        <p data-uuid="993af5264caf43b3b9db705fbed815c8"><br />
+        </p>
+    </body>
+</html>

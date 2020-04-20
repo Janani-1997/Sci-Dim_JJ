@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="9b3ffaba16364f2c8d3f286baed72d6a" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="5b29ef29a81541dfa146b094948950e7">
+            <div class="header-element header-container" data-uuid="2917b45a19cc4501800114f8d10fc5ad">
+                <p class="lesson-number" data-uuid="dfb1bef704eb41eb95a82063c7f2d08c"> Lesson 3</p>
+                <h2 data-uuid="2c6ce4525eb840168861f97e37f69345">Review</h2>
+                <p class="white" data-uuid="effb34f9f3a647f19eb410f87736a756">In this lesson you learned about changes that shaped the new republic from 1800 to 1840. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="36ea7b8fe5444d64a0f0fd919970e165">Review Key Terms and People</h3>
+            <p data-uuid="c2433f23d66f4eed98680ce734e0a7eb">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="583a00cc262f4a908cfa752f8ad17aeb">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="b237523670d14c0f962acc3773561db0">
+                <param name="configFile" value="../../widget_data/config/b237523670d14c0f962acc3773561db0.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="0336ac2ed7eb460589475804a0672310">
+            <div class="go-prompt-bottom-bar" data-uuid="aecae00afada468e96335487f9d8b6d6">
+                <h5 data-uuid="d31b984985e74b689624e6ce478e54e2">Review the Graphic Organizer</h5>
+                <p data-uuid="9210e5c09d364dc28a2baf6e88a36394">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="853f1b43191141c9b925f848d1da21dd">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="877ad2221f5445d58e8d8c7fb1ef14f8">
+                <param name="configFile" value="../../widget_data/config/877ad2221f5445d58e8d8c7fb1ef14f8.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-uuid="56154797d5c44f4bbc8a4e78dd51c825">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="1ba608ccbd354726bcac000b7a8007a7">
+                <param name="configFile" value="../../widget_data/config/c82c6b6cc8f44d479d5c99b3fb9f3b02.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="ae375bf192134c63a3ec48f79d6c1731"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="18c452a70eaa49a3bee21790968ba341">
+            <button data-teacher-view-toggle="true" data-uuid="2a4c4d478f834788b2569df47bb5bbea"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7ae57efaa0ad4937bf966b6d58146247">
+                <param name="configFile" value="../../widget_data/config/7ae57efaa0ad4937bf966b6d58146247.json" />
+            </object>
+        </section>
+        <p data-uuid="c8fa9bbecd0c41a6939e01d38db1f443"><br />
+        </p>
+    </body>
+</html>

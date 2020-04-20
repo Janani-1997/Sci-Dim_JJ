@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="217b1f61a2dc4972b407e8d90870de11">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 5 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="76770070d7f344a5922e4c378c9268e0">
+            <div class="header-element header-container " data-uuid="c8cc2b81e32e4c3abbfe680be66dfae5">
+                <p class="lesson-number" data-uuid="2ebeae07157d448e8b749f720e00fecb">
+                    Lesson 5</p>
+                <h2 data-uuid="9126ca93ec114bbfb95a000f23f9caf2">Review</h2>
+                <p class="white" data-uuid="f93e2f339b614fcba1484ee054ff8e01">In this lesson you learned that a
+                    peaceful transfer of power took place in Washington after the election of 1800. Now
+                    you will review some key terms and people before completing the Lesson
+                    Assessment.</p>
+            </div>
+        </section>
+        <section class="lesson-review" data-uuid="a785c3f7273e41e296900a0c4d558e22">
+            <h3 data-uuid="03a87d2502404eb0a6f0900007485006">Review Key Terms and People</h3>
+            <p data-uuid="63e6276159c047a39f0926a852082521">Define each term or person shown on the card. Flip the card to check your answer.&#160;</p>
+        </section>
+        <section class="flipcard" data-uuid="c6d8240fcd544ae9b70d2864e85b042b">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="bae0f108d57943f7b101ee95bfcb16fe">
+                <param name="configFile" value="../../widget_data/config/bae0f108d57943f7b101ee95bfcb16fe.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev " data-uuid="db3bbb682a2b4194b00b4b079c7a1449">
+            <div class="go-prompt-bottom-bar" data-uuid="c5dacafcb31d49fabafc07f5fbfbabcb">
+                <h5 data-uuid="62645fd86f1c402199a8feb9896d3d5f">Review the Graphic Organizer</h5>
+                <p data-uuid="124c60eccb534b739b75cf8177b6bbc2">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="05849cd367804633ad04e156ace89e79">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2ffccb5503c940a1939fc1ec2ea406c9">
+                <param name="configFile" value="../../widget_data/config/2ffccb5503c940a1939fc1ec2ea406c9.json" />
+                
+                
+            </object>
+        </section>
+       <section class="graphic-organizer-prompt " data-uuid="6a8209a584c248738665ddc9419194b5">
+    <div class="go-prompt-bottom-bar" data-uuid="5b79d890fd7b4842b13b036249112fb8">
+        <p data-uuid="875b68671b4f4abe89196ccaf5032bce">Remember to use the graphic organizer to take notes on how the power of the judicial branch changed during Jefferson’s time in office.</p>
+    </div>
+</section>
+<section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="c5ac44f499314ce0b622f3718505953d">
+    <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="1ee9f2a549e64a3d93cb2d88876382c5">
+        <param name="configFile" value="../../widget_data/config/1ee9f2a549e64a3d93cb2d88876382c5.json" />
+    </object>
+    <button class="go-close-btn" data-go-toggle="true" data-uuid="dd72d81a9ca8414eaf58bab24085f3ca"></button>
+</section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="85070d625e454db288d25abe5c3c196c">
+            <button data-teacher-view-toggle="true" data-uuid="4a72be130a3a47138aaec323bc355f7d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6cd5dd24ff664c9a939ea4e94a724ab4">
+                <param name="configFile" value="../../widget_data/config/6cd5dd24ff664c9a939ea4e94a724ab4.json" />
+            </object>
+        </section>
+        <p data-uuid="d9380a0aceb7401c9b837ebab13cc3ec"><br />
+        </p>
+    </body>
+</html>

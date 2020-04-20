@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3526b9389918429b8560324336808078">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="529802e80cac4615a6c26e5bfe9a867d">
+            <p class="lesson-number" data-uuid="dd39598afd134bee98a7f7fb5a111528">Lesson 1</p>
+            <article class="header-container" data-uuid="f3d04043b0c340b0860c9753546a3682">
+                <div class="header-element" data-uuid="f572dc8c2c344631b711bc66531f19ec">
+                    <h1 data-uuid="6dfc91fb6a9d47779f7737fe8d83facc">Adjusting to Peace</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="465be1d278d74011851c6035b7755456"></div>
+                    <h2 data-uuid="947cbd9632744a95993a12d25450cd99">The Big Idea</h2>
+                    <p data-uuid="d4794d142baf4e98bbd25e3d4a11384f">After World War II, Americans adjusted to new
+                        challenges both at home and around the world.</p>
+                </div>
+            </article>
+            <article data-uuid="bfa2591203a44909ba689f8f9c491599">
+                <h3 class="if-you-were-there" data-uuid="25e73da8eb0b4ac48da3f40e42dcbcd5">If YOU were there...</h3>
+                <p data-uuid="6065020cda6b407aa4d41226e2176b25">You are an adviser to President Harry S. Truman in July
+                    1945. You have traveled with him to Potsdam, outside the ruined city of Berlin,
+                    where Allied leaders are discussing postwar plans. Everyone agrees that steps
+                    must be taken to prevent another world war. But you are worried that Soviet
+                    leader Joseph Stalin cannot be trusted.</p>
+            </article>
+            <section class="reading-check" data-uuid="73fbadbb19d244afae64d8e9a160189d">
+                <section class="question-long-text" data-uuid="dbce129538ba4d79abc4a89050550eef">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2173166220324aba9fd76eee6ef2cb31">
+                        <param name="configFile" value="../../widget_data/config/2173166220324aba9fd76eee6ef2cb31.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c0f9d9fe4b3042d1a4bbf0d6fdfe2a5b">
+            <button data-teacher-view-toggle="true" data-uuid="51683c4c1c6547c29c461092d5a30fbb"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="05a110f5b7c84537ba16364364f9d94e">
+                <param name="configFile" value="../../widget_data/config/05a110f5b7c84537ba16364364f9d94e.json" />
+            </object>
+        </section>
+        <p data-uuid="21d28d954dcf4d2e922445ea50631838"><br />
+        </p>
+    </body>
+</html>

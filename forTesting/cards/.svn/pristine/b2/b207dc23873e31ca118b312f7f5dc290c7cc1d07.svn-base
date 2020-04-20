@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="63511c2aea1e45a3b6e77b31a05070e2">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="d8c623d17505412b94f844d663583055">
+            <p class="lesson-number" data-uuid="6938dde8a0bf4785bde311ac206751a9">Lesson 3</p>
+            <article class="header-container" data-uuid="67e5acb575a748c6acbfe3034ad3ed45">
+                <div class="header-element" data-uuid="a4b560a3c06848c5925e6ae8a259639d">
+                    <h1 data-uuid="228f14667c0b4621be74a00bfb4a4e14">The Rights of Women and Minorities</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="1a229a14832149c68a591308fea48b5d"></div>
+                    <h2 data-uuid="62c88b456425427fa2e69a57e7dd1eb0">The Big Idea</h2>
+                    <p data-uuid="9543221a65d84eec84fb127cddf3ef00">The Progressive movement made advances for the rights of women and some
+                        minorities.</p>
+                </div>
+            </article>
+            <article data-uuid="42d0783d1aef4b05905d79186d502fcb">
+                <h3 class="if-you-were-there" data-uuid="04a8951a7b1446ed9ca1395722251901">If YOU were there...</h3>
+                <p data-uuid="55003dd6c45547f78266f016c5d7cbe4">You are a member of the class of 1912 graduating from an excellent
+                    women’s college. You have always been interested in science, especially
+                    biology. You would like to be a doctor, but you know that medical schools
+                    accept very few women. One career path for you is to go into social work. Yet
+                    that’s not what you really want to do.</p>
+            </article>
+        </section>
+        <section class="lesson-opener " data-uuid="b842e08c785d44318e91cc28cf3cd532">
+            <section class="reading-check" data-uuid="d7cde9896c43487398214799cc2940e2">
+                <section class="question-long-text" data-uuid="81fe105796f44a59a2e8ffb2d583dcf1">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0c246f4ac18649ba98a6fe9d9109e3d9">
+                        <param name="configFile" value="../../widget_data/config/0c246f4ac18649ba98a6fe9d9109e3d9.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a80db766630f48f08d44ede2a300f70c">
+            <button data-teacher-view-toggle="true" data-uuid="5698d09465864deeadac1466497bf968"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c186be5a20ef405f969548b5c4c47d42">
+                <param name="configFile" value="../../widget_data/config/c186be5a20ef405f969548b5c4c47d42.json" />
+            </object>
+        </section>
+        <p data-uuid="a7eeaf6ac9c14d9f94ad59202730cb6c"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="a9d3960d16da4bdd8e727e595a6bf1aa">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Judicial Branch</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="78791cc11ae94e15ae9ddf7321e43d6a">
+            <article data-uuid="1341f47336394f41bd4de1795e7322b3">
+                <h4 data-uuid="b972aa892ec7471aa636f70106d6bc74">Main Idea</h4>
+                <p class="main-idea" data-uuid="7ef6816090ef4d6ea3fdacdb97c251bd">The judicial branch determines whether or not laws are constitutional.</p>
+                <h2 data-uuid="b9e4de3fb1ea4dcd838c636bd3a96f43">Judicial Branch</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="469ab4e4051b404d95aa9e05bc3abf2d"></div>
+            </article>
+        </section>
+        <p data-uuid="3c3c0996d167466082f9eb4b57161f1a">The third branch of government, the judicial branch, is made up of a system of federal courts headed by the U.S. Supreme Court. The Constitution created the Supreme Court, but the Judiciary Act of 1789 created the system of district courts and courts of appeals.</p>
+        <section class="cause-effect" data-uuid="6dc1aad69aea46f98fb1da8033960417">
+            <article class="box" data-uuid="2d9f2295227d466289e2e257235cf255">
+                <div class="header-element" data-uuid="17746b612a2340d18ec3d0e214cc3f6e">
+                </div>
+                <div class="quickfacts" data-uuid="50442a7f3b2240fe9e6ce35c983845d4">
+                    <h5 data-uuid="22516fa11afd4d5ca4bae7f4be5b7779">QUICK FACTS</h5>
+                </div>
+                <h2 data-uuid="8d52fa13bc134fb1a7fa565453f061bf">Responsibilities of the Supreme Court</h2>
+                <p data-uuid="43534dcd531340578c76c3e9cf6e520b">The judicial branch has the power to rule in cases involving the Constitution, national laws, treaties, and conflicts between states.</p>
+            </article>
+        </section>
+        <section class="table-pattern" data-uuid="069d5059501c4bb7a54894b1f25773ab">
+            <table class="tabular-list" data-uuid="01d2af6b1eb841ec9e4d6928f72a8261">
+                <thead>
+                    <tr>
+                        <th class="column " data-uuid="eb8d7e6078ab4494a0db507ddc63ecfe">Judicial Branch (Supreme Court)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="head" data-uuid="778135e124a34467acbca65e3d14e512">
+                            <ul data-uuid="5c199b06c24a414fbba6e2dfef860794">
+                                <li data-uuid="fc330e845da94481935cfd5a97aa6f39">Interprets the Constitution and other laws<br />
+                                </li>
+                                <li data-uuid="be1515f2efcf4965a474f453bec25c43">Reviews lower-court decisions<br />
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <p data-uuid="353964d1adda4d22ae6bda7ff188bb7e"> Article III generally outlines the courts’ duties. Federal courts can strike down a state or federal law if the court finds a law unconstitutional. Congress can then try to revise the law to make it constitutional.<br />
+        </p>
+        <h3 data-uuid="bdda0128f65a4a7e86effd7fa3419a38">District Courts</h3>
+        <p data-uuid="f50d0774d7ce4a9f9e38c372117c9f85">The president makes appointments to federal courts. In an effort to keep federal judges free of party influence, the judges are given life appointments. The lower federal courts are divided according to cases over which they have jurisdiction, or authority. Each state has at least one of the 94 district courts.</p>
+        <h3 data-uuid="1519a6c374d4498c9ccfe3541f793e50">Courts of Appeals</h3>
+        <p data-uuid="998fd68b85974b13aa817b696dfcce4d">If someone convicted of a crime believes the trial was unfair, he or she may take the case to the court of appeals. There are 13 courts of appeals. Each has a panel of judges to decide if cases heard in the lower courts were tried appropriately. If the judges uphold, or accept, the original decision, the original outcome stands. Otherwise, the case may be retried in the lower court.</p>
+        <h3 data-uuid="58c7ac1fb421403289b859e69eff5ae8">Supreme Court</h3>
+        <p data-uuid="28864ed073ca4846a98e73615e9c200a">After a case is decided by the court of appeals, the losing side may appeal the decision to the Supreme Court. Thousands of cases go to the Supreme Court yearly in the hope of a hearing, but the Court has time to hear only about 100. Generally, the cases heard involve important constitutional or public-interest issues. If the Court declines to hear a case, the court of appeals decision is final.</p>
+        <p data-uuid="b423ec2839a14c20b2504348598fe7c0">Nine justices sit on the Supreme Court. The Chief Justice of the United States leads the Court. Unlike the president and members of Congress, there are no specific constitutional requirements for becoming a justice.</p>
+        <section class="image-carousel" data-uuid="02f943cff9674f3b9c56b5bb43dda481">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html" data-uuid="c87d05b124de46f483b5097505254bfa">
+                <param name="credit" value="[&quot;Alt text&quot;,null,&quot;Alt text&quot;]" />
+                <param name="configFile" value="../../widget_data/config/c87d05b124de46f483b5097505254bfa.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="bf5bdd44a1774b5e90fd418c7dbb165e">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="8860151967d548b48e833af84d959ef0">
+                <param name="configFile" value="../../widget_data/config/8860151967d548b48e833af84d959ef0.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="a7cf147cf7e1406bb0002201899f7af8">
+            <div class="go-prompt-bottom-bar" data-uuid="22babbf8e5214e1b9c88c9dc98ad31ec">
+                <p data-uuid="6248d38542da4641896950f076d9a61d">Remember to use the graphic organizer to take notes on the judicial branch.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="84b091c40a944b5ca4cf3b82513bd4dd">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="05585f000c3a4614900dad42539c0aa9">
+                <param name="configFile" value="../../widget_data/config/7478a3643b7144ab839ebc17fddad506.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="cdf0e54fad3c4ba39187b95c7fdacf30"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a0a056cfb2ac448286496820159b8150">
+            <button data-teacher-view-toggle="true" data-uuid="b8465c01a6ee4eca84aa45c26eee6aa5"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7608ed42816b4ca88090d6532f943bf9">
+                <param value="../../widget_data/config/7608ed42816b4ca88090d6532f943bf9.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

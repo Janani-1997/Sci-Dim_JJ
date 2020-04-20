@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="16099cdb8e864a429dd135a6dbb5b7db" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Victory in the Pacific</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="a72c112ec6d84e65a3b3575504cb3e01">
+            <article data-uuid="a498fc189bb34696b1d5858362d36aea">
+                <h4 data-uuid="28dc0d7772624dee897aadc1707fcb11">Main Idea</h4>
+                <p class="main-idea" data-uuid="c06e901794804103a713cdbff5b2999d">Victory in the Pacific came after the United States dropped atomic bombs on Japan.</p>
+                <h2 data-uuid="b6a0a619670049d2993b0a327f966ce7">Victory in the Pacific</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="b1b4bf5017eb467796a14ec8533d859f"></div>
+            </article>
+        </section>
+        <p data-uuid="4fd06185a6024b5aae5d16fdd505924f">In the Pacific, Allied planners prepared to invade Japan. They estimated that the invasion could result in more than 1 million Allied casualties.</p>
+        <p data-uuid="83cbc9d7651f47ba96ea48252fa4a441"> The Allies had another option. Since 1942 Allied scientists had been working on a secret program known as the <dfn title="Manhattan Project">Manhattan Project</dfn>. The goal was to develop an <b><dfn title="atomic bomb">atomic bomb</dfn></b>, a weapon that produces tremendous power by splitting atoms. (Germany had started trying to develop atomic weapons since before the war began. The Allies were determined to achieve that goal before the Nazis.) On July 16, 1945, the Allies successfully tested the first atomic bomb in the New Mexico desert. The massive explosion melted the desert sand into glass for 800 yards in all directions.<br />
+        </p>
+        <figure class="image-with-caption main" data-uuid="915bc107a2354b74bdf30e42dccca5c7">
+            <img alt="This photo shows a huge mushroom-shaped cloud over Hiroshima, Japan, after the atomic bomb was dropped there. " data-uuid="603ffbf7bbdd4b5fb265aeb9241616c1" src="../../img/module_27_lesson05/ms_snlese454149_408ap.jpg" />
+            <div class="figcaption" data-uuid="7147e551c55f48d58e6a036a09885c36">
+                <p class="caption" data-uuid="8a75f706ff5f4a17bd43490af2cf7eca">Burning-hot gases from the explosion of an atom bomb cause a mushroom-shaped cloud to form.</p>
+            </div>
+        </figure>
+        <p data-uuid="fa520601029e4821825d32b4a4533cfb">When Japanese leaders refused the Allies’ demand for an unconditional surrender, President Truman gave the order to use the atomic bomb. On August 6, 1945, the B-29 bomber <i>Enola Gay </i>dropped an atomic bomb above the city of Hiroshima. “When I saw a very strong light, a flash, I put my arms over my face unconsciously,” said one Japanese survivor. “Almost instantly I felt my face was inflating . . . I saw people looking for water and they died soon after they drank it . . . The whole city was destroyed and burning. There was no place to go.” The explosion killed almost 80,000 people instantly. Thousands more died later from burns and radiation poisoning.<br />
+        </p>
+        <section class="historical-source nobg" data-uuid="7029e4799b724176b3c6e4185e1db170">
+            <article class="box gradient" data-uuid="e692533c8a074eebb32a68d037193321">
+                <div class="header-element" data-uuid="dd1d69afec39437599cfb953519b79c8">
+                    <h2 class="label" data-uuid="db78c34690454753992c859924dcbd45">Historical Source</h2>
+                </div>
+                <div class="jonra" data-uuid="fdf781cf59bc492695c50bad22495d80">
+                    <h2 data-uuid="404a695f42ee4c54ac44f7aea4efc184">Effects of the Atom Bomb on Hiroshima</h2>
+                    <p class="source" data-uuid="a4bac5add4c04445ae843304dfdbe40a">The atomic blast over Hiroshima killed many of its residents and left the city in ruins. Rubble from homes and factories stretched for miles.</p>
+                </div>
+                <section class="historical-source-image-text-audio" data-uuid="2a628f6de1374a90b25a7b2ef86d4f4c">
+                    <figure class="image-with-caption center main" data-uuid="24048f12c41e4ea59fa59b70048f4311">
+                        <img alt="This black-and-white photo shows a great expanse of rubble and ruin in Hiroshima after the bomb was dropped. One man stands with his back to the camera, looking over the wreckage. " src="../../img/module_27_lesson05/ms_snlese454149_450p.jpg" data-uuid="17e82d7cff254f839de86f484a17ce22" />
+                    </figure>
+                </section>
+                <section class="skillbuilder" data-uuid="7b65713af7f341b3b0dddc558bdd1621">
+                    <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="bc9c7628fe3b441ca628381c4c6e7642">
+                        <param name="configFile" value="../../widget_data/config/bc9c7628fe3b441ca628381c4c6e7642.json" />
+                    </object>
+                </section>
+            </article>
+            <section class="question-long-text" data-uuid="8e9afc799a414573b34dbe0a2999552c">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="7f272fa843dc43a182b4efe64333ea22">
+                    <param name="configFile" value="../../widget_data/config/7f272fa843dc43a182b4efe64333ea22.json" />
+                </object>
+            </section>
+        </section>
+        <p data-uuid="88752d52896a463cb7f1899f7bbd201f">Japanese leaders still refused to surrender. On August 9 U.S. forces dropped a second atomic bomb on the city of Nagasaki. About one-third of the city was destroyed, and approximately 22,000 people died immediately. The Japanese announced their surrender on August 15, 1945.</p>
+        <section class="question-long-text" data-uuid="cd8d5e59c7554c0192bfb7955ac8001f">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="6ac98e89f6c040dc86f1c5c184615f71">
+                <param name="configFile" value="../../widget_data/config/6ac98e89f6c040dc86f1c5c184615f71.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="a9737be28c16467a922aade41f669115">
+            <div class="go-prompt-bottom-bar" data-uuid="b8561193f95047e8b90ca9121b01c63a">
+                <p data-uuid="a3339400562848c9b4c919db0af18355">Remember to use the graphic organizer to take notes on the causes and effects of Japan’s surrender.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="8680ee1f09e241a9880cdf5086764806">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="9f7fe8bd71e04f82984c2595a9aaae49">
+                <param name="configFile" value="../../widget_data/config/54709b6f4f9449a5b26645288d0f1dc3.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="f1f01131fb00413592ad05f49f39b72b"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="dfe94e3553a045d18fd70dd3a160ec89">
+            <button data-teacher-view-toggle="true" data-uuid="35f404a3234542d69a565886bd34f43d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="2d7a351cad434832baed7fce0f0927f3">
+                <param name="configFile" value="../../widget_data/config/2d7a351cad434832baed7fce0f0927f3.json" />
+            </object>
+        </section>
+        <p data-uuid="19ccd1fdc608449da139248743e6d8bf"><br />
+        </p>
+    </body>
+</html>

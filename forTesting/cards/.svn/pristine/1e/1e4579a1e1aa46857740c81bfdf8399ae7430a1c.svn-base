@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="df318600b3284b5695f4958d66dca35e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>The Boston Tea Party</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="7668d4b9bbe941f693189a118e600dbb">
+            <article data-uuid="6f154685df024cfd80a415608bebc448">
+                <h4 data-uuid="c9affcc951544e8d89d6f11607b890d3">Main Idea</h4>
+                <p class="main-idea" data-uuid="96981b03eb0c44e784caf861e9f57531">Colonists protested the British tax on tea with the Boston Tea Party.</p>
+                <h2 data-uuid="2976dad35c144905b2549c888309a846">The Boston Tea Party</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="419355b718df4fd7ac93a5dd5f44df6f"></div>
+            </article>
+        </section>
+        <p data-uuid="c58760ee59b841539004f6b50bf44bc3">To reduce tensions in the colonies, Parliament repealed almost all of the Townshend Acts. However, it kept the tax on tea. British officials knew that the colonial demand for tea was high despite the boycott. But colonial merchants were smuggling most of this imported tea and paying no duty on it.</p>
+        <p data-uuid="38cd766bac944d8c839f3544715981fe">The British East India Company offered Parliament a solution. The company had huge amounts of tea but was not allowed to sell it directly to the colonists. If the company could sell directly to the colonists, it could charge low prices and still make money. Cheaper tea might encourage colonists to stop smuggling. Less smuggling would result in more tax money.</p>
+        <p data-uuid="242928da11ab4c028931076eaa0b91a3">Parliament agreed and passed the <b><dfn title="Tea Act">Tea Act</dfn></b> in 1773, which allowed the British East India Company to sell tea directly to the colonists. Many colonial merchants and smugglers feared that the British East India Company’s cheap tea would put them out of business.</p>
+        <p data-uuid="8fc080fa77224dee8fe2a451eee7fe5e">Three ships loaded with tea from the British East India Company arrived in Boston Harbor in 1773. Members of the Sons of Liberty demanded that the ships leave. But the governor of Massachusetts would not let the ships leave without paying the duty. Unsure of what to do, the captains waited in the harbor.</p>
+        <p data-uuid="f4c0810ede9c43feb7551fef0a387b25"> On the night of December 16, 1773, colonists disguised as Native Americans sneaked onto the three tea-filled ships and dumped over 340 tea chests into Boston Harbor. This event became known as the <b><dfn title="Boston Tea Party">Boston Tea Party</dfn></b>. Soon the streets echoed with shouts of “Boston harbor is a teapot tonight!”<br />
+        </p>
+        <figure class="image-with-caption main" data-uuid="a3364d49b0674953bec4ab48b3f39480">
+            <img alt="This is an artist's rendering of the Boston Tea Party, showing colonists dressed up as Native Americans dumping crates of tea off ships in Boston Harbor." data-uuid="635d6d6999aa447183f62773d92a816d" src="../../img/module_4_lesson01/ms_snlese454149_794p.jpg" />
+            <div class="figcaption" data-uuid="d25ba2ef64f44c69a1189bb0f51c1bb0">
+                <p class="caption" data-uuid="1b0216101dda49cb987579810b61446c">Angered by the passage of the Tea Act, colonists in Boston dumped chests of British tea into the harbor before it could be unloaded.</p>
+            </div>
+        </figure>
+        <section class="reading-check" data-uuid="8eece9d92ad84bf992b30b2f4f25d783">
+            <section class="question-long-text" data-uuid="5009a984f2424908aac4a748101b6d50">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4dac6c03e62d444b9dbf3f75b34b6983">
+                    <param name="configFile" value="../../widget_data/config/4dac6c03e62d444b9dbf3f75b34b6983.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="67e5cbd520a44d8ab1f425d5a2bc75fa">
+            <div class="go-prompt-bottom-bar" data-uuid="d9323d1f6f8346eaa65884fd30bff01f">
+                <p data-uuid="7b46250b0f574cd696522640b54dab1f">Remember to complete the graphic organizer with information on the laws passed by the British government.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="01b93a94ce134688be66253f495f2f0a">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="e48fc514f6a047fe938914cfdbe633f9">
+                <param name="configFile" value="../../widget_data/config/c37b45ceb7864d959b36cecf8bdb46cc.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="9f94583c90964c3db9060339cb880c35"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="3ff70eeca6d840eba66e039eb92ad44d">
+            <button data-teacher-view-toggle="true" data-uuid="ec4a99473c8d44b4af6a28254f7f207a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="59fea1a333ac474580546dabbd22ed62">
+                <param value="../../widget_data/config/59fea1a333ac474580546dabbd22ed62.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

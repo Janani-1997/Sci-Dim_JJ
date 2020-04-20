@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="bdb4e58c5de746618feef79835b4ee63" enumeration="" designation="" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="1a7d6bd6092c4e968ed23290ad424e90">
+            <div class="header-element header-container " data-uuid="455ec699bf2e4af996b70cb1d81d977a">
+                <p class="lesson-number" data-uuid="0fe13dcf099b406998e6d7ceabcdda68"><br />
+                </p>
+                <h2 data-uuid="c5fa13d540c94376819f06a10a16f543"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="fccdad5361484ad8a908f2158ec5c8e1">In
+                    this module, you’ve learned about the challenges facing the nation and the
+                    world at the beginning of the 21st century. Now it’s your turn to
+                    demonstrate your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="051c15a0c1ca469185c1cee2325902eb">How is the United States
+                different today than in 1776?</h3>
+            <p data-uuid="8e0485175a804a37baf7e77a1a30e32d">Write
+                a persuasive essay answering this question. Your essay should include key
+                people, events, and developments in the early 21st century. Be sure to
+                cite evidence to support your position and organize your essay into an
+                introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="edc333911067456da9daab01d6e8fe4c">
+            <button data-teacher-view-toggle="true" data-uuid="3daeece0ffed4d6ba1c187148f05e920"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="234ee2f33362480aab8ed2ddcbb6cf28">
+                <param name="configFile" value="../../widget_data/config/234ee2f33362480aab8ed2ddcbb6cf28.json" />
+            </object>
+        </section>
+        <p data-uuid="764b88b58f5540fcb685c40a392ea7b5"><br />
+        </p>
+    </body>
+</html>

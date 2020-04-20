@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e4ec4f1149904ccd8d1b4bab44c5b055">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="d819bd2c2b6a408997a60462101b3c9e">
+            <div class="header-element header-container " data-uuid="9d38785e591745d5a034675bf4a7424a">
+                <p class="lesson-number" data-uuid="0b10368dc5bd44a49ae3773361be4eb0"> Lesson 4</p>
+                <h2 data-uuid="d9dc99b54b3940d7b85ff96860e64dd5">Review</h2>
+                <p class="white" data-uuid="ec06ff19d3e547db825f02f4c0f1c883">In this lesson you learned about citizenship in the United States. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="7314bbf3faaf4782aefde649248e57e2">Review Key Terms and People</h3>
+            <p data-uuid="f56f9c5b4de74d438929dffac48186dc">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="6e88c5b3b4be4e3a8e77b4b1ba2c50ce">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="9c042bbbaadc4e37840c0fdf128b634e">
+                <param name="configFile" value="../../widget_data/config/9c042bbbaadc4e37840c0fdf128b634e.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="ca9fecbcbcac4899b39220db7ae97e1c">
+            <div class="go-prompt-bottom-bar" data-uuid="8ca7bfcc615a466f9ee4a03205a3ef02">
+                <h5 data-uuid="3c85b11b65674c79bcfc839d71c339cb">Review the Graphic Organizer</h5>
+                <p data-uuid="403006b3edef47ebb910c59a5e9cd8f1">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="cf61306508214075bf9e8aa4cb6e8063">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="de9e07647a3244088ce26a25f2fd3c51">
+                <param name="configFile" value="../../widget_data/config/de9e07647a3244088ce26a25f2fd3c51.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="7387a2809e674513a0cf3abf95efc3de">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="55dacc550e5747adaf6da1259b0dfb19">
+                <param name="configFile" value="../../widget_data/config/fe2fb0951ef94071a2168b9246aec905.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="785171be59a34795881cefad02fae5f2"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="bd8cb2d88cf4417b9e5746b609b1baae">
+            <button data-teacher-view-toggle="true" data-uuid="4e1b5d3cb42b4febb5c2b89a7f3764c6"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d3e6c07a4df2445fb126072e337b91dd">
+                <param value="../../widget_data/config/d3e6c07a4df2445fb126072e337b91dd.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

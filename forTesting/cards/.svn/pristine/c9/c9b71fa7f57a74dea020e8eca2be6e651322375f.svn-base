@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e8d2ede830c74ea59ac451da5510cf4c" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="6fcace4372674320b4770a015fb33182">
+            <div class="header-element header-container " data-uuid="e640e47fd1034ad78a1768d33674165c">
+                <p class="lesson-number" data-uuid="30e91965d11a427a9635052813c6b520">Lesson 1</p>
+                <h2 data-uuid="b9b57b6276ce4df5bae5c83e024bf7d7">Assessment</h2>
+            </div>
+            <h5 data-uuid="ef19b5c9dd21426584b5da767a19392b">The Industrial Revolution in America</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="26ed88b88d7c47e4a384e00cb82e0a28">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="ec401b64505c4b2a80798086c0e37558">
+                <param name="configFile" value="../../widget_data/config/ec401b64505c4b2a80798086c0e37558.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ed43852f6bd640cb877405a9f67a7e59">
+            <button data-teacher-view-toggle="true" data-uuid="91563d4e663e4673b5d1f64bfaab3a67"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="01c13f0898e84ad49a026ab8e7ea4561">
+                <param name="configFile" value="../../widget_data/config/01c13f0898e84ad49a026ab8e7ea4561.json" />
+            </object>
+        </section>
+        <p data-uuid="a7da7b0a351b43d18f84c3586fe0c117"><br />
+        </p>
+    </body>
+</html>

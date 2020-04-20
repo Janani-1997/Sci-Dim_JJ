@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="34511e80b71543949812d108370d579f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="1de868371e66492ab29208a92cdee0c4">
+        <div data-uuid="5a043fd7518b444abeccfed218ddfd69">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="5641ae18e92549eeab284753977f7ee6"/>
+          <div class="header-element" data-uuid="0664a206e03b49c3a4855f14d8fd79f1">
+                        <section class="calendar-container-bottom" data-uuid="efc3922d223d4a299c567d87e31b7918">
+                            <div class="yellow-star-yellow-bar" data-uuid="9d03833fc4fb402aa3fdd6ce7e5487f5"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="0f4893640d9948d98e9b356a4fc0a7fd">Immigrants and Urban Life</h1>
+                        </section>
+            <section class="eq-container" data-uuid="1a3500f730114ba3b3bf48aeaa7e4b49">
+                <figure class="image " data-uuid="27dbd401f776437291518b475afb6c05">
+                  
+                        <img alt="This black-and-white photo shows immigrants arriving at Ellis Island, New York, in the late 1800s." data-uuid="cf6b540ddbb649dfb72b4eee0315a052" src="../../img/module_21opener/ms_snlese454149_885p.jpg" />
+                         </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="37b3a48eda824940885f788bf77d112e">
+                        <p class="caption" data-uuid="4ee9d390c18a4621a1e7456f6ecd4234">These immigrants to the United States entered through Ellis Island.</p>
+                    </div>        
+               
+
+            <article data-uuid="a9a168478f30438d9e7a3d43c2b096c4">
+                <h3 class="eq" data-uuid="f35df4edd5344fde88bea61d08021af5">Essential Question</h3>
+                <h3 class="eqt" data-uuid="74eb050b8ab84b6d8a2eb2148c841873">How did immigration and rapid urban growth shape
+                    life in the United States?</h3>
+                <p data-uuid="b408fad1fc7846949925036de3390cd8">In the late 1800s, millions of immigrants
+                    arrived in the United States. Most came from southern and eastern Europe in
+                    search of religious freedom and economic opportunity. Many newcomers settled in
+                    rapidly growing cities, where they worked and lived in unsafe and often squalid
+                    conditions.</p>
+            </article>
+            <section class="video-container " data-uuid="92f30e6e705241cf8adbf56347c32105">
+                <article data-uuid="b76cedd9a4234511abf4a595559658ad">
+                    <h3 class="vid" data-uuid="eb6ee6f863b24bd4bd411a1cd40a2766">Arrival at Ellis Island</h3>
+                    <p class="vid" data-uuid="c86070b7b5fb49249692c9b6ffa6e38b">Between 1892 and 1954, millions of immigrants
+                        passed through Ellis Island in search of a new life. This video provides a
+                        reflection on the history and stories of immigrants coming to Ellis Island.</p>
+                    <section class="video" data-uuid="16ee2f195cc94ae8af8121170eec6099">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="4ccaa2609dc049fe8c3f1e67064df137"><param name="configFile" value="../../widget_data/config/4ccaa2609dc049fe8c3f1e67064df137.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="8effaf7d665746f5b8f5924a3d4a91d7">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="de154e728ec041978920ad8e3b5c5c00">
+                    <param name="configFile" value="../../widget_data/config/de154e728ec041978920ad8e3b5c5c00.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="979d2788e7204738b20a15957a8163be">
+                <article data-uuid="041899b143ec461ca6a104b4debc12a2">
+                    <h3 class="mod" data-uuid="882ba84366ec44e092eb100c403cf2d1">Immigrants and Urban Life</h3>
+                    <p class="mod" data-uuid="8d7914b1832247908c88563f54819f7c">The last three decades of
+                        the 1800s and the first decade of the 1900s were a period of industrial growth,
+                        invention, and modernization. Electricity was being used to light city streets and buildings, and
+                        city leaders designed parks as places of rural beauty in an urban setting. At
+                        the same time, the poorer inhabitants of cities often faced unhealthy living and working
+                        conditions. Individuals such as Jane Addams worked to improve the lives of the
+                        urban poor.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="cef67408259748ba9b13a5f6015601f8">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="0058ae84139444ae806949490488431e">
+                    <param name="configFile" value="../../widget_data/config/0058ae84139444ae806949490488431e.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="efc5bc381982440aac9afcdbd417c4e0">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b7dfc82b6bae4400aba97f2af4716f45">
+                <param name="configFile" value="../../widget_data/config/b7dfc82b6bae4400aba97f2af4716f45.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="123d6722bd88409ebc07a8cc25e149b0">
+            <button data-teacher-view-toggle="true" data-uuid="44a883e2195c4ad1af60c14e4a769916"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3297aa7d09c64716b17e741a9c5532ce">
+                <param name="configFile" value="../../widget_data/config/3297aa7d09c64716b17e741a9c5532ce.json" />
+            </object>
+        </section>
+    </body>
+</html>

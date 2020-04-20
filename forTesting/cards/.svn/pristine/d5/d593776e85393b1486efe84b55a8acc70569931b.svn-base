@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="a494687c0f5a49e987bab0db380c83f9">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="2e7b336070d7455d90de394a75590de3">
+        <div data-uuid="c033c1105e3c49548709f4cf66abb2ef">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="eb8c02bcd5c4410d8f4b5277ba5b8558"/>
+        <div class="header-element" data-uuid="b1e531eb0a214ea9a4ef9727481330c8">
+            <section class="calendar-container" data-uuid="2307b62730774d92a19402b4d85f57c0">
+                <div class="yellow-star-yellow-bar" data-uuid="06f0b8132fb74d458d967823e4ad3af9"></div>
+                <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                <h1 data-uuid="ab7b98ce98c440cdb1e85b52ae546522">The
+                    Civil Rights Movement</h1>
+            </section>
+            <section class="eq-container" data-uuid="24051737a7504bfabf66f50147339bb0">
+                <figure class="image " data-uuid="d4fdad65b54d46a681c0a4504bbdee0e">
+                    <img alt="This is a photograph showing thousands of people marching in Washington, D.C., holding signs to fight for civil rights." data-uuid="833a283d8b004f7b8286514d2bed486f" src="../../img/module_30opener/ms_snlese454149_961p.jpg" />
+                    <div class="image-metadata-container" data-uuid="1d051b9294a54bbdb065e68d301cf37d">
+                        <span class="image-text image-alt"></span>
+                        <span class="image-text image-credit"></span>
+                    </div>
+                </figure>
+            </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="d241e9b78ccd48f48ea70e811f58431f">
+    <p class="caption" data-uuid="0ee5e17fc81746cba63d32bbad405ec1">African Americans launched a major civil rights movement in the years following World War II. Members of the movement organized demonstrations to protest unfair treatment, like the March on Washington shown here.</p>
+            </div>
+            <article data-uuid="65a7d24ce3724e51b002f4d7e4b0b158">
+                <h3 class="eq" data-uuid="d8a01684bd7a48efa72472ae22546156">Essential Question</h3>
+                <h3 class="eqt" data-uuid="5babb63b36b64d399368a06af14deeb5">How successful was the civil rights movement?</h3>
+                <p data-uuid="4984583e206548829b8681044e827689">After
+                    World War II, the African American civil rights movement grew in momentum
+                    across the country. Through protests, court actions, and personal
+                    courageousness, the movement achieved a number of successes. In an effort to
+                    obtain their civil rights as well, a variety of other groups joined in the
+                    fight. Could true equality be achieved? </p>
+                <p data-uuid="68f355b982fd48b2900cf275ae022f8e">
+                    As you read this module, look for evidence of
+                    the achievements attained by civil rights groups. Note the key people,
+                    decisions, circumstances, and turning points that resulted in the extension of
+                    civil rights to all Americans. When you are done, you will write a short essay
+                    answering the Essential Question for this module.</p>
+            </article>
+            <section class="video-container " data-uuid="9832c9dae16d457ba579ccd675acc3bd">
+                <article data-uuid="c37baa18b2fb42b8ba9a3abd55e6e2c8">
+                    <h3 class="vid" data-uuid="4b60b05db2c74abea47a6fb599763168">The Civil Rights Act of 1964</h3>
+                    <p class="vid" data-uuid="feebdc52561d4c2ea69985c37bd1b165">In order for the civil
+                        rights movement to work, national laws had to change. The Supreme Court deemed
+                        “separate but equal” to be unconstitutional in 1954. To enforce the decision,
+                        however, Congress had to pass new laws. It wasn’t until 1964 that Congress
+                        finally passed a groundbreaking civil rights measure.</p>
+                    <section class="video" data-uuid="bb79f5de9eb048568b113753a9378894">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="4c47d3280bcc4937a08ffd0c1153dd35"><param name="configFile" value="../../widget_data/config/4c47d3280bcc4937a08ffd0c1153dd35.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="cec363652005493ca35149e066e25a37">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="d8888cec604348129cb40c6b76cb91f6">
+                    <param name="configFile" value="../../widget_data/config/d8888cec604348129cb40c6b76cb91f6.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="26a4e7848a3447ebbf4569ae99b9339e">
+                <article data-uuid="2c744f458ed94f9ba1210075642f85ea">
+                    <h3 class="mod" data-uuid="8ed061b14bea438188d127c0d9677fde">The Civil Rights Movement
+                        1950–1975</h3>
+                    <p class="mod" data-uuid="4d8314ada0dc4db3a65d74b5a1cfeed8">The civil rights movement
+                        gained national attention in the mid-1950s with the desegregation of public
+                        schools and the Montgomery bus boycott. These actions were followed by sit-ins,
+                        Freedom Rides, the March on Washington, among other efforts to gain equality
+                        for African Americans. Other groups, including Mexican Americans, Native
+                        Americans, and women soon began demanding equal rights as well.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="5297bbea084e4797b8986ec22e1f1d58">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="e6eb21188bf34cebaf86afc2fedc5fe2">
+                    <param name="configFile" value="../../widget_data/config/e6eb21188bf34cebaf86afc2fedc5fe2.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="2a0b255bbd9d4ca496bab808f278ac92">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="d5b9090fd74149f89bfb7127593cf07e">
+                <param name="configFile" value="../../widget_data/config/d5b9090fd74149f89bfb7127593cf07e.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="38ea2991fa2c4ddc8619e8a34cfa16ff">
+            <button data-teacher-view-toggle="true" data-uuid="2ebdc3e90ea64c50ac1d13df51dbec33"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5a4cae91e3584a9e91bb13491ea13805">
+                <param name="configFile" value="../../widget_data/config/5a4cae91e3584a9e91bb13491ea13805.json" />
+            </object>
+        </section>
+        <p data-uuid="85060a6612b54dc7b6b2d81b539bd819"><br />
+        </p>
+    </body>
+</html>

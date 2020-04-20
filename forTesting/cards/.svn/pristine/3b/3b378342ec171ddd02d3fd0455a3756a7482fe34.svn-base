@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="cbd4914a54f3444188639012dcc4b941" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="2a379b472744427d873d8158002ad758">
+            <div class="header-element header-container " data-uuid="bd70ec2707a444279aa0942ee009c731">
+                <p class="lesson-number" data-uuid="770093e48be048818ae1d81312b8c370"><br />
+                </p>
+                <h2 data-uuid="474c3c87c62b4780a588f1dc4809dd62"> Review</h2>
+                <p class="white" data-uuid="8a4076aa10f64e53a047d128ae3fafe3">In this module &#160;you've &#160;learned why particular ideas were written into the Constitution and how they affect citizens in the United States. Now you will review some key terms and people before completing the Module Assessment.&#160;</p>
+            </div>
+            <h3 data-uuid="bbd75cadbede41898a392ec0881e0b09">Review Key Terms and People</h3>
+<p data-uuid="55e4e5b74caa46d0adc6df448e34e854">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="57a3624dc82c4417a5e50949ae19fe15">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="055c4497aff74486ad2f8bdf51507c39">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/055c4497aff74486ad2f8bdf51507c39.json" />
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="23595d3fbd1b4c12b1bfbe971d18c83d">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="4061f456cccb4aa8af1a3b9ef7e33004">
+                    <param name="configFile" value="../../widget_data/config/4061f456cccb4aa8af1a3b9ef7e33004.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d75340781e624ea3973d4e377cd1f6dd">
+            <button data-teacher-view-toggle="true" data-uuid="4cfb0daa85274c8ea8ab83f560ce3a7e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="24969a51fe7a4457a4d0869d45bf323e">
+                <param name="configFile" value="../../widget_data/config/24969a51fe7a4457a4d0869d45bf323e.json" />
+            </object>
+        </section>
+        <p data-uuid="abea06e945944fb98df276ba7d47a41e"><br />
+        </p>
+    </body>
+</html>

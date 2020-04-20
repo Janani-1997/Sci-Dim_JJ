@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7d1d2aa24f794d26b87745b0e396f593" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="35f82526fa0a47c590a020c444f03fb5">
+            <div class="header-element header-container " data-uuid="b0c16884abd349e988e36d005df84c80">
+                <p class="lesson-number" data-uuid="77255790bd014c3cad5da1e86006414d">Lesson 3</p>
+                <h2 data-uuid="538549d814c6447c9b259c3c9d76a86d">Assessment</h2>
+            </div>
+            <h5 data-uuid="658fcc189f2343fb8e7432c80790f67b">The United States and Latin America</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="3826accc8cee46aa9f735320a9d4726d">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="1927840981dd478dba051184f64ac278">
+                <param name="configFile" value="../../widget_data/config/1927840981dd478dba051184f64ac278.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="cc3f4bb9bf5c48baa87a84935a95e1d5">
+            <button data-teacher-view-toggle="true" data-uuid="78c85506a7a54342bed20f49438bca03"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="704d4e74237c4378a8a1de36e3c73037">
+                <param name="configFile" value="../../widget_data/config/704d4e74237c4378a8a1de36e3c73037.json" />
+            </object>
+        </section>
+        <p data-uuid="6b52632ef8ac4585b82b5be123d3092f"><br />
+        </p>
+    </body>
+</html>

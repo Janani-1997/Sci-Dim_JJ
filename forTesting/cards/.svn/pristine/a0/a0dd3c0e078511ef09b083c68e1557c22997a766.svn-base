@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="83708890de294d769ea612e425872e3c">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Northwest Territory</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="ebcecdff3fbb4c28bc5588a4440bee12">
+            <article data-uuid="f2a1cde036e34990ac27f518cbc61d0f">
+                <h4 data-uuid="1afe2ca055d94a6eb9f45a0ae0011322">Main Idea</h4>
+                <p class="main-idea" data-uuid="650c5c5a6ed04652b37e0e65a1e16e5c">The Confederation Congress established the Northwest Territory.</p>
+                <h2 data-uuid="0ae2d02d35ee4ee88a3add0b6bdca865">Northwest Territory</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="95ff8b84767b43bfb8360b989c21f555"></div>
+            </article>
+        </section>
+        <h3 data-uuid="3434bc55c572425faee40008dc9a4d84">Western Lands</h3>
+        <p data-uuid="f6ccbd0adea14bb9ad06317682f789af">Congress had to decide what to do with the western lands now under its control and how to raise money to pay debts. It tried to solve both problems by selling the western lands. Congress passed the <dfn title="Land Ordinance of 1785">Land Ordinance of 1785</dfn>,<b> </b>which set up a system for surveying and dividing western lands. The land was split into townships, which were 36 square miles divided into 36 lots of 640 acres each. One lot was reserved for a public school, and four lots were given to veterans. The remaining lots were sold to the public.</p>
+        <section class="interactive-map" data-uuid="a868a0c8ea004a7c88345e883391dbbb">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="4cfa5d4795ef4ee88fb435656c036660">
+                <param name="selected_map" value="8_snlese454170_132m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="b824529fe22d454094146a7a613bd20f">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="70b2f84f28da4b28b5621e7030f1f77c">
+                <param name="configFile" value="../../widget_data/config/70b2f84f28da4b28b5621e7030f1f77c.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="2acc040909844646a140bc9a3d091b89">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="cb0d75d3fcf54b83a8a0a07ec73d8d12">
+                <param name="configFile" value="../../widget_data/config/cb0d75d3fcf54b83a8a0a07ec73d8d12.json" />
+            </object>
+        </section>
+        <p data-uuid="75f29c5f80fd4cc08d488c3baf9a90be">To form a political system for the region, Congress passed the <dfn title="Northwest Ordinance of 1787">Northwest Ordinance of 1787</dfn>.<b> </b>The ordinance established the <dfn title="Northwest Territory">Northwest Territory</dfn>,<b> </b>which included areas that are now in Illinois, Indiana, Michigan, Ohio, Minnesota, and Wisconsin. The Northwest Ordinance created a system for bringing new states into the Union. Congress agreed that the Northwest Territory would be divided into several smaller territories with a governor appointed by Congress. When the population of a territory reached 60,000, its settlers could draft their own constitution and ask to join the Union.</p>
+        <p data-uuid="422ee1f7e0784b73b15485e6e730e919">In addition, the law protected civil liberties and required that public education be provided. Finally, the ordinance stated that “there shall be neither slavery nor involuntary servitude [forced labor] in the . . . territory.” This last condition banned slavery in the Territory and set the standard for future territories. However, slavery would continue to be a controversial issue.</p>
+        <section class="reading-check" data-uuid="06c6081be8d947dab289cdfc3fcdf780">
+            <section class="question-long-text" data-uuid="ae27d953ec774c41b03e479ae592f49f">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="740ef2e02d5249f097477006bb519a0b">
+                    <param name="configFile" value="../../widget_data/config/740ef2e02d5249f097477006bb519a0b.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="ff2d2087a3104d5c8caf3785fdd0657d">
+            <div class="go-prompt-bottom-bar" data-uuid="3c3e8850f7124820a773538eeb34c25b">
+                <p data-uuid="ff2e1a67da5e4a6fbf5794f514b7f0cd">Remember to use the graphic organizer to take notes on the Northwest Territory.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="5beee7b4db294a88b9662441c93dd7b6">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="848e7b614c944c06994cf0a2c9b349a3">
+                <param name="configFile" value="../../widget_data/config/4debb707bccd44fa8111ab3ec0108ad5.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="3f24ec85feb24d6a9bfa5d235252c9d8"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="fee27f6ad4a046ad863d7919a6ac15c8">
+            <button data-teacher-view-toggle="true" data-uuid="dbfa352d7ca74b509c4613103a2d84a6"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0335940b3f174a128e19de051325cdca">
+                <param value="../../widget_data/config/0335940b3f174a128e19de051325cdca.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

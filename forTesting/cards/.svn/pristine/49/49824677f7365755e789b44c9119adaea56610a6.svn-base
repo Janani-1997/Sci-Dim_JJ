@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8f642e6c8738426397c5621270fea9de">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="72346572b9c74a6286aa5607a961bc2e">
+            <section class="lesson-review" data-uuid="4df9a552ec584a5b8bb045ef61d7e6be">
+                <div class="header-element header-container " data-uuid="dffa37df71494dcb8080c2443d295e00">
+                    <p class="lesson-number" data-uuid="412de91f3c704c799e4c40c910355d96">
+                        Lesson 3</p>
+                    <h2 data-uuid="f2191b35de4148e1bdd5e216afb3af6e">Review</h2>
+                    <p class="white" data-uuid="d87fe321941e4ecebc6a99207e2cadbc">In this lesson you learned about the
+                        Constitutional Convention and the main features of the Constitution. Now you
+                        will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="a7a9af972c4c493bafb965e6c7690c24">Review Key Terms and People</h3>
+                <p data-uuid="76431df12d3d42108693ad4b474da41c">Define
+                    each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="e40918ed3807417280c93cd7fe96e3d4">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="b4950a42bbd14501a0101ac69ae64820">
+                <param name="configFile" value="../../widget_data/config/b4950a42bbd14501a0101ac69ae64820.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="1a09c256555649b797ef9a26af20d652">
+            <div class="go-prompt-bottom-bar" data-uuid="29c300b62d744bf9859192721e7c05d2">
+                <h5 data-uuid="2f32a5f0055d43af9886e42f16afaa96">Review the Graphic Organizer</h5>
+                <p data-uuid="ec34fae5c0854808a8d3e390bc7d2b3b">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="eb2753c3503b4361b37de84d941b6aec">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="782976848878429cae7395c2d323d80a">
+                <param name="configFile" value="../../widget_data/config/782976848878429cae7395c2d323d80a.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="705391e35a4b410a97968851572ccf27">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="0de95d9ee91545b4a21752246b2ffa4c">
+                <param name="configFile" value="../../widget_data/config/ba950587cdef4761ad6179717b95a708.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="15c6e5523038480ba94bc81ee8d7f760"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="116d79910f224c7da87600e6fed039e1">
+            <button data-teacher-view-toggle="true" data-uuid="0377ca1933e643b683879e52f65c7707"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d7f7e684b937456c90c513a51748bb9e">
+                <param value="../../widget_data/config/d7f7e684b937456c90c513a51748bb9e.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e583213788644d9797a408ea552698ae">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="6b62af41c4b04205acbf1e7c65d038e4">
+            <div class="header-element header-container " data-uuid="4d7687ac22b94d92974b6f14b17190d4">
+                <p class="lesson-number" data-uuid="26225961b8294e17a7f236e801a4c959"> Lesson 2</p>
+                <h2 data-uuid="e27bfb61b0b34397a9eabde6bf42f167">Review</h2>
+                <p class="white" data-uuid="705ec70c70534e1eacae330dce24f485">In this lesson you learned how Washington and Hamilton developed a financial plan for the national government. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="af843c4471bf401c87fcf53932ce4e6e">Review Key Terms and People</h3>
+            <p data-uuid="f7565f30b2d94725923907ac6669429a">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="3e95e6bc84684229817354169562049d">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="98c252b6afeb4ba1861474a6c84a679e">
+                <param name="configFile" value="../../widget_data/config/98c252b6afeb4ba1861474a6c84a679e.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="1df106cfe43d4a67b115262575fffcc1">
+            <div class="go-prompt-bottom-bar" data-uuid="92d3770d56eb4247af38c00b7c8e8689">
+                <h5 data-uuid="c9e82776f4e24e2f87de24ddfdd888e1">Review the Graphic Organizer</h5>
+                <p data-uuid="2cf25b320cf145dbb99d3cfb5a5082d8">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="16696e55753643b28e139ffb01118b9b">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="73590c9b975e402187347f8f240ffeb0">
+                <param name="configFile" value="../../widget_data/config/73590c9b975e402187347f8f240ffeb0.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="bfcfb118dceb454ca1f0882325125779">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="728063e692534085b06695f3a23e75ad">
+                <param name="configFile" value="../../widget_data/config/22665e67fbd444b9be843282d31ee807.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="2aa03cf1b74d4db9ac703a854d78e5bc"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="53762b3b0f0647f88b19a8c6dae1bfb2">
+            <button data-teacher-view-toggle="true" data-uuid="fd7617d382ae42a39a49ab8915dfd728"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4539f646a1f243838ab814197892bb8a">
+                <param value="../../widget_data/config/4539f646a1f243838ab814197892bb8a.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

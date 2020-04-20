@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3fb589af4bc849b2b690a9c99fcf05e4">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="a58f3c307a964d86b4c54e04e87648c7">
+            <p class="lesson-number" data-uuid="2203e00be0be41fda97a4dcb9aa2c3a1">Lesson 1</p>
+            <article class="header-container" data-uuid="51f21fbe3e844ff39222a7a57c2ae003">
+                <div class="header-element" data-uuid="a0f8dd39022e4ea29f65780b3b5d4649">
+                    <h1 data-uuid="8bb67625b9f04a2fada4f723d841eac7">Growth of the Cotton Industry </h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="a099e003f2da4279a6235b79b2d48a02"></div>
+                    <h2 data-uuid="6bcc7f9060034904ba197e2d1fa15f42">The Big Idea</h2>
+                    <p data-uuid="d76a78a6d0424ca3bf0f310a1d6b7779">The invention of the cotton
+                        gin made the South a one-crop economy and increased the need for slave labor.</p>
+                </div>
+            </article>
+            <article data-uuid="dc6849c823184c9eab484fd3f1e3f5ec">
+                <h3 class="if-you-were-there" data-uuid="29e128574c2b4750ace16102a92a60ad">If YOU were there...</h3>
+                <p data-uuid="9cb1247313564c0d81374bfe41fee306">You are a field-worker on a
+                    cotton farm in the South in about 1800. Your job is to separate the seeds from
+                    the cotton fibers. It is dull, tiring work because the tiny seeds are tangled
+                    in the fibers. Sometimes it takes you a whole day just to clean one pound of cotton!
+                    Now you hear that someone has invented a machine that can clean cotton 50 times
+                    faster than by hand.</p>
+            </article>
+            <section class="question-long-text" data-uuid="f550e65e9b7e4c3fb408b66e2bfe8045">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0aca94b2c5924f4a8be0ccae2b8c022b">
+                    <param name="configFile" value="../../widget_data/config/0aca94b2c5924f4a8be0ccae2b8c022b.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8be2c48a7a984d6ba943e2c09f1d31a5">
+            <button data-teacher-view-toggle="true" data-uuid="b9cdb1c281ef44a2ad00dcc2b947589c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="529bbd2575824f7cb78fe70cc6a7365c">
+                <param name="configFile" value="../../widget_data/config/529bbd2575824f7cb78fe70cc6a7365c.json" />
+            </object>
+        </section>
+    </body>
+</html>

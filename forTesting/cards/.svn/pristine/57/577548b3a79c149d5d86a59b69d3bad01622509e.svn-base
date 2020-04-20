@@ -1,0 +1,2198 @@
+<!-- H1 -->
+<script type="application/inkling+patternsnippet" id="h1" data-label="H1" data-category="Text">
+<h1>H1 Heading</h1>
+</script>
+
+<!-- H2 -->
+<script type="application/inkling+patternsnippet" id="h2" data-label="H2" data-category="Text">
+<h2>H2 Heading</h2>
+</script>
+
+<!-- H3 -->
+<script type="application/inkling+patternsnippet" id="h3" data-label="H3" data-category="Text">
+<h3>H3 Heading</h3>
+</script>
+
+<!-- H4 -->
+<script type="application/inkling+patternsnippet" id="h4" data-label="H4" data-category="Text">
+<h4>H4 Heading</h4>
+</script>
+
+<!-- Text -->
+<script type="application/inkling+patternsnippet" id="paragraph" data-label="Text" data-category="Text">
+<p>This is a paragraph.</p>
+</script>
+
+<!-- Module Opener -->
+<script type="application/inkling+patternsnippet" id="module_opener" data-label="Module Opener" data-category="Openers" data-custom="true">
+<section class="module-opener">
+    <section class="eq-container">
+        <figure class="image">
+            <div class="header-element">
+                <section class="calendar-container">
+                <div class="yellow-star-yellow-bar"></div>
+                <h1>Heading</h1>
+                </section>
+                <img alt="" />
+                <div class="image-metadata-container">
+                    <span class="image-text image-alt"></span>
+                    <span class="image-text image-credit"></span>
+                </div>
+            </div>
+            <div class="figcaption">
+                <p class="caption">Image caption text</p>
+            </div>
+        </figure>
+    </section>
+
+    <article>
+        <h3 class="eq">Essential Question</h3>
+        <h3 class="eqt">Question goes here</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel vulputate nunc. Sed rhoncus faucibus feugiat. Donec ac est nec ligula ornare dignissim. Nulla posuere mauris in nulla faucibus, nec feugiat nisl posuere.</p>
+        <p>Sed sit amet dignissim nibh, pulvinar dapibus sapien. Donec ut nunc id dolor dapibus pretium sed eget massa. Fusce in libero molestie, eleifend sem volutpat, pretium erat. Suspendisse pharetra justo quis bibendum blandit.</p>
+
+    </article>
+    <section class="video-container">
+        <article>
+            <h3 class="vid">Heading</h3>
+            <p class="vid">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel vulputate nunc. Sed rhoncus faucibus feugiat. Donec ac est nec ligula ornare dignissim. Nulla posuere mauris in nulla faucibus, nec feugiat nisl posuere.</p>
+
+            <p class="vid">Sed sit amet dignissim nibh, pulvinar dapibus sapien. Donec ut nunc id dolor dapibus pretium sed eget massa. Fusce in libero molestie, eleifend sem volutpat, pretium erat. Suspendisse pharetra justo quis bibendum blandit.</p>
+
+            <section class="video">
+               <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget">
+                </object>
+            </section>
+        </article>
+    </section>
+
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+
+    <section class="timeline-container">
+        <article>
+        <h3 class="mod">Heading</h3>
+            <p class="mod">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel vulputate nunc. Sed rhoncus faucibus feugiat. Donec ac est nec ligula ornare dignissim. Nulla posuere mauris in nulla faucibus, nec feugiat nisl posuere.</p>
+
+            <p class="mod">Sed sit amet dignissim nibh, pulvinar dapibus sapien. Donec ut nunc id dolor dapibus pretium sed eget massa. Fusce in libero molestie, eleifend sem volutpat, pretium erat. Suspendisse pharetra justo quis bibendum blandit.</p>
+        </article>
+    </section>
+    <section class="timeline">
+        <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget"></object>
+    </section>
+</section>
+</script>
+
+<!-- Lesson Opener -->
+<script type="application/inkling+patternsnippet" id="lesson_opener_header" data-label="Lesson Opener" data-category="Openers" data-custom="true">
+<section class="lesson-opener">
+    <p class="lesson-number">Lesson XX</p>
+    <article class="header-container">
+        <div class="header-element">
+            <h1>Title</h1>
+            <div class="yellow-star-yellow-bar"></div>
+            <h2>The Big Idea</h2>
+            <p>Text</p>
+        </div>
+    </article>
+    <article>
+        <h3 class="if-you-were-there">If YOU were there...</h3>
+        <p>Text</p>
+    </article>
+    <section class="reading-check">
+        <section class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+            </object>
+        </section>
+        <section class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+            </object>
+        </section>
+    </section>
+</section>
+</script>
+
+<!-- Segment Opener -->
+<script type="application/inkling+patternsnippet" id="main_idea" data-label="Segment Opener" data-category="Openers" data-custom="true">
+<section class="segment-opener">
+    <article>
+        <h4>Main Idea</h4>
+        <p class="main-idea">Main Idea Text here</p>
+        <h2>Segment Opener head here</h2>
+        <div class="yellow-star-yellow-bar"></div>
+    </article>
+</section>
+</script>
+
+<!-- Module Opener-MS-WC -->
+<script type="application/inkling+patternsnippet" id="module_openermswc" data-label="Module Opener-MS-WC" data-category="Openers" data-custom="true">
+<section class="module-opener">
+<div class="header-element">
+    <section class="calendar-container">
+    <div class="blue-world-blue-bar"></div>
+        <h1>Heading</h1>
+    </section>
+    <section class="eq-container">
+        <figure class="image">
+            <img alt="" />
+        </figure>
+    </section>
+    </div>
+    <div class="modcaption">
+                <p class="caption">Image caption text
+                </p>
+            </div>
+    <article>
+        <h3 class="eq">Essential Question</h3>
+        <h3 class="eqt">Question goes here</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel vulputate nunc. Sed rhoncus faucibus feugiat. Donec ac est nec ligula ornare dignissim. Nulla posuere mauris in nulla faucibus, nec feugiat nisl posuere.</p>
+        <p>Sed sit amet dignissim nibh, pulvinar dapibus sapien. Donec ut nunc id dolor dapibus pretium sed eget massa. Fusce in libero molestie, eleifend sem volutpat, pretium erat. Suspendisse pharetra justo quis bibendum blandit.</p>
+    </article>
+    <section class="video-container">
+        <article>
+            <h3 class="vid">Heading</h3>
+            <p class="vid">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel vulputate nunc. Sed rhoncus faucibus feugiat. Donec ac est nec ligula ornare dignissim. Nulla posuere mauris in nulla faucibus, nec feugiat nisl posuere.</p>
+            <p class="vid">Sed sit amet dignissim nibh, pulvinar dapibus sapien. Donec ut nunc id dolor dapibus pretium sed eget massa. Fusce in libero molestie, eleifend sem volutpat, pretium erat. Suspendisse pharetra justo quis bibendum blandit.</p>
+            <section class="video">
+                <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget">
+                </object>
+            </section>
+        </article>
+    </section>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+    <section class="timeline-container">
+        <article>
+            <h3 class="mod">Heading</h3>
+            <p class="mod">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel vulputate nunc. Sed rhoncus faucibus feugiat. Donec ac est nec ligula ornare dignissim. Nulla posuere mauris in nulla faucibus, nec feugiat nisl posuere.</p>
+            <p class="mod">Sed sit amet dignissim nibh, pulvinar dapibus sapien. Donec ut nunc id dolor dapibus pretium sed eget massa. Fusce in libero molestie, eleifend sem volutpat, pretium erat. Suspendisse pharetra justo quis bibendum blandit.</p>
+        </article>
+    </section>
+    <section class="timeline">
+        <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget"></object>
+    </section>
+</section>
+</script>
+
+<!-- Lesson Opener-MS-WC -->
+<script type="application/inkling+patternsnippet" id="lesson_openermswc" data-label="Lesson Opener-MS-WC" data-category="Openers" data-custom="true">
+<section class="lesson-opener">
+    <p class="lesson-number">Lesson XX</p>
+    <article class="header-container">
+        <div class="header-element">
+            <h1>Title</h1>
+            <div class="blue-world-blue-bar"></div>
+            <h2>The Big Idea</h2>
+            <p>Text</p>
+        </div>
+    </article>
+    <article>
+        <h3 class="if-you-were-there">If YOU were there...</h3>
+        <p>Text</p>
+    </article>
+    <section class="reading-check">
+        <section class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+            </object>
+        </section>
+        <section class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+            </object>
+        </section>
+    </section>
+</section>
+</script>
+
+<!-- Segment Opener-MS-WC -->
+<script type="application/inkling+patternsnippet" id="segment_openermswc" data-label="Segment Opener-MS-WC" data-category="Openers" data-custom="true">
+<section class="segment-opener">
+    <article>
+        <h4>Main Idea</h4>
+        <p class="main-idea">Main Idea Text here</p>
+        <h2>Segment Opener head here</h2>
+        <div class="blue-world-blue-bar"></div>
+    </article>
+</section>
+</script>
+
+<!-- HS Compare Text Intro-Images -->
+<script type="application/inkling+patternsnippet" id="compare_text_introimages" data-label="HS Compare Text Intro-Images" data-category="Historical Source" data-custom="true">
+<section class="historical-source nobg">
+    <article class="box gradient">
+        <div class="header-element">
+            <h2 class="label"><b>Document-Based Investigation</b>   Historical Source</h2>
+        </div>
+        <div class="jonra">
+            <h2>Heading</h2>
+            <p class="source">Intro text goes here</p>
+        </div>
+        <section class="compare-text">
+            <figure class="green-star intro-star"></figure>
+            <article class="column-container intro-col">
+            <div>
+                <figure class="image-with-caption intro-pic">
+                      <img class="intro" alt="" src="../../img/chapter01/man_image.png" />
+                </figure>
+                <p class="caption">Caption caption caption caption caption.</p>
+                <p class="red hang">”Quotation.”&#160;</p>
+                <p class="source">—Person</p>
+                <p class="source small"> quoted in <i>Source by Author</i></p>
+                </div>
+               <div>
+                    <figure class="image-with-caption intro-pic">
+                         <img class="intro" alt="" src="../../img/chapter01/man_image.png" />
+                    </figure>
+                    <p class="caption">Caption  caption caption caption caption.</p>
+                <p class="blue-2 hang">“Quotation.”&#160;</p>
+                <p class="source">—Person</p>
+                <p class="source small"> quoted in <i>Source by Author</i></p>
+                </div>
+            </article>
+            <section class="skillbuilder">
+                <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget">
+                </object>
+            </section>
+        </section>
+    </article>
+
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- HS Compare Text Intro -->
+<script type="application/inkling+patternsnippet" id="compare_text_intro" data-label="HS Compare Text Intro" data-category="Historical Source" data-custom="true">
+<section class="historical-source nobg">
+    <article class="box gradient">
+        <div class="header-element">
+            <h2 class="label"><b>Document-Based Investigation</b>   Historical Source</h2>
+        </div>
+        <div class="jonra">
+            <h2>Heading</h2>
+            <p class="source">Intro text goes here</p>
+        </div>
+        <section class="compare-text">
+            <figure class="green-star intro-star"></figure>
+            <article class="column-container intro-col">
+            <div>
+                <p class="caption-intro-noimage">Caption caption caption caption caption.</p>
+                <p class="red hang">”Quotation.”&#160;</p>
+                <p class="source">—Person</p>
+                <p class="source small"> quoted in <i>Source by Author</i></p>
+
+            </div>
+                <div>
+                    <p class="caption-intro-noimage">Caption  caption caption caption caption.</p>
+                    <p class="blue-2 hang">“Quotation.”&#160;</p>
+                    <p class="source">—Person</p>
+                    <p class="source small"> quoted in <i>Source by Author</i></p>
+                </div>
+            </article>
+
+        </section>
+
+<section class="skillbuilder">
+    <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget">
+    </object>
+</section>
+    </article>
+
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- HS Compare Text -->
+<script type="application/inkling+patternsnippet" id="hs_compare_text" data-label="HS Compare Text" data-category="Historical Source" data-custom="true">
+<section class="compare-text">
+    <article class="box">
+        <div class="header-element">
+            <h2 class="label">Document-Based Investigation  <span class="subhead"> Historical Source</span></h2>
+        </div>
+        <div class="jonra">
+            <h2>Name vs. Name</h2>
+        </div>
+        <figure class="image-with-caption one-half left">
+            <img alt="" src="../../img/chapter01/man_image.png" />
+        </figure>
+        <figure class="image-with-caption one-half right">
+            <img alt="" src="../../img/chapter01/man_image.png" />
+        </figure>
+        <figure class="green-star"></figure>
+        <article class="column-container">
+        <div>
+            <p class="caption">Caption.</p>
+            <p class="red hang">”Quotation.”</p>
+            <p class="source small">— Person quoted in <i>Source by Author</i></p>
+            </div>
+            <div>
+                <p class="caption">Caption.</p>
+
+            <p class="blue-2 hang">“Quotation.”</p>
+            <p class="source small">— Person quoted in <i>Source by Author</i></p>
+            </div>
+        </article>
+        <section class="skillbuilder">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget">
+            </object>
+        </section>
+    </article>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- HS Image Compare -->
+<!-- Invalid pattern: Found a parse error in your HTML:
+
+Opening and ending tag mismatch: section line 0 and article at line 16 character 14 -->
+<script type="application/inkling+patternsnippet" id="historical_source_text_compare_image" data-label="HS Image Compare" data-category="Historical Source" data-custom="true">
+<section class="historical-source">
+        <div class="header-element">
+           <h2 class="label">Historical Source</h2>
+        </div>
+        <div class="jonra">
+
+            <h2>Heading</h2>
+            <p class="source">Intro text goes here</p>
+        </div>
+        <section class="content">
+            <section class="compare_images">
+                <object type="text/html" data="../../assets/widgets/primarysource/index.html" class="widget">
+                </object>
+            </section>
+        </section>
+    </article>
+    <section class="question-long-text">
+    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+    </object>
+</section>
+</section>
+</script>
+
+<!-- HS Text with Video -->
+<script type="application/inkling+patternsnippet" id="historical_source_text_video" data-label="HS Text with Video" data-category="Historical Source" data-custom="true">
+<section class="historical-source nobg">
+    <article class="box gradient">
+        <div class="header-element">
+           <h2 class="label">Historical Source</h2>
+        </div>
+        <div class="jonra">
+
+            <h2>Heading</h2>
+            <p class="source">Intro text goes here</p>
+        </div>
+        <section class="content">
+            <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget">
+            </object>
+        </section>
+        <section class="skillbuilder">
+    <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget">
+    </object>
+</section>
+
+    </article>
+    <section class="question-long-text">
+    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+    </object>
+</section>
+</section>
+</script>
+
+<!-- HS Text Audio Image -->
+<script type="application/inkling+patternsnippet" id="historical_source_image_text_audio" data-label="HS Text Audio Image" data-category="Historical Source" data-custom="true">
+<section class="historical-source nobg">
+    <article class="box gradient">
+        <div class="header-element">
+            <h2 class="label"><b>Document-Based Investigation</b>   Historical Source</h2>
+        </div>
+        <div class="jonra">
+            <h2>Heading</h2>
+            <p class="source">Intro text goes here</p>
+        </div>
+        <section class="historical-source-image-text-audio">
+        <figure class="image-with-caption center">
+            <img alt="" src="../../img/chapter01/placeholder-img-landscape.svg" />
+        </figure>
+        <section class="pullquote_wrapper">
+          <p class="pullquote">“block quote block quote block quote block quote block quote block quote block quote block quote block quote</p>
+        <div class="pullquote_attribution_wrapper">
+            <p class="pullquote_address">—Name Here</p>
+            <p class="p_source">quoted in <i>source name</i></p>
+            </div>
+        </section>
+
+</section>
+<section class="skillbuilder">
+    <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget">
+    </object>
+</section>
+
+    </article>
+<section class="question-long-text">
+    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+    </object>
+</section>
+</section>
+</script>
+
+<!-- HS with Hotspots -->
+<script type="application/inkling+patternsnippet" id="hs_with_hotspots" data-label="HS with Hotspots" data-category="Historical Source" data-custom="true">
+<section class="historical-source nobg">
+    <article class="box gradient">
+        <div class="header-element">
+            <h2 class="label">Historical Source</h2>
+        </div>
+        <div class="jonra">
+            <h2>Heading</h2>
+            <p class="source">Intro text goes here</p>
+        </div>
+        <section class="image-with-rich-media-hotspot">
+    <object type="text/html" data="../../assets/widgets/image_hotspot_rich_media/index.html" class="widget">
+    </object>
+</section>
+        <section class="skillbuilder">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget">
+            </object>
+        </section>
+    </article>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- Question: Multiple Choice -->
+<script type="application/inkling+patternsnippet" id="question-multiple-choice" data-label="Question: Multiple Choice" data-category="Interactions" data-custom="true">
+<section class="question-multiple-choice">
+    <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Graphs -->
+<script type="application/inkling+patternsnippet" id="graphs" data-label="Graphs" data-category="Interactions" data-custom="true">
+<section class="graphs">
+    <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- A sample widget -->
+<script type="application/inkling+patternsnippet" id="example_widget" data-label="A sample widget" data-category="Interactions" data-custom="true">
+<section class="example_widget">
+    <object type="text/html" data="../../assets/widgets/example_widget/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Question: Long Text -->
+<script type="application/inkling+patternsnippet" id="question-long-text" data-label="Question: Long Text" data-category="Interactions" data-custom="true">
+<section class="question-long-text">
+<object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+</object>
+</section>
+</script>
+
+<!-- Timeline -->
+<script type="application/inkling+patternsnippet" id="timeline" data-label="Timeline" data-category="Interactions" data-custom="true">
+<section class="timeline">
+    <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" height="1020">
+    </object>
+</section>
+</script>
+
+<!-- Graph Placeholder -->
+<script type="application/inkling+patternsnippet" id="linegraph" data-label="Graph Placeholder" data-category="Placeholder" data-custom="true">
+<section class="line-graph">
+<object type="text/html" data="../../assets/widgets/lineargraph/index.html" class="widget" width="900">
+</object>
+</section>
+</script>
+
+<!-- Audio -->
+<script type="application/inkling+patternsnippet" id="audio" data-label="Audio" data-category="Interactions" data-custom="true">
+<section class="audio">
+        <object type="text/html" data="../../assets/widgets/audio_player/index.html" class="widget">
+            <param name="playerType" value="shortPlayer" /><param name="configFile" value="" />
+        </object>
+    </section>
+</script>
+
+<!-- Image Carousel -->
+<script type="application/inkling+patternsnippet" id="photocarousel" data-label="Image Carousel" data-category="Interactions" data-custom="true">
+<section class="image-carousel">
+<object type="text/html" data="../../assets/widgets/image_carousel/index.html">
+</object>
+</section>
+</script>
+
+<!-- Video -->
+<script type="application/inkling+patternsnippet" id="video_widget" data-label="Video" data-category="Interactions" data-custom="true">
+<section class="video">
+<object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget">
+</object>
+</section>
+</script>
+
+<!-- Flipcard -->
+<script type="application/inkling+patternsnippet" id="flip_cardgame" data-label="Flipcard" data-category="Interactions" data-custom="true">
+<section class="flipcard">
+<object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard">
+</object>
+</section>
+</script>
+
+<!-- True False Game Placeholder -->
+<script type="application/inkling+patternsnippet" id="myth_and_reality" data-label="True False Game Placeholder" data-category="Placeholder" data-custom="true">
+<section class="true-false">
+<object type="text/html" data="../../assets/widgets/mythreality/index.html" class="widget" width="600">
+</object>
+</section>
+</script>
+
+<!-- Learn More About -->
+<script type="application/inkling+patternsnippet" id="extension_widget" data-label="Learn More About" data-category="Interactions" data-custom="true">
+<section class="extension">
+<object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900">
+</object>
+</section>
+</script>
+
+<!-- LMA: Another Perspective -->
+<script type="application/inkling+patternsnippet" id="extension_ap_widget" data-label="LMA: Another Perspective" data-category="Interactions" data-custom="true">
+<section class="extension">
+<object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900">
+<param name="design" value="lma_ap" />
+</object>
+</section>
+</script>
+
+<!-- LMA: High School -->
+<script type="application/inkling+patternsnippet" id="extension_hs_widget" data-label="LMA: High School" data-category="Interactions" data-custom="true">
+<section class="extension">
+<object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900">
+<param name="design" value="lma_hs" />
+</object>
+</section>
+</script>
+
+<!-- LMA: Now and Then -->
+<script type="application/inkling+patternsnippet" id="extension_nt_widget" data-label="LMA: Now and Then" data-category="Interactions" data-custom="true">
+<section class="extension">
+<object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900">
+<param name="design" value="lma_nt" />
+</object>
+</section>
+</script>
+
+<!-- Image Hotspot with Rich Media -->
+<script type="application/inkling+patternsnippet" id="image_hotspot_rich_media" data-label="Image Hotspot with Rich Media" data-category="Interactions" data-custom="true">
+<section class="image-with-rich-media-hotspot">
+    <object type="text/html" data="../../assets/widgets/image_hotspot_rich_media/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Graphic Organizer Prompt -->
+<script type="application/inkling+patternsnippet" id="graphic_organizer_prompt" data-label="Graphic Organizer Prompt" data-category="Patterns" data-custom="true">
+<section class="graphic-organizer-prompt">
+    <div class="go-prompt-bottom-bar">
+        <p>Remember to complete the graphic organizer with Information on early western settlement.</p>
+    </div>
+
+</section>
+</script>
+
+<!-- Click to Reveal -->
+<script type="application/inkling+patternsnippet" id="click_to_reveal" data-label="Click to Reveal" data-category="Patterns" data-custom="true">
+<section class="card" id="cardHolder">
+            <label for="card1"></label>
+            <input id="card1" class="toggle" type="checkbox" />
+            <div id="card-front-content" class="front side">
+                <div class="question" >
+                    Do you think the Supreme Court upheld or overturned the ruling?
+                </div>
+                <div class="click_button">
+                    Click here
+                </div>
+            </div>
+            <div id="card-back-content" class="back side active" >
+                <div class="p_strong">
+                    The ruling.
+                </div>
+                <div class="answer">
+                    The court upheld Korematsu's conviction and argued that military necessity made Internment constitutional.
+                </div>
+                <div class="answer">
+                    Answer
+                </div>
+                <div class="answer">
+                    Answer
+                </div>
+            </div>
+        </section>
+</script>
+
+<!-- Skill Builder -->
+<script type="application/inkling+patternsnippet" id="skill_builder" data-label="Skill Builder" data-category="Interactions" data-custom="true">
+<section class="skillbuilder">
+        <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget">
+        </object>
+    </section>
+</script>
+
+<!-- Compare Images -->
+<script type="application/inkling+patternsnippet" id="compare_images" data-label="Compare Images" data-category="Interactions" data-custom="true">
+<section class="compare_images">
+<object type="text/html" data="../../assets/widgets/primarysource/index.html" class="widget">
+</object>
+</section>
+</script>
+
+<!-- Map -->
+<script type="application/inkling+patternsnippet" id="map_widget" data-label="Map" data-category="Interactions" data-custom="true">
+<section class='interactive-map'>
+    <object type="text/html" data="../../assets/widgets/map/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Timeline Sequencing -->
+<script type="application/inkling+patternsnippet" id="sequencetimeline" data-label="Timeline Sequencing" data-category="Interactions" data-custom="true">
+<section class="sequence_timeline">
+    <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Enrichment -->
+<script type="application/inkling+patternsnippet" id="enrichment_widget" data-label="Enrichment" data-category="Interactions" data-custom="true">
+<section class="enrichment">
+<object type="text/html" data="../../assets/widgets/enrichment/index.html" class="widget" width="900">
+</object>
+</section>
+</script>
+
+<!-- Learnosity Items -->
+<script type="application/inkling+patternsnippet" id="learnosity_items" data-label="Learnosity Items" data-category="Interactions" data-custom="true">
+<section class="learnosity-questions">
+    <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Graphic Organizer -->
+<script type="application/inkling+patternsnippet" id="graphic_organizer" data-label="Graphic Organizer" data-category="Interactions" data-custom="true">
+<section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true">
+<object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true">
+</object>
+<button class="go-close-btn" data-go-toggle="true"></button>
+</section>
+</script>
+
+<!-- Image with Slider and Text List -->
+<script type="application/inkling+patternsnippet" id="image_with_slider" data-label="Image with Slider and Text List" data-category="Interactions" data-custom="true">
+<section class="image-with-slider">
+    <object type="text/html" data="../../assets/widgets/image_with_slider/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Image with Metadata -->
+<script type="application/inkling+patternsnippet" id="image_with_metadata" data-label="Image with Metadata" data-category="Images">
+<figure class="image-metadata">
+    <img alt="" />
+    <div class="images-metadata-container">
+        <span class="image-text image-alt"> </span>
+        <span class="image-text image-credit"> </span>
+    </div>
+</figure>
+</script>
+
+<!-- Credits &amp; Copyright -->
+<script type="application/inkling+patternsnippet" id="credits_and_copyrigh" data-label="Credits &amp; Copyright" data-category="Metadata" data-custom="true">
+<section class="credits">
+    <p class="intro">For permission bold text here.</p>
+    <p>Credits lightface text &#169; here</p>
+    <p class="intro">Art and Photo bold text here.</p>
+    <p>Credits lightface text &#169; here</p>
+    <p class="intro">Maps Credits</p>
+    <p>All maps included in this digital program &#169; Maps.com LLC</p>
+    <p class="intro">Copyright &#169; Houghton Mifflin Harcourt Publishing Company. All rights reserved.</p>
+</section>
+</script>
+
+<!-- Lesson Review -->
+<script type="application/inkling+patternsnippet" id="lesson_review" data-label="Lesson Review" data-category="Headers" data-custom="true">
+<section class="lesson-review">
+   <div class="header-element header-container">
+      <p class="lesson-number">
+          Lesson 00</p>
+          <h2>Review</h2>
+          <p class="white">In this Lesson, you learned text here.</p>
+        </div>
+    <h3>Review Key Terms and People</h3>
+   <p>Define each term text here.</p>
+</section>
+</script>
+
+<!-- Placeholder -->
+<script type="application/inkling+patternsnippet" id="placeholder" data-label="Placeholder" data-category="Placeholder" data-custom="true">
+<p class="placeholder">Placeholder content here.</p>
+</script>
+
+<!-- Module Close Essential Question -->
+<script type="application/inkling+patternsnippet" id="module_close_essential_question" data-label="Module Close Essential Question" data-category="Module Close" data-custom="true">
+<section class="module-close-essential-question">
+    <div class="header-element header-container">
+        <p class="lesson-number">Module XX</p>
+        <h2> Essential Question–Writing</h2>
+        <p class="white">In this Module, you&#39;ve learned ...</p>
+    </div>
+    <h3>Head here</h3>
+    <p>This is the paragraph below the head.</p>
+</section>
+</script>
+
+<!-- Module Assessment -->
+<script type="application/inkling+patternsnippet" id="module_assessment" data-label="Module Assessment" data-category="Module Close" data-custom="true">
+<section class="module-close-assessment">
+    <div class="header-element header-container">
+        <p class="lesson-number" >Module XX</p>
+        <h2 >Assessment</h2>
+        <p class="white">Complete the following questions. If you miss a question, revisit the text and try again.</p>
+    </div>
+    <h3>Header</h3>
+    <section class="learnosity-questions">
+        <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget">
+        </object>
+    </section>
+
+</section>
+</script>
+
+<!-- Module Review -->
+<script type="application/inkling+patternsnippet" id="module_review" data-label="Module Review" data-category="Module Close" data-custom="true">
+<section class="module-close-review">
+    <div class="header-element header-container">
+        <p class="lesson-number" >Module XX</p>
+        <h2 > Review</h2>
+        <p class="white">In this Lesson, you learned ...</p>
+    </div>
+
+    <section class="flipcard">
+        <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget">
+        </object>
+    </section>
+    <section class="sequence_timeline">
+        <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- Part One DBI Writing Activity -->
+<script type="application/inkling+patternsnippet" id="module_close_part_one" data-label="Part One DBI Writing Activity" data-category="Module Close" data-custom="true">
+<section class="module-close-dbi" >
+    <div class="header-element header-container" >
+        <p class="lesson-number" >Module XX</p>
+        <h2 > Document Based Investigation</h2>
+    </div>
+    <h3>Part 1: Short Answer</h3>
+    <p>This is the paragraph below this. This will be the short answer typing it out to see how wide it needs to be what is going to be margin and padding and line height.</p>
+</section>
+</script>
+
+<!-- Part Two: DBI Writing Activity -->
+<script type="application/inkling+patternsnippet" id="moudle_close_part_two" data-label="Part Two: DBI Writing Activity" data-category="Module Close" data-custom="true">
+<section class="module-close-dbi" >
+<div class="header-element header-container">
+    <p class="lesson-number">Module XX</p>
+    <h2> Document Based Investigation</h2>
+</div>
+<h3>Part 2: Write a Compare and Contrast Essay</h3>
+    <h6>Historical Context</h6>
+    <p>Text.</p>
+    <h6>Task</h6>
+    <p>Text</p>
+    <p>Complete the following steps as you plan and compose your essay.</p>
+    <ol>
+        <li>
+            Review your notes and sources before you start writing.
+        </li>
+        <li>
+            Use at least three of the sources in Part 1, and develop the topic
+            with relevant, well-chosen text evidence from the documents.
+        </li>
+        <li>
+            Cite specific text evidence from each of the three sources in your
+            response.
+        </li>
+        <li>
+            Plan your essay so that it includes an introduction, several body
+        </li>
+    </ol>
+</section>
+</script>
+
+<!-- Lesson Review GO Prompt -->
+<script type="application/inkling+patternsnippet" id="lesson_review_graphic_organizer" data-label="Lesson Review GO Prompt" data-category="Patterns" data-custom="true">
+<section class="graphic-organizer-prompt-less-rev">
+    <div class="go-prompt-bottom-bar">
+        <h5>Review the Graphic Organizer</h5>
+        <p>Review your graphic organizer notes and use them
+to answer the following question.</p>
+    </div>
+</section>
+</script>
+
+<!-- Teacher View -->
+<script type="application/inkling+patternsnippet" id="teacher_view_updated" data-label="Teacher View" data-category="Metadata" data-custom="true">
+<section class="teacher-view" data-teacher-view="v0.1.0">
+    <button data-teacher-view-toggle="true"></button>
+    <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Process Steps -->
+<script type="application/inkling+patternsnippet" id="stepped_process" data-label="Process Steps" data-category="Interactions" data-custom="true">
+<section class="process-steps">
+    <object type="text/html" data="../../assets/widgets/process_steps/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Cause and Effect -->
+<script type="application/inkling+patternsnippet" id="cause_and_effect" data-label="Cause and Effect" data-category="Interactions" data-custom="true">
+<section class="cause-effect">
+    <article class="box">
+        <div class="header-element">
+        </div>
+        <div class="quickfacts">
+            <h5>QUICK FACTS</h5>
+              <a title="Click or tap on parts of the graphic to learn more." class="tooltip"></a>
+        </div>
+        <h2>Quick facts head</h2>
+        <p>Quick facts text</p>
+    </article>
+    <section class="cause-effect-widget">
+        <object type="text/html" data="../../assets/widgets/cause_and_effect/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- Cause and Effect-HS -->
+<script type="application/inkling+patternsnippet" id="cause_and_effecths" data-label="Cause and Effect-HS" data-category="Interactions" data-custom="true">
+<section class="cause-effect-hs">
+<section class="graph-pattern">
+    <div class="header-element rule-only">
+    <a title="Click or tap on parts of the graphic to learn more." class="tooltip"></a>
+    </div>
+</section>
+<section class="cause-effect">
+    <article class="box">
+        <h2>Quick facts head</h2>
+        <p>Quick facts text</p>
+    </article>
+    <section class="cause-effect-widget">
+        <object type="text/html" data="../../assets/widgets/cause_and_effect/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</section>
+</script>
+
+<!-- True False Game -->
+<script type="application/inkling+patternsnippet" id="true_false_game" data-label="True False Game" data-category="Interactions" data-custom="true">
+<section class="true_false_game">
+        <object type="text/html" data="../../assets/widgets/true_false_game/index.html" class="widget">
+        </object>
+</section>
+</script>
+
+<!-- Lesson Assessment -->
+<script type="application/inkling+patternsnippet" id="lesson_assessment" data-label="Lesson Assessment" data-category="Headers" data-custom="true">
+<section class="lesson-review">
+    <div class="header-element header-container">
+        <p class="lesson-number">Lesson 0</p>
+        <h2>Assessment Preview</h2>
+    </div>
+    <h5>Lesson Name</h5>
+</section>
+</script>
+
+<!-- Segment Opener-HS -->
+<script type="application/inkling+patternsnippet" id="segment_openerhs" data-label="Segment Opener-HS" data-category="High School" data-custom="true">
+<section class="segment-opener-ah">
+    <article>
+        <h2>Segment title here</h2>
+        <div class="yellow-star-yellow-bar"></div>
+    </article>
+</section>
+</script>
+
+<!-- Lesson Opener-HS -->
+<script type="application/inkling+patternsnippet" id="lesson_openerhs" data-label="Lesson Opener-HS" data-category="High School" data-custom="true">
+<section class="lesson-opener-ah">
+    <p class="lesson-number">Lesson 00</p>
+    <article class="header-container">
+        <div class="header-element">
+            <h1>Lesson Title</h1>
+            <div class="yellow-star-yellow-bar"></div>
+            <h2>Main Idea</h2>
+            <p class="center">Main Idea text</p>
+            <h2>Why It Matters Now</h2>
+            <p class="center">Why It Matters Now text</p>
+        </div>
+    </article>
+    <article>
+        <h5>One American&#146;s Story</h5>
+        <p>One American&#146;s Story text</p>
+    </article>
+    <figure class="quote-container">
+        <figure class="quote left">
+            <p class="pullquote hang">“Blockquote text blockquote text blockquote text”</p>
+            <div class="pullquote_attribution_wrapper">
+                <p class="address">Author</p>
+                <p class="source">—Source</p>
+            </div>
+        </figure>
+        <figure class="pic right">
+            <img alt="" />
+            <figure class="figure-caption">
+                <p class="caption">Image caption text</p>
+            </figure>
+        </figure>
+    </figure>
+    <article>
+        <p>paragraph text</p>
+    </article>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- Image with Caption -->
+<script type="application/inkling+patternsnippet" id="image_with_caption" data-label="Image with Caption" data-category="Images" data-custom="true">
+<figure class="image-with-caption">
+    <img alt="" />
+<div class="figcaption">
+    <h5>Image caption head. If there is no caption head, delete this text frame.</h5>
+    <p class="caption">Image caption text</p>
+</div>
+</figure>
+</script>
+
+<!-- Image with Caption Top -->
+<script type="application/inkling+patternsnippet" id="image_with_caption_top" data-label="Image with Caption Top" data-category="Images" data-custom="true">
+<figure class="image-with-caption">
+<div class="figcaption">
+    <h5>Image caption head. If there is no caption head, delete this text frame.</h5>
+    <p class="caption">Image caption text</p>
+</div>
+    <img alt="" />
+</figure>
+</script>
+
+<!-- Image in Table -->
+<script type="application/inkling+patternsnippet" id="image_in_table" data-label="Image in Table" data-category="Images" data-custom="true">
+<figure class="image-table">
+    <img alt="" />
+</figure>
+</script>
+
+<!-- Compare Text-standalone -->
+<script type="application/inkling+patternsnippet" id="compare_textstandalone" data-label="Compare Text-standalone" data-category="Patterns" data-custom="true">
+<section class="compare-text">
+    <article class="box white-spacing">
+        <figure class="green-star intro-star"></figure>
+        <article class="column-container intro-col">
+        <div>
+            <p class="red hang"><q>Blockquote text.</q></p>
+            <p class="source small">—Address source</p>
+            </div>
+            <div>
+            <p class="blue-2 hang"><q>Blockquote text</q></p>
+            <p class="source small">—Address source</p>
+            </div>
+        </article>
+    </article>
+</section>
+</script>
+
+<!-- Epilogue -->
+<script type="application/inkling+patternsnippet" id="epilogue" data-label="Epilogue" data-category="Patterns" data-custom="true">
+<section class="epilogue">
+    <p class="lesson-number">Epilogue</p>
+    <article class="header-container">
+        <div class="header-element">
+            <h1>Epilogue Title</h1>
+            <div class="yellow-star-yellow-bar"></div>
+        </div>
+    </article>
+    <article>
+        <h2>Heading</h2>
+        <p>Text goes here.</p>
+    </article>
+</section>
+</script>
+
+<!-- Biography -->
+<script type="application/inkling+patternsnippet" id="biography_with_variatons" data-label="Biography" data-category="Patterns" data-custom="true">
+<section class="biography">
+    <div class="header-element">
+        Biography
+    </div>
+    <p class="name">Bio Name</p>
+    <p class="date">0000–0000</p>
+    <figure class="image-metadata bio-image">
+        <img alt="" src="../../img/chapter05/8_snlese454170_49p.png" />
+        <div class="images-metadata-container">
+            <span class="image-text image-alt"> </span>
+            <span class="image-text image-credit"> </span>
+        </div>
+    </figure>
+    <p>Biography text goes here.</p>
+    <div class="blue-star-blue-bar">
+        <span class="star"></span>
+    </div>
+</section>
+</script>
+
+<!-- Biography-WS-WC -->
+<script type="application/inkling+patternsnippet" id="biographyglobe" data-label="Biography-WS-WC" data-category="Patterns" data-custom="true">
+<section class="biography">
+    <div class="header-element">
+        Biography
+    </div>
+    <p class="name">Bio Name</p>
+    <p class="date">0000–0000</p>
+    <figure class="image-metadata bio-image">
+        <img alt="" src="../../img/chapter05/8_snlese454170_49p.png" />
+        <div class="images-metadata-container">
+            <span class="image-text image-alt"> </span>
+            <span class="image-text image-credit"> </span>
+        </div>
+    </figure>
+    <p>Biography text goes here.</p>
+    <div class="blue-star-blue-bar">
+       <span class="circle"></span>
+    </div>
+</section>
+</script>
+
+<!-- Biography-Short Audio -->
+<script type="application/inkling+patternsnippet" id="biographyshort_audio" data-label="Biography-Short Audio" data-category="Patterns" data-custom="true">
+<section class="biography">
+    <div class="header-element">
+        Biography
+    </div>
+    <p class="name">Bio Name</p>
+    <p class="date">0000–0000</p>
+    <figure class="with-audio">
+        <img alt="" src="../../img/placeholder/image-landscape.svg" />
+        <div class="images-metadata-container">
+            <span class="image-text image-alt"> </span>
+            <span class="image-text image-credit"> </span>
+        </div>
+    </figure>
+    <p>Biography text goes here.</p>
+    <div class="blue-star-blue-bar">
+    <span class="star"></span>
+    </div>
+</section>
+</script>
+
+<!-- Blockquote -->
+<script type="application/inkling+patternsnippet" id="pullquote" data-label="Blockquote" data-category="Patterns" data-custom="true">
+<section class="pullquote_wrapper">
+        <p class="pullquote">“Blockquote</p>
+        <div class="pullquote_attribution_wrapper">
+        <p class="pullquote_address">Name Here</p>
+        <p class="p_source">quoted in<span class="important"> source name</span></p>
+    </div>
+</section>
+</script>
+
+<!-- Blockquote-HS -->
+<script type="application/inkling+patternsnippet" id="blockquote" data-label="Blockquote-HS" data-category="Patterns" data-custom="true">
+<section class="pullquote_wrapper">
+        <p class="pullquote highschool">Blockquote</p>
+            <div class="pullquote_attribution_wrapper">
+        <p class="pullquote_address">Name Here</p>
+        <p class="p_source">quoted in<span class="important"> source name</span></p>
+    </div>
+</section>
+</script>
+
+<!-- Lesson Opener WS -->
+<script type="application/inkling+patternsnippet" id="lesson_opener_ws" data-label="Lesson Opener WS" data-category="High School" data-custom="true">
+<section class="lesson-opener-ah">
+    <p class="lesson-number">Lesson 00</p>
+    <article class="header-container">
+        <div class="header-element">
+            <h1>Lesson Title</h1>
+           <div class="blue-world-blue-bar"></div>
+            <h2>The Big Idea</h2>
+            <p class="center">The Big Idea text</p>
+            <h2>Why It Matters Now</h2>
+            <p class="center">Why It Matters Now text</p>
+        </div>
+    </article>
+    <article>
+        <h5>Setting the Stage</h5>
+        <p>Setting the stage text</p>
+    </article>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+        <section class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+            </object>
+        </section>
+    </section>
+</section>
+</script>
+
+<!-- Module Opener WS -->
+<script type="application/inkling+patternsnippet" id="module_opener_ws" data-label="Module Opener WS" data-category="High School" data-custom="true">
+<section class="module-opener">
+<div class="header-element">
+    <section class="calendar-container">
+        <div class="blue-world-blue-bar"></div>
+        <h1>Heading</h1>
+    </section>
+    <section class="eq-container">
+        <figure class="image">
+            <img alt="" />
+        </figure>
+    </section>
+    </div>
+    <div class="modcaption">
+                <p class="caption">Image caption text
+                </p>
+            </div>
+    <article>
+        <h3 class="eq">Essential Question</h3>
+        <h3 class="eqt">Question goes here</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel vulputate nunc. Sed rhoncus faucibus feugiat. Donec ac est nec ligula ornare dignissim. Nulla posuere mauris in nulla faucibus, nec feugiat nisl posuere.</p>
+        <p>Sed sit amet dignissim nibh, pulvinar dapibus sapien. Donec ut nunc id dolor dapibus pretium sed eget massa. Fusce in libero molestie, eleifend sem volutpat, pretium erat. Suspendisse pharetra justo quis bibendum blandit.</p>
+    </article>
+    <section class="video-container">
+        <article>
+            <h3 class="vid">Heading</h3>
+            <p class="vid">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel vulputate nunc. Sed rhoncus faucibus feugiat. Donec ac est nec ligula ornare dignissim. Nulla posuere mauris in nulla faucibus, nec feugiat nisl posuere.</p>
+            <p class="vid">Sed sit amet dignissim nibh, pulvinar dapibus sapien. Donec ut nunc id dolor dapibus pretium sed eget massa. Fusce in libero molestie, eleifend sem volutpat, pretium erat. Suspendisse pharetra justo quis bibendum blandit.</p>
+            <section class="video">
+                <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget">
+                </object>
+            </section>
+        </article>
+    </section>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+    <section class="timeline-container">
+        <article>
+            <h3 class="mod">Heading</h3>
+            <p class="mod">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel vulputate nunc. Sed rhoncus faucibus feugiat. Donec ac est nec ligula ornare dignissim. Nulla posuere mauris in nulla faucibus, nec feugiat nisl posuere.</p>
+            <p class="mod">Sed sit amet dignissim nibh, pulvinar dapibus sapien. Donec ut nunc id dolor dapibus pretium sed eget massa. Fusce in libero molestie, eleifend sem volutpat, pretium erat. Suspendisse pharetra justo quis bibendum blandit.</p>
+        </article>
+    </section>
+    <section class="timeline">
+        <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget"></object>
+    </section>
+</section>
+</script>
+
+<!-- Biography-Short Audio-WS -->
+<script type="application/inkling+patternsnippet" id="biographyws" data-label="Biography-Short Audio-WS" data-category="High School" data-custom="true">
+<section class="biography">
+    <div class="header-element">
+        Biography
+    </div>
+    <p class="name">Bio Name</p>
+    <p class="date">(0000–0000)</p>
+    <figure class="with-audio">
+        <img alt="" src="../../img/placeholder/image-landscape.svg" />
+        <div class="images-metadata-container">
+            <span class="image-text image-alt"> </span>
+            <span class="image-text image-credit"> </span>
+        </div>
+    </figure>
+    <p>Biography text goes here. Biography text goes here. Biography text goes here.</p>
+    <p>Biography text goes here. Biography text goes here. iography text goes here.</p>
+    <div class="blue-star-blue-bar">
+    <span class="circle"></span>
+    </div>
+
+</section>
+</script>
+
+<!-- Biography-Long Audio-WS -->
+<script type="application/inkling+patternsnippet" id="biographylong_audiows" data-label="Biography-Long Audio-WS" data-category="High School" data-custom="true">
+<section class="biography">
+    <div class="header-element">
+        Biography
+    </div>
+    <p class="name">Bio Name</p>
+    <p class="date">(0000–0000)</p>
+    <figure class="with-audio">
+        <img alt="" src="../../img/placeholder/image-landscape.svg" />
+        <div class="images-metadata-container">
+            <span class="image-text image-alt"> </span>
+            <span class="image-text image-credit"> </span>
+        </div>
+    </figure>
+    <p>Biography text goes here.</p>
+    <div class="blue-star-blue-bar">
+        <span class="circle"></span>
+    </div>
+</section>
+</script>
+
+<!-- Constitution Opener -->
+<script type="application/inkling+patternsnippet" id="constitution_opener" data-label="Constitution Opener" data-category="Patterns" data-custom="true">
+<section class="constitution bg">
+    <div class="header-element">
+        <div class="banner"></div>
+    </div>
+    <h2>The Constitution of the United States</h2>
+    <section class="pullquote_wrapper">
+        <p class="pullquote hang">“Blockquote text here. Blockquote text here. Blockquote text here. Blockquote text here. Blockquote text here. Blockquote text here. Blockquote text here. Blockquote text here.“</p>
+    <div class="pullquote_attribution_wrapper">
+        <p class="pullquote_address">Name Here</p>
+        <p class="p_source">quoted in<i> source name source name</i></p>
+    </div>
+    </section>
+    <h3 class="first">Head 3</h3>
+    <p>Text text text text text text text text text text text text text text text text text text text text text text text text.</p>
+    <p class="subhead">1. Subhead here</p>
+    <p>text text text text text text text text text text text text text text text text text text text text text text text text.</p>
+    <p class="subhead">Subhead here</p>
+    <p>text text text text text text text text text text text text text text text text text text text text text text text text.</p>
+</section>
+</script>
+
+<!-- Constitution Preamble -->
+<script type="application/inkling+patternsnippet" id="constitution_preamble" data-label="Constitution Preamble" data-category="Patterns" data-custom="true">
+<section class="constitution bg">
+    <section class="header-container">
+        <p class="inf-rdg"><span class="runin">Informed Reading:</span> Informed Reading text here</p>
+    </section>
+    <div class="yellow-star-yellowgray-bar"></div>
+    <h3>The Preamble</h3>
+
+    <section class="pullquote_wrapper">
+        <p class="pullquote hang">“Blockquote text text”</p>
+    <div class="pullquote_attribution_wrapper">
+        <p class="pullquote_address">Name Here</p>
+        <p class="p_source">quoted in<i> source name</i></p>
+    </div>
+    </section>
+    <section class="extension">
+        <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900">
+            <param name="configFile" value="../../widget_data/config/664c83f450db4b5c8fdf33dda430e6e8.json" />
+            <param name="audiopath" value="" />
+            <param name="widgettype" value="shortplayer" />
+        </object>
+    </section>
+    <section class="video">
+        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget">
+        </object>
+    </section>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- Constitution Continued -->
+<script type="application/inkling+patternsnippet" id="constitution_continued" data-label="Constitution Continued" data-category="Patterns" data-custom="true">
+<section class="constitution bg">
+<div class="yellow-star-yellowgray-bar"></div>
+    <h3>Article I: heading</h3>
+    <h4>Section 1. heading</h4>
+    <ol>
+        <li><b>Runin head</b>
+            Text text text text text text text text text text text </li>
+        <li><b>Runin head</b> Text text text text text text</li>
+        <li><b>Runin head</b> Text text text text text text<span class="strikethru"><b> strikethrough text</b></span> text text text text text text <b><span class="strikethru">strikethrough text </span></b>text text text</li>
+    </ol>
+    <section class="extension">
+    <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900">
+    </object>
+</section>
+    <ol>
+        <li><b>Runin head</b>
+            Text text text text text text </li>
+        <li><b>Runin head</b> Text text text text text text text text text tex</li>
+    </ol>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- Declaration -->
+<script type="application/inkling+patternsnippet" id="declaration" data-label="Declaration" data-category="Patterns" data-custom="true">
+<section class="constitution">
+    <div class="header-element">
+    <div class="banner"></div>
+    </div>
+    <h2>The Declaration of Independence</h2>
+    <div class="yellow-star-yellow-bar dec"></div>
+    <p>This is a paragraph. Text text text text text text text. Text text text text text text text. This is a paragraph. Text text text text text</p>
+    <h3>Head 3</h3>
+    <p>Text text text text text text text text text text text text text text text text text text text text text text text text.</p>
+    <p>text text text text text text text text text text text text text text text text text text text text text text text text.</p>
+    <p>text text text text text text text text text text text text text text text text text text text text text text text text.</p>
+</section>
+</script>
+
+<!-- Point Counterpoint-HS -->
+<script type="application/inkling+patternsnippet" id="point_counterpoinths" data-label="Point Counterpoint-HS" data-category="High School" data-custom="true">
+<section class="point-counterpoint">
+    <section class="head-container">
+        <section class="table-container">
+            <div class="bg-left">
+                <article class="no-color">
+                    <h6>POINT</h6>
+                </article>
+            </div>
+            <div class="bg-right">
+                <article class="no-color">
+                    <h6>COUNTERPOINT</h6>
+                </article>
+            </div>
+        </section>
+    </section>
+    <section class="compare-text">
+        <article class="box">
+            <figure class="gold-star intro-star"></figure>
+            <article class="column-container intro-col">
+            <div>
+                <p class="blue-2 hang">”Quotation.”</p>
+                <p>Text here text here</p>
+                </div>
+                <div>
+                <p class="gold hang">“Quotation.”</p>
+                <p>Text here text here</p>
+                </div>
+            </article>
+
+       </article>
+        <section class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+            </object>
+        </section>
+
+    </section>
+</section>
+</script>
+
+<!-- Tracing Themes-HS -->
+<script type="application/inkling+patternsnippet" id="tracing_themeshs" data-label="Tracing Themes-HS" data-category="High School" data-custom="true">
+<section class="tracing-themes">
+    <article class="box">
+        <div class="header-element intro-container">
+            <h5>Heading</h5>
+            <p>Intro text</p>
+        </div>
+        <section class="image-carousel">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html">
+            </object>
+        </section>
+
+    </article>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- Historic Decisions-HS -->
+<script type="application/inkling+patternsnippet" id="historic_decisionshs" data-label="Historic Decisions-HS" data-category="High School" data-custom="true">
+<section class="historic-decisions">
+    <article class="box">
+        <h3>HISTORIC DECISIONS OF THE SUPREME COURT</h3>
+        <p>Text here</p>
+        <div class="header-element">
+            <h2 class="label">Historic Decisions of the Supreme Court</h2>
+        </div>
+        <div class="jonra">
+            <h2><i>Name</i> v. <i>Name</i> (1944)</h2>
+            <h4>Head 4 here</h4>
+            <p>Text here</p>
+            <section class="historical-pattern">
+                <object type="text/html" data="../../assets/widgets/historical_pattern/index.html" class="widget">
+                </object>
+            </section>
+        </div>
+        <h4>Head 4 here</h4>
+        <p>Text heret</p>
+        <section class="pullquote_wrapper">
+            <p class="pullquote">“block quote this is the highschool size”</p>
+        </section>
+        <p>Text text</p>
+        <section class="pullquote_wrapper">
+            <p class="pullquote middleschool">“block quote this is the middleschool size both in breadcrumb bar”</p>
+        </section>
+        <p>Text here</p>
+        <figure class="image-with-caption main">
+           <img alt="" src="../../img/placeholder/image-landscape.svg" />
+            <div class="figcaption">
+                <h5>Caption head</h5>
+                <p class="caption">  Image caption text </p>
+            </div>
+        </figure>
+        <h4>H4 Heading</h4>
+        <p>This is a paragraph text.</p>
+
+
+    </article>
+
+<section class="question-long-text">
+    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+    </object>
+</section>
+</section>
+</script>
+
+<!-- Static Map -->
+<script type="application/inkling+patternsnippet" id="static_map" data-label="Static Map" data-category="Images" data-custom="true">
+<section class="static-map">
+    <article class="title-bar">
+        <h3>Map title</h3>
+    </article>
+
+    <figure class="image">
+        <img alt="" />
+        <div class="figcaption">
+            <h5>Heading</h5>
+            <p class="caption">Caption text</p>
+        </div>
+    </figure>
+
+    <section class="skillbuilder">
+        <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget">
+        </object>
+    </section>
+
+    <section class="question-multiple-choice">
+        <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget">
+        </object>
+    </section>
+
+</section>
+</script>
+
+<!-- American Lit-HS -->
+<script type="application/inkling+patternsnippet" id="american_literaturehs" data-label="American Lit-HS" data-category="High School" data-custom="true">
+<section class="american-lit">
+    <article class="box">
+        <div class="header-element">
+            <h2 class="label"><b>AMERICAN LITERATURE</b></h2>
+        </div>
+        <div class="jonra">
+            <h2>Heading</h2>
+            <p class="source"> Intro text goes here</p>
+        </div>
+        <article class="column-container intro-col">
+            <h3>Heading heading heading heading heading</h3>
+            <p class="indent">Text text text text text text text text text text text text text text text</p>
+            <p class="indent">Text text text text text text text text text text text text text text text</p>
+            <p class="indent">Text text text text text text text text text text text text text text text</p>
+            <p class="indent">I built my hut near the Congo aText text text text text text text text text text text text text text text</p>
+            <p class="source-space-before">—Person</p>
+            <p class="address"> quoted in <i>book by Author</i></p>
+            <aside class="col-2-begin-container">
+                <p class="indent">I looked upon the Nile and raised the pyramids about it. </p>
+                <p class="indent">Text text text text text text text text text text text text text text text</p>
+                <p class="indent">Text text text text text text text text text text text text text text text </p>
+                <p class="indent">Text text text text text text text text text text text text text text text </p>
+                <p class="indent">Text text text text text text text text text text text text text text text</p>
+            </aside>
+        </article>
+    </article>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+            <param name="configFile" value="../../widget_data/config/4ee4c72f66e8482ab1a52948954238e5.json" />
+            <param name="audio_description" value="" />
+            <param name="audio_script" value="" />
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- American Lit-1Image-HS -->
+<script type="application/inkling+patternsnippet" id="american_literatureimagehs" data-label="American Lit-1Image-HS" data-category="High School" data-custom="true">
+<section class="american-lit">
+    <article class="box">
+        <div class="header-element">
+            <h2 class="label"><b>AMERICAN LITERATURE</b></h2>
+        </div>
+        <div class="jonra">
+            <h2>Heading</h2>
+            <p class="source"> Intro text goes here</p>
+        </div>
+        <article class="column-container intro-col">
+            <h3>Heading</h3>
+            <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+            <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+            <p class="source">—Person</p>
+            <p class="address"> quoted in <i>book by Author</i></p>
+
+            <aside class="col-2-begin-container">
+                <figure class="image-with-caption">
+                    <img class="intro" alt="" src="../../img/chapter01/placeholder-img-landscape.svg" />
+                </figure>
+                <p class="caption">Caption</p>
+            </aside>
+        </article>
+
+    </article>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+            <param name="configFile" value="../../widget_data/config/62df0797599449b48fbb4d1e3ce4f55b.json" />
+            <param name="audio_description" value="" />
+            <param name="audio_script" value="" />
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- AmericanLit-2Image-HS -->
+<script type="application/inkling+patternsnippet" id="americanliterature2imagehs" data-label="AmericanLit-2Image-HS" data-category="High School" data-custom="true">
+<section class="american-lit">
+    <article class="box">
+        <div class="header-element">
+            <h2 class="label"><b>AMERICAN LITERATURE</b></h2>
+        </div>
+        <div class="jonra">
+            <h2>Heading</h2>
+            <p class="source">Intro text goes here</p>
+        </div>
+        <article class="column-container intro-col">
+            <h3>Heading</h3>
+            <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+            <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+            <p class="source">—Person</p>
+            <p class="address"> quoted in <i>book by Author</i></p>
+
+            <aside class="col-2-begin-container">
+                <figure class="image-with-caption">
+                    <img class="intro" alt="" src="../../img/chapter01/placeholder-img-landscape.svg" />
+                </figure>
+                <p class="caption">Caption</p>
+            </aside>
+        </article>
+        <article class="column-container intro-col">
+            <h3>Heading</h3>
+            <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+            <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+            <p class="source">—Person</p>
+            <p class="address"> quoted in <i>book by Author</i></p>
+
+            <aside class="col-2-begin-container">
+                <figure class="image-with-caption">
+                    <img class="intro" alt="" src="../../img/chapter01/placeholder-img-landscape.svg" />
+                </figure>
+                <p class="caption">Caption</p>
+            </aside>
+        </article>
+    </article>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+            <param name="configFile" value="../../widget_data/config/62df0797599449b48fbb4d1e3ce4f55b.json" />
+            <param name="audio_description" value="" />
+            <param name="audio_script" value="" />
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- AmericanLit-3Image-HS -->
+<script type="application/inkling+patternsnippet" id="americanlit3imagehs" data-label="AmericanLit-3Image-HS" data-category="High School" data-custom="true">
+<section class="american-lit">
+    <article class="box">
+        <div class="header-element">
+            <h2 class="label"><b>AMERICAN LITERATURE</b></h2>
+        </div>
+        <div class="jonra">
+            <h2>Heading</h2>
+            <p class="source">Intro text goes here</p>
+        </div>
+        <article class="column-container intro-col">
+            <h3>Heading</h3>
+            <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+            <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+            <p class="source">—Person</p>
+            <p class="address"> quoted in <i>book by Author</i></p>
+
+            <aside class="col-2-begin-container">
+                <figure class="image-with-caption">
+                    <img class="intro" alt="" src="../../img/chapter01/placeholder-img-landscape.svg" />
+                </figure>
+                <p class="caption">Caption</p>
+            </aside>
+        </article>
+        <article class="column-container intro-col">
+            <h3>Heading</h3>
+            <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+            <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+            <p class="source">—Person</p>
+            <p class="address"> quoted in <i>book by Author</i></p>
+
+            <aside class="col-2-begin-container">
+                <figure class="image-with-caption">
+                    <img class="intro" alt="" src="../../img/chapter01/placeholder-img-landscape.svg" />
+                </figure>
+                <p class="caption">Caption</p>
+            </aside>
+        </article>
+        <article class="column-container intro-col">
+    <h3>Heading</h3>
+    <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+    <p>Text text text text Text text text text. Text text text text Text text text text.  Text text text text Text text text text.</p>
+    <p class="source">—Person</p>
+    <p class="address"> quoted in <i>book by Author</i></p>
+
+    <aside class="col-2-begin-container">
+        <figure class="image-with-caption">
+            <img class="intro" alt="" src="../../img/chapter01/placeholder-img-landscape.svg" />
+        </figure>
+        <p class="caption">Caption</p>
+    </aside>
+</article>
+    </article>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+            <param name="configFile" value="../../widget_data/config/62df0797599449b48fbb4d1e3ce4f55b.json" />
+            <param name="audio_description" value="" />
+            <param name="audio_script" value="" />
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- Animation -->
+<script type="application/inkling+patternsnippet" id="animation" data-label="Animation" data-category="Interactions" data-custom="true">
+<section class="animation">
+    <object type="text/html" data="../../assets/widgets/animation/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Drag and Drop Matching -->
+<script type="application/inkling+patternsnippet" id="drag_and_drop_matching1" data-label="Drag and Drop Matching" data-category="Interactions" data-custom="true">
+<section class="drag-and-drop">
+    <object type="text/html" data="../../assets/widgets/drag_and_drop_matching/index.html" class="widget" height="1020">
+    </object>
+</section>
+</script>
+
+<!-- Image Carousel with Intro -->
+<script type="application/inkling+patternsnippet" id="image_carousel_with_intro" data-label="Image Carousel with Intro" data-category="Patterns" data-custom="true">
+<section class="image-carousel-intro">
+    <article class="box">
+        <div class="header-element intro-container">
+            <h5>Heading</h5>
+            <p>Intro text</p>
+        </div>
+        <section class="image-carousel">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html">
+            </object>
+        </section>
+        <section class="skillbuilder">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget">
+            </object>
+        </section>
+    </article>
+    <section class="question-long-text">
+        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+        </object>
+    </section>
+</section>
+</script>
+
+<!-- Time Traveler -->
+<script type="application/inkling+patternsnippet" id="time_traveler" data-label="Time Traveler" data-category="Interactions" data-custom="true">
+<section class="ssna-time-traveller">
+    <object type="text/html" data="../../assets/widgets/time_traveler/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Graph Main -->
+<script type="application/inkling+patternsnippet" id="graph_pattern" data-label="Graph Main" data-category="Patterns" data-custom="true">
+<section class="graph-pattern">
+    <div class="header-element rule-only">
+        <a title="Click or tap on parts of the graphic to learn more." class="tooltip"></a>
+    </div>
+    <section class="graphs">
+    <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+    </object>
+</section>
+</section>
+</script>
+
+<!-- Graph Main with Head-Intro -->
+<script type="application/inkling+patternsnippet" id="graph_pattern_with_intro_1col" data-label="Graph Main with Head-Intro" data-category="Patterns" data-custom="true">
+<section class="graph-pattern">
+    <div class="header-element main">
+        <section class="white-box"></section>
+        <a title="Click or tap on parts of the graphic to learn more." class="tooltip withhead"></a>
+    </div>
+    <h5 class="column-head">Graph head here</h5>
+    <p class="intro">Intro text here</p>
+    <section class="main-container">
+        <section class="graphs">
+            <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+                <param name="selected_map" value="dummy_ms_ush_m03l01s02_afr_pop_vir" />
+            </object>
+        </section>
+    </section>
+</section>
+</script>
+
+<!-- Graph Feature Images -->
+<script type="application/inkling+patternsnippet" id="graph_feature" data-label="Graph Feature Images" data-category="Patterns" data-custom="true">
+<section class="graph-pattern columns">
+    <div class="header-element">
+        <section class="white-box"></section>
+        <a title="Click or tap on parts of the graphic to learn more." class="tooltip withhead"></a>
+    </div>
+    <h5 class="column-head feature">Graph head here</h5>
+    <p class="intro-feature">Intro text here</p>
+    <article class="column-container">
+        <section class="graphs">
+            <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+                <param name="selected_map" value="dummy_ms_ush_m03l01s02_afr_pop_vir" />
+            </object>
+        </section>
+        <aside class="col-2-begin-container">
+            <section class="graphs">
+                <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+                    <param name="selected_map" value="dummy_ms_ush_m03l01s02_afr_pop_vir" />
+                </object>
+            </section>
+        </aside>
+    </article>
+    <div class="divider-rule"></div>
+    <article class="column-container">
+        <section class="graphs">
+            <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+                <param name="selected_map" value="dummy_ms_ush_m03l01s02_afr_pop_vir" />
+            </object>
+        </section>
+        <aside class="col-2-begin-container">
+            <figure class="image-with-caption two-col">
+                <img alt="" src="../../img/placeholder/image-landscape.svg" />
+                <div class="figcaption">
+                    <h5>Image caption head.</h5>
+                    <p class="caption">Image caption text Image caption text Image caption text</p>
+                </div>
+            </figure>
+        </aside>
+    </article>
+</section>
+</script>
+
+<!-- Graph Feature Image3Col -->
+<script type="application/inkling+patternsnippet" id="graph_feature_images3_column" data-label="Graph Feature Image3Col" data-category="Patterns" data-custom="true">
+<section class="graph-pattern columns">
+    <div class="header-element">
+        <section class="white-box"></section>
+        <a title="Click or tap on parts of the graphic to learn more." class="tooltip withhead"></a>
+    </div>
+    <h5 class="column-head feature">Graph head here</h5>
+    <p class="intro-feature">Intro text here</p>
+
+    <article class="column-container-3">
+        <section class="graphs">
+            <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+                <param name="selected_map" value="dummy_ms_ush_m03l01s02_afr_pop_vir" />
+            </object>
+        </section>
+        <aside class="col-2-begin-container">
+            <section class="graphs">
+                <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+                    <param name="selected_map" value="dummy_ms_ush_m03l01s02_afr_pop_vir" />
+                </object>
+            </section>
+        </aside>
+
+<aside class="col-2-begin-container">
+    <section class="graphs">
+        <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+            <param name="selected_map" value="dummy_ms_ush_m03l01s02_afr_pop_vir" />
+        </object>
+    </section>
+</aside>
+    </article>
+    <div class="divider-rule"></div>
+    <article class="column-container-3">
+        <section class="graphs">
+            <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+                <param name="selected_map" value="dummy_ms_ush_m03l01s02_afr_pop_vir" />
+            </object>
+        </section>
+        <aside class="col-2-begin-container">
+            <figure class="image-with-caption two-col">
+                <img alt="" src="../../img/placeholder/image-landscape.svg" />
+                <div class="figcaption">
+                    <h5>Image caption head.</h5>
+                    <p class="caption">Image caption text Image caption text Image caption text</p>
+                </div>
+            </figure>
+        </aside>
+
+<aside class="col-2-begin-container">
+    <section class="graphs">
+        <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+            <param name="selected_map" value="dummy_ms_ush_m03l01s02_afr_pop_vir" />
+        </object>
+    </section>
+</aside>
+    </article>
+</section>
+</script>
+
+<!-- Graph Feature Text Image -->
+<script type="application/inkling+patternsnippet" id="graph_pattern_with_intro_2col" data-label="Graph Feature Text Image" data-category="Patterns" data-custom="true">
+<section class="graph-pattern columns">
+    <div class="header-element">
+        <section class="white-box"></section>
+        <a title="Click or tap on parts of the graphic to learn more." class="tooltip withhead"></a>
+    </div>
+    <h5 class="column-head feature">Graph head here</h5>
+    <article class="column-container">
+        <p>Intro text here</p>
+        <aside class="col-2-begin-container">
+        </aside>
+        <section class="graphs">
+            <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget">
+                <param name="selected_map" value="dummy_ms_ush_m03l01s02_afr_pop_vir" />
+            </object>
+        </section>
+    </article>
+</section>
+</script>
+
+<!-- Collapsible Table -->
+<script type="application/inkling+patternsnippet" id="collapsible_table" data-label="Collapsible Table" data-category="Patterns" data-custom="true">
+<section class="collapsible-table">
+    <object type="text/html" data="../../assets/widgets/collapsible_table/index.html" class="widget"></object>
+</section>
+</script>
+
+<!-- Table Pattern -->
+<script type="application/inkling+patternsnippet" id="table_pattern" data-label="Table Pattern" data-category="Patterns" data-custom="true">
+<section class="table-pattern">
+
+<section class="graph-pattern">
+    <div class="header-element rule-only">
+    </div>
+</section>
+
+<h6>Head</h6>
+<table class="tabular-list">
+    <thead>
+        <tr>
+            <th class="column white">Direct Democracy</th>
+            <th class="column">Republic</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="head">Table head</td>
+            <td>Table text
+            </td>
+        </tr>
+        <tr>
+            <td class="head">
+                Table head
+                <ul>
+                    <li>Every citizen votes on every issue. <b>Table text bold <i>italic</i></b><br />
+                    </li>
+                    <li>Ideas are debated at an assembly of all citizens. <i>Table text italic</i><br />
+                    </li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Citizens elect representatives to vote on issues.<br />
+                    </li>
+                    <li>Ideas are debated at an assembly of representatives.<br />
+                    </li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Table text
+            </td>
+            <td>Table text
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <ol>
+                    <li>Table text<br />
+                    </li>
+                </ol>
+            </td>
+            <td>
+                <ol>
+                    <li>Table text<br />
+                    </li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td class="source-text">Source Text</td>
+            <td class="source-text">Source Text
+            </td>
+        </tr>
+    </tbody>
+</table>
+</section>
+</script>
+
+<!-- Difficult decisions -->
+<script type="application/inkling+patternsnippet" id="difficult_decisions" data-label="Difficult decisions" data-category="Interactions" data-custom="true">
+<section class="ssna-difficult-decision">
+    <object type="text/html" data="../../assets/widgets/difficult_decisions/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- MMC -->
+<script type="application/inkling+patternsnippet" id="mmc" data-label="MMC" data-category="Interactions" data-custom="true">
+<section class="ssna-mmc">
+    <object type="text/html" data="../../assets/widgets/mmc/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Panoramic Image -->
+<script type="application/inkling+patternsnippet" id="ssna_image_hotspot_panorama" data-label="Panoramic Image" data-category="Interactions" data-custom="true">
+<section class="ssna-image-hotspot-panorama">
+    <object type="text/html" data="../../assets/widgets/panoramic_image/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Case Study -->
+<script type="application/inkling+patternsnippet" id="case_study" data-label="Case Study" data-category="Patterns" data-custom="true">
+<section class="case-study">
+    <section class="head-container">
+        <section class="table-container">
+            <div class="bg-left">
+                <article class="no-color">
+                    <h5 class="right">Case Study</h5>
+                </article>
+            </div>
+            <div class="bg-right">
+                <article class="no-color">
+                    <h5>Title</h5>
+                </article>
+            </div>
+        </section>
+    </section>
+    <h3>Heading</h3>
+    <p>Text</p>
+</section>
+</script>
+
+<!-- Close Read -->
+<script type="application/inkling+patternsnippet" id="close_read" data-label="Close Read" data-category="Patterns" data-custom="true">
+<section class="close-read">
+    <section class="head-container">
+        <section class="table-container">
+            <div class="bg-left cells">
+                <h5>Close Read<br />
+                    Screencast</h5>
+            </div>
+            <div class="bg-middle cells">
+                <h6>Title of Close Read</h6>
+            </div>
+            <div class="bg-right cells"></div>
+        </section>
+    </section>
+    <section class="close-read-check">
+        <section id="accordion-cr">
+
+    <div class="click">
+        <input type="checkbox" id="check-1-cr" />
+        <label for="check-1-cr"></label>
+            <article>
+               <section class="video">
+    <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget">
+    </object>
+</section>
+            </article>
+        </div>
+    </section>
+</section>
+</section>
+</script>
+
+<!-- CA Connections -->
+<script type="application/inkling+patternsnippet" id="ca_connections" data-label="CA Connections" data-category="Patterns" data-custom="true">
+<section class="ca-connections">
+<div class="header-conn-ca">
+    <div class="ca-icon"></div>
+</div>
+    <h2>California Connections</h2>
+    <h3>Module 0: Title</h3>
+    <p><i>Intro text</i></p>
+    <p class="question">Question text</p>
+    <p>Text</p>
+    <article class="inquire">
+        <div class="header-inquire">
+            <h5>INQUIRE</h5>
+        </div>
+        <p>Inquire text</p>
+    </article>
+    <article class="primary">
+        <div class="gradient">
+            <div class="header-primary">
+                <h5>PRIMARY SOURCES</h5>
+            </div>
+            <h6><i>Head</i></h6>
+            <p>Intro text</p>
+
+            <section class="pullquote_wrapper">
+                <p class="pullquote hang">“Blockquote”</p>
+                <div class="pullquote_attribution_wrapper">
+                <p class="pullquote_address">—address</p>
+                <p class="p_source">source</p>
+</div>
+            </section>
+           <section class="skillbuilder">
+    <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget">
+    </object>
+</section>
+        </div>
+        <section class="question-long-text">
+    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+    </object>
+</section>
+    </article>
+    <article class="focus">
+        <div class="header-focus">
+            <h5>FOCUS ON CALIFORNIA</h5>
+        </div>
+        <h6>Focus on CA Head</h6>
+        <p>Focus on CA text</p>
+    </article>
+    <article class="activity">
+        <div class="header-activity">
+            <h5>ACTIVITY</h5>
+        </div>
+        <h6> Activity Head</h6>
+        <p>Activity text</p>
+        <ol>
+            <li>Number list
+            </li>
+        </ol>
+        <ul>
+            <li>
+                Bullet list
+            </li>
+        </ul>
+    </article>
+    <p>Text</p>
+</section>
+</script>
+
+<!-- Site of Encounter -->
+<script type="application/inkling+patternsnippet" id="site_of_encounter" data-label="Site of Encounter" data-category="Patterns" data-custom="true">
+<section class="ca-connections">
+<div class="header-conn-ca">
+    <div class="ca-icon"></div>
+</div>
+    <h2>Site of Encounter</h2>
+    <h3>Head</h3>
+    <p>Text</p>
+    <h4>Head</h4>
+    <p>Text</p>
+</section>
+</script>
+
+<!-- Geographic Feature -->
+<script type="application/inkling+patternsnippet" id="geographic_feature" data-label="Geographic Feature" data-category="Patterns" data-custom="true">
+<section class="geography-feature nobg">
+    <article class="box gradient">
+        <div class="header-element">
+            <h2 class="label">Geography and Culture</h2>
+        </div>
+        <div class="jonra">
+            <h2>Feature Title</h2>
+            <p class="source">Intro text</p>
+        </div>
+        <section class="skillbuilder">
+    <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget">
+    </object>
+</section>
+    </article>
+    <section class="question-long-text">
+    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget">
+    </object>
+</section>
+</section>
+</script>
+
+<!-- Audio-Song -->
+<script type="application/inkling+patternsnippet" id="audiosong" data-label="Audio-Song" data-category="Interactions" data-custom="true">
+<section class="audio-song">
+        <object type="text/html" data="../../assets/widgets/audio_player/index.html" class="widget">
+            <param name="playerType" value="shortPlayer" /><param name="configFile" value="" />
+        </object>
+    </section>
+</script>
+
+<!-- NGSS Drag &amp; Drop -->
+<script type="application/inkling+patternsnippet" id="ngss_drag___drop" data-label="NGSS Drag &amp; Drop" data-category="WG Interactions" data-custom="true">
+<section class="drag-and-drop">
+    <object type="text/html" data="../../assets/widgets/ngss-widgets/ddd_background/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Where Am I Game -->
+<script type="application/inkling+patternsnippet" id="ssna_whereami" data-label="Where Am I Game" data-category="WG Interactions" data-custom="true">
+<section class="where-am-i">
+    <object type="text/html" data="../../assets/widgets/ssna_whereami/index.html" class="widget">
+    </object>
+</section>
+</script>
+
+<!-- Sortable Table -->
+<script type="application/inkling+patternsnippet" id="ssna_sortable_table" data-label="Sortable Table" data-category="WG Interactions" data-custom="true">
+<section class="sortable-table">
+    <object type="text/html" data="../../assets/widgets/sortable_table/index.html" class="widget">
+    </object>
+</section>
+</script>

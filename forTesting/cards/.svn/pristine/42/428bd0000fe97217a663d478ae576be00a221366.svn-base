@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="24290c05648649d3a5d4fc09ca888ab8">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="d1bd2a38392346439e6c0462dc926070">
+            <div class="header-element header-container " data-uuid="a6a1b41fb7e641cf9335ba38906a4207">
+                <p class="lesson-number" data-uuid="17408ef3c2ef434f94c5750e70a2cb77"><br />
+                </p>
+                <h2 data-uuid="8d7da9f87e7b4a9c89f00f36b531dcc3"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="de64c9916e084497a05a71ea0cc233ac">Part 2: Write a Presentation</h3>
+            <h6 data-uuid="4170a9592be745e18bdd7fd07c4909b4">Historical Context</h6>
+            <p data-uuid="abe23601ce8540a4bc73fff42608e00a">After the War of 1812, Americans were filled with
+                national pride and confidence in the future. U.S. officials asserted a stronger
+                foreign policy and a spirit of optimism swept the nation.</p>
+            <h6 data-uuid="bc2246ecb51142e6a48dac4361f308e6">Task</h6>
+            <p data-uuid="058b371696c94af394b563bf4d1c0daf">How did a rising tide of national pride change the
+                United States in the early 1800s? Write a presentation describing the
+                impact of nationalism on the United States in the early 1800s. Be sure to tell
+                how nationalism affected foreign policy, domestic policy, and American culture.</p>
+            <p data-uuid="643509f241d547918b79d0f0cfb783fc">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="8ddc1c3d196446eca292368c2a3bc1fa">
+                <li data-uuid="e148261d2f544bbab57dfa2e6ff22183">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="4c94ff15a35a48ce9979be2bf61445eb">
+                    Use at least <i>two</i>
+                    of the sources in Part 1, and develop the topic by citing relevant, well-chosen text
+                    or visual evidence&#160;from each document.</li>
+                <li data-uuid="89a33224d1864952b68b88c01892074f">Plan your presentation so that it includes an introduction,
+                    several body paragraphs, and a concluding paragraph that sums up your ideas and supports the your main points.&#160;</li>
+                <li data-uuid="c92f5ce584284cc394c48275a39cf574">Develop your topic with well-chosen facts, details, and examples.&#160;</li>
+                <li data-uuid="daaa655329454be5bedfcf3432cf805d">Present
+                    information logically and concisely so that an audience can easily identify your key points.&#160;</li>
+                <li data-uuid="d49b2814c44b48279e70cdf1c58119ce">&#160;Use technology, such as the Internet or a presentation program, to write and publish your presentation.&#160;&#160;</li>
+                <li data-uuid="0c4969dd6327446ca1dd39e79dba4b7e">Include images and other media to illustrate your major points and connect ideas.&#160;</li>
+                <li data-uuid="4ab84dee383a436fa1339dac3d746f09">Practice delivering your presentation, using appropriate eye contact and speaking loudly and clearly enough to be heard by an audience.<br />
+                </li>
+            </ol>
+            <p data-uuid="ab8acd21b1614aea8ec413fbca83a828"><br />
+            </p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6bde0edfc8f54c278bf7bc8d97badbac">
+            <button data-teacher-view-toggle="true" data-uuid="31410366e5a14790bc2ea26ca24cfbb6"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3394ec386af1487a87ed56e806e10d31">
+                <param name="configFile" value="../../widget_data/config/3394ec386af1487a87ed56e806e10d31.json" />
+            </object>
+        </section>
+        <p data-uuid="229a5b323e8247228756ea3e4603f56b"><br />
+        </p>
+    </body>
+</html>

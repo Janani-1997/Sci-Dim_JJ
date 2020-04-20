@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e26e55914a70461e82bacf746342a126">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Second Continental Congress</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="29e87a9c409d4af19419a688610d3654">
+            <article data-uuid="bf9d2b1f754c41709c7c4af9594e744b">
+                <h4 data-uuid="49eaced88dff4c969d037a8f0b7f499a">Main Idea</h4>
+                <p class="main-idea" data-uuid="b90426efa37b4cffbec1ba2995805527">The Second Continental Congress created the Continental army to fight the British.</p>
+                <h2 data-uuid="10979f6b681749e4b7be2a5a6ea64f67">Second Continental Congress</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="63e5324189684392a407d6331a58c7bf"></div>
+            </article>
+        </section>
+        <p data-uuid="f25810149ac44b4bac5963dc47f4f7a2">King George III had refused to address the concerns listed in the Declaration of Rights. In May 1775, delegates from 12 colonies met again in Philadelphia for the <b><dfn title="Second Continental Congress">Second Continental Congress</dfn></b>. This second group of delegates from the colonies was still far from unified, but represented the first attempt at a Republican government in the colonies.</p>
+        <p data-uuid="398806d0aa8d48639a6d6ca01e106a1c"> Some of the delegates called for a war, others for peace. Once again they compromised. Although the Congress did not openly revolt, delegates showed their growing dissatisfaction. They sent word to colonial authorities asking for new state constitutions. States set up conventions to write them. They also authorized the Massachusetts militia to become the <b><dfn title="Continental Army">Continental army</dfn></b>. This force would soon include soldiers from all colonies and would carry out the fight against Britain. Congress named a Virginian, <b><dfn title="Washington, George">George Washington</dfn></b>, to command the army.<br />
+        </p>
+        <section class="section-a  biography" data-uuid="1b4b6375a5a746d29a7112e0495aecdc">
+            <div class="header-element" data-uuid="119d6f63790741469e30d384d3bbd521">
+                Biography
+            </div>
+            <p class="name" data-uuid="afec561487944a26875befdf9163dcfb">George Washington</p>
+            <p class="date" data-uuid="17389bc68ddb44fab5fa74fb355db9da">(1732–1799)</p>
+            <figure class="bio-image" data-uuid="31f900c0ff28425eb6013571d7735f76">
+                <img alt="This is an artist's rendering of George Washington." src="../../img/module_4_lesson02/ms_snlese454149_801a.png" data-uuid="aad4a1a904b146c99fd0923128763eab" />
+            </figure>
+            <p data-uuid="73492f0edb124b8986089fde8abb27af">George Washington was a true American, born in the Virginia colony. Although he was a wealthy farmer, he spent most of his life in the military and in politics. In 1775 he served in the Second Continental Congress and was selected to be the commander of the Continental army. Leading the colonial forces to victory in the Revolutionary War, he then helped shape the new government of the United States.</p>
+            <p data-uuid="f06f566b186144d3a6651827b9e6a29c">On April 30, 1789, Washington was sworn in as the first president of the United States. As president, he lived in New York City and Philadelphia, the nation’s first two capitals. Washington served two terms as president.</p>
+            <p data-uuid="2da1dd73043b4730b65d4d874c779f36"> Washington inspired Americans and helped to unite them. One of his greatest accomplishments as president was to keep the peace with Britain and France. Upon leaving the presidency in 1796, he urged Americans to avoid becoming politically divided. When he retired, he returned to his plantation home at Mount Vernon, in Virginia.</p>
+            <div class="blue-star-blue-bar" data-uuid="f7812b1c6a3f413cbde9591c19067e82">
+                <span class="star"></span>
+            </div>
+        </section>
+        <p data-uuid="6c0efd88539c4aae9ee492d1189845c6">As Washington prepared for war, the Congress pursued peace. On July 5 the delegates signed the Olive Branch Petition as a final attempt to restore harmony. King George refused to read it. Instead, he looked for new ways to punish the colonies.<br />
+        </p>
+        <section class="reading-check" data-uuid="9cbb0d7518f5415a83b739176373a4db">
+            <section class="question-long-text" data-uuid="541b6095a1344c9b84edbd1c70557109">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2f2723b379324d3891aa40c4a01928db">
+                    <param name="configFile" value="../../widget_data/config/2f2723b379324d3891aa40c4a01928db.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="274974e23f2841fa9cda652d725ba405">
+            <div class="go-prompt-bottom-bar" data-uuid="064aa42e0e2d470196ff2f42d3056e6c">
+                <p data-uuid="6c35c6d213f94935808e7b6765863063">Remember to complete the graphic organizer with information on the key events of the early days of the Revolution.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="a09bd8e61a27418d9a7c73e5a63dbbb0">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="0e16ec5d4e1e4714b72ef41ca1ab1b1d">
+                <param name="configFile" value="../../widget_data/config/0734c1af54c14002971aee69e196ff84.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="4253819b2ca3415f875c2ef0094823f5"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0b3680b909b9424a9104c09ef496b40c">
+            <button data-teacher-view-toggle="true" data-uuid="a18a8cb0875246359eb5721117c0cfac"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cb90a330d61f47e79c73f94c4705ee33">
+                <param value="../../widget_data/config/cb90a330d61f47e79c73f94c4705ee33.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

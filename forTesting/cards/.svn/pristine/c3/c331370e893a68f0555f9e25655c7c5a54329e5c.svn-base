@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2c07db45278f46bc9eef6aa4a445b66d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="29d853ebb8b84ad19d90b0d39f7609c1">
+            <p class="lesson-number" data-uuid="28b750c084f94adca1d4ad0ea7391f85">Lesson 1</p>
+            <article class="header-container" data-uuid="9fed69314ec04b6ea81474dd0ed9ced8">
+                <div class="header-element" data-uuid="295afc49e34b43fcb72f2e48019a7083">
+                    <h1 data-uuid="e718c8cfb6f243a2b1db755cc5ba9e9d">The Industrial Revolution in America</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="0753e9b1f39841cd8134e792dbda4fae"></div>
+                    <h2 data-uuid="b6732e4b482b40e48d8f6701c7faa417">The Big Idea</h2>
+                    <p data-uuid="c85deedbecbf4ee08e36573d41fb8021">The Industrial Revolution transformed the way
+                        goods were produced in the United States.</p>
+                </div>
+            </article>
+            <section class="lesson-opener " data-uuid="c5b64b864bb847f8b77d24550a4da1cb">
+                <article data-uuid="226926352b8149fcb703a19d4a352151">
+                    <h3 class="if-you-were-there" data-uuid="031ddd6596a84217bcc37337050e8edd">If YOU were there...</h3>
+                    <p data-uuid="0ef567c16903456d876b6acd95357717">You live in a small Pennsylvania town in the 1780s. You earn money for your family by raising sheep and spinning their wool into yarn. Your sisters knit the yarn into gloves and mittens that you sell to city merchants. But now you hear that someone has invented machines that can spin thread and make cloth.</p>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="583cac5ac60f423d8a48af46d6167247">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="10515c81e4b94299a0fed7ac2e2d88fe">
+                    <param name="configFile" value="../../widget_data/config/10515c81e4b94299a0fed7ac2e2d88fe.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="54d6f4d4ea2640f3a53e5ef6267e3440">
+            <button data-teacher-view-toggle="true" data-uuid="aed5006c11524386be8a53e6e7294ad8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="83c66698fe77462eb14b7cb9b01bcf6f">
+                <param name="configFile" value="../../widget_data/config/83c66698fe77462eb14b7cb9b01bcf6f.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="de6142356c1c40e6a52a58bb2f8fcd3e" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="de4ed06f60f3482ab343c8c268782cc7">
+            <div class="header-element header-container" data-uuid="5637956a50144e449dfeede2fcae20e9">
+                <p class="lesson-number" data-uuid="fbaf2075d0d24138b5760fae678f3f76"><br />
+                </p>
+                <h2 data-uuid="ad846604a5ca45b5a0ec1e24ac04062b"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="cb13f421b48747209e6ca7970bd5512d">Part 2: Write an
+                Argument</h3>
+            <h6 data-uuid="d60382f4ae2c4fd49af9e441c515a5ee">Historical Context</h6>
+            <p data-uuid="e59c20ce1ac94af5b6a044f925495699">The
+                earliest beginnings of the nation resulted from the contributions of many
+                cultures—Native American, African, and European. When the English colonists
+                declared independence, they established a new government rooted in democratic
+                ideals. In time, the nation grew, expanded westward, and regional ways of life
+                developed. Still, the nation failed to resolve the issue of slavery.
+                Ultimately, this failure would lead to civil war.</p>
+            <h6 data-uuid="f676c4bdaac840f3863d28dbaf9cd4bb">Task</h6>
+            <p data-uuid="96dfbfcc93094ea3994004b887b77489">In
+                the years leading up to the Civil War, Americans were both united and divided
+                by conflict. How can conflict both unite and divide a nation? Write an
+                analytical essay in response to this question.</p>
+            <p data-uuid="04194a40844f41fcbc0e91cd331c151d">Complete the
+                following steps as you plan and compose your essay.</p>
+            <ol data-uuid="5f9fbd7332cf4638b78776d4b56e9913">
+                <li data-uuid="092f3953a6c44c03ae2e333d0f01ab84">
+                    Review your notes and
+                    sources before you start writing.&#160;</li>
+                <li data-uuid="d72a516a21514b91b2facf44e16011b3">
+                    Use at least <i>three</i> of the sources in Part 1, and
+                    develop the topic with relevant, well-chosen text or visual evidence from the
+                    documents.</li>
+                <li data-uuid="a6212b0f83324b02a275627bc1d774ac">
+                    Cite specific text or
+                    visual evidence from each of the sources in your response.</li>
+                <li data-uuid="9d7f53152127475590c0744113eef67e">
+                    Plan your essay so
+                    that it includes an introduction, several body paragraphs, and a concluding
+                    paragraph.</li>
+                <li data-uuid="038118b24e8b4b4ea62fadd9421b63b1">Use clear and relevant
+                    details to support your analysis.</li>
+                <li data-uuid="9b7ed62128e14a288846fdee554cb70e">Write a conclusion
+                    that sums up your ideas and supports the information you present.&#160;</li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a30f00b33b8249adbb536b9108a291b6">
+            <button data-teacher-view-toggle="true" data-uuid="cd5de03adf484bf5a9c1fa64d6028539"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="9987d088be3c4aafadfccbe2bcdbaa3a">
+                <param name="configFile" value="../../widget_data/config/9987d088be3c4aafadfccbe2bcdbaa3a.json" />
+            </object>
+        </section>
+        <p data-uuid="834eba614b684e3caeef65597bdc277a"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6e476fbe39d5486b8c1b317820334fd4">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="1eb2ddaca6ae463ab1715a1e477465ce">
+            <div class="header-element header-container " data-uuid="db5b703983154ba3b08bcc0ccf51b86f">
+                <p class="lesson-number" data-uuid="255b85927eef458885db5a08641eaa77">Lesson 1</p>
+                <h2 data-uuid="d1397e8efd264c128279ca836fc57a66">Assessment</h2>
+            </div>
+            <h5 data-uuid="03f893c397c24acc825839fde886cdde">Challenges for a New Millennium</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="2a1f55ba6209454bb0c511341499a591">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="48814ada852845dd82ca48e6380cf4ae">
+                <param name="configFile" value="../../widget_data/config/48814ada852845dd82ca48e6380cf4ae.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7a044e48d6944cb08a2d970f417ec7bb">
+            <button data-teacher-view-toggle="true" data-uuid="4d5746a7a4c14b3a9869135e115d875d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="77004356ceb54bfdb30e6aede7521a99">
+                <param name="configFile" value="../../widget_data/config/77004356ceb54bfdb30e6aede7521a99.json" />
+            </object>
+        </section>
+        <p data-uuid="d4a816bab757402e83e4ac964a7cfd52"><br />
+        </p>
+    </body>
+</html>

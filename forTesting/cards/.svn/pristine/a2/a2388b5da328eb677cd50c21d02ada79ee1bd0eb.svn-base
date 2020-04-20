@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="5bcfc43286714b52ae69837740fb9be9">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="98573717e6e241568eb31c12e7c9ac23">
+            <p class="lesson-number" data-uuid="33e23a63e9d0417295869af6d0d5422b">Lesson 2</p>
+            <article class="header-container" data-uuid="d933e3a162364a7cacd702cd4a29aded">
+                <div class="header-element" data-uuid="65a853b08e844148b50bee77cb104f5d">
+                    <h1 data-uuid="119f9fd7ce0e40e482e1fb7424711eaa">The New Nation Faces Challenges</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="6f3aef3eedd54d1ea6c0b229fbb0be76"></div>
+                    <h2 data-uuid="922d8ef859d6411a8f1c113c3ede414f">The Big Idea</h2>
+                    <p data-uuid="b0c961729d494d5fa4e3a98d1bc1e090">Problems faced by the young nation made it clear
+                        that a new constitution was needed.</p>
+                </div>
+            </article>
+            <article data-uuid="b90b39eeb81849a8b725b51c93a0960b">
+                <h3 class="if-you-were-there" data-uuid="e168941e123d43a5888259a58ff76dbb">If YOU were there...</h3>
+                <p data-uuid="e30f736bd09f48a695d34260c8472a28">You own an orchard in Maryland in the 1780s.
+                    When you sell apples and apple pies in the market, people pay you with paper
+                    money. But now the tax collector says you must pay your taxes in gold or silver
+                    coins, not paper money. You and the other farmers are furious. Is this the
+                    liberty you fought a war for?</p>
+            </article>
+            <section class="question-long-text" data-uuid="a5138489e94d4d1f8d740a4f005464a0">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="5a32f68c8fe04c58a5a7f4d8b853c70f">
+                    <param name="configFile" value="../../widget_data/config/5a32f68c8fe04c58a5a7f4d8b853c70f.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="56d02ec8ab734da1803a925b2e102ea8">
+            <button data-teacher-view-toggle="true" data-uuid="868c8b0e7f8f4701896169ae33e33943"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4c465c26871e4ee586d9be3e06c2bb36">
+                <param name="configFile" value="../../widget_data/config/4c465c26871e4ee586d9be3e06c2bb36.json" />
+            </object>
+        </section>
+        <p data-uuid="33b6dddcea0e42d4ab331dc7b03a91ec"><br />
+        </p>
+    </body>
+</html>

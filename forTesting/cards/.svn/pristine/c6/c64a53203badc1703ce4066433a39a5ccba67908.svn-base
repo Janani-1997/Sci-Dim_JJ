@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="f622be1edcef4cc587a50d854329b22a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="a4e4ceb12e654efc94b196e12cdca4bb">
+            <p class="lesson-number" data-uuid="3f2591be846749c6b308298b6179d4c3">Lesson 2</p>
+            <article class="header-container" data-uuid="37e5c8ca82ec404aacad96ed0bfa0f38">
+                <div class="header-element" data-uuid="3c17a05ca02646e1a4970a5482f4019a">
+                    <h1 data-uuid="0c487760d357483e8dec4f9fb059e165">The Fight over Reconstruction</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="835e845bd7a340f49758f186fd2f6b4d"></div>
+                    <h2 data-uuid="6460c560e6ef431db018a8dd8c723512">The Big Idea</h2>
+                    <p data-uuid="db8503c9f6d1478db47e9f70152195d5">The return to power of the pre-war southern
+                        leadership led Republicans in Congress to take control of Reconstruction.</p>
+                </div>
+            </article>
+            <article data-uuid="fdb1d0627aba45a5bb0f3cc0841baf3a">
+                <h3 class="if-you-were-there" data-uuid="9426f01034524a768749a9de1bc4aa03">If YOU were there...</h3>
+                <p data-uuid="261007692c064f74ad512ed3191a5f6a">A member of Congress, you belong to the same
+                    political party as the president. But you strongly disagree with his ideas
+                    about Reconstruction and civil rights for African Americans. Now some of the
+                    president’s opponents are trying to remove him from office. You do not think he
+                    is a good president. On the other hand, you think removing him would be bad for
+                    the unity of the country.</p>
+            </article>
+            <section class="reading-check" data-uuid="1e105443360d457185e610ce662d68ae">
+                <section class="question-long-text" data-uuid="f2ea4d6c73d84362b9f3e89fe6799653">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="bc82a850dade4b5da3ee1f7c6157a9cd">
+                        <param name="configFile" value="../../widget_data/config/bc82a850dade4b5da3ee1f7c6157a9cd.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="890c596e771a4125b024f3fed4679bc4">
+            <button data-teacher-view-toggle="true" data-uuid="56719102550340739485b662f38f7f9e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="19d0550581b14f6ba35a309d9039f769">
+                <param name="configFile" value="../../widget_data/config/19d0550581b14f6ba35a309d9039f769.json" />
+            </object>
+        </section>
+    </body>
+</html>

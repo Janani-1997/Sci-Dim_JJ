@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="893a3f076f1e4305a584cc95c6734751">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="67cfc52b18f94257af4ac81257e88275">
+            <div class="header-element header-container " data-uuid="6b734a464f6240df963ed840ba795cd8">
+                <p class="lesson-number" data-uuid="7414c2d41e29488d91f1f13904f376bc"> Lesson 3</p>
+                <h2 data-uuid="6f46f449f7824f98a6a8e52989594a86">Review</h2>
+                <p class="white" data-uuid="f490d94df342425683cde7a6721ed3dd">In this lesson, you learned about changes in American foreign policy toward Latin American. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="416b1547bb5a42158cfee85392616cb0">Review Key Terms and People</h3>
+            <p data-uuid="14e4462ac97245f594235659e7fd3820">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="d58102fc7edf4247b22cc77655d071a6">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="717661ebeaae4636b2ad6cf05b59c619">
+                <param name="configFile" value="../../widget_data/config/717661ebeaae4636b2ad6cf05b59c619.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="dbe98fef6c104a2795e75121a21725cb">
+            <div class="go-prompt-bottom-bar" data-uuid="e73987e6fa9e4b798942c2ef1c3f1bb7">
+                <h5 data-uuid="62872116d4aa49e99744aaebc2b6f916">Review the Graphic Organizer</h5>
+                <p data-uuid="4cc88f41ddaf4df086bf312f68268be9">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="6e0482fc305c4bc5b1f0e46167aec320">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="47ecb1405317499fb14945833bd830b5">
+                <param name="configFile" value="../../widget_data/config/47ecb1405317499fb14945833bd830b5.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer full bleed" data-go="v0.1.0" data-csm-hide="true" data-uuid="a0a1e9090bdc475aa2e6ab1ef9e05db2">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="d1e03c2c23c34f07b613b95977c498fa">
+                <param name="configFile" value="../../widget_data/config/fb36835635864cc29a543a682f975b57.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="01ec55fa0f8e4858b56b62226081fc7e"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8641164fdafd45f38eef0e70ca8a8c4d">
+            <button data-teacher-view-toggle="true" data-uuid="269fbe17a63e47178f83232aeed0682d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="9330e9e9fef149798be30cf8b1b38535">
+                <param value="../../widget_data/config/9330e9e9fef149798be30cf8b1b38535.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

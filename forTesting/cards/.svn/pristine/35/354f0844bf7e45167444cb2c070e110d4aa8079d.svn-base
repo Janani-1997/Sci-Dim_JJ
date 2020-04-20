@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2ae12b190ea949f0ba1c13e80aacdab3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="fbb5b75151204da38a12e427efa4d042">
+            <div class="header-element header-container " data-uuid="f112b04ef54b4d6fa03ce7ec167e90f5">
+                <p class="lesson-number" data-uuid="7a34dcc7789e4fb88be05fafc228c699"><br />
+                </p>
+                <h2 data-uuid="032351d8e9a84110ac255092709e2e53"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="939f3b7ac20e4ccfaf79f429e1598343">Part 2: Write an Explanatory Essay</h3>
+            <h6 data-uuid="4b64573cfd344a26a5913ba52f8d8570">Historical Context</h6>
+            <p data-uuid="88ad60f7022949afab20026a5ecc846f">Across time, people in all world regions, have created
+                maps to make sense of their place in the world and their relationships to other people and places. Such
+                maps often depict features of the landscape, bodies of water, or the skies
+                above. They also reveal the cultural beliefs and knowledge of the mapmakers
+                who created them.</p>
+            <h6 data-uuid="8122f7a224c84e5eaec94d08b0bb8293">Task</h6>
+            <p data-uuid="422818431caa47e5ac9a2d02ef94d411">What can we learn about people from the maps they
+                create? Write an explanatory essay about the maps in this module and how they
+                reflect cultural and geographic knowledge. In your own words, describe the
+                content and purpose of each map. Be sure to tell what you think it reveals
+                about beliefs and knowledge held by the mapmaker.</p>
+            <p data-uuid="62de4e4d1187487ab31274827db75b71">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="6b584210247645f4aa17b5b9f0c565f6">
+                <li data-uuid="4aaeb446450c48a787a7e817e2c4fe0d">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="a01bce60351740b7b86bd065a92287f1">
+                    Use at least <i>three</i> of the sources in Part 1, and develop the topic
+                    with relevant, well-chosen text evidence from the documents.
+                </li>
+                <li data-uuid="d58a02b319f14fbfa4b75863f0f75284">
+                    Cite specific text evidence from each of the sources in your
+                    response.
+                </li>
+                <li data-uuid="19d7ed4445fd49a29bf9a4ec4939657f">Plan your essay so that it includes an introduction, several body
+                    paragraphs, and a concluding paragraph.<br />
+                </li>
+                <li data-uuid="9f9776230b724afe8b70085fd4aea64f">Organize your essay in a clear way that focuses on the topic and supports it with explanations and facts.<br />
+                </li>
+                <li data-uuid="929946b2cf774087bc88e39891218065">Write a conclusion that sums up your ideas and supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="28c51a514071480c872d22b335854f10">
+            <button data-teacher-view-toggle="true" data-uuid="974aed39868b4ebd8afb69c211725e43"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="56eed5fab6824335b1c7a4341981b0a8">
+                <param name="configFile" value="../../widget_data/config/56eed5fab6824335b1c7a4341981b0a8.json" />
+            </object>
+        </section>
+    </body>
+</html>

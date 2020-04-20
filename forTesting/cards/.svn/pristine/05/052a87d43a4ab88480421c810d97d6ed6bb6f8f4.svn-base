@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d117a5162769445597f6ebec00dfe837">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section data-uuid="70d3c95a429241cd88234600ae13aa62" class="lesson-opener ">
+            <p data-uuid="d68ddb1eed884ffeaf755b0eb32a6c06" class="em">Lesson 1</p>
+            <article data-uuid="65e2ab67ec124762a0e9865d95790c52" class="header-container">
+                <div class="header-element" data-uuid="8b734d4d360046c59342fd4293197f58">
+                    <h1 data-uuid="8cf29f374acf41e38d85d73884e8efee">American Foreign Policy</h1>
+                    <div data-uuid="a1b18ce7dbe741fd904a3500fe2f3e47" class="yellow-star-yellow-bar"></div>
+                    <h2 data-uuid="2714da465f794537bf4c04087b85ce8d">The Big Idea</h2>
+                    <p data-uuid="ecc8f3abb381436191dd0e32bd2f7153">Nationalism helped guide American foreign policy in the early 1800s.</p>
+                </div>
+            </article>
+            <article data-uuid="569d70d3a5b04109add624e4404b68ae">
+                <h3 data-uuid="cee2b1e2c9b246ff80263bc658063566" class="if-you-were-there">If YOU were there...</h3>
+                <p data-uuid="8dd5ee41ec264ff0878d0a60c74f646d">You
+                    are a fur trader living in the Pacific Northwest in 1817. You have been
+                    extremely successful in your trade for many years. Now you hear that Great
+                    Britain and the United States have signed a treaty agreeing to occupy the
+                    Pacific Northwest together, opening the region to more settlers. Recently, you
+                    have discovered that several new fur traders are trapping on the lands you
+                    consider your hunting area.&#160;</p>
+            </article>
+        </section>
+        <section class="question-long-text" data-uuid="ecd29bb04d2942639886033f134eca8c">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="3a2c0530ced4479981341f5bd8a8351a">
+                <param name="configFile" value="../../widget_data/config/3a2c0530ced4479981341f5bd8a8351a.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f0db843e034f429ea865a42ae1b1aa5d">
+            <button data-teacher-view-toggle="true" data-uuid="c038c769775143a0aa2113df77d2424b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b4dbccd493a84decbea1def58a4b460d">
+                <param name="configFile" value="../../widget_data/config/b4dbccd493a84decbea1def58a4b460d.json" />
+            </object>
+        </section>
+        <p data-uuid="2e05da46dc3b4a89b04c42eecb5c25f9"><br />
+        </p>
+    </body>
+</html>

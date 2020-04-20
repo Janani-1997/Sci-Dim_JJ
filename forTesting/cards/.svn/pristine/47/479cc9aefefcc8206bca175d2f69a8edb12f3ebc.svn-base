@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="4c63f7dac9fc4e559a1e8818bf950e5d" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 5 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="5ce4f82924924d15b1990513d1960994">
+            <div class="header-element header-container " data-uuid="7b9318330d8444549d3ab6706cf06bd1">
+                <p class="lesson-number" data-uuid="fb361e7dcfa946a1a5acbdfd64ef0542">Lesson 5</p>
+                <h2 data-uuid="5eb5ef195b4d438f99770729a1f20d48">Assessment</h2>
+            </div>
+            <h5 data-uuid="779f0eab18514f989fdcdaa35cc82a04">Jefferson Becomes President</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="3fd28626b6c54d5c90458968aa88fbae">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="c46fbb99bf374423a19713cc3d7c4843">
+                <param name="configFile" value="../../widget_data/config/c46fbb99bf374423a19713cc3d7c4843.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="55762ce067d84751bad7d7630307a888">
+            <button data-teacher-view-toggle="true" data-uuid="f679a4b9ae224ca4a3d69bdb7686e439"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e983bb48795e4f49bcb4c732e2099c83">
+                <param name="configFile" value="../../widget_data/config/e983bb48795e4f49bcb4c732e2099c83.json" />
+            </object>
+        </section>
+    </body>
+</html>

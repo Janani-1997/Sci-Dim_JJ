@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="1b5c00bd5efa4930be0971065c45dc75">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Ponce de Le&#243;n</title>
+    </head>
+    <body>
+        <section class="ssna-mmc" data-uuid="1a05a034d8184ece81e7041395c89b46">
+            <object type="text/html" data="../../assets/widgets/mmc/index.html" class="widget" data-uuid="1bb6e19da4f4437ea6bfdd92a8c7af43">
+                <param name="configFile" value="../../widget_data/config/1bb6e19da4f4437ea6bfdd92a8c7af43.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="fb9c738699744365984cecd07e9bfb55">
+            <button data-teacher-view-toggle="true" data-uuid="d4f61b1395ed4442b57979250c5f05ca"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="9288cf97f60e426f932c76c2d93df5af">
+                <param name="configFile" value="../../widget_data/config/9288cf97f60e426f932c76c2d93df5af.json" />
+            </object>
+        </section>
+        <p data-uuid="f4b3e3cfb08e4dff9d69ba1e7947ecd5"><br />
+        </p>
+    </body>
+</html>

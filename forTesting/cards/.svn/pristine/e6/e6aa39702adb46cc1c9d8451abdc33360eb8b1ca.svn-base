@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d0e3e5cbe7ce4f28af5dfa1a3b56daca">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="a6741820edec47798637ef293bef1aaa">
+            <p class="lesson-number" data-uuid="e68726be2451483780388d72d2e4e5ea">Lesson 3</p>
+            <article class="header-container" data-uuid="cde47f77ba9a4746b8bb44c03423d3e1">
+                <div class="header-element" data-uuid="7610c69cf5774cc2a599dae3fc7e9577">
+                    <h1 data-uuid="573e760b90864e968d84dcba5b350306">Americans
+                        in World War I</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="1ada825711a04a05963dba4842f4cd66"></div>
+                    <h2 data-uuid="acc7214d36634ba5bb09b97fc3ffd0fd">The Big Idea</h2>
+                    <p data-uuid="67c493bf21654609a8e0b741245b1d53">American troops helped the Allies achieve victory
+                        in World War I.</p>
+                </div>
+            </article>
+            <article data-uuid="125aa354518f4501a528e48579e58214">
+                <h3 class="if-you-were-there" data-uuid="33e907c51bd04ac7987432cea460e5d5">If YOU were there...</h3>
+                <p data-uuid="cd3cdf98f31e4186bc9f5eb727d281b5">It is April 1918. You are marching into Paris with your
+                    army unit on your way to the front lines. Women and children throw flowers from
+                    windows and balconies as you pass through the city. You want to do whatever it
+                    takes to defend this city and its residents. You know that defeating Germany
+                    will be difficult and very dangerous.</p>
+            </article>
+            <section class="reading-check" data-uuid="b980c191ef0d412f8a1e4c67057165c5">
+                <section class="question-long-text" data-uuid="32a0ba4b3143440eaecc25f539740d05">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ef47778b1ab24176ae1f6d0c9b4aee28">
+                        <param name="configFile" value="../../widget_data/config/ef47778b1ab24176ae1f6d0c9b4aee28.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9d9cfd0cf5e34285aab3beebda5a86f3">
+            <button data-teacher-view-toggle="true" data-uuid="9b7e99205588446e81f0f7fecff627dd"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0ce4b2d53ff14367be7d4dad837d4f7a">
+                <param name="configFile" value="../../widget_data/config/0ce4b2d53ff14367be7d4dad837d4f7a.json" />
+            </object>
+        </section>
+    </body>
+</html>

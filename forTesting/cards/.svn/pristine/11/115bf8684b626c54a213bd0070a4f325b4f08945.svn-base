@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="88a748831d11464ebf5c02e7574e1d79">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="a007481411264aaeab9b4916a5857893">
+            <p class="lesson-number" data-uuid="adbba4ddd62f4b5d8f2168ae4df5d7b8">Lesson 4</p>
+            <article class="header-container" data-uuid="ce9c130eacdf4ca79e25b7d0b78e7c18">
+                <div class="header-element" data-uuid="cb077771eee04b30b40349ca665ca0fa">
+                    <h1 data-uuid="71b44f5cb5314ae2937b6bfb378abb68">Abolition</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="88c6d31a6e5f41eaa72c98f6d9835e29"></div>
+                    <h2 data-uuid="4e7e9e9f5ca4488b867fbb57cbb7bb73">The Big Idea</h2>
+                    <p data-uuid="8c0cab4e774e45949788765bb73336c8">The movement to end slavery was the most
+                        prominent and divisive effort of reform in the United States in the mid-1800s.</p>
+                </div>
+            </article>
+            <article data-uuid="93aaf0305f114c6999adc4a93b68bc23">
+                <h3 class="if-you-were-there" data-uuid="6a6ad3793f2240f588ea8d9db68d1927">If YOU were there...</h3>
+                <p data-uuid="8abae60f5c8d467285a6c832589415c5">You live in South
+                    Carolina in the 1850s. You are invited by a friend to hear Angelina and Sarah
+                    Grimk&#233;, two southerners fighting to abolish slavery, speak at your friend’s
+                    house. Your father is a slaveholder, and you know he disapproves of abolition
+                    and the Grimk&#233; sisters. You are interested in hearing what they have to say.
+                    But you know this might get you in trouble with your father and other family
+                    members.</p>
+            </article>
+            <section class="question-long-text" data-uuid="bb81769af94042aaa3a333ab9eacae67">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="1a430add7b2248e99a1cfd319d51b3e2">
+                    <param name="configFile" value="../../widget_data/config/1a430add7b2248e99a1cfd319d51b3e2.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="1d1c74a8209e4ee397ef9eb7f8d0fe17">
+            <button data-teacher-view-toggle="true" data-uuid="29afd46d642c4a2b91b6b7a94985fe57"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f967533e53d64c7a990c19da945437bc">
+                <param name="configFile" value="../../widget_data/config/f967533e53d64c7a990c19da945437bc.json" />
+            </object>
+        </section>
+    </body>
+</html>

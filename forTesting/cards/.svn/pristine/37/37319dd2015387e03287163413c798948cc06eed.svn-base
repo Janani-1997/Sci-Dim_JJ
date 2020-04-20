@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="90eb903f9fca4d2899329ae523f12e57">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="1e8e9977a18e4958accb1ac006a2823e">
+            <div class="header-element header-container " data-uuid="19c6261cb89b4175904f330be15ee690">
+                <p class="lesson-number" data-uuid="7c426a85f6a046a5a8ce276c76e1e6db"> Lesson 1</p>
+                <h2 data-uuid="a4b921372fd14349b4721d17512fcbd8">Review</h2>
+                <p class="white" data-uuid="e96f137d4d294b839fd41e075d3b60cb">In this lesson you learned about the Nixon presidency and his domestic and foreign policies along with the Watergate scandal which ended his presidency. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="1712646477a747bda622cecb4a9902d3">Review Key Terms and People</h3>
+            <p data-uuid="e2f3602ed80f44f2891df901439468f6">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="78bbc533159441d29e5563b940c9e92c">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="b23c7eb0c2a34cbb90b42282a8b4e66b">
+                <param name="configFile" value="../../widget_data/config/b23c7eb0c2a34cbb90b42282a8b4e66b.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev " data-uuid="9643a056c96a4d64a7116df815e210b8">
+            <div class="go-prompt-bottom-bar" data-uuid="d3ec20433fc34687af826259dc1eedad">
+                <h5 data-uuid="51a991793bb2468589f9954345e23f11">Review the Graphic Organizer</h5>
+                <p data-uuid="a8ceba7d5d60488195911ba762721ee1">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="2e3d656fa43541a1afba889a49b73584">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="d8d6eb3cf89e411e857206d6e6d4b13f">
+                <param name="configFile" value="../../widget_data/config/d8d6eb3cf89e411e857206d6e6d4b13f.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="2ae00eb1cf234a7bbe063760e4fdd21f">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="115d917a39634039a82591b8e08f22f7">
+                <param name="configFile" value="../../widget_data/config/10f7cbcb07a1400d9ce5e287e0711cf8.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="4d876f3998654c7a92ebb9688b7c80fb"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4ef9fcd1183741ea92cfab5b261bfd32">
+            <button data-teacher-view-toggle="true" data-uuid="d7ce652510ab4cf398104d92f456ef99"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="67593c3ea4f643208fe821b36faeccda">
+                <param name="configFile" value="../../widget_data/config/67593c3ea4f643208fe821b36faeccda.json" />
+            </object>
+        </section>
+        <p data-uuid="7c52286dd17840679ca33869ad4d6376"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="446ff5af374e4823986a0b0a742dde17">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Armistice</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="3265137ad4df4a60b6fd6d6b562551c0">
+            <article data-uuid="08ad508865cd4374b62f3614f36c8499">
+                <h4 data-uuid="960f87f4f29b4b2bba674f258ae0a38c">Main Idea</h4>
+                <p class="main-idea" data-uuid="21282ce616d64cf88787b7ed7b39c173">Germany agreed to an armistice after suffering heavy losses.</p>
+                <h2 data-uuid="64b1760f5ffa400a8fa46bd87605f0ac">Armistice</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="e828ed39f8ad44f382faf28be4341383"></div>
+            </article>
+        </section>
+        <p data-uuid="94a39454d2a64b8ba503a547cec8bfc2">At home and on the battlefield, Germans were tired of war. Food was so scarce in Germany that more than 800 German civilians were dying of starvation every day. In Germany and other nations of the Central powers, food riots and strikes occurred. Germany was also running out of soldiers. In addition to those killed or wounded in 1918, one-quarter of Germany’s fighting men had been captured by the Allies.</p>
+        <p data-uuid="cbab901ebfc746c5854bfdc6ce8dff47"> Germany’s allies were also eager to end the war. Bulgaria and the Ottoman Empire quit the war in the fall of 1918. Austria-Hungary reached a peace agreement with the Allies on November 3. Seeing that his country was beaten, the German leader, Kaiser Wilhelm II, gave up his throne and fled to the Netherlands.<br />
+        </p>
+        <p data-uuid="3b750b4683e34008a3ff9fac6e21cf02">The Germans then agreed to a cease-fire. The Allies demanded that Germany pull back from all its conquered territory. They insisted that Germany destroy its aircraft, tanks, and big guns and surrender its U-boats.
+        </p>
+        <section class="video" data-uuid="526feb05823e41e497e2ebb34e38b081">
+            <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="5a1e067a148b4115addc9c1cfdaa1ae8">
+                <param name="configFile" value="../../widget_data/config/5a1e067a148b4115addc9c1cfdaa1ae8.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="b6cdbb76d11d44e793d9d1a7d6c45613">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ea1b2445704d4e7690853bf2a6c2a960">
+                <param name="configFile" value="../../widget_data/config/ea1b2445704d4e7690853bf2a6c2a960.json" />
+            </object>
+        </section>
+        <p data-uuid="e1c7e8657b3e46e49403c539a00572d9">The Germans had no choice but to accept these demands to disarm. The <b><dfn title="armistice">armistice</dfn></b>, or truce, went into effect on the 11th hour of the 11th day of the 11th month of 1918. “At eleven o’clock everything got so quiet that the silence was nearly unbearable,” remembered an American soldier. Then the silence was broken with shouts like “I’ve lived through the war!”<br />
+        </p>
+        <section class="extension" data-uuid="44e2dee3c2f4415fa26a6007a46e47f9">
+            <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="3186b49274c24089b506ec740d73f13e">
+                <param name="configFile" value="../../widget_data/config/3186b49274c24089b506ec740d73f13e.json" />
+                <param name="audiopath" value="" />
+                <param name="widgettype" value="shortplayer" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="8a3a56b65ef445bdbc97a781c6f8cf29">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f8968899b15c4774b495dedb5b1d7c31">
+                <param name="configFile" value="../../widget_data/config/f8968899b15c4774b495dedb5b1d7c31.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="49d168984fa24c3382c8388cc1eac1c1">
+            <div class="go-prompt-bottom-bar" data-uuid="14601a62908b4d08bd000ee85bbee101">
+                <p data-uuid="64e6de58f6094b1fbbbf1628787dc05e">Remember to use the graphic organizer to take notes on the challenges the Allies faced from 1917 to 1918 and their achievements during the same time period.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer full bleed" data-go="v0.1.0" data-csm-hide="true" data-uuid="d941503e61bb4c579d3e87cc08750ee6">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="5ad83361068741b9b7450c5605c25817">
+                <param name="configFile" value="../../widget_data/config/c5d152765eea4d8b845353cc8ccd7118.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="28ba29799c8b4a1d9c7187799b31388a"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c0c3fe2e04b44806bb864d1671a7b553">
+            <button data-teacher-view-toggle="true" data-uuid="83e4e950c90e456aaf86bad52085574e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="574ff78a2b3944848a350c0b9724a019">
+                <param name="configFile" value="../../widget_data/config/574ff78a2b3944848a350c0b9724a019.json" />
+            </object>
+        </section>
+        <p data-uuid="de1b702da2c246359c1e8ec93d498e59"><br />
+        </p>
+    </body>
+</html>

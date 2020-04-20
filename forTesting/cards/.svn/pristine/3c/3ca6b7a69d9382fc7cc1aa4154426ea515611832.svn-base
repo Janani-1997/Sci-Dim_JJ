@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b2f9fb25852843b19de128a1554ee948">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Transcendentalists</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="8d53713ef0094e9d88e72a68d4a9b841">
+            <article data-uuid="de6830a98f82420fb4f002a43c3d7477">
+                <h4 data-uuid="481d9e88f7f245108ae6d3333acc37e8">Main Idea</h4>
+                <p class="main-idea" data-uuid="4c8bae581acf468a91f0cba7e76f92a4">Transcendentalists and utopian communities
+                    withdrew from American society.</p>
+                <h2 data-uuid="16a6c4a4439247e692832be613fc480c">Transcendentalists</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="f2c3f8dee0454affb4bc457c850495c3"></div>
+            </article>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="e4f975c8ba9a47c4acfe48cd40935d26">
+            <div class="go-prompt-bottom-bar" data-uuid="56b4c8876c92404fb18a72dc29ae943a">
+                <p data-uuid="0f8dbfa3c77a43749bebea9f3879c027">As you read, use the graphic organizer to take
+                    notes on how new movements influenced America in the early 1800s.</p>
+            </div>
+        </section>
+        <p data-uuid="efa60484012941c0b3890ea57563ee91">Some New England writers and philosophers found spiritual wisdom in <b><dfn title="transcendentalism">transcendentalism</dfn></b>, the
+            belief that people could transcend, or rise above, material things in life.
+            Transcendentalists also believed that people should depend on themselves and
+            their own insights, rather than on outside authorities. Important
+            transcendentalists included <b><dfn title="Emerson, Ralph Waldo">Ralph
+            Waldo Emerson</dfn></b>, <b><dfn title="Fuller, Margaret">Margaret
+            Fuller</dfn></b>, and <b><dfn title="Thoreau, Henry David">Henry
+            David Thoreau</dfn></b>.<br />
+        </p>
+        <section class="image-carousel" data-uuid="21cd72dfe28342389b33939f01383289">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html" data-uuid="0c4c7280c6dc48fd85f99334eb3ea2a3">
+                <param name="credit" value="[null,null,null]" />
+                <param name="configFile" value="../../widget_data/config/0c4c7280c6dc48fd85f99334eb3ea2a3.json" />
+            </object>
+        </section>
+        <p data-uuid="c0c80951527f4bf18210e6fdd8f84b49">Emerson was a popular writer and thinker who argued that Americans should disregard institutions and follow their own beliefs. “What I must do is all that concerns me, not what the people think,“ he wrote in an essay called “Self-Reliance.“ Fuller edited the famous transcendentalist publication <i>The Dial</i>. Thoreau advised even stronger self-reliance and simple living away from society in natural settings. He wrote his book <i>Walden</i>&#160;after he lived for two years at Walden Pond.</p>
+        <figure class="image-with-caption main" data-uuid="f2bb56846e1d4e879c59e5f3ebc2286e">
+            <img alt="This is a photograph showing Walden Pond." data-uuid="a04abedbecb8474cbf9780d0fd7f290f" src="../../img/module_16_lesson02/ms_snlese454149_189p.jpg" />
+            <div class="figcaption" data-uuid="92b3a309ecd943e398683c94c761e043">
+                <p class="caption" data-uuid="3235887be4a5426d81893af813302d85">Walden Pond, where Thoreau lived for two years</p>
+            </div>
+        </figure>
+        <p data-uuid="908f61f939574cceb234dc15bcbd616f">Some
+            transcendentalists formed a community at Brook Farm, Massachusetts, in the
+            1840s.&#160;It was one of many experiments with <b><dfn title="utopian communities">utopian
+            communities</dfn></b>,
+            groups of people who tried to form a perfect society. People in utopian
+            communities pursued abstract spirituality and cooperative lifestyles.
+            Communities sprang up in New Harmony, Oneida, and many other places. However,
+            few communities lasted for long.</p>
+        <section class="question-long-text" data-uuid="ec0793c85400455bbce5259161f3d8d3">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f23ac13f89894150951a80bd1572762e">
+                <param name="configFile" value="../../widget_data/config/f23ac13f89894150951a80bd1572762e.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="4fc329aef18944648ebfb505208ae88f">
+            <div class="go-prompt-bottom-bar" data-uuid="65d6ae03a67145e5b07225c72630defa">
+                <p data-uuid="9434738e479141ea975c3a009c8a25d8">Remember to use the
+                    graphic organizer to take notes on how transcendentalist and utopian communities formed
+                    in American society.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="9d5ff57c4030408fb4323e2f79f709b3">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="c501846260e046709738490eaca05aa5">
+                <param name="configFile" value="../../widget_data/config/c501846260e046709738490eaca05aa5.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="2aaaef1251b84421bce2b3edc2eeb019"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6593c885a4d64ec3a11a2ca0668b83f9">
+            <button data-teacher-view-toggle="true" data-uuid="1c85b46d06a940efb418cc53a81ff315"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4bb26c1773da47ec95c07ba12cae6824">
+                <param value="../../widget_data/config/4bb26c1773da47ec95c07ba12cae6824.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

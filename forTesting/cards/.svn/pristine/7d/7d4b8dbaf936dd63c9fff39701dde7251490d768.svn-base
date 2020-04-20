@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ee5f8db2180146c28a6fd6f146fc868f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="c199c307be334d4d9e512bd9b2e8c1a5">
+            <div class="header-element header-container " data-uuid="dfac0ffa0286414eadcda6bd0d464697">
+                <p class="lesson-number" data-uuid="e269471aa5204c738be974c110d4815f"><br />
+                </p>
+                <h2 data-uuid="1ee1aa6abed348919b1168a39f376e97"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="db20ceb3ee0b4083af1fa70a4631ba55">In this module, you’ve learned
+                    about causes and effects of the Great Depression. Now it’s your turn to
+                    demonstrate your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="a089cddef27b43b6802fd491ee1056a4">Was the Great Depression inevitable?</h3>
+            <p data-uuid="1328841de7b2490694f54458a6a09a8f">Write a persuasive essay
+                answering this question. Your essay should include key people, events, and
+                turning points that contributed to the economic crisis, and the efforts to bring about recovery. Be
+                sure to cite evidence to support your position and organize your essay into an
+                introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="064942b320194cfabf8e1a300d7926e9">
+            <button data-teacher-view-toggle="true" data-uuid="82dc2eb4609c45d984fc58fe578207b1"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a0ac641e006b43a1b592135bc5b00ff4">
+                <param name="configFile" value="../../widget_data/config/a0ac641e006b43a1b592135bc5b00ff4.json" />
+            </object>
+        </section>
+        <p data-uuid="c36f595b26924a6b996dc31b7039716c"><br />
+        </p>
+    </body>
+</html>

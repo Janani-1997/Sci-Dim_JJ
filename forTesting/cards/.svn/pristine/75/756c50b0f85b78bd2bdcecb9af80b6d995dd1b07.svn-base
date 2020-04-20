@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="25496ae0e9ac4743aea049176b79ec1d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="f4f66b7f8b764ed7aeaa3f5984c99c3a">
+            <div class="header-element header-container " data-uuid="912924013cea43999971276c771c4554">
+                <p class="lesson-number" data-uuid="9e4b3bb5552f4e35aea27f84ef11fc05">Lesson 1</p>
+                <h2 data-uuid="8b98fdcd499548be898a364b0041a3f5">Assessment</h2>
+            </div>
+            <h5 data-uuid="9dca4acd140145229915aa1f4299b073">The Civil Rights Movement Takes Shape</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="1444647702ba412097f46485e01ced4d">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="2b2ab4d715b142339980e699af28e754">
+                <param name="configFile" value="../../widget_data/config/2b2ab4d715b142339980e699af28e754.json" />
+            </object>
+        </section>
+        <p data-uuid="df8c582ce356492b8bc2824679e492b3">
+            <span>&#160; &#160; &#160; &#160; &#160;</span><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="af6cb45212e3403cb434dacfb67fea36">
+            <button data-teacher-view-toggle="true" data-uuid="f0dde0ebd985454192b6d705cf6a9cac"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f336162c64b24bac8fd32e36dc9417aa">
+                <param name="configFile" value="../../widget_data/config/f336162c64b24bac8fd32e36dc9417aa.json" />
+            </object>
+        </section>
+        <p data-uuid="3987dc9ae8c94612b325f09adaf7e45e"><br />
+        </p>
+    </body>
+</html>

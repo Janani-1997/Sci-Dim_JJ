@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="4d40270844994a958574eb483e06a674">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Article I: The Legislature</title>
+    </head>
+    <body class="bg-tint">
+        <section class="constitution bg" data-uuid="a7bb03f2a6d5487b885e2bb3ecc889a0">
+            <article class="header-container" data-uuid="83df00b0742443d598a48fe94e7b6d99">
+                <p class="inf-rdg" data-uuid="ee55c23f6609451f834c7206e7071d20"><span class="runin">Informed Reading:</span>&#160;The parts of the Constitution that have been lined through are no longer in force or no longer apply because of later amendments. The titles of the articles, sections, and clauses have been added for easy reference.</p>
+            </article>
+            <div class="yellow-star-yellowgray-bar" data-uuid="faf881f63d3c4818897766e9525c9673"></div>
+            <h3 data-uuid="a5626c53a5134f68a5f08d1750d0fa0e">Article I: The Legislature</h3>
+            <h4 data-uuid="1688a335f3a44c98808e520ca98526f8">Section 1. Congress</h4>
+            <p data-uuid="50b18cc9599b47ef94a4c71c566d7237">All
+                legislative Powers herein granted shall be vested in a Congress of the United
+                States, which shall consist of a Senate and House of Representatives.</p>
+            <section class="extension" data-uuid="25f4fe3f8fc744c0b49fa970edd66299">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="d733cf86a16b40b7b90d7558715c1d64">
+                    <param name="configFile" value="../../widget_data/config/d733cf86a16b40b7b90d7558715c1d64.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <h4 data-uuid="ffdcf133bafb472dbbba2900ab191a1a">Section 2. The House of Representatives</h4>
+            <ol data-uuid="bcec04a441384dd88ab728f3e81fe4fa">
+                <li data-uuid="976907138817465d8ee664c41b7c550c"><b>Elections</b> The
+                    House of Representatives shall be composed of Members chosen every second Year
+                    by the People of the several States, and the Electors in each State shall have
+                    the Qualifications requisite for Electors of the most numerous Branch of the
+                    State Legislature.</li>
+                <li data-uuid="5ee5703fc46d4324b270a7f15d9636db"><b></b><b>Qualifications&#160;</b>No
+                    Person shall be a Representative who shall not have attained to the Age of
+                    twenty five Years, and been seven Years a Citizen of the United States, and who
+                    shall not, when elected, be an Inhabitant of that State in which he shall be
+                    chosen.</li>
+                <li data-uuid="7c3e863d7f354cffa5ee984e81d4b414"><b>Number
+                    of Representatives&#160;</b>Representatives
+                    and direct Taxes shall be apportioned among the several States which may be
+                    included within this Union, according to their respective Numbers<span class="strikethru">, which shall
+                    be determined by adding to the whole Number of free Persons, including <a href="[remark:e57c6d9605e44f398620e5ab4fb12ff8]"> those
+                    bound to Service</a> for a Term of Years, and excluding Indians not taxed, three
+                    fifths of <a href="[remark:dfe2a51388df473fa5f8954f8c64d4b4]"> all other Persons</a>.</span> The actual <a href="[remark:97ed14c836c84bcbb5a91fd2d5ffee0e]"> Enumeration</a>
+                    shall be made within three Years after the first Meeting of the Congress of the
+                    United States, and within every subsequent Term of ten Years, in such Manner as
+                    they shall by Law direct. The Number of Representatives shall not exceed one
+                    for every thirty Thousand, but each State shall have at Least one
+                    Representative<span class="strikethru">; and until such enumeration shall be made, the State of New
+                    Hampshire shall be entitled to choose three, Massachusetts eight, Rhode-Island
+                    and Providence Plantations one, Connecticut five, New-York six, New Jersey
+                    four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North
+                    Carolina five, South Carolina five, and Georgia three.<br />
+                    </span></li>
+            </ol>
+            <section class="extension" data-uuid="fe0cc7cb23734399a5369610f675b966">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="0ce26af7ed574e60b625777a9092417f">
+                    <param name="configFile" value="../../widget_data/config/0ce26af7ed574e60b625777a9092417f.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <ol data-uuid="2ca1363275c14f4da3119055d53816de">
+                <li data-uuid="6d5e9dcac4254a36907d87c66dba7ec5"><b>Vacancies</b> When vacancies happen in the Representation
+                    from any State, the Executive Authority thereof shall issue Writs of Election
+                    to fill such Vacancies.&#160;<br />
+                </li>
+                <li data-uuid="327171bc57d84e71a56e28da333d75df"><b>Officers and Impeachment</b>
+                    The House of Representatives shall choose their Speaker and other Officers; and
+                    shall have the sole Power of <a href="[remark:0cf4934c93be4adc9a794b3619899ac3]"> impeachment</a>.<br />
+                </li>
+            </ol>
+            <h4 data-uuid="1b5e20acb53f4909972959ce3dd4e8a7">Section 3. The
+                Senate</h4>
+            <ol data-uuid="57edac1350b2496b923520847b1d0d2a">
+                <li data-uuid="b1affce30abc4ab59abff237141055ac"><b>Number of Senators</b>
+                    The Senate of the United States shall be composed of two Senators from each
+                    State, <span class="strikethru">chosen by the Legislature thereof,</span> for six Years; and each
+                    Senator shall have one Vote.&#160;</li>
+                <li data-uuid="168cb048a41d417784a182e4ffaaae59"><b>Classifying Terms</b>
+                    Immediately after they shall be assembled in Consequence of the first Election,
+                    they shall be divided as equally as may be into three Classes. The Seats of the
+                    Senators of the first Class shall be vacated at the Expiration of the second
+                    Year, of the second Class at the Expiration of the fourth Year, and of the
+                    third Class at the Expiration of the sixth Year, so that one third may be
+                    chosen every second Year; <span class="strikethru">and if Vacancies happen by Resignation, or
+                    otherwise, during the Recess of the Legislature of any State, the Executive
+                    thereof may make temporary Appointments until the next Meeting of the
+                    Legislature, which shall then fill such Vacancies.</span><br />
+                </li>
+                <li data-uuid="e54b2d64f7a44019b008f47a3bef1bfc"><b>Qualifications</b> No
+                    Person shall be a Senator who shall not have attained to the Age of thirty
+                    Years, and been nine Years a Citizen of the United States, and who shall not,
+                    when elected, be an Inhabitant of that State for which he shall be chosen.<br />
+                </li>
+                <li data-uuid="979a7729ff2b4913ac601492273cbd1a"><b>Role of Vice President</b>
+                    The Vice President of the United States shall be President of the Senate, but
+                    shall have no Vote, unless they be equally divided.&#160;
+                    <br />
+                </li>
+            </ol>
+            <section class="extension" data-uuid="6b913eef181f443482f564044a6b3c9f">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="4da109d316eb4b55b1a7362e4c0e69be">
+                    <param name="configFile" value="../../widget_data/config/4da109d316eb4b55b1a7362e4c0e69be.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <ol start="5" data-uuid="c821897e82b9432881328c6358df0baf">
+                <li data-uuid="179ad245c016428e8bd348cef057779a"><b>Officers</b> The Senate
+                    shall choose their other Officers, and also a President <a href="[remark:4a3edbf384fb4f51bb5886c3a170157c]"> pro tempore</a>, in the Absence of the Vice President, or when
+                    he shall exercise the Office of President of the United States.<br />
+                </li>
+                <li data-uuid="eaf3ee99e6d745c596e48379801eee8a"><b>Impeachment Trials</b>
+                    The Senate shall have the sole Power to try all Impeachments.When sitting for that Purpose, they shall
+                    be on Oath or Affirmation. When the President of the United States is tried,
+                    the Chief Justice shall preside: And no Person shall be convicted without the
+                    Concurrence of two thirds of the Members present.<br />
+                </li>
+                <li data-uuid="0e2b72653c70418599bdaa7327b665ab"><b>Punishment for Impeachment</b>
+                    Judgment in Cases of Impeachment shall not extend further than to removal from
+                    Office, and disqualification to hold and enjoy any Office of honor, Trust or
+                    Profit under the United States: but the Party convicted shall nevertheless be
+                    liable and subject to Indictment, Trial, Judgment and Punishment, according to
+                    Law.<br />
+                </li>
+            </ol>
+            <section class="extension" data-uuid="c075ae4328e4470ab1173017fbf9605d">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="3cf7a1b17a3d4dab802cafcbac30da24">
+                    <param name="configFile" value="../../widget_data/config/3cf7a1b17a3d4dab802cafcbac30da24.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <h4 data-uuid="ae03958a393e47a4aa828b95ff8c31a3">Section 4.
+                Congressional Elections</h4>
+            <ol data-uuid="f78f5b4034af433bbc92cb7992b4d21e">
+                <li data-uuid="503a9777f10b4363ae1c34665d32100f"><b></b><b>Regulations</b>
+                    The Times, Places and Manner of holding Elections for Senators and
+                    Representatives, shall be prescribed in each State by the Legislature thereof;
+                    but the Congress may at any time by Law make or alter such Regulations, except
+                    as to the Places of choosing Senators.</li>
+                <li data-uuid="41da7161c057486e9587922580a1c240"><b>Sessions </b><span class="strikethru">The
+                    Congress shall assemble at least once in every Year, and such Meeting shall be
+                    on the first Monday in December, unless they shall by Law appoint a different
+                    Day.</span></li>
+            </ol>
+            <h4 data-uuid="1c9d0e5999164d59b65196266e2a4849">Section
+                5. Rules/Procedures</h4>
+            <ol data-uuid="94718b5b0e0645ab93b7901447d981c9">
+                <li data-uuid="cdb76001e70a4ffa8f58bc641a40c0c0"><b></b><b>Quorum</b> Each House shall be the Judge of the Elections,
+                    Returns and Qualifications of its own Members, and a Majority of each shall
+                    constitute a <a href="[remark:6eb54d72d8b940068b2abb7b6af2269f]"> Quorum</a> to do Business; but a smaller Number may <a href="[remark:452760cecb304743b73f5e3a3e22c0a1]"> adjourn</a>
+                    from day to day, and may be authorized to compel the Attendance of absent
+                    Members, in such Manner, and under such Penalties as each House may provide.</li>
+                <li data-uuid="4968978614aa457b81e9c9464402cbed"><b></b><b>Rules and Conduct</b>
+                    Each House may determine the Rules of its Proceedings, punish its Members for
+                    disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member.</li>
+                <li data-uuid="1c8bc26ccef14d5ca38a03a92f63efa7"><b></b><b>Records</b> Each House shall keep a Journal of its
+                    Proceedings, and from time to time publish the same, excepting such Parts as
+                    may in their Judgment require Secrecy; and the Yeas and Nays of the Members of
+                    either House on any question shall, at the Desire of one fifth of those
+                    Present, be entered on the Journal.</li>
+                <li data-uuid="271aeb4af1ab48148a812b9dc5216a0d"><b>Adjournment</b>
+                    Neither House, during the Session of Congress, shall, without the Consent of
+                    the other, adjourn for more than three days, nor to any other Place than that
+                    in which the two Houses shall be sitting.<br />
+                </li>
+            </ol>
+            <h4 data-uuid="93fc1ee6cc5d4214b044c3421bf568a4">Section
+                6. Payment</h4>
+            <ol data-uuid="79a5e50386554645b037d4e8a9085a3b">
+                <li data-uuid="45f98335bd344a62a11406dd5ae6acc2"><b></b><b>Salary</b> The Senators and Representatives shall receive
+                    a Compensation for their Services, to be ascertained by Law, and paid out of
+                    the Treasury of the United States. They shall in all Cases, except Treason,
+                    Felony and Breach of the Peace, be privileged from Arrest during their
+                    Attendance at the Session of their respective Houses, and in going to and
+                    returning from the same; and for any Speech or Debate in either House, they
+                    shall not be questioned in any other Place.&#160;</li>
+                <li data-uuid="0d294d64b51841f38604c52144e73fd9"><b>Restrictions</b> No
+                    Senator or Representative shall, during the Time for which he was elected, be
+                    appointed to any civil Office under the Authority of the United States, which
+                    shall have been created, or the <a href="[remark:ea5ad200db60425aac04dfd21f34f68a]"> Emoluments</a> whereof shall have been
+                    increased during such time; and no Person holding any Office under the United
+                    States, shall be a Member of either House during his <a href="[remark:900becd58c35476787aba38b2f01d476]"> Continuance</a> in
+                    Office.</li>
+            </ol>
+            <h4 data-uuid="34db755b95144cd59e61cd347fc83553">Section
+                7. How a Bill Becomes a Law</h4>
+            <ol data-uuid="8875085588c84a44a63f6683de74f8f7">
+                <li data-uuid="cc08ad6986084fa9bb3d0ff5a689398b"><b></b><b>Tax Bills</b> All <a href="[remark:64288efff5a14bdba5fb0ee7ab3d3001]"> Bills</a> for raising Revenue shall
+                    originate in the House of Representatives; but the Senate may propose or concur
+                    with Amendments as on other Bills.</li>
+                <li data-uuid="b6ae1d29ed69420c950848c38a2838c8"><b></b><b>Lawmaking </b>Every Bill which shall have passed the House of
+                    Representatives and the Senate, shall, before it become a Law, be presented to
+                    the President of the United States: If he approve he shall sign it, but if not
+                    he shall return it, with his Objections to that House in which it shall have
+                    originated, who shall enter the Objections at large on their Journal, and
+                    proceed to reconsider it. If after such Reconsideration two thirds of that
+                    House shall agree to pass the Bill, it shall be sent, together with the
+                    Objections, to the other House, by which it shall likewise be reconsidered, and
+                    if approved by two thirds of that House, it shall become a Law. But in all such
+                    Cases the Votes of both Houses shall be determined by yeas and Nays, and the
+                    Names of the Persons voting for and against the Bill shall be entered on the
+                    Journal of each House respectively. If any Bill shall not be returned by the
+                    President within ten Days (Sundays excepted) after it shall have been presented
+                    to him, the Same shall be a Law, in like Manner as if he had signed it, unless
+                    the Congress by their Adjournment prevent its Return, in which Case it shall
+                    not be a Law.</li>
+                <li data-uuid="3d694da2afa14dd88cd2e521231e4e53"><b></b><b>Role of the President</b> Every Order, Resolution, or Vote to which the
+                    Concurrence of the Senate and House of Representatives may be necessary (except
+                    on a question of Adjournment) shall be presented to the President of the United
+                    States; and before the Same shall take Effect, shall be approved by him, or
+                    being disapproved by him, shall be repassed by two thirds of the Senate and
+                    House of Representatives, according to the Rules and Limitations prescribed in
+                    the Case of a Bill.</li>
+            </ol>
+            <section class="extension" data-uuid="0c2d2ac7de6448b68cb578ff313f57cf">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="877257b3c3474440a322e9d3fabb6dc7">
+                    <param name="configFile" value="../../widget_data/config/877257b3c3474440a322e9d3fabb6dc7.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <h4 data-uuid="daf1a337be5944118baed8f8c02dc19c">Section
+                8. Powers Granted to Congress</h4>
+            <ol data-uuid="debd3203312a4605af7cfc625c6bca8c">
+                <li data-uuid="b60c31a1799e47b7bf33060dc95a5357"><b>Taxation&#160;</b>The Congress shall have Power To lay and collect
+                    Taxes, <a href="[remark:a12a92431a4d46bfad133c1afeabad73]"> Duties</a>, <a href="[remark:53fc054a515b4ff9b7d3f4160d494244]"> Imposts</a> and <a href="[remark:bb85ae98338049e892ba3b67d745c600]"> Excises</a>, to pay the Debts and
+                    provide for the common Defense and general Welfare of the United States; but
+                    all Duties, Imposts and Excises shall be uniform throughout the United States; </li>
+                <li data-uuid="d9bd72808ced4dc4be6e555848dfed02"><b>Credit</b> To borrow Money on the credit of the United
+                    States;&#160;</li>
+                <li data-uuid="2bc4b0b4c90b444181e0f2b96b9ea75f"><b>Commerce</b> To regulate Commerce with foreign Nations, and
+                    among the several States, and with the Indian Tribes;</li>
+            </ol>
+            <section class="extension" data-uuid="8a17bf397417484883626ac28550b4f7">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="66e564886fe842c2925bcbedd81f707f">
+                    <param name="configFile" value="../../widget_data/config/66e564886fe842c2925bcbedd81f707f.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <ol data-uuid="9c15ba6b40d04b7c83636d6674a1dbfa">
+                <li data-uuid="4edfad51d47944029aeef1c5f5328bd6"><b>Naturalization and Bankruptcy</b> To
+                    establish an uniform <a href="[remark:ecd9cc0c43d146fab0bbc2084b0578da]"> Rule of Naturalization</a>, and uniform Laws on the
+                    subject of Bankruptcies throughout the United States;<br />
+                </li>
+                <li data-uuid="c6fa7ce8cd014d98bba348b44707ada7"><b>Money</b> To coin Money, regulate the Value thereof, and
+                    of foreign Coin, and fix the Standard of Weights and Measures;&#160;<br />
+                </li>
+                <li data-uuid="36b5abd17c324f12a769cea232b23661"><b>Counterfeiting</b> To
+                    provide for the Punishment of counterfeiting the <a href="[remark:49f47389489a45308b027510fb1c24b7]"> Securities</a> and current
+                    Coin of the United States;&#160;<br />
+                </li>
+                <li data-uuid="bd4f5c342e9c4e4bab073c279c02cb12"><b>Post Office</b> To
+                    establish Post Offices and post Roads;&#160;<br />
+                </li>
+                <li data-uuid="fb6705711321451084d7a51ed5f53b26"><b>Patents and Copyrights</b> To
+                    promote the Progress of Science and useful Arts, by securing for limited Times
+                    to Authors and Inventors the exclusive Right to their respective Writings and
+                    Discoveries;<br />
+                </li>
+                <li data-uuid="aa30ee84be884f509629985e9105139a"><b>Courts</b> To constitute Tribunals inferior to the supreme
+                    Court;<br />
+                </li>
+                <li data-uuid="b585cabc7fc94db187717d6dc24555b8"><b>International Law</b> To
+                    define and punish Piracies and Felonies committed on the high Seas, and
+                    Offences against the Law of Nations;<br />
+                </li>
+                <li data-uuid="ae1a72b07a0249a8ae58dc9d1ee6bf20"><b>War</b> To declare War, grant <a href="[remark:436268ed5da34e4993cbaed855f8108d]"> Letters of Marque and
+                    Reprisal</a>, and make Rules concerning Captures on Land and Water;&#160;<br />
+                </li>
+                <li data-uuid="27db4df9b0324b9cbca825ce1f58a79c"><b>Army</b> To raise and support Armies, but no
+                    Appropriation of Money to that Use shall be for a longer Term than two Years;<br />
+                </li>
+                <li data-uuid="6bef3b717b454cb09955a52f4f942e82"><b>Navy</b> To provide and maintain a Navy;<br />
+                </li>
+                <li data-uuid="f9b11ac82b9a4422a9c572de7cabdc40"><b>Regulation of the Military</b> To
+                    make Rules for the Government and Regulation of the land and naval Forces;&#160;<br />
+                </li>
+                <li data-uuid="8da8a3fee2ad415ca8093ae04da1e472"><b>Militia</b> To provide for calling forth the Militia to
+                    execute the Laws of the Union, suppress Insurrections and repel Invasions;<br />
+                </li>
+                <li data-uuid="85785fe4655343b8bb0d191b2f6ae1c5"><b>Regulation of the Militia</b> To
+                    provide for organizing, arming, and disciplining, the Militia, and for governing
+                    such Part of them as may be employed in the Service of the United States,
+                    reserving to the States respectively, the Appointment of the Officers, and the
+                    Authority of training the Militia according to the discipline prescribed by
+                    Congress;<br />
+                </li>
+                <li data-uuid="e47456310c504c9f859e93e0f4ff6dcb"><b>District of Columbia</b> To
+                    exercise exclusive Legislation in all Cases whatsoever, over such District (not
+                    exceeding ten Miles square) as may, by Cession of particular States, and the
+                    Acceptance of Congress, become the Seat of the Government of the United States,
+                    and to exercise like Authority over all Places purchased by the Consent of the
+                    Legislature of the State in which the Same shall be, for the Erection of Forts,
+                    Magazines, Arsenals, dock-Yards, and other needful Buildings;—And<br />
+                </li>
+                <li data-uuid="6db3e863591f4efbba105d06a82e7f26"><b>Necessary and Proper Clause</b> To
+                    make all Laws which shall be necessary and proper for carrying into Execution
+                    the foregoing Powers, and all other Powers vested by this Constitution in the
+                    Government of the United States, or in any Department or Officer thereof.<br />
+                </li>
+            </ol>
+            <section class="extension" data-uuid="9ca5983bce224e09821e197d3d04d8c1">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="47357d925d684e1993944ccc1b5fa10d">
+                    <param name="configFile" value="../../widget_data/config/47357d925d684e1993944ccc1b5fa10d.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <h4 data-uuid="4b4883f0899348d096fb780a6c60af99">Section
+                9. Powers Denied Congress</h4>
+            <ol data-uuid="9be50a202ba34a0e99cc8b74c2abd732">
+                <li data-uuid="1532ed81c118436b9d824e3ac6814772"><b>Slave Trade </b><span class="strikethru">The
+                    Migration or Importation of such Persons as any of the States now existing
+                    shall think proper to admit, shall not be prohibited by the Congress prior to
+                    the Year one thousand eight hundred and eight, but a Tax or duty may be imposed
+                    on such Importation, not exceeding ten dollars for each Person.</span></li>
+                <li data-uuid="3911ac62431d41f4a0b0f96a065ef203"><b></b><b>Habeas Corpus</b>
+                    The Privilege of the <a href="[remark:5da1ead16a3a46e5b32e15519dba3e33]"> Writ of Habeas Corpus</a> shall not be suspended,
+                    unless when in Cases of Rebellion or Invasion the public Safety may require it.<br />
+                </li>
+            </ol>
+            <section class="extension" data-uuid="a4f9a2ef1d5a441d9f9f98edec64c767">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="bebe16ef0ed748f5ab27ea2f7276c3bd">
+                    <param name="configFile" value="../../widget_data/config/bebe16ef0ed748f5ab27ea2f7276c3bd.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <ol data-uuid="19dc9e455a2b4afdbef9e6b337c93274">
+                <li data-uuid="95df64ea6f064ed9b3c956c058d41b5f"><b></b><b>Illegal Punishment</b> No
+                    <a href="[remark:26e988249dd84361acca7174c4b86c1b]"> Bill of Attainder</a> or <a href="[remark:4520cde28d3a46988819e2b6e9fff1c1]"> ex post facto Law</a> shall be passed.</li>
+                <li data-uuid="7e74b157b6b540e2956d727ed40c0cde"><b>Direct Taxes</b> No
+                    <a href="[remark:26edeb25c93f44d0bfcbe3e408bce921]"> Capitation</a>, or other direct, Tax shall be laid, unless in Proportion to
+                    the Census or enumeration herein before directed to be taken.&#160;<br />
+                </li>
+                <li data-uuid="b836071d02b84da2aa4f224240bf68a1"><b>Export Taxes</b> No
+                    Tax or Duty shall be laid on Articles exported from any State.&#160;<br />
+                </li>
+                <li data-uuid="973e195976c64fd0b45fb8c41f854107"><b>No Favorites</b> No
+                    Preference shall be given by any Regulation of Commerce or Revenue to the Ports
+                    of one State over those of another; nor shall Vessels bound to, or from, one
+                    State, be obliged to enter, clear, or pay Duties in another.<br />
+                </li>
+                <li data-uuid="d22186fd16b544b0bdbb11844c11f632"><b>Public Money</b> No
+                    Money shall be drawn from the Treasury, but in Consequence of Appropriations
+                    made by Law; and a regular Statement and Account of the Receipts and
+                    Expenditures of all public Money shall be published from time to time.&#160;<br />
+                </li>
+                <li data-uuid="bffde992a9ac4198b92cb676168c080f"><b>Titles of Nobility</b> No
+                    Title of Nobility shall be granted by the United States: And no Person holding
+                    any Office of Profit or Trust under them, shall, without the Consent of the
+                    Congress, accept of any present, Emolument, Office, or Title, of any kind
+                    whatever, from any King, Prince, or foreign State.<br />
+                </li>
+            </ol>
+            <h4 data-uuid="465b423afd1a425a926a52dd051bc9e0">Section
+                10. Powers Denied the States</h4>
+            <ol data-uuid="4bc4a74a6280485f8dab3dc95b0a3781">
+                <li data-uuid="79a24246e80d4d49a9fff714b45703d2"><b></b><b>Restrictions</b> No
+                    State shall enter into any Treaty, Alliance, or Confederation; grant Letters of
+                    Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold
+                    and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex
+                    post facto Law, or Law impairing the Obligation of Contracts, or grant any
+                    Title of Nobility.</li>
+                <li data-uuid="70ad02fd97a248b0943f710b797b8932"><b>Import and
+                    Export Taxes</b> No
+                    State shall, without the Consent of the Congress, lay any Imposts or Duties on
+                    Imports or Exports, except what may be absolutely necessary for executing it’s
+                    inspection Laws: and the net Produce of all Duties and Imposts, laid by any
+                    State on Imports or Exports, shall be for the Use of the Treasury of the United
+                    States; and all such Laws shall be subject to the Revision and Control of the
+                    Congress.</li>
+                <li data-uuid="dacdfa1c84d1427ba39aa802986138ca">&#160;<b>Peacetime and War Restraints</b> No
+                    State shall, without the Consent of Congress, lay any Duty of Tonnage, keep
+                    Troops, or Ships of War in time of Peace, enter into any Agreement or Compact
+                    with another State, or with a foreign Power, or engage in War, unless actually
+                    invaded, or in such imminent Danger as will not admit of delay.</li>
+            </ol>
+            <section class="question-long-text bg" data-uuid="d1d6b8a60c594ffdbaea5cddd42e626b">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="fdd828821cbb4356bb0fa18869e813f8">
+                    <param name="configFile" value="../../widget_data/config/fdd828821cbb4356bb0fa18869e813f8.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4e0861db4eba4495ac29e451dd1b341b">
+            <button data-teacher-view-toggle="true" data-uuid="1c231c1462034c4fae4ea0a9b001480b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="17a5c3c041f64a33805be54a83525cab">
+                <param name="configFile" value="../../widget_data/config/17a5c3c041f64a33805be54a83525cab.json" />
+            </object>
+        </section>
+    </body>
+</html>

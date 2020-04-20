@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="114aa4d5f55a483bb70e50f5c3471315">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Labor Strikes</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="0e9cd5a81c32451c96b0a4a1cd918369">
+            <article data-uuid="3ef9eda214b64fb3a13c6a27eadac639">
+                <h4 data-uuid="480ca9d94079469496fb3fdcc0d6056f">Main Idea</h4>
+                <p class="main-idea" data-uuid="945e9b3897da4cccb9381dab4d6216f5">Labor strikes often turned violent and failed to accomplish their goals.</p>
+                <h2 data-uuid="22e766263658479b851ff6afb8d87af6">Labor Strikes</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="ded5f51453334e7689d474c5c80cef68"></div>
+            </article>
+        </section>
+        <p data-uuid="040be0a9968340099b16914d44b74f02">By the late 1800s other unions were gaining strength. Major workers’ strikes swept the country and included miners in Colorado, steelworkers in Pennsylvania, and railroad workers in Illinois and California. Some strikes involved violent clashes with police. One of the worst confrontations occurred in Chicago in 1886.</p>
+        <section class="interactive-map" data-uuid="263c25e7d36444be9ecaa00cda52be3e">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="c20236a1289547498105854cb15cfd69">
+                <param name="selected_map" value="8_snlese454170_533m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="59d661c2411047f982fbb6890f519e7d">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="6267adb948904b45a715fc84c4548e90">
+                <param name="configFile" value="../../widget_data/config/6267adb948904b45a715fc84c4548e90.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="ee581fde7c864eddbe65f050815d391e">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="189d7a9d93d0494ca3ff26a4a0f55d6c">
+                <param name="configFile" value="../../widget_data/config/189d7a9d93d0494ca3ff26a4a0f55d6c.json" />
+            </object>
+        </section>
+        <h3 data-uuid="847b609274614ac481529c5926e90d29">Haymarket Riot</h3>
+        <p data-uuid="22c13ec8c5a6461f92f718880ad7a07d">In May 1886 thousands of union members in Chicago went on strike because they wanted an eight-hour workday. Two strikers were killed in a fight with police. The next night, workers met at Haymarket Square to protest the killings. In what became known as the <b><dfn title="Haymarket Riot">Haymarket Riot</dfn></b>, an unidentified person threw a dynamite bomb at police, who were trying to break up the crowd. The police panicked and fired into the crowd. Before the situation calmed down, seven police officers and four workers were killed. More than 100 others suffered injuries.</p>
+        <p data-uuid="e32c353dacb94068993b1b18feba9a4e"> Police arrested numerous suspects and eventually charged eight people with conspiracy and murder. No evidence existed to connect these men to the crime. In fact, five of them were not even in Haymarket Square when the bomb went off. Still, all eight were convicted and sentenced to death. Four were hanged and one killed himself in prison. In 1893 the new governor of Illinois pardoned the last three. He believed that their guilt had not been proven. <br />
+        </p>
+        <section class="image-carousel" data-uuid="73bfb40ec1504619b3a996d2ee17de8d">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html" data-uuid="c294cd4faaef4c1d91c1f6af350e8fca">
+                <param name="configFile" value="../../widget_data/config/c294cd4faaef4c1d91c1f6af350e8fca.json" />
+                <param name="credit" value="[null,null,null]" />
+            </object>
+        </section>
+        <h3 data-uuid="2788e76993cf4910a0f86e43f88f8dbb">Homestead Strike</h3>
+        <p data-uuid="e3228d2b23a34e179c14aa2ea42f56bf"> Sometimes, business owners succeeded in breaking up unions. In 1892 a violent strike called the <b><dfn title="Homestead strike">Homestead strike</dfn></b> took place at Andrew Carnegie’s Homestead steel factory in Pennsylvania. Union members there protested a plan to buy new machinery and cut jobs. The company refused to negotiate with the union and locked workers out of the plant, hiring strikebreakers to perform their jobs. The workers responded by seizing control of the plant. Gunfire erupted on July 6, when Pinkerton detectives hired by the company tried to enter the plant. A fierce battle raged for 14 hours, leaving 16 people dead. The governor called out the state militia to restore order. Continuing for four more months, the union was eventually defeated.<br />
+        </p>
+        <section class="video" data-uuid="03cd3931c36f42ff8f6bb64fa8066115">
+            <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="8138c2dcb63443e0923b5e6d96409ad9">
+                <param name="configFile" value="../../widget_data/config/8138c2dcb63443e0923b5e6d96409ad9.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="1a459fe0ad8a43d98467cc523b68a279">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="875083d662cd4fb3bca17d1e79e52967">
+                <param name="configFile" value="../../widget_data/config/875083d662cd4fb3bca17d1e79e52967.json" />
+            </object>
+        </section>
+        <h3 data-uuid="1e2e52774d8e4f42823d07658d541352">Pullman Strike</h3>
+        <p data-uuid="337f16d304dd46e18f8b9ddb342427f8">Another major strike happened at George Pullman’s Pullman Palace Car Company in the company town of Pullman, Illinois. Most of the company workers lived there, paying high rents. During a financial depression that began in 1893, Pullman laid off about half of the workers and cut pay for those who were left, without lowering their rents. </p>
+        <p data-uuid="4965d51a0ca941e494abb04faea80917"> On May 11, 1894, workers began the <b><dfn title="Pullman strike">Pullman strike</dfn></b>, which stopped traffic on many railroad lines until federal courts ordered the workers to return to their jobs. President Grover Cleveland sent federal troops to Chicago to stop the strike. Such defeats seriously damaged the labor movement for years.<br />
+        </p>
+        <section class="graph-pattern" data-uuid="9e8e611cb435488a8c10372365ad8f72">
+            <div class="header-element main" data-uuid="11f762f5c0b24aacb1618f1793a368c8">
+                <section class="white-box" data-uuid="8d1a4d8e89d14342b24ea8be00ca1700"></section>
+            </div>
+            <h5 class="column-head" data-uuid="5650109771b74f7abd0548563a7ea76d">Union Membership, 1880–1900</h5>
+            <p class="intro" data-uuid="5016826f64e049798d4cbad31d030883">Major events like the Haymarket Riot (1886) and the Pullman strike (1894) affected workers’ willingness to unionize.  </p>
+            <figure class="image-with-caption main" data-uuid="75c9e005ccb64469bed121dcc4a7d8be">
+                <img alt="" data-uuid="a3315d5e145c4ff09fe2a55a270c2cbe" src="../../img/module_20_lesson03/ms_snlese454149_union_membership_t.png" />
+            </figure>
+        </section>
+        <section class="skillbuilder" data-uuid="fe4a2ae641b7416eb1227c527868388a">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="c4faa9f49f2b4491ab79448caa0dbfb7">
+                <param name="configFile" value="../../widget_data/config/c4faa9f49f2b4491ab79448caa0dbfb7.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="d3def350981e40f1833244439b051401">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="44e45757c1274cebae34135fcb289f0b">
+                <param name="configFile" value="../../widget_data/config/44e45757c1274cebae34135fcb289f0b.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="703d05b9422c4621bfab76030ab838c8">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="213b9aba7ff94be8bcb50869442b551a">
+                <param name="configFile" value="../../widget_data/config/213b9aba7ff94be8bcb50869442b551a.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="ba55272179ea4d9c90f2be94e2425f0b">
+            <div class="go-prompt-bottom-bar" data-uuid="56bab774dd764a03a2a556ed7badffe0">
+                <p data-uuid="aedb2a54a7ab4fbc8a585bb61cdbfee8">Remember to use the graphic organizer to take notes about the causes and effects of big business on workers.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer full bleed" data-go="v0.1.0" data-csm-hide="true" data-uuid="d8fa9c22197441a8abad56374247c13b">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="943e175de3ee432a9469c8bc775f198e">
+                <param name="configFile" value="../../widget_data/config/4813162185ac4f1ab108a8591a284962.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="7ba7820cf2b448948f4f0b161fde13a5"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a044efc5d4f848c4a2172d052ab6dfff">
+            <button data-teacher-view-toggle="true" data-uuid="e42fe26eaa7d4885a6357fe2a6827433"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="95210b15c36c43c9bda0934bbad5aa23">
+                <param name="configFile" value="../../widget_data/config/95210b15c36c43c9bda0934bbad5aa23.json" />
+            </object>
+        </section>
+    </body>
+</html>

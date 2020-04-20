@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="55be237194a24550a12024be5510376d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="29a23a3617e442798c804d1e98124b54">
+            <p class="lesson-number" data-uuid="5e502aa455d94c0e9255461a81652f52">Lesson 5</p>
+            <article class="header-container" data-uuid="91490170623a4b99a89b89b8468cc83a">
+                <div class="header-element" data-uuid="fdc6401c1e7e4cc2a08ff431cb3fcb87">
+                    <h1 data-uuid="62ed2ecbc83b4605addb8a7afeb7d125">The Tide of War Turns</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="2db9efdfb65d40bb83d9841bc88ecb31"></div>
+                    <h2 data-uuid="41e91d6a4e6148e5b669882890c1bf4f">The Big Idea</h2>
+                    <p data-uuid="8d824e1aea604e8a8fa9ac94cf60ded4">Union victories in 1863, 1864, and 1865 ended the
+                        Civil War.</p>
+                </div>
+            </article>
+            <article data-uuid="6c158a11bc584cf6b87fbfa815fa498e">
+                <h3 class="if-you-were-there" data-uuid="13c1b4549cf84e9493abb1bd4a9cae77">If YOU were there...</h3>
+                <p data-uuid="97af894b0d7640f2984a64e0c2d75b5a">You live in southern Pennsylvania in 1863, near a
+                    battlefield where thousands died. Now people have come from miles around to
+                    dedicate a cemetery here. You are near the front of the crowd. The first
+                    speaker impresses everyone with two hours of dramatic words and gestures. Then
+                    President Lincoln speaks—just a few minutes of simple words. Many people are
+                    disappointed.</p>
+            </article>
+            <section class="question-long-text" data-uuid="d3e45964f3ae4571acb9f3712c214a2f">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="146f4756f81c4ec7823b0b4976438c84">
+                    <param name="configFile" value="../../widget_data/config/146f4756f81c4ec7823b0b4976438c84.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9f37efa3d39148ee950f78a3759cda36">
+            <button data-teacher-view-toggle="true" data-uuid="df5c6a139d8f4e25b21349fb91b30de0"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4da018279f6844409782c8adae31c5c3">
+                <param name="configFile" value="../../widget_data/config/4da018279f6844409782c8adae31c5c3.json" />
+            </object>
+        </section>
+    </body>
+</html>

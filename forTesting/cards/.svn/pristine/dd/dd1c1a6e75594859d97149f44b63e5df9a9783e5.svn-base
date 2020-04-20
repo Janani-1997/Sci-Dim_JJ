@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="442a840a454b4a46b2bd2178beb0d501">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="8f097d32bbcc43738fb6de84573307bf">
+            <div class="header-element header-container " data-uuid="fe500df94def4ca7b8d05b59b22790ab">
+                <p class="lesson-number" data-uuid="4cc340ff4baf4d2dac96316626c2373a"> Lesson 1</p>
+                <h2 data-uuid="999d23af76964c31b93facc67a6ee058">Review</h2>
+                <p class="white" data-uuid="c678069db2384d3f8b3ed279fdf934b9">In this lesson you learned that the Portuguese started a new era of exploration in the 1400s. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="b8149e7050b5413d85408b7e960ecb02">Review Key Terms and People</h3>
+            <p data-uuid="3d5369276c914040a99d13538d2a191b">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="c0ca8a76d5d4498ba16320389c2dceab">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="48727a3ffb1e4c149b14749061097f60">
+                
+                
+                <param name="configFile" value="../../widget_data/config/48727a3ffb1e4c149b14749061097f60.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="c5f9f17cfa5b460490d716b49f4e315a">
+            <div class="go-prompt-bottom-bar" data-uuid="4531104f19814b26a968bd43dbcc7fd3">
+                <h5 data-uuid="b92961ba769840ac8a74813553b3cc99">Review the Graphic Organizer</h5>
+                <p data-uuid="793442f962cc4cb0b5e44708821ad693">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="28df65220477415a8702dc4a9a304dc1">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="127fe725b077428e9f1dfc3eae2ec089">
+                
+                
+                <param name="configFile" value="../../widget_data/config/127fe725b077428e9f1dfc3eae2ec089.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="81c14becf1834594a5e0333bb77f9d97">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="9f7a8b7dc38b45ada919b6797ef2c1c5">
+                <param name="configFile" value="../../widget_data/config/4130a8c84ba744c9b3b2dca25d17c84b.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="0c642323bcfc46ce8f3be8b0359f168e"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4de3f786c5624ed0b1c2ceafa9b85790">
+            <button data-teacher-view-toggle="true" data-uuid="ba79458047a5424fb2cefe75028de305"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="56df08f6c673498eac62aa46803c7ba3">
+                <param value="../../widget_data/config/56df08f6c673498eac62aa46803c7ba3.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

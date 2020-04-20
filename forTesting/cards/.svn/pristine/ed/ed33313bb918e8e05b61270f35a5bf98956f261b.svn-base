@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c78c3c511f4e4adc808604ed82167630">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Early Battles</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="9cbf027758f9499788736f61515d4a4d">
+            <article data-uuid="51adb6698e184799a7c191e99981a658">
+                <h4 data-uuid="b87b595e13ff4f8fadc314ad922e9a5b">Main Idea</h4>
+                <p class="main-idea" data-uuid="e599b9aa2810480f9a5a0f2073a91551">In two early battles, the army lost control of Boston but then regained it.</p>
+                <h2 data-uuid="063118143a8a4109b74fd6b84011eaa3">Early Battles</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="2483366f8f984149a29f4831a357bd44"></div>
+            </article>
+        </section>
+        <p data-uuid="3d37aa9b7bf342a49839001504c4c129">While the Congress discussed peace, the Massachusetts militia began to fight. Boston was a key city in the early days of the war. Both Patriots and the British fought to hold it.</p>
+        <h3 data-uuid="85b7613e4a4c4b568cb6b34348fa7828">Bunker Hill </h3>
+        <p data-uuid="2601f934d1bb4603a5525deea58413cc">Desperate for supplies, leaders in Boston sent Benedict Arnold and a force of 400 men to New York State. Their objective was to attack the British at Fort Ticonderoga. In May 1775 Arnold captured the fort and its large supply of weapons.</p>
+        <section class="extension" data-uuid="5b3a802d566e403ea2376ed97908f82f">
+            <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="38c4753bbe6243ab8a080025d46749b5">
+                <param name="configFile" value="../../widget_data/config/38c4753bbe6243ab8a080025d46749b5.json" />
+                <param name="audiopath" value="" />
+                <param name="widgettype" value="shortplayer" />
+            </object>
+        </section>
+        <p data-uuid="29c271a5917042ea85ae144903f31f85">Meanwhile, the poorly supplied Patriots kept the British pinned down inside Boston. Although British leaders were trying to form a battle plan, they awoke on June 17 to a stunning sight. The colonial forces had quietly dug in at Breed’s Hill, a point overlooking north Boston. The Redcoats would have to cross Boston Harbor and fight their way uphill.</p>
+        <p data-uuid="ad759e064be94e949ea59931680be92f"> As the British force of 2,400 advanced, 1,600 militia members waited. Low on gunpowder, the commander ordered his troops not to fire “until you see the whites of their eyes.” As they climbed the exposed hillside with their heavy packs, the British soldiers were cut down. Twice they retreated. Stepping over the dead and wounded, they returned for a third try. The colonists were now out of ammunition, and eventually they had to retreat.<br />
+        </p>
+        <section class="image-with-rich-media-hotspot" data-uuid="980cbd5adfb84da4b71c9b64d35f4c47">
+            <object type="text/html" data="../../assets/widgets/image_hotspot_rich_media/index.html" class="widget" data-uuid="7c6b636f3ef2417187191169f4f0af0f">
+                <param name="configFile" value="../../widget_data/config/7c6b636f3ef2417187191169f4f0af0f.json" />
+                <param name="reference_id" value="ref:V_HC_2749" />
+                <param name="externalwidget" value="true" />
+            </object>
+        </section>
+        <p data-uuid="7bfa1342a3644bbeb7c9a22a9a9ab0b8">This famous conflict is now known as the <b><dfn title="Battle of Bunker Hill">Battle of Bunker Hill</dfn></b>, although it was actually launched from Breed’s Hill. While the Patriots lost, they proved they could take on the Redcoats. For the British, the battle was a tragic victory. To win, they had sacrificed about double the number of Patriot soldiers.</p>
+        <h3 data-uuid="3405ca634a784f80bad3a8efa9dda7b1">Dorchester Heights </h3>
+        <p data-uuid="676a4576d0a141969a6bbabeccc4e878"> Shortly after the Battle of Bunker Hill, General Washington arrived in Boston to command the Continental army. Washington knew that he would need heavier guns to drive the British out of Boston, and he knew where to get them—Fort Ticonderoga. Colonel Henry Knox was assigned to transport the captured cannons from Fort Ticonderoga to Boston. He successfully brought the heavy guns over 300 miles of rough terrain in the middle of winter. When Knox delivered the cannons, Washington was ready to regain control of Boston.</p>
+        <section class="interactive-map" data-uuid="571b9e04be914d0685a6d7c68ad3df90">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="c1b78c5adfdd4388ae224e13d86fa709">
+                <param name="selected_map" value="8_snlese454170_708m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="88a64ee3fe8a4abe8971c4b03202764d">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="0f8e8be451684578b18cb541d92da0e1">
+                <param name="configFile" value="../../widget_data/config/0f8e8be451684578b18cb541d92da0e1.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="9a4ab6a4f07341e1b1a5a247619b8c27">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="ea8a58135c364677bf1defa89429cdf0">
+                <param name="configFile" value="../../widget_data/config/ea8a58135c364677bf1defa89429cdf0.json" />
+            </object>
+        </section>
+        <p data-uuid="47fae37f6aef47978147b15f7a5103a2">On March 4, 1776, Washington moved his army to Dorchester Heights, an area that overlooked Boston from the south. He stationed the cannons and his troops on Nook’s Hill overlooking British general William Howe’s position. When Howe awoke the next morning and saw the Patriots’ well-positioned artillery, he knew he would have to retreat. “The Rebels have done more in one night than my whole army could do in months,” Howe declared. On March 7 Howe retreated from Boston to Canada. The birthplace of the rebellion was now in Patriot hands.<br />
+        </p>
+        <section class="question-long-text" data-uuid="6e67b11bfe14453185608f742a4f13c2">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b2986090aaa24b5f826cb4afa2bd224d">
+                <param name="configFile" value="../../widget_data/config/b2986090aaa24b5f826cb4afa2bd224d.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="f3ec1fd360f447ee9ab4003792185b11">
+            <div class="go-prompt-bottom-bar" data-uuid="6f585a86b7424c0480a564545c13910a">
+                <p data-uuid="30ee6017626c46bcb1beadc15b772265">Remember to complete the graphic organizer with information on the key events of the early days of the Revolution.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="c6d460375b0e48658d181132ed0f1296">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="fdbc291fd16c4bbba08f4178919ccc45">
+                <param name="configFile" value="../../widget_data/config/0734c1af54c14002971aee69e196ff84.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="64642b53a3e14e4cb947b7c3aa0b711d"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4ac7a317eeea4a3ebf690c537369d5d4">
+            <button data-teacher-view-toggle="true" data-uuid="3fbdea9719ff4c2db1cd4b673573ef21"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3c308dfd2af744a5ba4977cd3c2b40bc">
+                <param value="../../widget_data/config/3c308dfd2af744a5ba4977cd3c2b40bc.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

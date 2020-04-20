@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="25f788b21f4f48feaf9fb013252dec2d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="05c19accd4074504bc0350ce8ac839d6">
+            <div class="header-element header-container " data-uuid="cfae91e8ef564920be192bfdc246e88a">
+                <p class="lesson-number" data-uuid="f5bbed8401f64915b80f17508eb8a135"><br />
+                </p>
+                <h2 data-uuid="022e4a4879de40d4baa5c195ebcd1ff5"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="597b032d6ff84ae2bce1e80081bf22a1">Part 2: Write a Persuasive Speech</h3>
+            <h6 data-uuid="803fbc5751bd43fe9e77963ca9af8fc3">Historical Context</h6>
+            <p data-uuid="0fc548d456644f60a80a53898ddd596a">The decades following the Civil War unleashed a
+                new age of invention that would shape modern America. During this time, several
+                powerful business leaders rose from humble beginnings. Through hard work and
+                shrewd insight, they became the richest men in the world. Popular “from
+                rags-to-riches” stories made it seem like any hard-working American could
+                attain great wealth and success. Still, many workers struggled and joined
+                unions to protect their interests.&#160;</p>
+            <h6 data-uuid="8b3f86fd82494bb4b2f999b510306a48">Task</h6>
+            <p data-uuid="03177391727a40cc8a8edeb1dad6ff4e">Imagine that you are an American living in the
+                late 1800s. Choose one of the following roles: inventor, big business owner, or
+                union leader. Write a speech in which you appeal to the government to support a
+                law or a policy that serves your needs. List some examples of what type of government support you need and how
+                it will benefit both you and the country. Be sure to mention the needs of the
+                other competing interest groups, but point out their flaws or why your needs
+                are more important.</p>
+            <p data-uuid="8cc523da952c4ef6bbe3a0cea5bf180a"></p>
+            <p data-uuid="9c07a62a91d547bfbb17371b1b4f1524">Complete the following steps as you
+                plan and compose your essay.</p>
+            <ol data-uuid="f7ac04a89a3242529a26e695409dec73">
+                <li data-uuid="6c00305053844c07bbfb135d888c2cb2">
+                    Review your notes and sources before you start
+                    writing.</li>
+                <li data-uuid="0ae65c2cb87542e8971a6e4ac4185b4b">
+                    Use at least <i>two</i>
+                    of the sources in Part 1, and develop the topic with relevant, well-chosen text
+                    evidence from the documents.</li>
+                <li data-uuid="754b6b4838a44aed8b31e59b78e67b2d">
+                    Cite specific text evidence from each of the sources in your response.</li>
+                <li data-uuid="535d7854a023435e86abdb0792c3b73b">
+                    Plan your speech so that it includes an introduction,
+                    several body paragraphs, and a concluding paragraph.</li>
+                <li data-uuid="9e9d5e8fb19649a0a762194b5691e6ff">Present your argument and supporting information in a logical and concise way so that your audience will be able to follow your line of reasoning.</li>
+                <li data-uuid="9e2cb3c7a6ca4ca9a8c0bd81c2d5f9e0">Write a conclusion that sums up your ideas and supports the information you present.</li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="be492ae8c21f4e12aa1b38f9e049054f">
+            <button data-teacher-view-toggle="true" data-uuid="9fdded7ef8814cc1bf7bca3f7118c416"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="98e4dd0791014b25b46af2a3a1baaa1a">
+                <param name="configFile" value="../../widget_data/config/98e4dd0791014b25b46af2a3a1baaa1a.json" />
+            </object>
+        </section>
+        <p data-uuid="790dfa05384b4076a2e4dedb6b26cf5a"><br />
+        </p>
+    </body>
+</html>

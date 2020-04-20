@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="febb2f8a7dec404c9ebcc6a10a55264e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="c380ace72ba1422d962c0b2a7710e56d">
+            <p class="lesson-number" data-uuid="8b33a16e84c7413b8710ea677521f7b9">Lesson 4</p>
+            <article class="header-container" data-uuid="a66cfeedd03a4342b951f6c21e60c0a0">
+                <div class="header-element" data-uuid="5524b2331cc74169879d5ac72df31c1c">
+                    <h1 data-uuid="56e3c308f45f41979b8b4ac16ccb27b4">The Struggle for Liberty</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="5b0b6a00d3004819adbeeec4ac48a994"></div>
+                    <h2 data-uuid="20f1244a46174aa7a8e4ef4091ee08fd">The Big Idea</h2>
+                    <p data-uuid="20958cf6c47b4f51a035a883f8729b56">Patriot
+                        forces faced many obstacles in the war against Britain.</p>
+                </div>
+            </article>
+            <article data-uuid="a5f2f27a5c864aeb87c1852007d6c7fd">
+                <h3 class="if-you-were-there" data-uuid="5073e10c01cd44bbbc0160f0f6d648e2">If YOU were there...</h3>
+                <p data-uuid="22e5ac417ef548f3b1269a19a3f35e7c">You
+                    are a serving maid at an inn in New York City. British soldiers often stop at
+                    the inn for a meal. You sometimes overhear their conversations, though they
+                    don’t notice that you do. Now a Patriot militia officer has asked you to bring
+                    him any information that you hear. You want to help the Patriot cause. Yet, you
+                    are worried about what will happen to you if you are caught spying.</p>
+            </article>
+            <section class="question-long-text" data-uuid="05405612145647b190f79f87cbde59fc">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="860bc359543a4377ac80db3759d04045">
+                    <param name="configFile" value="../../widget_data/config/860bc359543a4377ac80db3759d04045.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="1a11d3932ccb49dc9aa2624bd059b717">
+            <button data-teacher-view-toggle="true" data-uuid="68bebbe4572d4fce9f8536b06a4e1f9e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4fc999aeeefe4ef0ace6ed7f7602a273">
+                <param name="configFile" value="../../widget_data/config/4fc999aeeefe4ef0ace6ed7f7602a273.json" />
+            </object>
+        </section>
+        <p data-uuid="7d16672b19c2429c92383280bbdd7324"><br />
+        </p>
+    </body>
+</html>

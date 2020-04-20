@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2a04eee06a754551ba2880897929b3f2">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="a824eacff14b4fb897888b9dc3b3c181">
+            <p class="lesson-number" data-uuid="039e835dc3534687846149d12e8c2711">Lesson 1</p>
+            <article class="header-container" data-uuid="9f092cc16c924375bfceb20b675783ab">
+                <div class="header-element" data-uuid="d70fa605b2164953af34c512e9c78e36">
+                    <h1 data-uuid="a9a131ba8bfa4d59a8c20e26fd1dc773">The Coming of War</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="c52b0ac8e8cd4884b0bf605eeab53823"></div>
+                    <h2 data-uuid="6665b79ca3974e27b86a148ccaa6ce46">The Big Idea</h2>
+                    <p data-uuid="60129bda566c4c8fa4911aaefe141248">Challenges at home and
+                        abroad led the United States to declare war on Great Britain.</p>
+                </div>
+            </article>
+            <article data-uuid="335d30caea6e40d68b5ae461cc40e4a8">
+                <h3 class="if-you-were-there" data-uuid="b7492dda4c1f412c83fc568d49897e9a">If YOU were there...</h3>
+                <p data-uuid="f3f50bbcf203417a9f3e2a60815f6dbf">You are a tea merchant in Boston in 1807, but
+                    right now your business is at a standstill. A new law forbids trading with
+                    European nations. Now Boston Harbor is full of empty ships. It seems to you
+                    that the law is hurting American merchants more than European ones! You know
+                    that some merchants are breaking the law and smuggling goods, just to stay in
+                    business.</p>
+            </article>
+            <section class="question-long-text" data-uuid="4a190802fc7947bba27eca3a4cb8a550">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="71a9471263e940109248d5ba2750f83c">
+                    <param name="configFile" value="../../widget_data/config/71a9471263e940109248d5ba2750f83c.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="39dcbbfc8b154a6aab716fbd4b726c6f">
+            <button data-teacher-view-toggle="true" data-uuid="26fee1debc0a459f96257cab68fdc4fa"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f4441f4836794d1480118433c9ac2e55">
+                <param name="configFile" value="../../widget_data/config/f4441f4836794d1480118433c9ac2e55.json" />
+            </object>
+        </section>
+        <p data-uuid="fa9a320eeb654ca985d8132bf05ffbc7"><br />
+        </p>
+    </body>
+</html>

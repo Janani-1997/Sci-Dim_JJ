@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="da3c8249cc9945d7b838b0606d64337c">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="b5bfdc0432fb4cb191b64b069311fa52">
+            <p class="lesson-number" data-uuid="6527e3714bba49b4a45540c71b77e3d0">Lesson 1</p>
+            <article class="header-container" data-uuid="b295e1798311491ba4ab14eeb2e25267">
+                <div class="header-element" data-uuid="b2f1280a254b47fa899a14e232f851e4">
+                    <h1 data-uuid="621c8037316f4e7898ccd6abd7d358bd">Jacksonian Democracy</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="84fdbd7c9586427e80032439302c7702"></div>
+                    <h2 data-uuid="878bc13cad9344ffbcdab0424ff84641">The Big Idea</h2>
+                    <p data-uuid="748a5437a3504cf09b15e8270fa04926">The expansion of voting rights and the election of
+                        Andrew Jackson signaled the growing power of the American people.</p>
+                </div>
+            </article>
+            <article data-uuid="dc82e594b87d4ed2a99ad3cc6d7859cc">
+                <h3 class="if-you-were-there" data-uuid="610d7da84ed048498c0b8bd7cd310171">If YOU were there...</h3>
+                <p data-uuid="d0b437c7917d4eb1a8e9b058215e0826">It’s 1829 and you live in
+                    Washington, DC. You’ve come with a friend to the party for Andrew Jackson’s
+                    inauguration as president. Your friend admires Jackson as a man of the people.
+                    You are less sure about his ability. Jackson’s inauguration soon turns into a
+                    rowdy party, as mobs crowd into the White House. They break glasses and
+                    overturn the furniture.</p>
+            </article>
+            <section class="question-long-text" data-uuid="a89248cf75864ab58e37f71c6e3daa90">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ba8bc0922ec746b1a01de0d509d2bd26">
+                    <param name="configFile" value="../../widget_data/config/ba8bc0922ec746b1a01de0d509d2bd26.json" />
+                </object>
+                <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c76f8c7056624096b99361d6f9ea02b0">
+                    <button data-teacher-view-toggle="true" data-uuid="9011a6789b6b4f62a75993042e751b28"></button>
+                    <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cb2815535fa44ca69e0a89680f3e2263">
+                        <param name="configFile" value="../../widget_data/config/cb2815535fa44ca69e0a89680f3e2263.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+    </body>
+</html>

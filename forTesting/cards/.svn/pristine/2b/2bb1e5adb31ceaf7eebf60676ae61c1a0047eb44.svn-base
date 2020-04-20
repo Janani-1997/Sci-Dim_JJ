@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c5d36f1b78ca419eb689028ee858ded5">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="c6fca2806049487496a942586d43ebb7">
+            <p class="lesson-number" data-uuid="9f4f5e3fc03840abac4cf26ac89f08e6">Lesson 2</p>
+            <article class="header-container" data-uuid="2ab23023e6eb4f58a048d447864eefad">
+                <div class="header-element" data-uuid="c6a112e660084abdad4e2b2700c61a7d">
+                    <h1 data-uuid="84bb821ee2cd4a2f9d44214d7c516d8e">American Arts</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="073a55f0a2994f06aee3f0e7390162bc"></div>
+                    <h2 data-uuid="4d1ea84de2574e44a8ec5d058541b83f">The Big Idea</h2>
+                    <p data-uuid="b804f2450044482a954cf0da673f35da">New movements in art and literature influenced many Americans in the early 1800s.</p>
+                </div>
+            </article>
+            <article data-uuid="bc0e0994829b463aaaf2cedda53fd2a2">
+                <h3 class="if-you-were-there" data-uuid="c154b29a53b64e5293c90bef61bbde1c">If YOU were there...</h3>
+                <p data-uuid="b3e38535b53e4c1ea988f2ebbafe8fa9">You are a teacher living in Massachusetts
+                    in the 1840s. Some of your neighbors have started an experimental community.
+                    They want to live more simply than present-day society allows. They hope to
+                    have time to write and think, while still sharing the work. Some people will
+                    teach; others will
+                    raise food. You think this might be an interesting place to live.</p>
+            </article>
+            <section class="question-long-text" data-uuid="deeefddd217d4322b7b3b439b37a6d0a">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="63667a512ff14500ab3704e3af991de6">
+                    <param name="configFile" value="../../widget_data/config/63667a512ff14500ab3704e3af991de6.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ac38cea6993e4563950c618d8a85fce2">
+            <button data-teacher-view-toggle="true" data-uuid="80d03a654c6a401f95248a07c86f1140"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3ec7841229b048b1bf732055cf63dfef">
+                <param name="configFile" value="../../widget_data/config/3ec7841229b048b1bf732055cf63dfef.json" />
+            </object>
+        </section>
+    </body>
+</html>

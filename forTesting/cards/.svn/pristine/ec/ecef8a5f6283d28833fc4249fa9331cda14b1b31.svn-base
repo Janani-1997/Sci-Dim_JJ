@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e6c1f1d9911e4fa4ba2804ee4fc58415">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Steamboats</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="c308aba35102430f9b2a762923238c17">
+            <article data-uuid="73a322c4ca384f82b866d40fb2d55d88">
+                <h4 data-uuid="8c12bab023ab421daa2ce5b36d4ef67b">Main Idea</h4>
+                <p class="main-idea" data-uuid="1d3452d914914cc18efce95a277fc362">The steamboat was one of the first developments of the Transportation Revolution.</p>
+                <h2 data-uuid="bc13007cd0da46fa9006c8301101d8ca">Steamboats</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="3cba0859186c4970b180eccda8da8d7e"></div>
+            </article>
+        </section>
+        <p data-uuid="748288a284bd452e922809f4930760b3">American and European inventors had developed steam-powered boats in the late 1700s. However, they were not in wide use until the early 1800s.</p>
+        <h3 data-uuid="dfe56a899da145b9bc8a554ba8f49b23">Steamboat Era</h3>
+        <p data-uuid="d8eba71b874f44c78d4430a9d31b562d">In 1803 American <b><dfn title="Fulton, Robert">Robert Fulton</dfn></b> tested his first steamboat design in France. Several years later, he tested the first full-sized commercial steamboat, called the <b><i><dfn title="Clermont">Clermont</dfn></i></b>, in the United States. On August 9, 1807, the <i>Clermont</i> traveled against the current up the Hudson River without trouble. Demand for steamboat ferry service soon arose.</p>
+        <section class="image-with-hotspots" data-uuid="46a0a87332534bbe8e185fd359f73f95">
+            <object type="text/html" data="../../assets/widgets/image_hotspot/index.html" class="widget" data-uuid="8fb7b32606f54d438c3ed0efacf30c39">
+                <param name="configFile" value="../../widget_data/config/8fb7b32606f54d438c3ed0efacf30c39.json" />
+                <param name="reference_id" value="ref:V_HC_2749" />
+                <param name="externalwidget" value="true" />
+            </object>
+        </section>
+        <p data-uuid="553b6a9092a24ab592540a6ba7f4f672">The steamboat was well suited for river travel. It could move upriver and did not rely on wind power. Steamboats and the location of rivers in the United States created new economic opportunities during the 1800s. Steamboats increased trade and profits because goods could be moved quickly and thus more cheaply.</p>
+        <section class="graph-pattern" data-uuid="a86dc2bd29114fe19e3bc623f59ea82b">
+            <div class="header-element main" data-uuid="1ee63c7586a443a990be260c25577be5">
+                <section class="white-box" data-uuid="a305bb806f854dcea0ff8b1092d0d15f"></section>
+                <a title="Click or tap on parts of the graphic to learn more." class="tooltip withhead"></a>
+            </div>
+            <h5 class="column-head" data-uuid="6a343bcd619f491d995fc6b671c22f7b">Steamboats Improve Trade</h5>
+            <p class="intro" data-uuid="1383077697044e95979dfc1d43c73b24">The first steamboats carried goods and travelers from New Orleans up the Mississippi River to the Midwest. Their powerful engines decreased trip times and operating expenses. As a result, upstream shipping rates drastically dropped.</p>
+            <section class="main-container" data-uuid="ac1fb4f6a1b64945a1e098aec4f50809">
+                <section class="graphs" data-uuid="61123f625f3b4136af0ce4f90304a499">
+                    <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget" data-uuid="13b610e9076446989d1b5ad3d5396d11">
+                        <param name="configFile" value="../../widget_data/config/13b610e9076446989d1b5ad3d5396d11.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="skillbuilder" data-uuid="c09ddcb8489c4d2095b3e90ce7dfa2ff">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="02951e947c4f480cbda25fd4ae6f8071">
+                <param name="configFile" value="../../widget_data/config/02951e947c4f480cbda25fd4ae6f8071.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="7f2f3c4d4c994c72bf9e750b3c365522">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="a21a9211bffb4be2b506c844db3fa0e0">
+                <param name="configFile" value="../../widget_data/config/a21a9211bffb4be2b506c844db3fa0e0.json" />
+            </object>
+            <section class="image-with-assessment" data-uuid="3b104ccf4b63415a9e43cb7447c414a8">
+            </section>
+        </section>
+        <p data-uuid="4f6067309a514ecea7c20dccc11b1ac7">More than 500 steamboats were in use in the United States by 1840. By the 1850s steamboats were also being used to carry people and goods across the Atlantic Ocean, creating more opportunities for international trade.</p>
+        <figure class="image-with-caption feature" data-uuid="d97df2477d0c47ba943c30581cdefa08">
+            <img alt="This black and white photo shows two large steamboats on the Mississippi River. Deckhands are using large ramps to load goods onto the boats. " class="" data-uuid="46258e7646f24a8999a28b9608a3526d" src="../../img/module_13_lesson03/ms_snlese454149_333p.jpg" />
+            <div class="figcaption" data-uuid="60266849d3414c008454c13b6aea8007">
+                <h5 data-uuid="ef573124cc204bf2a9b062bdaafa9ad4">Mississippi River Steamboats</h5>
+                <p class="caption" data-uuid="d7012e4bf9b440c08c5bee911bca9ad4"> Deckhands load a Mississippi River steamboat in Memphis, Tennessee. By the mid-1800s, hundreds of steamboats were traveling up and down American rivers.</p>
+            </div>
+        </figure>
+        <h3 data-uuid="bee90baf42264291baff15ccf7963eaf"><i>Gibbons</i> v. <i>Ogden</i></h3>
+        <p data-uuid="b10e9e2a4e3b4541a89698702b69d123">Increased steamboat shipping led to conflict over waterway rights. In 1819 Aaron Ogden sued Thomas Gibbons for operating steamboats in New York waters that Ogden said he owned. Gibbons did not have a license to operate in New York, but argued that his federal license gave him the right to use New York waterways.</p>
+        <p data-uuid="0eb204e32e6745209d5b6922b75d8a95">In the case of <i>Gibbons</i> v. <i>Ogden</i>, which reached the Supreme Court in 1824, Chief Justice John Marshall reinforced the federal government’s authority to regulate trade between the states by ending monopolistic &#173;control over waterways in several states. At the same time, it strengthened the idea that national interests should be placed ahead of regional concerns. The ruling freed up waters to even greater trade and competition within the shipping industry.</p>
+        <section class="reading-check" data-uuid="6674fae039db46eeb2531161c478283b">
+            <section class="question-long-text" data-uuid="b95c651be8dc48978189ab5495e54cf5">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="52682642f1084ce2a719412fc4d74aaa">
+                    <param name="configFile" value="../../widget_data/config/52682642f1084ce2a719412fc4d74aaa.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="27cac0720e0b49a89cfc4310281a569c">
+            <div class="go-prompt-bottom-bar" data-uuid="fb910647ac9e40c4ad1a074b677f1521">
+                <p data-uuid="9ec9ca0a1aa74e6eb8f8ada6b0a97e38">Remember to use the graphic organizer to take notes about the key events in the development of the steamboat as an important form of transportation.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="fdcb1851d19e446f9a3d2ced2ae3d26c">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="e58f00144b524f9996ced5e309331594">
+                <param name="configFile" value="../../widget_data/config/8f21fb41f35b43b58f449416f616cacc.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="a3f8be1494974459b04597a62ab66a90"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="80282e106dec4cf48fb42a11eff8e154">
+            <button data-teacher-view-toggle="true" data-uuid="fcd5c0c2f841460e80a6292e240e53a3"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8c66b112fe9c4ca680f7713c24e4631b">
+                <param value="../../widget_data/config/8c66b112fe9c4ca680f7713c24e4631b.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

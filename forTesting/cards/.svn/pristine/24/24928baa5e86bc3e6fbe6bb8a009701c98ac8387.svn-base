@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="db77a212afc147cf893c9b6fb2693553">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="6b34a3f153c14000941e61d7f343e115">
+            <div class="header-element header-container " data-uuid="a3bd2531c5034691a68212b2d971bba6">
+                <p class="lesson-number" data-uuid="a98cf3add921458cb1674a85f8bf1b67"><br />
+                </p>
+                <h2 data-uuid="098fe4870f3647cda061fbb6340afdc2"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="8fd504a578374ec8afab0dd410997b94">In this module you’ve learned about significant
+                    events and people that contributed to national unity in the early 1800s. Now
+                    it’s your turn to demonstrate your understanding of the module content by
+                    writing an essay.</p>
+            </div>
+            <h3 data-uuid="e2440731f128465098e238fdc5ce33f0">Why did America’s national identity change in the
+                early 1800s?</h3>
+            <p data-uuid="85a3e0e93d0f407ca80cafef1b5e8d4d">Write a persuasive essay answering this
+                question. Your essay should include key people, events, and turning points in
+                United States history. Be sure to cite evidence to support your position and
+                organize your essay into an introduction, body, and conclusion.<br />
+            </p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="96121a4e75884b84be8a866a3b2625de">
+            <button data-teacher-view-toggle="true" data-uuid="06db56059d8d4a349dc5e3672d010d0b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="11c0ec8e732a45268d77ad495cfea473">
+                <param name="configFile" value="../../widget_data/config/11c0ec8e732a45268d77ad495cfea473.json" />
+            </object>
+        </section>
+        <p data-uuid="f5c9137188034fb6b450ba531069b863"><br />
+        </p>
+    </body>
+</html>

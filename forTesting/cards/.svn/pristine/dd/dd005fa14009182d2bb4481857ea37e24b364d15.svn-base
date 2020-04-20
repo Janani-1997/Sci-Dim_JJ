@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="21532e1914cf437e8223d6a058dcb404">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="72778ff6e48c4a30ab6ac148aa2b1696">
+            <p class="lesson-number" data-uuid="77e47ec8f7474967a98cb42ad7303abc">Lesson 2</p>
+            <article class="header-container" data-uuid="60b6abf28f7c4b43b3946d3ef9bd314c">
+                <div class="header-element" data-uuid="1701f7e33bd14dfd899800b777b81c02">
+                    <h1 data-uuid="431857279c554f6487a23ccd824c89b6">The War of 1812</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="28956d5e11b542979dc1d3acc6758952"></div>
+                    <h2 data-uuid="608b6c8a3e3842349ad24037eb468e2f">The Big Idea</h2>
+                    <p data-uuid="ba9a0478701843a480d27ea1109c8f14">Great Britain and the United States went to battle
+                        in the War of 1812.</p>
+                </div>
+            </article>
+            <article data-uuid="67f7588c5f56498793502b860f8fe444">
+                <h3 class="if-you-were-there" data-uuid="9fec4cfa96cb47e4a1e3ce3cbda3354f">If YOU were there...</h3>
+                <p data-uuid="37446cc4381e45b484502d062b8e14ba">It’s 1812, and the United States and Great Britain
+                    are at war. You are a sailor on an American merchant ship that has been
+                    licensed as a privateer. Your ship’s mission will be to chase and capture ships
+                    of the mighty British navy. Even with the help of merchant ships like yours,
+                    the American navy is badly outnumbered. You know you face danger and may not
+                    survive.</p>
+            </article>
+            <section class="reading-check" data-uuid="041ebcbcc08e43ff88655ce3ca0b630a">
+                <section class="question-long-text" data-uuid="2dc9b87207294bf99947548f7a29af9f">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="85a3066e105645e6a6b70259c383c9b2">
+                        <param name="configFile" value="../../widget_data/config/85a3066e105645e6a6b70259c383c9b2.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4a0889a10be1496592e4ca7d048b0ba7">
+            <button data-teacher-view-toggle="true" data-uuid="3a463df18b19438c8d822db731d80da5"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f3fe27285d0b4d35a505398de2be0ce0">
+                <param name="configFile" value="../../widget_data/config/f3fe27285d0b4d35a505398de2be0ce0.json" />
+            </object>
+        </section>
+    </body>
+</html>

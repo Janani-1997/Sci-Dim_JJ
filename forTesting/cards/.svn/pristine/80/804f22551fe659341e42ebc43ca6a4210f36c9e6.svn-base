@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="f66f6572a3b84eb2ae5d2f695572cfd1" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>After the War</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="784497d5535a4c5687b6bd9484b27a9f">
+            <article data-uuid="c0636072c4d148f2985c707bff9436b6">
+                <h4 data-uuid="08b8fc39021e45b9988d768c87afbfa2">Main Idea</h4>
+                <p class="main-idea" data-uuid="05c9eb37c5734df5a7f6f824466b7065">The United States led postwar rebuilding after World War II left much of Europe and Asia devastated.</p>
+                <h2 data-uuid="55480d9c4ad749b1b7da7dd590b980eb">After the War</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="074cbfbe8ca24c1ebaea4d19ffcd7a1e"></div>
+            </article>
+        </section>
+        <p data-uuid="c969d3a5f9744b6d91e38250e23ad838">After six years, World War II was finally over. More than 50 million people had been killed—more than half of them civilians. National economies in Europe and Asia were devastated, and millions of people were left without food, water, or shelter. Since the war had been fought far from American soil, the United States escaped this level of destruction. As the strongest power left in the world, much of the responsibility for postwar rebuilding fell to the United States, which sent billions of dollars to its European allies and even its defeated enemies.<br />
+        </p>
+        <section class="cause-effect" data-uuid="837cd04b76e141e49c9bd078d33cfcf6">
+            <article class="box" data-uuid="4cb10b60316544d182e4a85fd97d491d">
+                <div class="header-element bleed-padding-wider" data-uuid="841014abc45a41e4a007f64b7ac763b3">
+                </div>
+                <div class="quickfacts bleed-padding-middle" data-uuid="797544f6e2bd42f5b6e2d83733f1a278">
+                    <h5 data-uuid="a6601ac94d454b4bbbbd94def824d2d2">QUICK FACTS</h5>
+                    <a title="Click or tap on parts of the graphic to learn more." class="tooltip"></a>
+                </div>
+                <h2 data-uuid="df03fe0830474c07850ce19040b1b706">Causes and Effects of World War II</h2>
+                <p data-uuid="af012309d3b6447da04c0eaf06b4f20c"><span>Fought for many reasons, </span><span>World War II had many long</span><span>-</span><span>lasting </span><span>effects on much of the world.</span><br />
+                </p>
+            </article>
+            <section class="cause-effect-widget" data-uuid="49a5f7b9492649539d47fff20485efa2">
+                <object type="text/html" data="../../assets/widgets/cause_and_effect/index.html" class="widget" data-uuid="9f70fa1f71184fcb928215775bf882b3">
+                    <param name="configFile" value="../../widget_data/config/9f70fa1f71184fcb928215775bf882b3.json" />
+                </object>
+            </section>
+        </section>
+        <section class="skillbuilder" data-uuid="331f61309d5046a6ae48dd8c3b9c8068">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="6c7f051385cc4eb7b12d16959c20182e">
+                <param name="configFile" value="../../widget_data/config/6c7f051385cc4eb7b12d16959c20182e.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="89e806f7d8a7422c89a50c2e99ccd28e">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f2f5905b030f46f4bc51a3639b9871b1">
+                <param name="configFile" value="../../widget_data/config/f2f5905b030f46f4bc51a3639b9871b1.json" />
+            </object>
+        </section>
+        <p data-uuid="a878137ea08a4405a05cad2792594338">Japan was in ruins. Bombing raids had almost destroyed Tokyo, and the atomic bombs had flattened Hiroshima and Nagasaki. Japan had lost its empire. A legitimate government had to be established. General Douglas MacArthur took charge of rebuilding Japan. He disbanded the military and brought war criminals to trial. MacArthur and his team drew up a new constitution built on democratic principles, and it was quickly adopted. Although reviving the country’s economy was not really part of his job, MacArthur also pushed through a plan for land reform. Other reforms gave workers the right to create labor unions. By the early 1950s Japan was well on the road to recovery. Once bitter enemies, the United States and Japan became allies.<br />
+        </p>
+        <section class="question-long-text" data-uuid="391e14f3c16d4ffaa9e751cb3db38634">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="a8c1593011094a54a07f5a1b164053d4">
+                <param name="configFile" value="../../widget_data/config/a8c1593011094a54a07f5a1b164053d4.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="6071e7b693294462880f35e13833033c">
+            <div class="go-prompt-bottom-bar" data-uuid="a1c4f42c47fc4075941f585af805c35c">
+                <p data-uuid="2dc3c622071c429eba23dde727ec59c6">Remember to use the graphic organizer to take notes on the causes and effects of Germany’s and Japan’s surrenders.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="39d9d8e0fe454e4a9db57be0463fc4a4">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="1c3fb144b02945f985e4bfcefb8bc036">
+                <param name="configFile" value="../../widget_data/config/54709b6f4f9449a5b26645288d0f1dc3.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="8eecda4bed7e4cc18a59e3e2c7d42787"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="313e1756f4c34009b6e212054da452b9">
+            <button data-teacher-view-toggle="true" data-uuid="2eebeee844024bcf892ceaabc407a30c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ab793d85deb545c9b1c3c19c360f810a">
+                <param name="configFile" value="../../widget_data/config/ab793d85deb545c9b1c3c19c360f810a.json" />
+            </object>
+        </section>
+        <p data-uuid="f478eb6d7b224c52ad96c746fcd9ad74"><br />
+        </p>
+    </body>
+</html>

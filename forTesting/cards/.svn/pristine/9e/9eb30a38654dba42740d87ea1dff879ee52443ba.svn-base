@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="fee01fc193b349f696ef016295403d2e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Urban Problems</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="e461c47b957842a2920aa80c42f1be84">
+            <article data-uuid="0c72afd73f46400b81e6993cd6e2516b">
+                <h4 data-uuid="f9ab85246e4e4d9198d9e33e222bc6df">Main Idea</h4>
+                <p class="main-idea" data-uuid="0a402f92dc80402eb6e0e5d725e98d79">American cities experienced urban problems due to rapid growth.</p>
+                <h2 data-uuid="9b9a2b581ec84f8c83c3197a9ec8e383">Urban Problems</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="faf778caab3c49689b1e7fdb7944d2b2"></div>
+            </article>
+        </section>
+        <p data-uuid="cf7490b48ec94106a0bc4b318daa99e4">American cities in the mid-1800s faced many challenges due to rapid growth. Because public and private transportation was limited, city residents had to live near their workplaces. In addition, there was a lack of safe housing. Many city dwellers, particularly immigrants, could afford to live only in <b><dfn title="tenements">tenements</dfn></b>—poorly designed apartment buildings that housed large numbers of people. These structures were often dirty, overcrowded, and unsafe.<br />
+        </p>
+        <section class="image-with-hotspots" data-uuid="3fb08c39ec484c2e93707fb4fa9c4035">
+            <object type="text/html" data="../../assets/widgets/image_hotspot/index.html" class="widget" data-uuid="f4a7faef74d04db9a1ea2304144f9f21">
+                <param name="configFile" value="../../widget_data/config/f4a7faef74d04db9a1ea2304144f9f21.json" />
+                <param name="reference_id" value="ref:V_HC_2749" />
+                <param name="externalwidget" value="true" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="7f108197f86948e7ba2081a24cf5e22d">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="ecbddcf7f4554b34b31f99c3a3dff4b6">
+                <param name="configFile" value="../../widget_data/config/ecbddcf7f4554b34b31f99c3a3dff4b6.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="8fa32bebd58641d3bd945c659341db4a">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="57f43ce59e6b47ffb9eb838fe1914025">
+                <param name="configFile" value="../../widget_data/config/57f43ce59e6b47ffb9eb838fe1914025.json" />
+            </object>
+        </section>
+        <p data-uuid="65e560f3a29d401881ffb94a160c6f77">Public services were also poor. The majority of cities did not have clean water, public health regulations, or healthful ways to get rid of garbage and human and animal waste. Under these conditions, diseases spread easily and epidemics were common. In 1832 and 1849, for example, New York City suffered cholera epidemics that killed thousands.</p>
+        <p data-uuid="552983358c1146d3852f02f8ad27ae84">City life held other dangers. As urban areas grew, they became centers of criminal activity. Most cities—including New York, Boston, and Philadelphia—had no permanent or organized force to fight crime and violence. Instead, they relied on volunteer night watches, which offered little protection. The violence was often between various ethnic or racial groups, who had different economic and social goals. Immigrants often came from a mix of social classes, which led to cultural conflicts among groups. &#173;Differences in political goals and opinions also led to disagreements between groups. </p>
+        <p data-uuid="7935aa4a689c4e28b150eae11e306265"> Fire was another constant and serious danger in crowded cities. There was little organized fire protection. Most cities were served by volunteer fire companies. Firefighters used hand pumps and buckets to put out fires. In addition, there were not enough sanitation workers and road maintenance crews. These shortages and flaws caused health and safety problems for many city residents.<br />
+        </p>
+        <section class="question-long-text" data-uuid="71013b4a207442ba9db21a8724ca34ca">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="3ce9457d9a72403bbf24c52216cb672f">
+                <param name="configFile" value="../../widget_data/config/3ce9457d9a72403bbf24c52216cb672f.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="fd5d0a239acb4f54b0eb2828c6bfde51">
+            <div class="go-prompt-bottom-bar" data-uuid="f9c7bc90029a434898eda6004a319717">
+                <p data-uuid="b6417aedc4e14a83ad0960e5adcb260f">Remember to use the graphic organizer to take notes on how the rapid growth of cities led to problems.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="ee10c8ba6dc74da39c5b66745e9a42f7">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="3b5d201782a64a7b8e3202e30a915f2e">
+                <param name="configFile" value="../../widget_data/config/99f4994ac26749cd82954c677407fe6f.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="669c05c033c94b5580f7b324791e9aef"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f2d62557bb6440f68f07bda2bbacb235">
+            <button data-teacher-view-toggle="true" data-uuid="103bc714cacf496086f89f61b82d5389"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f2cb97ef941a47cdb71b0a3bb639e97a">
+                <param value="../../widget_data/config/f2cb97ef941a47cdb71b0a3bb639e97a.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

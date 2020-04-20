@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="4e367d2f61274971a86e8046146052c3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="523e9b7434ef4056b09f642310fcfc83">
+            <p class="lesson-number" data-uuid="7d200bcaea1e4c47bd026a6cbb4031d6">Lesson 2</p>
+            <article class="header-container" data-uuid="78cfcdaa3ec84e4ab1445431d6b4f687">
+                <div class="header-element" data-uuid="8384df04a7a6460587ee899b9912cb94">
+                    <h1 data-uuid="448a4a2b0d8d408da624afc486e51f94">The Growth of Cities</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="2b3c6d875d5d4a9aabae32b9c6dd4f07"></div>
+                    <h2 data-uuid="bbf0f464abe341809beaba0140c57d46">The Big Idea</h2>
+                    <p data-uuid="5ae981023b7b45dbbfcdaf4808be19db">American cities experienced dramatic expansion and
+                        change in the late 1800s.</p>
+                </div>
+            </article>
+            <article data-uuid="7c00aa393cbb4e89a9e015374ec15c01">
+                <h3 class="if-you-were-there" data-uuid="faac4d7582b8443a9f082cd34c4a4666">If YOU were there...</h3>
+                <p data-uuid="81ba172fcb4243958cccfc4e1ba19049">The year is 1905 and you have just come to the city
+                    of Chicago from the small town where you grew up. People rush past as you stop
+                    to stare up at the skyscrapers. Elevated trains roar overhead, and electric
+                    streetcars clatter along streets already crowded with pushcarts and horse-drawn
+                    wagons.</p>
+            </article>
+            <section class="reading-check" data-uuid="264a5d217b82470a8e94d5070e812858">
+                <section class="question-long-text" data-uuid="59e5cb903f11483fac01ee436b1afe07">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f8254728eb96436eb395989fd24b6dd0">
+                        <param name="configFile" value="../../widget_data/config/f8254728eb96436eb395989fd24b6dd0.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9977cc8700854a35852bba0b7212f1db">
+            <button data-teacher-view-toggle="true" data-uuid="b7adfbf253b648fbbed32fba35376371"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="db2cce6a66974ab68473fc98c78bbc8b">
+                <param name="configFile" value="../../widget_data/config/db2cce6a66974ab68473fc98c78bbc8b.json" />
+            </object>
+        </section>
+    </body>
+</html>

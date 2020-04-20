@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="54471cb538ee4b47b903503a6fbd1971">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="424d8e8ac141467caeb5f737e87e53a7">
+            <div class="header-element header-container " data-uuid="1e7f1364dd2141c1949b39c4d4ce721e">
+                <p class="lesson-number" data-uuid="cac03ce6ccc94efc9ef9788c54edb930"><br />
+                </p>
+                <h2 data-uuid="7d5d69ce4b53483c9ea2ea9252740605"> Essential Question-Writing</h2>
+                <p class="white" data-uuid="9d626c272a804edd934779e5ab8a7228">In this module you’ve
+                    learned about the American War for Independence. Now it’s your turn to demonstrate
+                    your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="54cb4c8560a14bbe97466d0579f24b3e">Why
+                were the American Patriots willing to risk their lives for independence?</h3>
+            <p data-uuid="cf986c3923234dc9901b4d9e3266ccf1">Write a persuasive essay
+                answering this question. Your essay should include details about the
+                reasons why American Patriots risked their lives for independence. Be
+                sure to cite evidence to support your position and organize your essay into an
+                introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7fc5f5b7e20042a291d16e214fbca9cd">
+            <button data-teacher-view-toggle="true" data-uuid="23f4f9c996e148f6bd313fd13c340756"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f68db1260b9546849ff3d433c81f5b37">
+                <param name="configFile" value="../../widget_data/config/f68db1260b9546849ff3d433c81f5b37.json" />
+            </object>
+        </section>
+        <p data-uuid="e82e28e18dfc4c16884dfc7b4cd0cdd3"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="f036f7d915454c4ba2af9b6c7c755fd9">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="1f152dd096b34b49acf461a3ebf0586c">
+            <div class="header-element header-container " data-uuid="d894ceeb867e42ac99f524bafde136d3">
+                <p class="lesson-number" data-uuid="19e03ed8adcf4d7cb91765416b11d349"><br />
+                </p>
+                <h2 data-uuid="f2eb34fc44b34871bc9481c57b457d6b"> Review</h2>
+                <p class="white" data-uuid="32b2de26b6bf486dbce937a8c3658718">In this module
+                    you’ve learned about the many ways in which the American society
+                    and culture of the 1920s differed from society and culture before World War I. Now
+                    you will review some key terms and people before completing the Module
+                    Assessment.</p>
+            </div>
+            <h3 data-uuid="c59f4f33a4ec4be6a6b404ecd3876fc0">Review Key Terms and People</h3>
+            <p data-uuid="fa9468da7499437bad40a897dc1f531f">Define each term or person
+                shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="e980da200e554d3aa5c5a883d0ab3d99">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget" data-uuid="213d7925efe54e0596ad3e844ccf9a97">
+                    <param name="configFile" value="../../widget_data/config/213d7925efe54e0596ad3e844ccf9a97.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="d97e4c96b8b74d6a984214908fb551e3">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="f0ff916ec5494a728382978b6a824b4c">
+                    <param name="configFile" value="../../widget_data/config/f0ff916ec5494a728382978b6a824b4c.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="39a99af7347f48aaa35cd9afb5c756c3">
+            <button data-teacher-view-toggle="true" data-uuid="d0731946c86f4bf0a75fba211306bb92"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e363336c405f4a12bded41db3ba3050d">
+                <param name="configFile" value="../../widget_data/config/e363336c405f4a12bded41db3ba3050d.json" />
+            </object>
+        </section>
+        <p data-uuid="2985c4e5ccaf421db04d280b38a43edf"><br />
+        </p>
+    </body>
+</html>

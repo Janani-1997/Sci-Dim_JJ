@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="40a1c912349a4513b28394aee02c9f64">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="f349643cfdf649bb8c16557641653edc">
+            <div class="header-element header-container " data-uuid="54c985d53c7c4143ae8a3b26d3a7a5aa">
+                <p class="lesson-number" data-uuid="74ef51354b834a24bf8ab1a804fff41e"> Lesson 3</p>
+                <h2 data-uuid="f091bcc504074127be5134c210693f47">Review</h2>
+                <p class="white" data-uuid="f766e407f08649d79315572b7433418e">In this lesson you learned how Andrew Jackson supported a policy of Indian Removal and how that affected Native Americans. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="c6529072e3d34e1abaa529bc46f61d2e">Review Key Terms and People</h3>
+            <p data-uuid="d44e612e7f39476d94f83de03952fffd">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="7c2e3c31584247258de88cff5a722ab2">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="5a6aac3327e24d009339485c1d668ad8">
+                <param name="configFile" value="../../widget_data/config/5a6aac3327e24d009339485c1d668ad8.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev " data-uuid="9e61f4bd5c7f48d68a1d0f984ce18d26">
+            <div class="go-prompt-bottom-bar" data-uuid="4d40afda5c5f45d5bfb86fc15e90834b">
+                <h5 data-uuid="7a38412669b24a2d8d47e3c10e75ae30">Review the Graphic Organizer</h5>
+                <p data-uuid="96eac3b52d7642a4b010fd385980e707">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="f35b8954ee9d48a68bb77ee427c82ab3">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="075b9c8c0a7a48609a129bc81f55f3bd">
+                <param name="configFile" value="../../widget_data/config/b913cf008ae24349ae08435c3e7c8cbf.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="808deae164704419a089b3e77327df5b"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8c58f14c290a43f6b8ba978c7064675b">
+            <button data-teacher-view-toggle="true" data-uuid="bd0daba7582c4695ae522d5e7d7b82be"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="38f692f89b5344baa1259ed08f8cec81">
+                <param value="../../widget_data/config/38f692f89b5344baa1259ed08f8cec81.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

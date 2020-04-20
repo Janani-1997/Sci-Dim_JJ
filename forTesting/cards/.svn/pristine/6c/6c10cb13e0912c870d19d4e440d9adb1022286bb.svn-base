@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e493cd477db74053a45824acda55eccf" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="194bf20f02314b9e8269709314587ac2">
+            <div class="header-element header-container " data-uuid="8dd98d9ae7cd47c480340177080b0395">
+                <p class="lesson-number" data-uuid="df92bed6a58141ad90d37fdc671a97e5">Lesson 2</p>
+                <h2 data-uuid="a881758e3d9f432dafae7af40c9987bb">Assessment</h2>
+            </div>
+            <h5 data-uuid="0023678e4f9f45caa8400228e81199d0">Roosevelt’s New Deal</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="8a93359e83d34771badee78aa328b39c">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="a052e4f1cba2422f937b798011aa2360">
+                <param name="configFile" value="../../widget_data/config/a052e4f1cba2422f937b798011aa2360.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="92ba39ee24494af694fddaab9ee6b581">
+            <button data-teacher-view-toggle="true" data-uuid="1354285140de4a6295e5395820ae87f1"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="2c7cbde4a94a4fda97ad104a0aa776d5">
+                <param name="configFile" value="../../widget_data/config/2c7cbde4a94a4fda97ad104a0aa776d5.json" />
+            </object>
+        </section>
+        <p data-uuid="68615de07925494fabca64230b8690db"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b8df81ff330b441ca8b680c690b9877c">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Constitutional Convention</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="e1bd46589e88485abcd7b20f31e5e2fb">
+            <article data-uuid="59bf11e4fe2f41788d28d5c054d1a68a">
+                <h4 data-uuid="348b58ef10f84cccb8c5e920a110f013">Main Idea</h4>
+                <p class="main-idea" data-uuid="5283a373f774416cb6482fb4f5c33289">The Constitutional Convention met to improve the
+                    government of the United States.</p>
+                <h2 data-uuid="43e74628e9044c2faefdf1540b19adc5">Constitutional Convention</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="a86b1f75561444cbaf802454c46b5950"></div>
+            </article>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="7934b3cc7a6440ee885e807a8ea48c4a">
+            <div class="go-prompt-bottom-bar" data-uuid="bd2c64cba8df492c828dd1873bcac1d5">
+                <p data-uuid="709792f257e94532b1442c71afd5f2da">As you read, use the graphic organizer to take
+                    notes on the delegates to the convention and those who declined to participate.</p>
+            </div>
+        </section>
+        <h3 data-uuid="117ac0e181ac4c1b8cb4e9ef16def052">The
+            Delegates Gather</h3>
+        <p data-uuid="84382e562c484e0aa7cf3be18d6302e4">In February 1787 the Confederation Congress invited each
+            state to send delegates to a convention in Philadelphia. The <b><dfn title="Constitutional Convention">Constitutional
+            Convention</dfn> </b>was held in May 1787 in
+            Philadelphia's Independence Hall. The goal of the meeting was to improve the
+            Articles of Confederation.</p>
+        <p data-uuid="e4f6cc331e1849708d3f407282ecab28">Several major issues divided the delegates to the
+            Constitutional Convention. Some members wanted only small changes to the
+            Articles of Confederation, while others wanted to rewrite the Articles
+            completely. In the end, the delegates would leave with an entirely new U.S.
+            Constitution. This decision angered some of the participants.</p>
+        <p data-uuid="8d23aa6d95804ba0b9d386982bed7532">
+            Most
+            delegates were well educated, and many had served in state legislatures or
+            Congress. Benjamin Franklin and <b><dfn title="Madison, James">James Madison</dfn></b> were there. Revolutionary
+            War hero George Washington was elected president of the Convention.</p>
+        <section class="image-with-rich-media-hotspot" data-uuid="2ef5a0ad72144636be86e7c8f3b1a0e1">
+            <object type="text/html" data="../../assets/widgets/image_hotspot_rich_media/index.html" class="widget" data-uuid="bbb428f957cb4794b5760bedd5a3413c">
+                <param name="configFile" value="../../widget_data/config/bbb428f957cb4794b5760bedd5a3413c.json" />
+                <param name="reference_id" value="ref:V_HC_2749" />
+                <param name="externalwidget" value="true" />
+            </object>
+        </section>
+        <p data-uuid="ff4df2234cab4424879064e7edb792d3">Several important voices were absent. John Adams and Thomas
+            Jefferson could not attend. Patrick Henry chose not to
+            attend because he did not want a stronger central government. Women, African
+            Americans, and Native Americans did not take part because they did not yet have
+            the rights of citizens.<br />
+        </p>
+        <section class="reading-check" data-uuid="51436c9a8e684905975f0fa020215b07">
+            <section class="question-long-text" data-uuid="aa61929412294e758cebdd890accbf5a">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="1f705ae9a7b24a0f83c1c38db9002b6d">
+                    <param name="configFile" value="../../widget_data/config/1f705ae9a7b24a0f83c1c38db9002b6d.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="fe658ac0f92344b2b8ea9c86a8a2b4f9">
+            <div class="go-prompt-bottom-bar" data-uuid="9b9e802b07bb4b0a93eb66337bab2425">
+                <p data-uuid="74e2afe5ef644463bc508149666c2b4b">Remember to use the graphic organizer to take notes on the problems that the delegates faced at the convention.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="3db5ba7999fe458494c30e4e6d5009dc">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="ba950587cdef4761ad6179717b95a708">
+                <param name="configFile" value="../../widget_data/config/ba950587cdef4761ad6179717b95a708.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="eb517ea4e83c47b7825db8b16f685233"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="16c733ee79e9418b9f0ccbf7584826e3">
+            <button data-teacher-view-toggle="true" data-uuid="46ae84a8a0b04165ac4f1a1ae1a66337"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5e75fc899dda4f539e357f9b92e536fd">
+                <param value="../../widget_data/config/5e75fc899dda4f539e357f9b92e536fd.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

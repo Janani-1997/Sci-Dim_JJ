@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c2886d3a9631491f98fdfa721626e689">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="10337c821026471ca7cf88e0f32ebeb2">
+            <div class="header-element header-container " data-uuid="ca8591ca21a44c26a8bb61fcf7340c81">
+                <p class="lesson-number" data-uuid="c057d68feec34758b0d7103c9dfc141c"> Lesson 3</p>
+                <h2 data-uuid="84824447266a4fc8b5abb7cf649d496d">Review</h2>
+                <p class="white" data-uuid="88d8a5be5fd44f7b99ac536e442d843e">In this lesson, you’ve learned about the ways in which musicians, artists, actors, and writers contributed to American popular culture in the 1920s. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="f6f7030fb8c74daab633aef051f613c0">Review Key Terms and People</h3>
+            <p data-uuid="053643c7c2374664801e49d30f0f6d33">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="be33b4fffd0e42b697adcbaf598b6776">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="7cd1df3e976348cd86e26e00a01bc690">
+                <param name="configFile" value="../../widget_data/config/7cd1df3e976348cd86e26e00a01bc690.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="9fe7bbb56c67450fb76b769182a7f817">
+            <div class="go-prompt-bottom-bar" data-uuid="734d5554116c40eca8645616639e8d04">
+                <h5 data-uuid="d3333a5ba272451d9a5973f550f01658">Review the Graphic Organizer</h5>
+                <p data-uuid="0f2757781224491a94293bf5b9e85add">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="a7e6fd3891874d0094c856c555f16a17">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="814887756d23415caff1d5d518d0d252">
+                <param name="configFile" value="../../widget_data/config/814887756d23415caff1d5d518d0d252.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="18636bea50d8429c8424a0220a74054c">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="8e3cfb1701e74d07a990cdf1876c5074">
+                <param name="configFile" value="../../widget_data/config/898952b5eb4342f2aff354916c9fdae0.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="e3dc3f263b774e7c91297701c2209698"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="04fb9558d63e4e8ba8841a07501b9118">
+            <button data-teacher-view-toggle="true" data-uuid="477c8c70528248afbb997b53464f4448"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="51bf1eb7f2ef496f80793b5c0e0df90f">
+                <param value="../../widget_data/config/51bf1eb7f2ef496f80793b5c0e0df90f.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

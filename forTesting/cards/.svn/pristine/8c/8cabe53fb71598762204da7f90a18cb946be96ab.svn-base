@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d78c5e2a12b84aacbc4d30a5d285e534">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="096be1031374468f8fd9946a56896fd2">
+            <div class="header-element header-container " data-uuid="1f99aa4a91a544f591e97d1439f3b6dd">
+                <p class="lesson-number" data-uuid="42617470f2bb443ca418601b87c2f3de">Lesson 2</p>
+                <h2 data-uuid="bc94056c6c3948e09716e08dba20ad9d">Assessment</h2>
+            </div>
+            <h5 data-uuid="3952fec792794321ae9f9555299afb27">Domestic and Foreign Policy Issues</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="3b89511729194c69a26f5e231b6d4373">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="1809bf9381684416949231ee9f2e5c63">
+                <param name="configFile" value="../../widget_data/config/1809bf9381684416949231ee9f2e5c63.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c0125cba42664a22beb9153431959b85">
+            <button data-teacher-view-toggle="true" data-uuid="57b9851979764305b543f74725a2cf7d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8574c42a19dd4c2995043272419da45b">
+                <param name="configFile" value="../../widget_data/config/8574c42a19dd4c2995043272419da45b.json" />
+            </object>
+        </section>
+    </body>
+</html>

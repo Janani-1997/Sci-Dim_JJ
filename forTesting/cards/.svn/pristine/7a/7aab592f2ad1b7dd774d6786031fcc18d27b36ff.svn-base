@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="80c7a611b13e4c71ac2ef4907275a0af">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="d828bf21ec524b8da3f3b5b7d2437f15">
+            <div class="header-element header-container " data-uuid="e97be1eafa694494bf7b8c7d5d71bbd0">
+                <p class="lesson-number" data-uuid="33bba12db02f4ef5bfa3f4d2fdf7ef6b"> Lesson 2</p>
+                <h2 data-uuid="fe33bd1f53b94f66ae04f9e72430dcfa">Review</h2>
+                <p class="white" data-uuid="e099f46c1d144f4ba7cb74b49ebde077">In this lesson you learned the War of 1812 showed Americans that the nation would survive. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="2ff45783672c45688bff94cec94036bd">Review Key Terms and People</h3>
+            <p data-uuid="cbcde6afb8a34f718d5c7564d92734a2">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="0018f51fea8f4684a18e81cff8124d9a">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="045d7b1926a94ee0b48c5b9fcb3c931a">
+                <param name="configFile" value="../../widget_data/config/045d7b1926a94ee0b48c5b9fcb3c931a.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev " data-uuid="ee0092f2138e411b97e30daafab90b02">
+            <div class="go-prompt-bottom-bar" data-uuid="bacfb9c24066437283080af41a5b9ab1">
+                <h5 data-uuid="5fe2c9edb5d54cfc83e97c450ee0aeea">Review the Graphic Organizer</h5>
+                <p data-uuid="a4100565cde74070a285e2d5532921db">Review your graphic organizer notes and use them to answer the following questions.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="27d5def96be14e60a1c38fa67f0975ca">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="7f9731584fa54228a9443e901be82c20">
+                <param name="configFile" value="../../widget_data/config/7f9731584fa54228a9443e901be82c20.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="a918e6c66c63474a9900fc67521e9149">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="bdb0ec90fc7b4044b9110d839b5248ef">
+                <param name="configFile" value="../../widget_data/config/90318b75cd5941ce8312da396ba5223a.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="f576b7cadf624b9d91ae21dc692ad409"></button>
+        </section>
+        <p data-uuid="94f89f16321b42edb9ffde5a8ec4eac7"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="69967bc9ae83457ea9ecfa5a83dbc9ed">
+            <button data-teacher-view-toggle="true" data-uuid="cc409d0cb86a4518813f46057e8f624f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="253122f3a09540d9bfec11ab4371a456">
+                <param value="../../widget_data/config/253122f3a09540d9bfec11ab4371a456.json" name="configFile" />
+            </object>
+        </section>
+        <p data-uuid="5b21807af17944b386a1cc99b26fec2c"><br />
+        </p>
+    </body>
+</html>

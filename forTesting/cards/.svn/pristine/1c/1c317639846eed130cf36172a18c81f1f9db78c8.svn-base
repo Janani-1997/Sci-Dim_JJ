@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="9d54a95f54584f05ae26366fb6869edc">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="332f23a4a8fa486d949f3178434d6662">
+            <div class="header-element header-container " data-uuid="0ab9b2dc3e854a5c94f48b3e65270b10">
+                <p class="lesson-number" data-uuid="158cf38b956f4b2d9d508af5978532e0">Lesson 4</p>
+                <h2 data-uuid="f79a67816c454465b3e19dae2fd89f04">Assessment</h2>
+            </div>
+            <h5 data-uuid="81af1b59d55c454eb242755b4f647659">Abolition</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="afd8bda785ef4f1198d2d94d39f804f9">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="842e291412724a62ab9c343b565ffd6a">
+                <param name="configFile" value="../../widget_data/config/842e291412724a62ab9c343b565ffd6a.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4c4ef716dd6d419aab2d20ff5193cf45">
+            <button data-teacher-view-toggle="true" data-uuid="3e4ac6b7a6954befa2e395abb8dc8618"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="59d41c8ffa9843bba6df572f774391f9">
+                <param name="configFile" value="../../widget_data/config/59d41c8ffa9843bba6df572f774391f9.json" />
+            </object>
+        </section>
+    </body>
+</html>

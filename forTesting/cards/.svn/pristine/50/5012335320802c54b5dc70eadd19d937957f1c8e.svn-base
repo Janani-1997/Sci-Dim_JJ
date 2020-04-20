@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c3fe0649bc7e4d63bd9ed77699bf7109">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="34eb97c9d5c34256a976c82b9b4458fe">
+            <div class="header-element header-container " data-uuid="fbe3993fe0ce4a2a80d9d1aafef42c61">
+                <p class="lesson-number" data-uuid="7ad070b7968f4babb116e2bd94b7cc18"><br />
+                </p>
+                <h2 data-uuid="d6b65806d76644a59048bb8c823b3d0d"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="9decf478640a49ceab88629a496f911f">Part 2: Write an Informative Essay</h3>
+            <h6 data-uuid="8f860994db074cec90de0160f92ca9ba">Historical Context</h6>
+            <p data-uuid="2e0569256b844d0e915cbfda16468734"></p>
+            <p data-uuid="697427b9317e44e1b4310b910633524c">Following the stock market crash in 1929,
+                the economy fell into a depression. Banks failed and businesses closed. Millions
+                of workers lost their jobs. Making matters worse, a severe drought hit in the
+                1930s. Unable to grow crops, farmers across the Great Plains lost their land.</p>
+            <h6 data-uuid="4da0e714fdc9455eaa9c7687cfcfcaac">Task</h6>
+            <p data-uuid="8e7df474b31d41a5989f67936da0e7d2"></p>
+            <p data-uuid="29b62cbb3bed47ee9ca35294f467940f">The Great Depression spread poverty across
+                the country. Americans struggled to cope with the effects of dust storms and
+                the economic collapse. Write an informative essay in which you describe the
+                hardships facing Americans in the 1930s, as well as the government’s efforts to
+                help.</p>
+            <p data-uuid="ddd9c4d009914b429e53c3c9e837fe6f">Complete the following steps as you plan
+                and compose your essay.</p>
+            <ol data-uuid="801e632964484c8685a6306245d54a40">
+                <li data-uuid="95e508828dd94bf78591ce37391f57a1">Review your
+                    notes and sources before you start writing.<br />
+                </li>
+                <li data-uuid="f46ec936f5bb441e8575cdc112254727">Use at
+                    least <i>two</i> of the sources in Part 1, and develop the topic with relevant,
+                    well-chosen text or visual evidence from the documents.<br />
+                </li>
+                <li data-uuid="b3ce98f3da39415895c56b9075df2d5a">Cite
+                    specific text or visual evidence from each of the sources in your response.<br />
+                </li>
+                <li data-uuid="d57c935d74d94508ac8810398d6ad036">Plan your
+                    essay so that it includes an introduction, several body paragraphs, and a
+                    concluding paragraph.<br />
+                </li>
+                <li data-uuid="f7607df70cb34cd183a3c3f7e0e40030">Organize
+                    your essay in a clear and logical way that focuses on the topic and supports it with
+                    explanations and facts.<br />
+                </li>
+                <li data-uuid="e516d3aece8b4ebf9e2e02ec7c414044">Write a conclusion that sums up your ideas and
+                    supports the information you present.</li>
+            </ol>
+            <ol data-uuid="e909eee59af444089c3a5b9fdd51f6df">
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="804ac6668064461a96febf2c6d7a6a1a">
+            <button data-teacher-view-toggle="true" data-uuid="a218cbc02d8e4842986a80944a49aa6c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cf1218a2155a4e709b0b7b22369fa6b7">
+                <param name="configFile" value="../../widget_data/config/cf1218a2155a4e709b0b7b22369fa6b7.json" />
+            </object>
+        </section>
+        <p data-uuid="dc9020e64a0c470582aefc4e1b8e44af"><br />
+        </p>
+    </body>
+</html>

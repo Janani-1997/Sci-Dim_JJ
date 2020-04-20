@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="cc6f039bd9ee4c278aaae628cc72b978">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="6d263d0698774af68e738b6176935fe5">
+        <div data-uuid="9a1abfe5d5a9480a8f2226fcea4788cf">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="5e21d9852b3343f1899b447ad3af6f2f"/>
+        <div class="header-element" data-uuid="4bdb3192bb4b47ae8d3bc2f1227b1be8">
+            <section class="calendar-container" data-uuid="0163e6c9f16040c69b5ed6106a3d8a22">
+                <div class="yellow-star-yellow-bar" data-uuid="c23216cdc72f4d82b8f25b99d3ce6ac7"></div>
+                <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                <h1 data-uuid="045e3daa5e3249e2a38eaa0def88d2b2">World
+                    War I</h1>
+            </section>
+            <section class="eq-container" data-uuid="20bbd625bcfd4de2831d9322e5139b58">
+                <figure class="image" data-uuid="9d13b94910b5476cb96f4a6382c4dba0">
+                    <img alt="This photograph shows a line of soldiers in a trench, looking over their guns, during World War I." data-uuid="27eddfbafd83419aa7950286b30044a9" src="../../img/module_24opener/ms_snlese454149_904p.jpg" />
+                    <div class="image-metadata-container" data-uuid="ce5a65c4789343b99897d34ec214be60">
+                        <span class="image-text image-alt"></span>
+                        <span class="image-text image-credit"></span>
+                    </div>
+                </figure>
+            </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="c6cd42f018c84e77a6905b8eb7d677a5">
+    <p class="caption" data-uuid="4a49ded67e6748f98232d2a9f2170a4a">Many World War I soldiers fought in trenches.</p>
+            </div>
+            <article data-uuid="437c6eb706ab4a9c9744341371cbda9a">
+                <h3 class="eq" data-uuid="da92738f3f944adda39047f8512a905b">Essential Question</h3>
+                <h3 class="eqt" data-uuid="671610961f3c4e53943012aaaf4c6c4e">How
+                    did World War I impact America and transform Europe?</h3>
+                <p data-uuid="46aaa99230fc443c9600e006e487d8a8">Even
+                    though World War I did not begin until 1914, the tensions that led to it dated
+                    back to the late 1800s. Over the years, many countries created alliances with
+                    one another. This led to an atmosphere of distrust that eventually exploded
+                    into war.</p>
+                <p data-uuid="35c3705e98f04c07b2b655abd8e439c1">
+                    As you read this module,
+                    look for evidence of how an assassination in Europe sparked the deadliest war
+                    the world had ever seen. Note the key people, decisions, circumstances, and
+                    turning points that resulted in World War I. When you are done, you will write
+                    a short essay answering the Essential Question for this module.</p>
+            </article>
+            <section class="video-container " data-uuid="2e1926d079f14469b52e89d7af959697">
+                <article data-uuid="f845ba49bdbb44008229e2fc9ebbbd1b">
+                    <h3 class="vid" data-uuid="52bf25597df343169095039600e9e96c">The Allied Powers Ask the United States for Help</h3>
+                    <p class="vid" data-uuid="0f91147e9190437f9e8d25d71d155f63">Britain
+                        and France needed help from their allies. Both countries had taken huge
+                        casualties in over two years of war. The challenge to the United States: go to
+                        war overseas, or try to stay neutral?</p>
+                    <section class="video" data-uuid="389d669854b5454f9464968f124e435a">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="2ef57cba144e44ef8e3522138eb33467"><param name="configFile" value="../../widget_data/config/2ef57cba144e44ef8e3522138eb33467.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="5ad27e3a3d424b53b35742bc6cced503">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f5265d3206f341a8a1f1340951398d9a">
+                    <param name="configFile" value="../../widget_data/config/f5265d3206f341a8a1f1340951398d9a.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="3cd1b4e88a944bd08e9997e00056e9b9">
+                <article data-uuid="7c45dd43332b48a8a1a0f4cb3f1d1d8b">
+                    <h3 class="mod" data-uuid="b496397736374a228bf89a784d7fc3de">World
+                        War I, 1914–1920</h3>
+                    <p class="mod" data-uuid="4ded08bd908f4b61b12f25f9e1a980cf">After
+                        43 years of peace in Europe, a political assassination in 1914 sparked a
+                        devastating war. The rise of nationalism led to alliances, political tension,
+                        and eventually an international conflict. It ended with the defeat of the
+                        Central&#160;powers in 1918.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="e7910593c1f6484197e4cfddd3b557e2">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="fc53467d06094124bc8cf9d840071422">
+                    <param name="configFile" value="../../widget_data/config/fc53467d06094124bc8cf9d840071422.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="aaa22005b3204ecd98da12fe3b9e979b">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="17185a4149784e208eaac7aec71ec7be">
+                <param name="configFile" value="../../widget_data/config/17185a4149784e208eaac7aec71ec7be.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="98f79530eb30409385e77d5c8644b867">
+            <button data-teacher-view-toggle="true" data-uuid="8b44757a43c144f1bef41ee4e11a6a1e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="94b18013acc44da3b0d0fe719e5b215c">
+                <param name="configFile" value="../../widget_data/config/94b18013acc44da3b0d0fe719e5b215c.json" />
+            </object>
+        </section>
+    </body>
+</html>

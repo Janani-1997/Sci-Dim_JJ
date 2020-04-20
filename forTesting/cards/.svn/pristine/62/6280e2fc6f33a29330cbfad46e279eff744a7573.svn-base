@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ada2f811cc9d467c993d381e40610d67">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Bill of Rights</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="5b329be769434808a858fc30c04a060d">
+            <article data-uuid="5308d8e45ab4444ca2f7663c49bf1965">
+                <h4 data-uuid="bae4fb1ce3e3473ab787c7c2ad31c37b">Main Idea</h4>
+                <p class="main-idea" data-uuid="16410935596448b2b1703643acab7176">Ten amendments were added to the Constitution to provide a Bill of Rights to protect citizens.</p>
+                <h2 data-uuid="6fa8ff94827e4378bf349a480615d173">Bill of Rights</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="f5d211499b98460babf3fcc753bf4e17"></div>
+            </article>
+        </section>
+        <h3 data-uuid="012789585e6b461ba52f7d83690660bd">The Living Constitution</h3>
+        <p data-uuid="e43d680adc8e4688a967363b3c39acef">Several states ratified the Constitution only after they were promised that a bill protecting individual rights would be added to it. Many Antifederalists did not think that the Constitution would protect personal freedoms.</p>
+        <p data-uuid="a9fb649cad7a47b880a5c2dce7681b9b">Some Federalists said that the nation did not need a federal bill of rights because the Constitution itself was a bill of rights. It was, they argued, written to protect the liberty of all U.S. citizens.</p>
+        <p data-uuid="0de8c2565657440ebaadc563efd039d2">James Madison wanted to make a bill of rights one of the new government's first priorities. In Congress's first session, Madison encouraged the legislators to put together a bill of rights. The rights would then be added to the Constitution as <b><dfn title="amendment">amendments</dfn></b>, or official changes. In Article V of the Constitution, the founders had provided a way to change the document when necessary in order to reflect the will of the people. The process requires that proposed amendments must be approved by a two-thirds majority of both houses of Congress and then ratified by three-fourths of the states before taking effect.</p>
+        <p data-uuid="574b848ce95d4ab3af245b9e3bf4099c"> Legislators took ideas from the state ratifying conventions, the Virginia Declaration of Rights, the English Bill of Rights, and the Declaration of Independence to make sure that the abuses listed in the Declaration of Independence would be illegal under the new government. In September 1789 Congress proposed 12 amendments and sent them to the states for ratification. By December 1791 the states had ratified the <b><dfn title="Bill of Rights">Bill of Rights</dfn></b>—ten of the proposed amendments intended to protect citizens’ rights.</p>
+        <figure class="image-with-caption main" data-uuid="ca420a401007414ca3fb1a83522a7b03">
+            <img alt="This is a photo of the original Bill of Rights, which lays out the first 10 amendments to the Constitution. It was ratified in December of 1791." data-uuid="d77b860a79be4a5bb32db618c4a40f9c" src="../../img/module_5_lesson04/ms_snlese454149_238p.jpg" />
+            <div class="figcaption" data-uuid="bc1a42b8f0844f0d8aa2e541c2b5138e">
+                <p class="caption" data-uuid="9401c499e1a0488c82d48cf003d5690a"> In
+                    this document, Congress proposed 12 amendments to the U.S. Constitution. Articles
+                    III to XII became the 10 amendments known as the Bill of Rights. </p>
+            </div>
+        </figure>
+        <p data-uuid="80e5623a42544e3d956151038fd6623c">These ten amendments set a clear example of how to amend the Constitution to fit the needs of a changing nation. The flexibility of the U.S. Constitution has allowed it to survive as a living document for more than two hundred years.<br />
+        </p>
+        <section class="reading-check" data-uuid="a01a2014406f4180aa13d1ca99866beb">
+            <section class="question-long-text" data-uuid="514fcdaad11145e6833a76562673b8f7">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="74e6ad4f1ddd4f31b0a9de11e356c0e4">
+                    <param name="configFile" value="../../widget_data/config/74e6ad4f1ddd4f31b0a9de11e356c0e4.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="4f70f9bbb7b5454ca67650b643487de8">
+            <div class="go-prompt-bottom-bar" data-uuid="84654f18ffde4564ab3f6afc9ff49749">
+                <p data-uuid="099a8538a3604e7c86cf494adcca0c21">Remember to use the graphic organizer to take notes on the Bill of Rights.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="b92489eded954a0da32b75df1c397d4d">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="6a8e7618fd8744a1932a8f46c8b86a00">
+                <param name="configFile" value="../../widget_data/config/540e9d91de6247abb69d86213ec7699c.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="9f1eaaa359574d9a86514b829782edc3"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="1ffe896b5a764b19ab7acaf1dd81aa4f">
+            <button data-teacher-view-toggle="true" data-uuid="cbd6381a1cb64743bc8eba7c18cac74f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="603d9a1e23f341b9bfdef12ea6860f43">
+                <param value="../../widget_data/config/603d9a1e23f341b9bfdef12ea6860f43.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

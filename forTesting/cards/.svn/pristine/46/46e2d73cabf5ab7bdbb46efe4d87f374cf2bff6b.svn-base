@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7f6faa2b9bfe46a5a5576b17775aa6af">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="b9b29ad7e30a4487b544d2b39dbcb491">
+            <div class="header-element header-container " data-uuid="5c20b631207c4a6883b50cc5ffa0ce12">
+                <p class="lesson-number" data-uuid="8d89ec627af6426d9c201507923b61aa"><br />
+                </p>
+                <h2 data-uuid="18eaf45993ee4788bf9294f07a434e6a"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="8ab5ee886c504d67adfb6f703768b582">In this module you’ve learned about how the
+                    Union and the Confederacy fought a horrific war. Now it’s your turn to demonstrate
+                    your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="d238350f3a2744ab8d9f45b01fb4bf4f">How did the Civil War transform the nation?</h3>
+            <p data-uuid="598e32c695de44508a5e4908c2f1624d">Write a persuasive essay answering this
+                question. In your essay, discuss how the country was divided, the resources
+                each had at their disposal, the battles and tactics used, the Emancipation
+                Proclamation, and how the war affected civilians. Be sure to cite evidence to
+                support your position, and organize your essay into an introduction, body, and
+                conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0698873dce98470b8dadb14dbd603fc3">
+            <button data-teacher-view-toggle="true" data-uuid="5b00a65fea95456ebd5e1ceab44655e9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8ee751bf97a247ebb8d8593541fa42ec">
+                <param name="configFile" value="../../widget_data/config/8ee751bf97a247ebb8d8593541fa42ec.json" />
+            </object>
+        </section>
+        <p data-uuid="db272a3d24944291a6e23d91244ac779"><br />
+        </p>
+    </body>
+</html>

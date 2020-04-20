@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="81479537feb243f0891af122e6127ecc">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>The Intolerable Acts</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="430df21efcc84260834713b7caf33cdb">
+            <article data-uuid="8f94fa1a948044029e805778df0aaef7">
+                <h4 data-uuid="f09fa160aeec4fbd83a2634bb02685c6">Main Idea</h4>
+                <p class="main-idea" data-uuid="4c7c70863351420c8f6700ac28ecff10">Great Britain responded to colonial actions by passing the Intolerable Acts.</p>
+                <h2 data-uuid="b8cd570e883041ab8dd49ad62517481b">The Intolerable Acts</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="7e138bbd8ad743288e69289af831029a"></div>
+            </article>
+        </section>
+        <p data-uuid="163accf4285344c786e49aa6f2de9d68">Lord North, the new British prime minister, was furious when he heard the news. Parliament decided to punish Boston. In the spring of 1774 it passed the Coercive Acts. Colonists called these laws the <b><dfn title="Intolerable Acts">Intolerable Acts</dfn></b>. The acts had several effects.</p>
+        <ol data-uuid="cf7a4deca77a4f6a9639a9012e17ac49">
+            <li data-uuid="ca5d3e04d83847d4974eb1e056ccb62f">Boston Harbor was closed until Boston paid for the ruined tea. </li>
+            <li data-uuid="1263eacece2d4c80a19513fec1f6e829">Massachusetts’s charter was canceled. The governor decided if and when the legislature could meet.</li>
+            <li data-uuid="275833f8fa9445439b917e7b4f205127">Royal officials accused of crimes were sent to Britain for trial. This let them face a friendlier judge and jury.</li>
+            <li data-uuid="b72a410856574adba34cc7f9ca6bb024">A new <b><dfn title="Quartering Act">Quartering Act</dfn></b> required colonists to house British soldiers.</li>
+            <li data-uuid="68b00c4425eb474583749b7973bd3928">The Quebec Act gave a large amount of land to the colony of Quebec.</li>
+            <li data-uuid="a5396ebc3ecd4459a5672f0266559f53">General Thomas Gage became the new governor of Massachusetts.</li>
+        </ol>
+        <p data-uuid="7aa88793c8a64818b4618133a0789549"> The British hoped that these steps would bring back order in the colonies. Instead, they simply increased people’s anger at Britain.<br />
+        </p>
+        <section class="ssna-time-traveller" data-uuid="04cdf6c7719847c28264b765ef4aabff">
+            <object type="text/html" data="../../assets/widgets/time_traveler/index.html" class="widget" data-uuid="c2dc33d4a5e545f8859dc3efd89ceadd">
+                <param name="configFile" value="../../widget_data/config/c2dc33d4a5e545f8859dc3efd89ceadd.json" />
+            </object>
+        </section>
+        <section class="reading-check" data-uuid="b2355354b3574cd5be47845bf289adbe">
+            <section class="question-long-text" data-uuid="10739893174140c580412c45c9658436">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="00580da267c84b2eb1a0c864d935c23e">
+                    <param name="configFile" value="../../widget_data/config/00580da267c84b2eb1a0c864d935c23e.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="12aa722a97054e1c93a7459dc1b73d8a">
+            <div class="go-prompt-bottom-bar" data-uuid="aa795f41fea6427394eacfb3df2b6e94">
+                <p data-uuid="816342c4d07c4d3da6489d15e20f3600">Remember to complete the graphic organizer with information on the laws passed by the British government.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="9bcbb7106ceb40b2b0030eb6aba5c018">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="832f900fce4a4326b90cea6409af3624">
+                <param name="configFile" value="../../widget_data/config/c37b45ceb7864d959b36cecf8bdb46cc.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="3f6d701e8b824ce899d256a76f8a1969"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4c7f319f93de44feb53a4d9360a97343">
+            <button data-teacher-view-toggle="true" data-uuid="6e49e09aa8b048a39e751944ea187548"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c77bfcd373f24bfcb2a56ef3889bfd8a">
+                <param value="../../widget_data/config/c77bfcd373f24bfcb2a56ef3889bfd8a.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

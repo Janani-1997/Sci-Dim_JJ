@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="16b346653c4e4540a2222b26673f379a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="776a0dac2cf44db284073cef4cdd3b7f">
+            <p class="lesson-number" data-uuid="3017cb84ee69434387cebe915c3e5c60">Lesson 3</p>
+            <article class="header-container" data-uuid="6ddf41ae54534a0e9fa3ddb6b25be104">
+                <div class="header-element" data-uuid="6cef23f450ff44bea8692d858fe0b692">
+                    <h1 data-uuid="9539e347310142a89fd3e5fc61c604f7">The
+                        United States and Latin America</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="434c12e2a93c4f519d5088991dea0e9a"></div>
+                    <h2 data-uuid="714e8a287768415488a8921e00a68be3">The Big Idea</h2>
+                    <p data-uuid="da76f9a714634d8a9084794ac86d6e63">The
+                        United States expanded its role in Latin America in the early 1900s with new
+                        foreign policy.</p>
+                </div>
+            </article>
+            <article data-uuid="c450cd4579fc4f27815cb7d2b726991b">
+                <h3 class="if-you-were-there" data-uuid="3516660cdb364047b3e6910bd6db852c">If YOU were there...</h3>
+                <p data-uuid="18f29ebe51434e4889f539f80ff5ad29">You
+                    are an engineer, and you’ve been working on the Panama Canal for almost eight
+                    years. Your work crews used huge steam shovels to slice through a ridge of
+                    mountains and built a large artificial lake. You planned a system to move ships
+                    through different water levels. Now your work is done. You can watch massive
+                    ships travel from the Atlantic to the Pacific.</p>
+            </article>
+            <section class="reading-check" data-uuid="b8db82faad7c492c8a07c25f8683ac91">
+                <section class="question-long-text" data-uuid="c1f03e3271334110b3dedf50a4887acb">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f8554ca48f2c4e378eabdf6070f9d763">
+                        <param name="configFile" value="../../widget_data/config/f8554ca48f2c4e378eabdf6070f9d763.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c6be72844c4046a3b119c2210fb9e82a">
+            <button data-teacher-view-toggle="true" data-uuid="366c37aeca374784b0f99e81a8f668ba"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b1113d70f8284a259453b16a723d4f59">
+                <param name="configFile" value="../../widget_data/config/b1113d70f8284a259453b16a723d4f59.json" />
+            </object>
+        </section>
+        <p data-uuid="11cbc9e18ece4a03ae41583ccecf057c"><br />
+        </p>
+    </body>
+</html>

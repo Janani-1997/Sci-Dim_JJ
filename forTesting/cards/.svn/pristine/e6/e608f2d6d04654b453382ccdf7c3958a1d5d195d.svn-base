@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="39771ff3225d495c9d3ebf48353145b2">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section data-uuid="d28a655cfb6e479390b026ba822084ec" class="module-opener">
+        <div data-uuid="c1962c0427b048e69160e8c7bb79384a">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="9fc337a0947e4ea0b2dd7e0ab93a81de"/>
+         <div class="header-element" data-uuid="64c6b3e8a21140528b8e91036f2a42a4">
+                        <section data-uuid="baad6ddd62d94157bb5c8e291b41a509" class="calendar-container-bottom">
+                            <div data-uuid="320965b0c8df456bb3c0459e9d567815" class="yellow-star-yellow-bar"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="067109ed83f34fa5a3125b5e143c3e3b">The American Revolution</h1>
+                        </section>
+            <section data-uuid="2c432ed6eae4488f98e7ff6179ca8b81" class="eq-container">
+                <figure data-uuid="8e965ab66c15482a9e682446c482cb5f" class="image ">
+                   
+                        <img alt="This is a photo of men performing a reenactment of the Revolutionary War. It shows many men in period uniforms firing muskets." data-uuid="fceb0cba2a144cfe8da3f0f135bbf1ca" src="../../img/module_4opener/ms_snlese454149_786p.jpg" class="" />
+                         </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="a37181ca45e54c8e882c6dfd94dcb43f">
+                        <p data-uuid="8fc6812bc0a449abb9b3a9aca391756d" class="caption">Soldiers fight with single-shot muskets in this reenactment of a Revolutionary War battle.</p>
+                    </div>
+               
+            
+            <article data-uuid="763c1123c6944b8a8af03efec6b50247">
+                <h3 data-uuid="799f6dd4abb84b06923a4403d824b44f" class="eq">Essential Question</h3>
+                <h3 data-uuid="b236d016dd57443ebb521eefe73c824d" class="eqt">Why were the American Patriots willing to risk
+                    their lives for independence?</h3>
+                <p data-uuid="5b5a4bb0e6fe437b9f772c78499b4074">For over a hundred years, the American colonies had lived
+                    relatively peacefully under British control. By 1764, however, British policies
+                    angered the colonists. Taxes were raised, cities were occupied, and colonial
+                    government was restricted. These actions triggered outcries about civil rights
+                    abuses. Tensions grew and war was in the air. Was it worth it? </p>
+                <p data-uuid="b02c41e37da340c09ac990e3557e5fb9">As you read this module, look for evidence of why American Patriots risked their lives to fight for independence. Note the key people, decisions, circumstances, and turning points that
+                    resulted in their willingness to take these risks. When you are done,
+                    you will write a short essay answering the Essential Question for this module.</p>
+            </article>
+            <section data-uuid="0633c62c14604152bcbc1c552fdcf789" class="video-container ">
+                <article data-uuid="69377c7d0d9c4e52b71f06319bc1d70d">
+                    <h3 data-uuid="af605aaf476e4670b024bf3885e19657" class="vid">American
+                        Revolution: One Word</h3>
+                    <p data-uuid="eea4284b24e547908269693cf34e0cf0" class="vid">The American
+                        Revolution has been regarded as a significant event in the history of the
+                        United States and the world. At the time, however, the outcome was unknown. Success
+                        against the most powerful nation was doubtful and extremely dangerous.<br />
+                    </p>
+                    <section data-uuid="d7b280fde00442c49f599609c7393db8" class="video">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" data-uuid="51e2644c4c27486a8ff8b6cb6c7bb1a0" class="widget"><param name="configFile" value="../../widget_data/config/51e2644c4c27486a8ff8b6cb6c7bb1a0.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section data-uuid="826dacec5abf4f84aa332aad1f214f4b" class="question-long-text">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="92bdf93190d84c4fa7614605b95ae730" class="widget">
+                    <param name="configFile" value="../../widget_data/config/92bdf93190d84c4fa7614605b95ae730.json" />
+                    
+                    
+                </object>
+            </section>
+            <section data-uuid="3c1924a493384e5d841e8b6f89be8e62" class="timeline-container ">
+                <article data-uuid="3c86ba020e1f41eda58ecc805ada1305">
+                    <h3 data-uuid="ac3155b89aef41599d8074fa77bfc83b" class="mod">The American Revolution, 1760–1785
+                    </h3>
+                    <p data-uuid="aab3411e0dcd4a2eaa0e1d216d98f7cf" class="mod">As Britain tries to maintain its control of the
+                        American colonies, resistance grows. Parliament imposes new taxes and punishing
+                        laws. Tensions lead to battles at Lexington and Concord, marking the beginning
+                        of the American Revolution to gain independence.</p>
+                </article>
+            </section>
+            <section data-uuid="486641d85ddf46608ca2a170e36cc6cc" class="timeline">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" data-uuid="d48ac67777814ff4b901fdd4ab027c94" class="widget">
+                    <param name="audio_description" value="na" />
+                    <param name="audio_script" value="na" />
+                    <param name="configFile" value="../../widget_data/config/d48ac67777814ff4b901fdd4ab027c94.json" />
+                </object>
+            </section>
+        </section>
+        <section data-uuid="677fa7db313e469b83d7bce54c6870bd" class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="eeddc8af4daf437fadcbb496cb305544" class="widget">
+                <param name="configFile" value="../../widget_data/config/eeddc8af4daf437fadcbb496cb305544.json" />
+                
+                
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="becef0f85c1640de9b349b775c0af33d">
+            <button data-teacher-view-toggle="true" data-uuid="223e17baa0d3470fa33a06c35c46a473"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="11018ebcc537450c811a7402ef4046bd">
+                <param name="configFile" value="../../widget_data/config/11018ebcc537450c811a7402ef4046bd.json" />
+            </object>
+        </section>
+        <p data-uuid="42d71c708cd3458a8261a455315958fc"><br />
+        </p>
+    </body>
+</html>

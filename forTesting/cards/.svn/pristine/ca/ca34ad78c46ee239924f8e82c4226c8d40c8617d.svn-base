@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="629853ea9c194c35bc11e81c2f099f51">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="a7172d644e454c65b940f6cb25d66276">
+       <div data-uuid="da28a7b838b042ccaf9c0be2705e76c4">
+       <input type="checkbox" id="mod-opener-checkbox" data-uuid="5cfff0a7cf6d4615ab0a9e8b17dcf24a"/>
+        <div class="header-element" data-uuid="3690dad07a044b298b7c6956bf32a327">
+                        <section class="calendar-container-bottom" data-uuid="a20e203ed1b744ee82b6ddb54ae3d1e9">
+                            <div class="yellow-star-yellow-bar" data-uuid="c71666de73464181b8692ee7963df98d"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="21f214a3a58140399c9377678dc04376">Citizenship and the Constitution</h1>
+                        </section>
+            <section class="eq-container" data-uuid="ce6115705142409fabb89d9b42d2889f">
+                <figure class="image " data-uuid="2da033c0105344a3b8e25482e92808d6">
+                   
+                        <img alt="This photo shows a group of seven young men and women standing together." class="" data-uuid="c2e51813a8bc418eacfbb79502455fa5" src="../../img/module_6opener/ms_snlese454149_231p.jpg" />
+                         </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="3cefc1a0a76c45e5ab5e7f447896c7df">
+                        <p class="caption" data-uuid="e18adad821734719b222ae5958fc7338">Citizens like these must fulfill the rights and
+                            responsibilities of citizenship.</p>
+                    </div>
+               
+            <article data-uuid="53b87b9efa06450280dd8cb9e2412e19">
+                <h3 class="eq" data-uuid="52b3f81ccf8640ebbdedd0eca42561e8">Essential Question</h3>
+                <h3 class="eqt" data-uuid="40d0798aa7de43c485fd0c35180fb622">Which ideas in the
+                    Constitution are most important for preserving freedom?</h3>
+                <p data-uuid="aa18898e69d2480395a68b8ec6a541d1">The U.S. Constitution is the world’s oldest
+                    written constitution still in effect. The framers of the Constitution are
+                    widely praised for creating a government that represents the interests of the
+                    majority while protecting individual rights. They also included a process for
+                    amending, or revising, the Constitution as the nation changes over time.
+                    Although the framers lived in a world very different from our own, their words
+                    continue to guide us. Which ideas in the Constitution do you think are most
+                    important for preserving freedom?&#160;</p>
+                <p data-uuid="a00d17bbec9b425baa28612fb43e3a1a">As you read this module, consider why
+                    particular ideas were written into the Constitution and how they affect our lives.
+                    When you are done, you will write a short essay answering the Essential
+                    Question for this module.</p>
+            </article>
+            <section class="video-container " data-uuid="a6213633b3c24bb9b4ae872121672752">
+                <article data-uuid="65fe410f49484818ae970bd091ab5a1b">
+                    <h3 class="vid" data-uuid="cd91bfd3494941a7888775557665423b">Could You Pass the U.S. Citizenship Test?<br />
+                    </h3>
+                    <p class="vid" data-uuid="9abebbfab2a245c89bd9aa385f486102">Immigrants to the United States must study the Constitution and U.S. history in order to pass a citizenship test. Yet many Americans who were born in this country or have lived here for decades would find such a test difficult to pass.<br />
+                    </p>
+                    <section class="video" data-uuid="e8e312441cc0442d8bb6b1726c90023d">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="e72facd2013d475b9f4b2a523e1faa31">
+                            <param name="configFile" value="../../widget_data/config/e72facd2013d475b9f4b2a523e1faa31.json" />
+                        </object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="ce2e4c62bbeb44e48278e7c6e885307c">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="9c5dbfeb29ba4113a9d28346513ae9d7">
+                    <param name="configFile" value="../../widget_data/config/9c5dbfeb29ba4113a9d28346513ae9d7.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="c87cc1c5d3c343ddbcc095554ca71d83">
+                <article data-uuid="b5b9c332ef0344e18e824c0d33a5c51a">
+                    <h3 class="mod" data-uuid="22b80936bbf9450f8715823374feeb01">Citizenship and the Constitution, 1787–1990</h3>
+                    <p class="mod" data-uuid="6b6d27b25c1b453484a434b23f6b3730">Our nation’s Founders struggled with how best to
+                        prevent government abuse of power. Their answer was a Constitution that
+                        described the government, its powers, and the limits on it. The first ten amendments of their Constitution—the
+                        Bill of Rights—guaranteed the rights of citizens. In return for
+                        these precious rights, U.S. citizens have a responsibility to actively
+                        participate in government.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="3dc163d8a23c496da50e34080986280a">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="899a827c38f844d98e7fe9c77eb1098d">
+                    <param name="audio_description" value="na" />
+                    <param name="audio_script" value="na" />
+                    <param name="configFile" value="../../widget_data/config/899a827c38f844d98e7fe9c77eb1098d.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="f96687e3078340b28a6211109cf8a201">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="bc77b3585d4f4410a6eab2c386014ca1">
+                <param name="configFile" value="../../widget_data/config/bc77b3585d4f4410a6eab2c386014ca1.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f26bda42a9594bbd9f5a1428bb25bab2">
+            <button data-teacher-view-toggle="true" data-uuid="2dfc3b18061b45a69b48536a099cec52"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b1bbd29eb3704711831119ad2c051db7">
+                <param name="configFile" value="../../widget_data/config/b1bbd29eb3704711831119ad2c051db7.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="a35c2a9e2346409498b7b13d6a4b5abc" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="7a6dc8af962e4a8bb471b97c0d5e3919">
+            <div class="header-element header-container " data-uuid="d790383823874bd681b17e0d37ceecbf">
+                <p class="lesson-number" data-uuid="cc160b1d5b9a4192ae087423697886a1">Lesson 2</p>
+                <h2 data-uuid="984cf96cc7874335a2c6957551994e89">Assessment</h2>
+            </div>
+            <h5 data-uuid="4237707dc58749b481a0b2ff3d4726c0">Reforming the Workplace</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="230373ac6a3143fc9c7bf19f1747f318">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="5c1f6915b2e44216b26316ec1c03f5c9">
+                <param name="configFile" value="../../widget_data/config/5c1f6915b2e44216b26316ec1c03f5c9.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="29da0c029f3145e9a32ef9e5938fe641">
+            <button data-teacher-view-toggle="true" data-uuid="4e1d680fc3a94001881797a05fd19f16"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5f57a3185bfa42018819e17ad926b9a4">
+                <param name="configFile" value="../../widget_data/config/5f57a3185bfa42018819e17ad926b9a4.json" />
+            </object>
+        </section>
+        <p data-uuid="32418882fa5a4e0983159198c84384fb"><br />
+        </p>
+    </body>
+</html>

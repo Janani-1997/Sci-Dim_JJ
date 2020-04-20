@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c7bc128a27f141f0b320d04b1ccfc15d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>The Real West: Rush for Gold</title>
+    </head>
+    <body>
+        <section class="ssna-mmc" data-uuid="54a707eede2e47ecb0257ae661df5408">
+            <object type="text/html" data="../../assets/widgets/mmc/index.html" class="widget" data-uuid="333270ba792842c1a2c2237654f6cda3">
+                <param name="configFile" value="../../widget_data/config/333270ba792842c1a2c2237654f6cda3.json" />
+            </object>
+        </section>
+        <p data-uuid="44618e4a30b843cab1468041c806817f"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a5cefdbe3c8847b0a33244b8d7855731">
+            <button data-teacher-view-toggle="true" data-uuid="5d1bbd8bce1845ea88dc2bc25bb27ec2"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f91d820499a04e03bb67d702c6250c2e">
+                <param name="configFile" value="../../widget_data/config/f91d820499a04e03bb67d702c6250c2e.json" />
+            </object>
+        </section>
+    </body>
+</html>

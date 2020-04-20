@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e925f270164d4d809badad74c6be3e49">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="e5bdc30d981140c2aa4c4399d254cf4a">
+            <p class="lesson-number" data-uuid="c00bec9692384b2ba0da0a3ddbe52da5">Lesson 4</p>
+            <article class="header-container" data-uuid="b1d805ccff38499ba06dcc9a66695678">
+                <div class="header-element" data-uuid="c27921c30e8d488e9829f97ef9a066f0">
+                    <h1 data-uuid="ac5d2d802b56466bb5740a258ff3662b">War in the Pacific</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="974ed08553794d6e811b4b760a24224a"></div>
+                    <h2 data-uuid="0abeac03f05248e8b7bd0650f6738824">The Big Idea</h2>
+                    <p data-uuid="9d5d9af8b00b410a82d6e921fadb5a05">Allied forces reversed Japan’s
+                        expansion in the Pacific and battled toward the main Japanese islands.</p>
+                </div>
+            </article>
+            <article data-uuid="5fe6453cbf174aaf974b64243042cc2e">
+                <h3 class="if-you-were-there" data-uuid="66617c0f73a04288b253209fbb0f513e">If YOU were there...</h3>
+                <p data-uuid="d8cbdc0bc938410d818c0c1bf4d49d23">
+                    It is spring of 1945, and your older brother is
+                    fighting the Japanese in the Pacific. You’ve been following the news reports
+                    closely, and you know that fighting in the Pacific is terribly fierce. You hear
+                    that the Japanese soldiers often refuse to surrender, fighting to the death
+                    instead. Your brother reveals in his letters that he is lonely and suffering
+                    many hardships. Now you are writing to him.&#160;</p>
+            </article>
+            <section class="reading-check" data-uuid="6c4fae7bd40641abb5672a97c1703476">
+                <section class="question-long-text" data-uuid="1decd80741a1499eaad64984e02bba88">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="6ad3322026a54e408fc24f6bc628245b">
+                        <param name="configFile" value="../../widget_data/config/6ad3322026a54e408fc24f6bc628245b.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="32b8698a8c2b4d46ba8e02dfcb9b0fe4">
+            <button data-teacher-view-toggle="true" data-uuid="9b008180df324808914a22377082ead2"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="69104ca468a946e998bc7786567fa51c">
+                <param name="configFile" value="../../widget_data/config/69104ca468a946e998bc7786567fa51c.json" />
+            </object>
+        </section>
+        <p data-uuid="b3a28ef8e7444aa78fd4bf9d9150dc4a"><br />
+        </p>
+    </body>
+</html>

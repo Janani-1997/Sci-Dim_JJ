@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0b68e4b1a9c746948cbe0841caf592f3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Struggle for the Far West</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="0b0fb4657544416f89b7d85180c137d0">
+            <article data-uuid="9ad17407213a4e758f7a44388d403e15">
+                <h4 data-uuid="cd1c4df8e7314a00b2753589297e7d30">Main Idea</h4>
+                <p class="main-idea" data-uuid="684a4bd17f4b44229a5a39ac2e62b71b">Confederate and Union troops struggled for dominance in the Far West.</p>
+                <h2 data-uuid="d55dd2456e5848e7b75872a1a07fe596">Struggle for the Far West</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="977ea3f785094cfab6b84318c55f254d"></div>
+            </article>
+        </section>
+        <p data-uuid="8cffa98620714333abc93c8bfe31c4e4">Early on in the war, the Union halted several attempts by Confederate armies to control lands west of the Mississippi. In August 1861 a Union detachment from Colorado turned back a Confederate force at Glorieta Pass. Union volunteers also defeated rebel forces at Arizona’s Picacho Pass.</p>
+        <p data-uuid="ea057dcbed6b44a49239a1a9650d66f9">Confederate attempts to take the border state of Missouri also collapsed. Failing to seize the federal arsenal at St. Louis in mid-1861, the rebels fell back to Pea Ridge in northwest Arkansas. There, in March 1862 they attacked again, aided by some 800 Cherokee. The Union defense of Missouri held.</p>
+        <p data-uuid="c8495ea6c8c44df787c38453c9358d10">Although the Union army won the battle, Indian troops commanded by Cherokee leader Stand Watie fought bravely. Watie was later promoted to general, the only Native American on either side to hold this rank in the war. </p>
+        <p data-uuid="71c53d3b19a74fc8b9990abc6c202656">Almost 30,000 Native Americans fought in the Civil War. Many Cherokee fought for the Confederacy, but the war bitterly divided the Cherokee—and other nations as well—over issues of loyalty and slavery.</p>
+        <p data-uuid="d8285676b6bd49df833f097acf7d4749"> Some nations saw the transfer of soldiers from western forts to eastern battlefields as a chance to take back land they had lost. The Indians also hoped the Confederates would give them greater freedom. In addition, slavery was legal in Indian Territory, and some Native Americans who were slaveholders supported the Confederacy. Pro-Confederate forces remained active in the region throughout the war. They attacked Union forts and raided towns in Missouri and Kansas, forcing Union commanders to keep valuable troops stationed in the area.</p>
+        <section class="question-long-text" data-uuid="0c5536d5c93a406ca7dd32a78c37267d">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="8fdff7a06bc345fabb04d7d3af390b19">
+                <param name="configFile" value="../../widget_data/config/8fdff7a06bc345fabb04d7d3af390b19.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="126d42e6920e4358853906c5aaf9586b">
+            <div class="go-prompt-bottom-bar" data-uuid="f93bb73e6ca44f9da076c0e53b6befa2">
+                <p data-uuid="27eecea5b6474aaabc221672ec8a4d71">Remember to use the graphic organizer to take notes on Civil War battles in the West.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="a40a4cfd605d4fd199ee6dfe708b9ce3">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="72b1f07c1ca7477c9837e657d60d50ac">
+                <param name="configFile" value="../../widget_data/config/704f454b5a5646febca2d7418c4ea5fb.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="3f57d99f18f048c89b6266a50e279b51"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0e5272fd24cd40ecabeec21f9e0cbb0d">
+            <button data-teacher-view-toggle="true" data-uuid="83e70920872f4f869f368a643bf0af69"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3936b2a752b243c59eb1297565611fca">
+                <param value="../../widget_data/config/3936b2a752b243c59eb1297565611fca.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

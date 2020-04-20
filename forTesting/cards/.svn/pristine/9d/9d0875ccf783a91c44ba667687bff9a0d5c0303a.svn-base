@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="414cdf3481ca4b87a19187a332e49742">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Fear and Violence</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="d4fb8c8843fa490f927609527b3422d5">
+            <article data-uuid="df344b52e2aa4c72bd8c51f95f63d52b">
+                <h4 data-uuid="281a746e77cf454ca96b8f952c55ae8f">Main Idea</h4>
+                <p class="main-idea" data-uuid="dfc3e43707874cf4acc2b493d46849f4">Postwar tensions occasionally led to fear and violence.</p>
+                <h2 data-uuid="25c1ee8628d54cee99dc07cc2b838367">Fear and Violence</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="bc44d7f973574d36bf57f8588188edd8"></div>
+            </article>
+        </section>
+        <p data-uuid="8bfbe4622a8d464783d7cee709a9693d">Not all social changes during the 1920s were peaceful. You have read about the hard times that hit the U.S. economy after World War I—unemployment, inflation, and labor disputes that resulted in large strikes. These troubles worried many Americans. In this atmosphere, suspicion of foreigners and radicals, or people who believe in an extreme change in government, sometimes led to violence.<br />
+        </p>
+        <h3 data-uuid="8da5a30b652a4f75ba8c496e49b9efb5">The Red Scare
+            <!--
+                ^&#65533;&#65533;W&#65533;&#65533;&#65533;
+            -->
+        </h3>
+        <p data-uuid="20bb8ee3462c4a14818dcba6fb202d37">After the Communists took power in Russia in 1917, many Americans began to fear Communist ideas. They worried that Communists would soon try to gain power in the United States. This fear increased when millions of American workers went on strike in 1919. Many Americans blamed Communists and radicals for the upheaval.</p>
+        <p data-uuid="4b6fbbfa2e6044feb7cd8884e076d847">These attitudes led to a <b><dfn title="Red Scare">Red Scare</dfn></b>, a time of fear of Communists, or Reds. The Red Scare began in April 1919, when U.S. postal workers found bombs hidden in several packages addressed to famous Americans. Officials never found out who sent the bombs, but they suspected members of the Communist Party.</p>
+        <p data-uuid="0d26dbb003434b16b24088b938821f7b"> In June a bomb exploded outside the home of Attorney General A. Mitchell Palmer. Palmer responded by organizing police raids to break up Communists and other groups. In what became known as the Palmer raids, government agents arrested thousands of suspected radicals, often without evidence. Palmer frightened the public by warning that radicals were planning a revolution.<br />
+        </p>
+        <section class="extension" data-uuid="b7d3593794cf4e4a83846b142c7bd6ee">
+            <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="f3843b5d4c874a50835e501b3b781362">
+                <param name="configFile" value="../../widget_data/config/f3843b5d4c874a50835e501b3b781362.json" />
+                <param name="audiopath" value="" />
+                <param name="widgettype" value="shortplayer" />
+            </object>
+        </section>
+        <p data-uuid="cc083545b5534c49a9b8901dfeb62991">The Red Scare led to one of the best-known criminal cases in American history. In 1920 police arrested Italian-born anarchists Nicola Sacco and Bartolomeo Vanzetti for the robbery and murder of a factory paymaster and his guard. (Anarchists are people opposed to organized government.) Though both men declared themselves innocent of the crime, Sacco and Vanzetti were found guilty. The American Civil Liberties Union (ACLU), founded in 1920 to defend people’s civil rights, tried unsuccessfully to get the verdict overturned. Sacco and Vanzetti were convicted. They were executed in 1927.<br />
+        </p>
+        <figure class="image-with-caption main" data-uuid="09b6e076ad424cdbbcc8745328ec9975">
+            <img alt="This black-and-white photo shows a crowd of people in the early 1920s protesting the conviction of Sacco and Vanzetti, Italian immigrants accused of robbery and murder." data-uuid="2b75b73973674ed293edfb37fb8b6f9c" src="../../img/module_25_lesson02/ms_snlese454149_946p.jpg" />
+            <div class="figcaption" data-uuid="79390fee71e94f39b637938db61d654b">
+                <h5 data-uuid="5255336c64a241ecb75848fd8c6334db">Sacco and Vanzetti</h5>
+                <p class="caption" data-uuid="2fd2cc6d633342eaa2651530c1df8442">Supporters of Sacco and Vanzetti held rallies and raised money for the immigrants’ defense. The men were found guilty and were executed in 1927.</p>
+            </div>
+        </figure>
+        <h3 data-uuid="d2ea27ee61ab49b4b30fbf444a020e12">Restricting Immigration</h3>
+        <p data-uuid="26e3a500c23b4fb6904c675bed36b477">Some people thought that a general fear of foreigners from different ethnic groups influenced the Sacco and Vanzetti case. Many recent immigrants were poor and did not speak English. Some Americans saw them as a threat to their jobs and culture. Immigrants “fill places that belong to the loyal wage-earning citizens of America,” said Alabama senator James Thomas Heflin.<br />
+        </p>
+        <section class="video" data-uuid="7986a6d80b8446e1b2e96a8136ba00ef">
+            <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="53a58c6157b24e79962250b9edc1a7af">
+                <param name="configFile" value="../../widget_data/config/53a58c6157b24e79962250b9edc1a7af.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="549858c7d8b049f399ad5a8462f12530">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e801fedbf8c24481b1400a377ff7c238">
+                <param name="configFile" value="../../widget_data/config/e801fedbf8c24481b1400a377ff7c238.json" />
+            </object>
+        </section>
+        <p data-uuid="72e8df6f542e4f9982aef0ca242085eb">The government responded to these concerns with new laws. Immigration legislation, such as the Emergency Quota Act of 1921, limited the total number of immigrants allowed into the country. It also favored immigrants from western Europe. The National Origins Act of 1924 banned immigration from East Asia entirely. It also further reduced the number of immigrants allowed to enter the country. These laws caused a dramatic drop in immigration to the United States.<br />
+        </p>
+        <section class="question-long-text" data-uuid="c398692ac7cc436d85243df415ac4280">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="8f95bea70c904c3ba105df61240a6677">
+                <param name="configFile" value="../../widget_data/config/8f95bea70c904c3ba105df61240a6677.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="e3cf763a77564bfda9156f0671262cc8">
+            <div class="go-prompt-bottom-bar" data-uuid="b9a7a90e06de435ebb1e7a5187a5f140">
+                <p data-uuid="0913a64844574dc88d1b22da9bbbeb4f">Remember to use the graphic organizer to take notes on how suspicion of foreigners and radicals led to violence in the 1920s.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="56ca464ce5924605ade51010ba3e18fa">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="fc77832841e5482896512cbb093909d2">
+                <param name="configFile" value="../../widget_data/config/abe773d05b224ac2a00450664e8a03e7.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="f0e0384685644cffa8fe1400749755e9"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a39dddba3c5d4128805a6c9b55394fbe">
+            <button data-teacher-view-toggle="true" data-uuid="5606f4c257844a0cb791226ffbfaef81"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4fdf2c1e8f8d460a98cc6b2c3489c21f">
+                <param name="configFile" value="../../widget_data/config/4fdf2c1e8f8d460a98cc6b2c3489c21f.json" />
+            </object>
+        </section>
+    </body>
+</html>

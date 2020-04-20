@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<remarks xmlns="http://www.standardnine.com/s9ml" data-uuid="f7c7701f81d94e638509f883adb5b9b7">
+    <remark key="key name" data-uuid="a13309c28a0b47cca5144ef4e5ab4d3e">
+        <title>Remark Title</title>
+        <text>Text of remark.</text>
+    </remark>
+    <remark data-uuid="f21a2fa4b4544d2983a3e8382ffde7ba" key="dfa50ef8b4fc43f4a558dea56ea6aea9">
+        <text>
+            Washington lists the benefits of uniting the states under one government.
+            <br/>
+        </text>
+    </remark>
+    <remark data-uuid="484b01ca97d641bfb275deb21cb5c52a" key="08ba7c49c33a46ab91376c3659715907">
+        <text>told
+        </text>
+    </remark>
+    <remark data-uuid="f44a4b88146d466eb526df5762836378" key="8731ce5f2eab4bc4a15b6d389aba2b2d">
+        <text>differences
+        </text>
+    </remark>
+    <remark data-uuid="fd8caafea38640af9461ed6adbdfe1cf" key="e05c29923cc84d15a9ced603754b98eb">
+        <text>complete
+        </text>
+    </remark>
+    <remark data-uuid="2138fb9056fb4e79b16cd96804f2b6b4" key="68478ef719534396941b595160219f5e">
+        <text>
+            In this phrase, Washington emphasizes his warning against the dangers of political parties.
+            <br/>
+        </text>
+    </remark>
+    <remark data-uuid="c250a78f77ee4f858c9713a022b0db98" key="86aa9bd969d545fc80f4331f56426844">
+        <text>change
+        </text>
+    </remark>
+    <remark data-uuid="8e1d1055393f498cb8eb18cd609abc1b" key="5457220ae6fc4291939156e52c4ea479">
+        <text>spreading
+        </text>
+    </remark>
+    <remark data-uuid="37cb5eca29bf48daa5693d6a686e6e8f" key="f21e2af863214e748f32adb2b6156933">
+        <text>
+            Washington points out the need for education.
+            <br/>
+        </text>
+    </remark>
+    <remark data-uuid="6b7835d589914b40beb486b501ad4f0f" key="82a0faa832a6416badc10692a62966df">
+        <text>future generations
+        </text>
+    </remark>
+    <remark data-uuid="12ed2de3a8f64afb9fe04688ec5f0881" key="b13d45b0ac57432882f03f1c7ac5ec87">
+        <text>seek
+        </text>
+    </remark>
+    <remark data-uuid="3faad2c8a6fb4dacad40f22e21000d42" key="b0730c75493544a49afc43a4f2c9dfd6">
+        <text>
+            This is Washington’s advice to the new nation about foreign policy.
+            <br/>
+        </text>
+    </remark>
+    <remark data-uuid="cdd9478f3a884dcfb68f2df889c6adb9" key="c00dac1258574b169e14e1e55c7da700">
+        <text>plan
+        </text>
+    </remark>
+    <remark data-uuid="6993325b2c77427ea3aa8c079bb723fc" key="4c268051b9e74c91922cf0f2d897f136">
+        <text>unchanging
+        </text>
+    </remark>
+    <remark data-uuid="21c3661822d9481fbb9391da5d1cb6a5" key="dca92ce01d0d4b218021176ab48d6e1d">
+        <text>friendship
+        </text>
+    </remark>
+    <remark data-uuid="aeb0093c5cb34615bf3f66108c9d042a" key="8c6a1eee4f564585bd3fbc1000db6250">
+        <text>meaning blah</text>
+    </remark>
+    <remark data-uuid="ad95dfa174c345f8a56be41e72005308" key="9bb6571f647c47d5991fedaf8c7e546d">
+        <text>annotation</text>
+    </remark>
+    <remark data-uuid="a9bb902e0b794c84acf8769eeb887367" key="c1e7818fdfa24264ad78203f2f0d8cc7">
+        <text>
+            &#160;conditions
+            <br/>
+        </text>
+    </remark>
+    <remark data-uuid="23112bc725854a42901ef36784713729" key="291875404c60495586b7a5c687a7f994">
+        <text>&#160;balance</text>
+    </remark>
+    <remark data-uuid="247ed41a5cff4d4daa59aabdea4c65be" key="b4cc18a482a64376a2788e234bef2ed6">
+        <text>&#160;stop</text>
+    </remark>
+    <remark data-uuid="c7741fe8c4584ccda79214984b5ee564" key="a6a6a0ac7b4e4b679ab23a9b60c29683">
+        <text>&#160;ceasing to exist</text>
+    </remark>
+    <remark data-uuid="4e778fd9d37a4e58b69ce12639724d26" key="fc6bd71dbeab4b2a8176b80f09e158e7">
+        <text>&#160;supporters</text>
+    </remark>
+    <remark data-uuid="44ba8eaf8e174d3b80da8e6222f5e15d" key="fb550f4d12d94b638f2f6fdb58d784f3">
+        <text>Monroe notes here the difference between existing colonies and newly independent countries.</text>
+    </remark>
+    <remark data-uuid="ce5804f151064349b22b46ce33ffc113" key="7b88f2803b2f4117af0e02b0485b283e">
+        <text>&#160;plan</text>
+    </remark>
+    <remark data-uuid="0025bef9956d48308437c807077daf7e" key="76b4f83c8f664f2ca294338a014942bf">
+        <text>&#160;revolt</text>
+    </remark>
+    <remark data-uuid="35a9a45ac1f14af380f4079480b99b6a" key="a7c40ea740984feab27b496c8fd4629f">
+        <text>&#160;considered</text>
+    </remark>
+    <remark data-uuid="83e1deae7304421794e4478d9f26545b" key="1d50ec023bbe4c86801ef9b3a45faff1">
+        <text>&#160;God’s</text>
+    </remark>
+    <remark data-uuid="1da19d5dd3064cbb89c22bb395a77b1e" key="c4cece3ac385454488413c1f576d7cfb">
+        <text>prevailing, ruling</text>
+    </remark>
+    <remark data-uuid="ac43073574974dd5bc17ad3d53546a7a" key="7aff0a57ab414129ac8d682138b6f0a1">
+        <text>a ghostlike form that appears suddenly</text>
+    </remark>
+    <remark data-uuid="8bc8bdc818834d18822ad657665a1e51" key="6a1cc94d155546f0884b593599aee57b">
+        <text>German mercenary soldier from the American Revolution</text>
+    </remark>
+    <remark data-uuid="468a5344f996499ca28c59a4fcab3362" key="1e6671677a8d4264be9c86507fe83615">
+        <text>sense, gist</text>
+    </remark>
+    <remark data-uuid="fe18baae31b141349fa05176ef3b9486" key="cb25fec166bc4ef9baf0500785cbec7f">
+        <text>ghost</text>
+    </remark>
+    <remark data-uuid="b06b1503093e4bf4bb178d3ca9493cc9" key="a7c7c64bdc3740b6ad19b7d0204af545">
+        <text>The Pilgrims describe the reasons they want to form
+            a colony in North America. &#160; &#160;</text>
+    </remark>
+    <remark data-uuid="d925adfd2f0047c691ae88e9cf150839" key="7ea391ab5f724694b98b3ce681f48367">
+        <text>&#160;by this document</text>
+    </remark>
+    <remark data-uuid="9268cfb68ed046c8b315ba11df9c1bb8" key="b2a655621daa4654bf7dfa4982ebc5a1">
+        <text>&#160;promise</text>
+    </remark>
+    <remark data-uuid="92113d911c8d475b9d59d4a029c07d45" key="0bfee5dab71742d18ea64009c6cf5482">
+        <text>&#160;group organized to govern</text>
+    </remark>
+    <remark data-uuid="03e9cd50cf254fd6a3b41190b6cd1de8" key="c26ae4d85b2948969c632279c8543886">
+        <text>&#160;mentioned above &#160; &#160;&#160;</text>
+    </remark>
+    <remark data-uuid="066f50a1004a487fa8df6b7e89911a0d" key="6c4046f2f2064bc19c6b983373f3655c">
+        <text>&#160;authority</text>
+    </remark>
+    <remark data-uuid="f6fe6776217a4333954a1a3e54a0546a" key="63d2ff7103614695bbceed54c1d2e0a9">
+        <text>&#160;regulations</text>
+    </remark>
+    <remark data-uuid="65ff1fd5e97948b4a5acb2f376f8d4ea" key="362c34b1f6464b58a8f957dce7a7c795">
+        <text>&#160;fitting</text>
+    </remark>
+    <remark data-uuid="cb61a10dfa6b4344a88064ac7ebc3cfa" key="c1f46313aa644c50b972de179fa93540">
+        <text>&#160;The Pilgrims promise to obey laws that help the whole
+            colony.</text>
+    </remark>
+    <remark data-uuid="3e8181e778b74c719caad511cc26d395" key="e68943d1a27a4823ad476d7b3d839c52">
+        <text>&#160;rulers</text>
+    </remark>
+    <remark data-uuid="4fadb60e2336457db49739c98a9fa682" key="a1ec138f39b744beaee700e781607e0c">
+        <text>&#160;public official</text>
+    </remark>
+    <remark data-uuid="30664293210149949fafe3d962fed153" key="6a060ad349d94665bf02fcd14c2afdf8">
+        <text>&#160;based on whim rather than
+            reason or principle</text>
+    </remark>
+    <remark data-uuid="b8f4712bddc342f083b836409d959dcf" key="7881fbfa39354f9489af0a37938522f9">
+        <text>&#160;attach</text>
+    </remark>
+    <remark data-uuid="63790be121864d7ba23b624b3d0bcc96" key="c14e056f48834701a2c5f44b2c16c038">
+        <text>&#160;formal agreement</text>
+    </remark>
+    <remark data-uuid="bbeb367e61b5499ea5415b436816bdd7" key="a556a4bb572c41c9b5e0199cdbd3edd0">
+        <text>useless</text>
+    </remark>
+    <remark data-uuid="7424c735b12d4236aaffcdbbc2f778ad" key="f690260f423943f2a87c8a675ed809ea">
+        <text>&#160;middle</text>
+    </remark>
+    <remark data-uuid="1a5e1f0942c9482db1c366efe0465966" key="9fcc694ef9874d80b942dac9c92e354d">
+        <text>&#160;minimum number required for a meeting</text>
+    </remark>
+    <remark data-uuid="022d642e3f9047538fe74a00c824db7a" key="80fbf60897394509a639b41fe89fcb7d">
+        <text>&#160;lower ranking</text>
+    </remark>
+    <remark data-uuid="3b9a193ac8204d6fa0ce545e5fcb78bf" key="ed7505018103484a9a18916ccdebb5c0">
+        <text>&#160;guard</text>
+    </remark>
+    <remark data-uuid="785a798acbe74e768ee86dccb7437122" key="4368e19b7ec04fc9836e163f4ca95a24">
+        <text>&#160;is most important &#160; &#160;</text>
+    </remark>
+    <remark data-uuid="4cfdb6b4236e4c4ab3c4bda00e5e0a49" key="b463ab2863be41498205affcb1a469b5">
+        <text>&#160;greatness of size</text>
+    </remark>
+    <remark data-uuid="b6b96c4383874fc5a34372a55c7cc3ce" key="286ddf3676484ca4a706f5a519768723">
+        <text>&#160;local</text>
+    </remark>
+    <remark data-uuid="4389d78685324965a2dab2c8b0008f9e" key="64c5f1ea66a047bdbb98cc3d9835f73f">
+        <text>&#160;control</text>
+    </remark>
+    <remark data-uuid="c67b0d6447a14520a5551652ea6d64f3" key="3af66651f34b4cf7851439231ea9c60c">
+        <text>&#160;criticize</text>
+    </remark>
+    <remark data-uuid="f84010ba169d4485a4193b15d3250a81" key="5af1cba7a809481e9ee6d0d086497082">
+        <text>&#160;supreme</text>
+    </remark>
+    <remark data-uuid="9b6dcbdea71c4cd0888fc70757ddd344" key="c3346a5ddee145e48f6cf0fefd4232da">
+        <text>&#160;large number</text>
+    </remark>
+    <remark data-uuid="880178e2a94441b9b4656806a7ca55b5" key="fa95585d4dc54710807565f2cca786ff">
+        <text>&#160;joining a group</text>
+    </remark>
+    <remark data-uuid="0c5dfa69c35140a7ac0717f91ef97f14" key="99c752d810dd46fc9c048ca7cbbcc270">
+        <text>&#160;method</text>
+    </remark>
+    <remark data-uuid="27153d489d0d48c69e4aefecb79e981a" key="1283a3dc5e3d4f278c8f5594eb97969b">
+        <text>&#160;method</text>
+    </remark>
+    <remark data-uuid="b962b8df0b3e44c8b9037d4f2fbe0935" key="d0896a9f8c9a4e0f9c3beb479ac328e2">
+        <text>&#160;the
+            highest point</text>
+    </remark>
+    <remark data-uuid="4b2ee2441d284e1e986797ed0532b4b4" key="bd814a5fee434e84b653d742b2c5b00f">
+        <text>&#160;excessively
+            talked about &#160; &#160;&#160;</text>
+    </remark>
+    <remark data-uuid="9151894015044fbb88b6989e06749d11" key="8ba4a080af1949f78bdd23f16aba8bdd">
+        <text>&#160;made
+            use of&#160;</text>
+    </remark>
+    <remark data-uuid="17f70810677c4809ad8fa460e04b17af" key="fe93fc96e0974c6eab59aefd03c05615">
+        <text>&#160;fertile
+            soil</text>
+    </remark>
+    <remark data-uuid="931db4314bf944ea9a01dd88ba1018c9" key="857fd284eb1841f9b4dd193b52706874">
+        <text>&#160;learned</text>
+    </remark>
+    <remark data-uuid="143a1fa6205447698bc5a68ad8d337b3" key="7fd7d31baf244f2a99eaf8a588918e2f">
+        <text>&#160;protect</text>
+    </remark>
+    <remark data-uuid="02f1f7a6e06c4740841cb80f5fb6e9d5" key="0deb6771960540be98cd7d858794b53a">
+        <text>&#160;laziness</text>
+    </remark>
+    <remark data-uuid="3828988d812e4d6aae93e7fc56283314" key="a0b422d7c85844399b8b9a96f1e1d5b5">
+        <text>&#160;set</text>
+    </remark>
+    <remark data-uuid="e189eaa94fdd48ddbfc4fa9ebad065ce" key="98765ebd78fb48f1a8867990763f316d">
+        <text>&#160;poor</text>
+    </remark>
+    <remark data-uuid="54a25addc6a44f67ba49c37e7372c094" key="ab9cc27e8cfe48398eb0f5303f329c51">
+        <text>&#160;charitable &#160; &#160;</text>
+    </remark>
+    <remark data-uuid="615366cba4494f21b9d1ec2a745471c0" key="2885b3be3c004f0f8034af415949ce5e">
+        <text>&#160;pleasant</text>
+    </remark>
+    <remark data-uuid="9a7ffcd70977400ea63d79c416431d4b" key="4853bb4d0a3b4ac3a7b2eccf4276016c">
+        <text>&#160;distressing</text>
+    </remark>
+    <remark data-uuid="0b67a3a528764c049ec23169a80ba908" key="c87e90d3ca25410fa2dc462b95e9b59a">
+        <text>&#160;something
+            of little importance</text>
+    </remark>
+    <remark data-uuid="87c98be01c484016a156e2e0ef2c8cf0" key="2ff45c36018344b593c038868d22da7e">
+        <text>&#160;remember</text>
+    </remark>
+    <remark data-uuid="6c51b03531c643a1875a35b7494b9484" key="a173f6ec074f453db108d0d6a5282b41">
+        <text>&#160;taking apart</text>
+    </remark>
+    <remark data-uuid="28af62cce6114d7aa9a4e42ea982fa35" key="0bf3162b6acf4f0884af9ba14fdbdbf9">
+        <text>&#160;imagine</text>
+    </remark>
+    <remark data-uuid="a5793593d2674696aa1d55868952591b" key="139d5ece228e457184780a6a483f0f47">
+        <text>&#160;alone</text>
+    </remark>
+    <remark data-uuid="4a696996f3f34dfe95ae2c639f589700" key="674c476e300d4e62890ae923a0209e1b">
+        <text>&#160;slowing down &#160; &#160;</text>
+    </remark>
+    <remark data-uuid="f97ae104008c4dd2bc455b6575e3fd0a" key="93cdefd29bab458d83beea14cb5f2767">
+        <text>&#160;unhappy&#160;</text>
+    </remark>
+    <remark data-uuid="9f0dbf92801741448a1466dab8d1ca1c" key="aac64da7f34f4ed4824610d97ab27be3">
+        <text>&#160;there</text>
+    </remark>
+    <remark data-uuid="3e2a161f74164f998b31df3161362ed2" key="a0c0edc344e04e028e157d304494d3ea">
+        <text>&#160;close to</text>
+    </remark>
+    <remark data-uuid="6b9097b6f7944806a0e199a7c1955219" key="dd4263fec19f4ed790b13617e10f401e">
+        <text>This is an annotation.</text>
+    </remark>
+    <remark data-uuid="4094d05d29764e9dbdcee3bbe01c1716" key="c7f1ad06c6034c239fff7c0514ac082c">
+        <text>The authors use the same words that are in the
+            Declaration of Independence but include women.</text>
+    </remark>
+    <remark data-uuid="26bffb31af394378ad6228722544f40f" key="f1999f95106d4b6fbbbc9eb68eb5fc0d">
+        <text>&#160;not able to be taken away</text>
+    </remark>
+    <remark data-uuid="a479dd07c28849c2978ca95ff4e576dd" key="12018eb59eb447e4bfce04edc1b1f3b3">
+        <text>&#160;loyalty</text>
+    </remark>
+    <remark data-uuid="61d0c9caf84c4f43850218ae26b4f177" key="f45a37c0226b4c2f9715542a2022b127">
+        <text>&#160;Here the women demand that they become a part of
+            government.</text>
+    </remark>
+    <remark data-uuid="bd690de63d4849768d9c1859f697241b" key="a352a127de78483db31896bb2551f276">
+        <text>
+            &#160;has
+            <b> </b>
+            been
+        </text>
+    </remark>
+    <remark data-uuid="91349a6307574996b00db7a88452a369" key="eb3c51c1dee64bb0854bf7fc25d67350">
+        <text>several</text>
+    </remark>
+    <remark data-uuid="d009159bfaec4455a09cac084aea50b8" key="0d675807746a482881534d7469ad288a">
+        <text>&#160;no ways &#160; &#160;</text>
+    </remark>
+    <remark data-uuid="f659e8e5a7a242319f3b0e2cd32a89eb" key="336adb8ad1fe41ea8d537b65dfc6bc1b">
+        <text>&#160;no ways &#160; &#160;</text>
+    </remark>
+    <remark data-uuid="d05564bef5194651a2bacf0bd1063f4b" key="0d7fafd1641b4d7bbb2df95ebb2c4ee9">
+        <text>&#160;whom</text>
+    </remark>
+    <remark data-uuid="3873679a4ef9421e9ea5587be2f4f47a" key="bec283e887ee41c1b335ded2af63030e">
+        <text>&#160;mischief &#160; &#160;</text>
+    </remark>
+    <remark data-uuid="2fb1b43078154ad99b659e4ff9c01a31" key="522689faac4944d48c0ff66dd0542896">
+        <text>&#160;join</text>
+    </remark>
+    <remark data-uuid="2ed5055a2e7843308eef5df62539038c" key="c383b7b0d8c246319ece7032169b4d38">
+        <text>&#160;shall be pursued</text>
+    </remark>
+    <remark data-uuid="03669f67343b43149c912d4869bbcdb9" key="58bf8fe98cb44671b7ca94edadaf9098">
+        <text>&#160;shout to alert others to give chase</text>
+    </remark>
+    <remark data-uuid="b35fa2966295436ca7f4d35754efe2ed" key="4eacf7ceaac64ea4aecefb7c30ae106c">
+        <text>&#160;try</text>
+    </remark>
+    <remark data-uuid="3e4e78b8d0314685973dbb5b4d430931" key="bc892f5a7cca4a34a578e07ea62a573b">
+        <text>&#160;so</text>
+    </remark>
+    <remark data-uuid="1d4e8a13ffcc43b398b5c94b451aded1" key="092af2c32fa444228f45147f381fa93e">
+        <text>&#160;agriculture &#160; &#160;</text>
+    </remark>
+    <remark data-uuid="faff7b0197624dfd9784a91bce9d7d25" key="25d2842233d24c8cb10862c22921fe66">
+        <text>&#160;counted</text>
+    </remark>
+    <remark data-uuid="69fa389d7fe040bfafa5743d95612d36" key="0431303e764c4c66a820473a8f9ec517">
+        <text>&#160;praiseworthy</text>
+    </remark>
+    <remark data-uuid="baf6b1f246b04dbdacc590a69697553c" key="65652c1c7df74cc59f231a61e79bebb4">
+        <text>&#160;extremely wicked</text>
+    </remark>
+    <remark data-uuid="a7ac727ad3ea4da7ac7985863e8a23e7" key="ed97d0b5c9e64d9aa26f2131a95ef9da">
+        <text>&#160;Bagley
+            believes that most mill girls would leave their jobs if they could.</text>
+    </remark>
+    <remark data-uuid="c455d0735a4a46b2ac055d00a2c4ad84" key="c78a0d611c2a42c3b2fdce56e3944657">
+        <text>&#160;Bagley
+            says that mill girls work to help their family members.</text>
+    </remark>
+    <remark data-uuid="21aa562d87d84af4a650e402f5f65971" key="ad0890d87f754983921563df932374cf">
+        <text>&#160;interference</text>
+    </remark>
+    <remark data-uuid="bbff9ed61f074a11bffd0df1d9d31796" key="5fcb8be5bc20479eb62f76a9027fa954">
+        <text>evidence</text>
+    </remark>
+    <remark data-uuid="bc7275d3e202479db69cdff5e63ef52e" key="196b2ff2d18048e3a54c574e6a32c778">
+        <text>&#160;attitude</text>
+    </remark>
+    <remark data-uuid="01ce8ff41dbd4402a5c4031c98273a83" key="55cd2a8596204065be910f8aa0a5be3a">
+        <text>&#160;attitude</text>
+    </remark>
+    <remark data-uuid="6c9d8093ad214b19a779b31b3ab2898f" key="67bcb4ce34b4461697a0d5cd1c0b1419">
+        <text>strenuous efforts</text>
+    </remark>
+    <remark data-uuid="03661a798e4143edb98f7f8cf79af811" key="d7734d6345c6434b823b454aafee2722">
+        <text>suggested offers</text>
+    </remark>
+    <remark data-uuid="398c47b4b6a647c784cd7e524209ab66" key="b3831805e0e449348a9ede0cabb5e2cc">
+        <text>a settled debt</text>
+    </remark>
+    <remark data-uuid="0066b8fe97a7493aa8e6868121085c9d" key="3aed0d00bb4f40b9b9aa41743eded97c">
+        <text>strenuous efforts</text>
+    </remark>
+    <remark data-uuid="441f642819dd46b6a5d473e93921548a" key="924535f9c8cf49198325d01933ad5aa3">
+        <text>suggested offers</text>
+    </remark>
+    <remark data-uuid="a92c1a85d41f436c9b92b7788f861e1f" key="facc1ab104bf46adbeb382c6f9a7e323">
+        <text>a settled debt</text>
+    </remark>
+    <remark data-uuid="567592480a4d44d3bb1bce85ec2baad5" key="a06fb3c9910b4eda8cb47198afa8858d">
+        <text>Jefferson tries to reassure his political opponents.</text>
+    </remark>
+    <remark data-uuid="d997a703d7ce43649524ef728a7891cd" key="22a8af0b87ec4670a69e061e64e9a11e">
+        <text>Here Jefferson states his opinion of what is essential to good government.</text>
+    </remark>
+    <remark data-uuid="3b51f1de91af4d8e979fd83cfbc1029f" key="1f9a614066644caa9daffe7f1260852e">
+        <text>This phrase shows Jefferson’s determination to keep government small.</text>
+    </remark>
+    <remark data-uuid="f05d42b2b13d453f8b837cb7ce0145a8" key="58cc4f9512a64cd58f3383e0c37fc495">
+        <text>Here Jefferson states his opinion of what is essential to good government.</text>
+    </remark>
+    <remark data-uuid="5bd5a4e2c487496582e20e2601d862d3" key="49553ddb15f5455b9a7ae8a3aa90a6ca">
+        <text>Jefferson tries to reassure his political opponents.</text>
+    </remark>
+    <remark data-uuid="637ca173942144948bb6450a7220c864" key="8631d78308bf466cba7671c2f93364de">
+        <text>This phrase shows Jefferson's determination to keep government small.</text>
+    </remark>
+    <remark data-uuid="6f06666595ff4b2ba9bd0646a158fafb" key="e57c6d9605e44f398620e5ab4fb12ff8">
+        <text>indentured servants</text>
+    </remark>
+    <remark data-uuid="fceb40b787064da0a64b80bd4c06cdff" key="d6b7605da0564ecaa38284376c9dbc13">
+        <text>housed</text>
+    </remark>
+    <remark data-uuid="1d1b8a3e887345dea5bf8e5f9eef20a0" key="1484085aaa7a4639ad1caba7162048ae">
+        <text>written
+            orders authorizing a person to make an arrest, a seizure, or a search &#160; &#160;</text>
+    </remark>
+    <remark data-uuid="fb9b7952822340b088a733596f90dfec" key="7825fbee57f14bf4a9a0a8958bb28b8f">
+        <text>disgraceful</text>
+    </remark>
+    <remark data-uuid="d4210b3b727441939f2294b05416a884" key="58630b1578b04a4bb35ca2f0f394e87c">
+        <text>disgraceful</text>
+    </remark>
+    <remark data-uuid="ee5a0e88e0224dce87ab5cda0533a2f6" key="fb506ea0f51446ac8a59af17465ffeb3">
+        <text>the
+            act of charging with a crime
+        </text>
+    </remark>
+    <remark data-uuid="8ba5d6d4ca3145dcb4a60735aae5c1d0" key="dfe2a51388df473fa5f8954f8c64d4b4">
+        <text>slaves</text>
+    </remark>
+    <remark data-uuid="1a93a59e155647678d69d7a4d76ac098" key="97ed14c836c84bcbb5a91fd2d5ffee0e">
+        <text>census or official population</text>
+    </remark>
+    <remark data-uuid="189e985cafef4f72bdbae1a5cf5012dd" key="60ca89f117ae40a28e963d3fa662447e">
+        <text>&#160;punishing the family of a person convicted of
+            treason</text>
+    </remark>
+    <remark data-uuid="79ac675ffc7f422db27b53e9a67eef2e" key="4a3edbf384fb4f51bb5886c3a170157c">
+        <text>&#160;temporarily</text>
+    </remark>
+    <remark data-uuid="98b72fb85cd7479ba1b2e63a23f31467" key="452760cecb304743b73f5e3a3e22c0a1">
+        <text>&#160;to stop indefinitely</text>
+    </remark>
+    <remark data-uuid="aef47c4264044ee5ab5d0141d9b24f49" key="6eb54d72d8b940068b2abb7b6af2269f">
+        <text>&#160;the minimum number of people needed to conduct
+            business</text>
+    </remark>
+    <remark data-uuid="cd919caa39044538ad881d9f1f2375a7" key="0cf4934c93be4adc9a794b3619899ac3">
+        <text>&#160;official accusation of federal wrongdoing</text>
+    </remark>
+    <remark data-uuid="b5446e2a286b454184592c405a3aa6a5" key="ea5ad200db60425aac04dfd21f34f68a">
+        <text>&#160;salary</text>
+    </remark>
+    <remark data-uuid="6c5191017c044d0f914d0dd8eb9be022" key="900becd58c35476787aba38b2f01d476">
+        <text>&#160;term</text>
+    </remark>
+    <remark data-uuid="8e852f4b885943ed928da217f18aa55a" key="64288efff5a14bdba5fb0ee7ab3d3001">
+        <text>&#160;proposed laws&#160;</text>
+    </remark>
+    <remark data-uuid="81107166abdc4e0faced01309d924082" key="a12a92431a4d46bfad133c1afeabad73">
+        <text>&#160;tariffs</text>
+    </remark>
+    <remark data-uuid="c547e7fbff474bd0bc7f528ad7e42484" key="53fc054a515b4ff9b7d3f4160d494244">
+        <text>&#160;taxes</text>
+    </remark>
+    <remark data-uuid="6e22e596a88d4111addff574144461ad" key="bb85ae98338049e892ba3b67d745c600">
+        <text>&#160;internal taxes on the manufacture, sale, or
+            consumption of a commodity</text>
+    </remark>
+    <remark data-uuid="e870bb42db42436c9cd15733dafd6123" key="ecd9cc0c43d146fab0bbc2084b0578da">
+        <text>&#160;a law by which a foreign-born person becomes a
+            citizen</text>
+    </remark>
+    <remark data-uuid="a2a83e57e3264453b59b5eb34023fb63" key="49f47389489a45308b027510fb1c24b7">
+        <text>&#160;bonds</text>
+    </remark>
+    <remark data-uuid="cdf18fff084047fbb5d376cab1d6268e" key="436268ed5da34e4993cbaed855f8108d">
+        <text>&#160;documents issued by governments allowing
+            merchant ships to arm themselves and attack ships of an enemy nation</text>
+    </remark>
+    <remark data-uuid="9cdfd0f8977c425aac188380526cd510" key="5da1ead16a3a46e5b32e15519dba3e33">
+        <text>&#160;a court order that requires the government to
+            bring a prisoner to court and explain why he or she is being held</text>
+    </remark>
+    <remark data-uuid="8db3d890b74e4b9085f6e351c95b3376" key="26e988249dd84361acca7174c4b86c1b">
+        <text>&#160;a law declaring that a person is guilty of a
+            particular crime</text>
+    </remark>
+    <remark data-uuid="7a201df8d3414659bfa80420dd227b70" key="4520cde28d3a46988819e2b6e9fff1c1">
+        <text>&#160;a law that is made effective prior to the date
+            that it was passed and therefore punishes people for acts that were not illegal
+            at the time</text>
+    </remark>
+    <remark data-uuid="9f5ed823710c482490be1823a995016f" key="26edeb25c93f44d0bfcbe3e408bce921">
+        <text>&#160;a direct uniform tax imposed on each head, or
+            person
+            acts</text>
+    </remark>
+    <remark data-uuid="4db8b535603e47bb9faf6f4d1b93ec76" key="846f8065a7af464ab1e71789b1db98ba">
+        <text>&#160;delays of punishment</text>
+    </remark>
+    <remark data-uuid="2de903ed99774e5aadc10b22cd680241" key="51edb869d8a446479950c18bc691b040">
+        <text>&#160;releases from the legal penalties associated
+            with a crime</text>
+    </remark>
+    <remark data-uuid="3cf470c772b84c51aa0fb853cfbf6d89" key="b9171fb21c5f4952bbc1ace71c1d1552">
+        <text>&#160;housed</text>
+    </remark>
+    <remark data-uuid="22db55073bd9403db134568f603cbe03" key="7a67ec44503646eba52394f9fa87f2fa">
+        <text>&#160;found out</text>
+    </remark>
+    <remark data-uuid="f4494ed3cc9a4d2680e7a63a80e6b95e" key="c81599668cdf426fb62085a1d2d0987b">
+        <text>&#160;explained or interpreted</text>
+    </remark>
+    <remark data-uuid="d91cd3c1ce7d4fb68c1a58866e976a0f" key="08eb756708de4fe9894463137c0736b5">
+        <text>&#160;being forced to work against one’s will</text>
+    </remark>
+    <remark data-uuid="032fd19f4af34e5396454083248a9cb5" key="979c907c45bc4e94975bf3644dd1b69b">
+        <text>force</text>
+    </remark>
+    <remark data-uuid="fb8cec3645394fa4801bf9cedf7c0d85" key="ace681fa9da445ec84da984bc0c4ff0b">
+        <text>&#160;provided &#160;</text>
+    </remark>
+    <remark data-uuid="6ccd9d8d0afa4b4fb81ea494c7de17dd" key="e9fcd1df8f8345c69f9a6f3c2b7b947c">
+        <text>wrongful seizures of power</text>
+    </remark>
+    <remark data-uuid="77ae45f26d464ae9be599cf1001f1b34" key="9916bace64ee4059a0133c31dd13cf3f">
+        <text>clearly displays</text>
+    </remark>
+    <remark data-uuid="0cf13befb57b46b8bca94d3710eb53f0" key="7eb86b0f022e452e87b8e8700d6b9965">
+        <text>unlimited power</text>
+    </remark>
+    <remark data-uuid="7f027cc7d0f643339e52e52f9a63d6fa" key="8cf8c395c6a142bd9b6e7085b0a7047c">
+        <text>oppressive power exerted by a government or ruler</text>
+    </remark>
+    <remark data-uuid="2afac10eceb94eada20f02de88797aef" key="fb79e31734224750b4501dfa9ee05afe">
+        <text>fair</text>
+    </remark>
+    <remark data-uuid="3833315b4f6441dea70c5c11391697c0" key="c4edfb10ab604ea292ffea98e9b610bf">
+        <text>release, yield</text>
+    </remark>
+    <remark data-uuid="fe57315c6c714dac9eba84734796d8cf" key="67376418451f489bad307248e74a5b9b">
+        <text>priceless</text>
+    </remark>
+    <remark data-uuid="81b59fe9a07c4be5a44983f2bacac8e3" key="36903a9a878b4dbb81b9efe8cb7e7bde">
+        <text>causing dread</text>
+    </remark>
+    <remark data-uuid="d21803383a784b5d9891e07c3b82e79d" key="f51e7e611b6144468b4a25e429b532e1">
+        <text>destruction</text>
+    </remark>
+    <remark data-uuid="c7ac5b8827764f498927a4eb89064ce6" key="7fd6dfe28d59448d8d3ec35c4d044b73">
+        <text>violent disturbances</text>
+    </remark>
+    <remark data-uuid="86b504bc3e564da1993da9a52de94239" key="04fe6839e6724dc3ae0a4ec4b826814c">
+        <text>the process by which foreign-born persons become citizens</text>
+    </remark>
+    <remark data-uuid="d040d07b68f34f498f71b4cc00068af4" key="e5d0a5d78b4b49eaa1641868a0017a38">
+        <text>setting aside land for settlement</text>
+    </remark>
+    <remark data-uuid="0b5b186f39024002a6059cbd5a05c7e2" key="26ea8ca76e1244b3ae9fd4cba74be308">
+        <text>many</text>
+    </remark>
+    <remark data-uuid="6a19ae1cafa04455b95ab0acb7962187" key="8892533bc57a4f019a81839d461c622b">
+        <text>lodging, housing</text>
+    </remark>
+    <remark data-uuid="e64882b6fbe94cb990333481435b7003" key="f62876e314384dda951881e34d617e02">
+        <text>not based on law</text>
+    </remark>
+    <remark data-uuid="89a1389dbf41494393c85b17dafe34c8" key="35325a70a2384222a0e7cf02e714433f">
+        <text>make</text>
+    </remark>
+    <remark data-uuid="a9f00023b06a4142870ad07868a0b553" key="5b96a5a639cd49a28eaad46270f83ea9">
+        <text>given up</text>
+    </remark>
+    <remark data-uuid="d0bc60eec7b54b4f9f323a1425f7638f" key="7555272378054124a24fd990a414871e">
+        <text>soldiers hired to fight for a country not their own</text>
+    </remark>
+    <remark data-uuid="57192f823d114246baebc443bf26c4ab" key="a0d7548277f149d798b2de4006e31796">
+        <text>violation of trust</text>
+    </remark>
+    <remark data-uuid="5e046fcee6cb48d1a7b728a90bf21843" key="8c6a68d1f1334a55982f2bd9ffe741ce">
+        <text>rebellions</text>
+    </remark>
+    <remark data-uuid="3edeec95ea054cd9b1200634b2424d40" key="aacb4f7efc1d433c874e367ea685e40f">
+        <text>asked formally for a correction of wrongs</text>
+    </remark>
+    <remark data-uuid="2fc5bbaf726e45d0be3c6de0cf1d398f" key="0fcf9e3aca4544c9bd5d2d2291fef86c">
+        <text>asked formally for a correction of wrongs</text>
+    </remark>
+    <remark data-uuid="7833a07f5fc64ff4817fe23e426cf5f6" key="fc438cad006e4fd6824b67aba3d27609">
+        <text>unjustified authority</text>
+    </remark>
+    <remark data-uuid="5911d413d7db486b91a78a0634480506" key="5425d00561a046acaae7cb128c13f7af">
+        <text>urgently called upon</text>
+    </remark>
+    <remark data-uuid="3fa914ca00cc498d899e0ab6d821d730" key="87e820eb55144947aae9f8763bfa864c">
+        <text>generous spirit</text>
+    </remark>
+    <remark data-uuid="0f533e4f25de4919b9d524df292ae280" key="a41c014f330e4a36abd4f7cd878543d4">
+        <text>consent to</text>
+    </remark>
+    <remark data-uuid="434aa4c730a54b899b505da54a2ec7cb" key="11be50f4d81f480cb55d495d162e5e2a">
+        <text>common ancestry</text>
+    </remark>
+    <remark data-uuid="7253048b90e34302957ea4b9dd59b1c0" key="970f9f48b9cd4a83adfa7a12bcc8761f">
+        <text>rightness</text>
+    </remark>
+    <remark data-uuid="be46a3f136a347f7aed17d308b8e4515" key="ba710ab11e5f425d92f9fc814df82dd8">
+        <text>&#160;advanced into</text>
+    </remark>
+    <remark data-uuid="204a5b21afbf46648b02dd937668c849" key="4819b595798f431288f30e8782c82dec">
+        <text>&#160;livelihood</text>
+    </remark>
+    <remark data-uuid="efffa1baef0549dd8e3319035edb14fd" key="f690f3b66e15429c8188731df99f45a5">
+        <text>&#160;widely known to be</text>
+    </remark>
+    <remark data-uuid="eaa62284c5b947049ca99848ae94c10f" key="c36065388c8941168ba960b08560e4c3">
+        <text>&#160;people under protection</text>
+    </remark>
+    <remark data-uuid="4a2f7a59cd6248489e24b6a4bb92b328" key="c430407146f94eb6834f26bc6778ddde">
+        <text>opinions</text>
+    </remark>
+    <remark data-uuid="356bf62f6901486a8d372d928562ef85" key="5e1c823f9515430dbda13b665c03bbdf">
+        <text>range</text>
+    </remark>
+    <remark data-uuid="bcb8d1a5550e4d1a9f72c70a55eae1d7" key="8c6f06b1b4104cbc9875274fb9735b88">
+        <text>act in agreement &#160;</text>
+    </remark>
+    <remark data-uuid="cf8c8dec676043f883d105f0b5fec640" key="dd8cf68b24fb420daf90016049b2151d">
+        <text>dealings</text>
+    </remark>
+    <remark data-uuid="c2fe33298a514e909529b0c44e8c7ce4" key="e30194ae943f4428ad889e54a112b47e">
+        <text>placed under the control of a person or group</text>
+    </remark>
+    <remark data-uuid="f2bd7a2c74114953b75be131f7fe2f13" key="a70eac1ff7e54e78990ec637b16f582e">
+        <text>&#160;restrain</text>
+    </remark>
+    <remark data-uuid="cb3d16e8798a43cb950b2b247d6f4afd" key="55cab645e45b488299f0511d9702a0a0">
+        <text>clear or plain to see</text>
+    </remark>
+    <remark data-uuid="5e60b57c813d4e73af8645adc576469b" key="8368e4b1b03f4ab4811c584020874fc9">
+        <text>bordering, next-door</text>
+    </remark>
+    <remark data-uuid="2dc3c6e009cb419c979fc63d2a9b3edd" key="d5b8b1d90bec42c7851e8578d9352d69">
+        <text>a person
+            from Bohemia, a region of the Czech Republic</text>
+    </remark>
+    <remark data-uuid="7f87dc456168432598dfde9b19c8cfbd" key="2f8591c4bb5e4c2395faaca858e3e86f">
+        <text>
+            In this phrase, Monroe warns European nations against trying to influence events in the Western Hemisphere.
+            <br/>
+        </text>
+    </remark>
+    <remark data-uuid="20c58f9499f743cc8a5571da770097aa" key="8f03da995df049e5b3fe90d0e802336c">
+        <text>
+            In this phrase, Monroe warns European nations against trying toinfluence events in the Western Hemisphere.
+            <br/>
+        </text>
+    </remark>
+    <remark data-uuid="df179c9d14554268b4604dc402294513" key="24ef9b994e5c472b9eeada051177d88c">
+        <text>
+            In this phrase, Monroe warns European nations against trying toinfluence events in the Western Hemisphere.
+            <br/>
+        </text>
+    </remark>
+    <remark data-uuid="7f24d50d0769462c89ff9639209d1712" key="b0435f8c787e41e5ad51fd81d8c595b1">
+        <text>In this phrase, Monroe warns European nations against trying to influence events in the Western Hemisphere.&#160;</text>
+    </remark>
+</remarks>

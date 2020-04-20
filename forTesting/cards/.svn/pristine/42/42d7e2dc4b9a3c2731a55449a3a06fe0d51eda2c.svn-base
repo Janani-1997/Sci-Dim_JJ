@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="1313e90ab1fd49d196cb41508c31723f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="67e4cc0953d04c449e1532fe75179a67">
+            <section class="lesson-review" data-uuid="37853c17cb094b74a95277166ace9a01">
+                <div class="header-element header-container " data-uuid="3bf6e7f1130b4f298e82b3400ea0043a">
+                    <p class="lesson-number" data-uuid="b3f804ea818640348d96fcde6deb6e6b"> Lesson 2</p>
+                    <h2 data-uuid="5502bcc29a0e4da59a7a2219ccc75535">Review</h2>
+                    <p class="white" data-uuid="a9e5ae644c2b44aca62819a1750cf3b2">In this lesson you learned how new movements in art and literature influenced many Americans in the early 1800s. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="9bb471f2cee04773b82f64d24a56d62c">Review Key Terms and People</h3>
+                <p data-uuid="0a50a7beeafc40619318fb3449ea223a">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="910473e11fc245f6b88b718a30bd97a5">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="511b8db3ead44edf9fbc71decab571e5">
+                <param name="configFile" value="../../widget_data/config/511b8db3ead44edf9fbc71decab571e5.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="2900afaffebe4774abca149bec5870e6">
+            <div class="go-prompt-bottom-bar" data-uuid="9e268eb12bf44d3b87ded422fd2d7fa9">
+                <h5 data-uuid="cec98c2e591c4fb6a1e4eeb6afab5d59">Review the Graphic Organizer</h5>
+                <p data-uuid="d2054e4ca4824a81838798ddb81c697e">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="4b9028699f3e416c8ad86e18449b3e2c">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0c0f1e9b57174137b66ec7b9a86c4671">
+                
+                
+                <param name="configFile" value="../../widget_data/config/0c0f1e9b57174137b66ec7b9a86c4671.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="3081f5648a06440fb7c9138f75eb1f04">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="665aeabd80e048da8c3093d112575866">
+                <param name="configFile" value="../../widget_data/config/c501846260e046709738490eaca05aa5.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="01cb6486efb1405da29cd5ad5f38f26f"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="680ce8ca49a941c1b2c8770af3a6ab94">
+            <button data-teacher-view-toggle="true" data-uuid="0def9b4290524bf49d2c198aab3d300f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="13dbbd23d072483cb53056638fe1e9fa">
+                <param value="../../widget_data/config/13dbbd23d072483cb53056638fe1e9fa.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

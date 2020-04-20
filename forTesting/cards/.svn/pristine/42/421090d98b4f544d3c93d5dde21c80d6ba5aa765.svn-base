@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="af07a390012d47159007dbb977e2f535" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="53f4f8817e1445318f84ed637605b836">
+            <div class="header-element header-container " data-uuid="6b68280ad83940088c9613433f35d8c6">
+                <p class="lesson-number" data-uuid="e8ce605524794276970dc4551ebb3bf7">Lesson 1</p>
+                <h2 data-uuid="41346a0bc78e4e5e8ea091d48983c35c">Assessment</h2>
+            </div>
+            <h5 data-uuid="dae77444a87b4746a4e127fa50e1ba5e">The Coming of War</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="674458aa4a6d40e7ab65921aa8a0d87d">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="15304516c3794cccad1309f8ae8b8f4a">
+                <param name="configFile" value="../../widget_data/config/15304516c3794cccad1309f8ae8b8f4a.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9b6ecbf2d7fa40ed8ca093861c5ac287">
+            <button data-teacher-view-toggle="true" data-uuid="332a19d7c8cf49fa9917683b73dcfb43"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="08b5486c46a349a68e134a9fb8b3da67">
+                <param name="configFile" value="../../widget_data/config/08b5486c46a349a68e134a9fb8b3da67.json" />
+            </object>
+        </section>
+    </body>
+</html>

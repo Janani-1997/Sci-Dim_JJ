@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3642c2bf90564b52bf907d89324ce7cc" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="abfd5d58d6344b78b7e16c6db4efd283">
+            <div class="header-element header-container " data-uuid="6bab1311fe5b455792fd889a62b1f987">
+                <p class="lesson-number" data-uuid="579fa892499e4e08b617fb6b4349a183">Lesson 1</p>
+                <h2 data-uuid="ab5a3e4f543c4fd588d64f2e68b02972">Assessment</h2>
+            </div>
+            <h5 data-uuid="783596ad99834b93b90b893fae65e10d">Beginnings of Slavery in the Americas</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="e4e21af2bded43efa680d8843a80c4dd">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="ee4bf384462943509553825812ea0f3a">
+                <param name="configFile" value="../../widget_data/config/ee4bf384462943509553825812ea0f3a.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2378a65494e74a08b65ee39a692210b0">
+            <button data-teacher-view-toggle="true" data-uuid="2d6a56cff71b4a2ebbc0c710dedbe274"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c26518d6b81449318dcd9aea5b19007b">
+                <param name="configFile" value="../../widget_data/config/c26518d6b81449318dcd9aea5b19007b.json" />
+            </object>
+        </section>
+        <p data-uuid="aeca03aa99ba4462a45ae83e0271427a"><br />
+        </p>
+    </body>
+</html>

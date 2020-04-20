@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d7485ee3528a42efa4eb1fdd448865e8" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="692e759ce5494ff6b9bc45f44dff6b5d">
+            <div class="header-element header-container " data-uuid="249c47fe523e4511b7a701527eff1516">
+                <p class="lesson-number" data-uuid="3fd46bc49c28425fa32eb30e67464f3f"><br />
+                </p>
+                <h2 data-uuid="81fe89050fee4d96b4f2cc2e2b528123"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="ac07c026dfc2487db08c86170fe75308">Part 2: Write a Compare and Contrast Essay</h3>
+            <h6 data-uuid="0e3544bcb9c442f29eb5e27501299f6a">Historical Context</h6>
+            <p data-uuid="6c9c0d7faaa54937a67fbf59f9c20b76">Beginning in the 1830s, the United States was transformed by westward expansion. Through treaties and warfare, the nation greatly increased its size and acquired valuable resources. Yet settlers often had to endure harsh conditions, and their arrival brought them into conflict with Native Americans.</p>
+            <h6 data-uuid="333346129a1a4b39b7892e8d1b3b0d09">Task</h6>
+            <p data-uuid="7bcd1163c53243719e39c9b2ea797ef8">Almost as soon as settlement began, the West became a popular subject in memoirs, literature, and art. But portrayals of the West often strayed from the facts. Write an essay in which you compare and contrast the myths and reality of westward expansion.</p>
+            <p data-uuid="aadb581f04d1421e9cb74694a67469d1">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="3eda1aeadd3f434d8b52c0f3347bb725">
+                <li data-uuid="fecef4a307254a0c8797d9acaf3e8d77">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="6ed735313522425d9bd6564565a7710b">
+                    Use at least <i>three</i> of the sources in Part 1, and develop the topic
+                    with relevant, well-chosen text evidence from the documents.
+                </li>
+                <li data-uuid="85dcd8b9d34c40058422122475609a42">
+                    Cite specific text evidence from each of the sources in your
+                    response.
+                </li>
+                <li data-uuid="394755c8bacc43d0b8ed1a248a289ebc">
+                    Plan your essay so that it includes an introduction, several body paragraphs, and a concluding paragraph.</li>
+                <li data-uuid="b5488ce5b3e642f68f5ebc72bd07cba0">Organize your essay in a clear and logical way that highlights comparisons and contrasts.<br />
+                </li>
+                <li data-uuid="9ad5ca6e9d294c0d8d22385e408507ec">Write a conclusion that sums up your ideas and supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="dc83b69245404e32a7bc5eca485a0a50">
+            <button data-teacher-view-toggle="true" data-uuid="0495c2eece3d401fada42725fc2109c0"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="107450a16f724c06bd2a72ac573b037f">
+                <param name="configFile" value="../../widget_data/config/107450a16f724c06bd2a72ac573b037f.json" />
+            </object>
+        </section>
+        <p data-uuid="4129bbb4811e4b2bad70acc41f90cd1c"><br />
+        </p>
+    </body>
+</html>

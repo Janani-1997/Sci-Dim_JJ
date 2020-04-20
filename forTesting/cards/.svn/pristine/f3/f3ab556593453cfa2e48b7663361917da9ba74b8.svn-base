@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c6a62a879c7c4d5eb96084de011a89cf">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="73bd95fc142c491b867ad0ff4c05d905">
+            <p class="lesson-number" data-uuid="b5d32b4c434e4337b8bae2fd736b5fad">Lesson 3</p>
+            <article class="header-container" data-uuid="8231a8a4547f439e9257a5279e5d18e7">
+                <div class="header-element" data-uuid="d83bec453409417b8536029cf1833f7d">
+                    <h1 data-uuid="2c02b3a3382f4c02a4c9e749e177f1e1">American
+                        Culture</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="91b2a3ea7b884b03855cdb46b9b37b30"></div>
+                    <h2 data-uuid="7f07f7242cf84e8a806b71903d05251b">The Big Idea</h2>
+                    <p data-uuid="6a85900aebbc407c86bbcd73a8b91d69">As the United States grew, developments in many cultural areas
+                        contributed to the creation of a new American identity.</p>
+                </div>
+            </article>
+            <article data-uuid="9c75b5af3ac44182a48bd30afd4d2976">
+                <h3 class="if-you-were-there" data-uuid="5df6c87749f44d468b10cd9bd7c56f0e">If YOU were there...</h3>
+                <p data-uuid="e598be5eb177475ca32ba3e8368ab902">You
+                    live in Philadelphia in 1830. Though you’ve lived in the city all your life,
+                    you dream about the West and the frontier. Now you’ve discovered a wonderful
+                    writer whose stories tell about frontier life and events in American history.
+                    You can’t wait to read his next exciting adventure. You think that perhaps
+                    someday you could be a frontier hero, too.</p>
+            </article>
+            <section class="question-long-text" data-uuid="be08ec5007764591b8cb2eab6ddc897e">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="67e57b4d25ca4bacbf76dc0c3b13c014">
+                    <param name="configFile" value="../../widget_data/config/67e57b4d25ca4bacbf76dc0c3b13c014.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="20fc03bb78b54a4385a786fe3066f29b">
+            <button data-teacher-view-toggle="true" data-uuid="117f7c9b79ec45a5a7c8288c22af012c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="261248f6a59c4c2bbb16b6fe9228054c">
+                <param name="configFile" value="../../widget_data/config/261248f6a59c4c2bbb16b6fe9228054c.json" />
+            </object>
+        </section>
+    </body>
+</html>

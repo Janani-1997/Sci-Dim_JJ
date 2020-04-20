@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="82fd190d98d64518b6efb4d3cd0d25e9">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="4b9ededa612642eda6de93cebd773b12">
+            <p class="lesson-number" data-uuid="2363f8b1bdcb4b7eb58edb0d8690c4c2">Lesson 4</p>
+            <article class="header-container" data-uuid="5d5907beed6b40d7ab09c1677992989c">
+                <div class="header-element" data-uuid="4a69945d78644c4e98fb1d01746c23b5">
+                    <h1 data-uuid="1b041bbb504a4c948fa35cd9769936d8">Daily Life during the War</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="ae7e4024f2f1445581356b8d27cf580c"></div>
+                    <h2 data-uuid="512b15c7d80f4caa8da878d50bdc5a80">The Big Idea</h2>
+                    <p data-uuid="d3ee41b382cf4e719ac2f73dbee01ef5">The lives of many Americans were affected by the
+                        Civil War.
+                        <!--
+                            Φ2o&#65533;)<
+                        -->
+                    </p>
+                </div>
+            </article>
+            <article data-uuid="f7fb709404604551bee57136efa7131d">
+                <h3 class="if-you-were-there" data-uuid="4ae25e24c8774681b8f249bf95b2b994">If YOU were there...</h3>
+                <p data-uuid="bd7c26f9f2bf4c38a57f38a444700bf6">You live in Maryland in 1864. Your father and
+                    brothers are in the Union army, and you want to do your part in the war. You
+                    hear that a woman in Washington, DC, is supplying medicines and caring for
+                    wounded soldiers on the battlefield. She is looking for volunteers. You know
+                    the work will be dangerous, for you’ll be in the line of fire. You might be
+                    shot or even killed.</p>
+            </article>
+            <section class="question-long-text" data-uuid="4e0d5fb606ec4a2e9260dc2ca2ec93db">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="233d43a19a6c42e6a8d31df2340c957e">
+                    <param name="configFile" value="../../widget_data/config/233d43a19a6c42e6a8d31df2340c957e.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="da90180cd2614e759004d1117fce3b23">
+            <button data-teacher-view-toggle="true" data-uuid="67cdb8ada31a430bbe0eebbcb5a5edeb"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7962adeaa00f40ccb8b6ac8bc5aadb13">
+                <param name="configFile" value="../../widget_data/config/7962adeaa00f40ccb8b6ac8bc5aadb13.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3e087bed2f9b4bc79dfe3bc6605abf20">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="09ae411c46a14c2b8dfd1360ddb2f6fe">
+        <div data-uuid="a24c9860fc884770b04da9f5c2b087e2">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="21e93f8765cb4f63a78aaeec58d5a765"/>
+         <div class="header-element" data-uuid="263bc1b6733643c3b2a5f51fcb647e97">
+                        <section class="calendar-container-bottom" data-uuid="b510ced580604afc8ac598d2885ec1ef">
+                            <div class="yellow-star-yellow-bar" data-uuid="b8c88436da5d42ff912029d86667059a"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="44c1d44af8184b0ab9e30df629ce587b">The North</h1>
+                        </section>
+            <section class="eq-container" data-uuid="3f6b8dea9b17422ab4664f77921caa41">
+                <figure class="image " data-uuid="5130544b0ef74b6fb8fff928c25ba341">
+                   
+                                            <img alt="This image shows the inside of a textile mill in the early 1800s and depicts all of the new technology and machinery that helped fuel the Industrial Revolution. " class="" data-uuid="9e9fbda6d2b84a948b99943a7169da6a" src="../../img/module_13opener/ms_snlese454149_320p.jpg" />
+                                             </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="0270546a6ed24cb7ba3f8f44d1b722d7">
+                        <p class="caption" data-uuid="811392fdeaa948a582f67e2e10eb1455">New machinery like this textile mill helped fuel the Industrial Revolution.</p>
+                    </div>
+
+               
+        
+            <article data-uuid="59fe9a1960df4f799f2b6a477579445e">
+                <h3 data-uuid="c01d1cf71f75438a9736a1e434cf055e" class="eq">Essential Question</h3>
+                <h3 data-uuid="734aef2c727942818c85da67e280b6b6" class="eqt">How did the Industrial Revolution help shape life
+                    in the North?</h3>
+                <p data-uuid="808cf6c6351643beaa93d18ee1fff268">In
+                    the early 1800s the Industrial Revolution changed the way goods
+                    were produced in the United States. Manufacturing grew
+                    more quickly. New factories were built that changed how many Americans lived
+                    and worked. Workers organized to ensure fair pay and working conditions. New
+                    technology and inventions changed the way people traveled, communicated, and
+                    did house work.&#160;</p>
+                <p data-uuid="c53164abbecc4f05986ee721724afb8b">As you read this module, look for evidence of the changes brought by new technologies and inventions. Note the
+                    key people, events, and circumstances of the Industrial Revolution that helped
+                    shape life in the North. When you are done, you will write a short essay
+                    answering the Essential Question for this module.</p>
+            </article>
+            <section data-uuid="74647a51fafa4c1991ecb508a605409c" class="video-container ">
+                <article data-uuid="007c8f27ba4046dfae59cede552d5cfe">
+                    <h3 data-uuid="95a462470eef4d64a230d69a83825d7d" class="vid">Industrial
+                        Revolution</h3>
+                    <p data-uuid="dd8f63d187394517a6a5428bc5285021">Prior to industrialization, all goods were
+                        produced by hand. This changed in the late 18th and early 19th centuries when mechanization
+                        transformed the textile industry. Later in the 1800s, mills and factories mass-produced a wide array of everyday items. Much of the nation, especially the North,
+                        became an urban industrial society. Watch the video to learn about how the Industrial
+                        Revolution reshaped American life.</p>
+                    <section data-uuid="9b5a88545bee47cea350493f5506556e" class="video">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" data-uuid="ab840b3f4c024a0db2114219fe7ddcf7" class="widget"><param name="configFile" value="../../widget_data/config/ab840b3f4c024a0db2114219fe7ddcf7.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section data-uuid="d38b702a122c482ea8907f6f8a80d58b" class="question-long-text">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="1a07b66d748d44b8a148140854759777" class="widget">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/1a07b66d748d44b8a148140854759777.json" />
+                </object>
+            </section>
+            <section data-uuid="446b5c5b419b4b4e801a43c8fc61cb71" class="timeline-container ">
+                <article data-uuid="d772e2a7e41748aabf4c638428429c48">
+                    <h3 data-uuid="6ef13a33049b48f09f222a057af878e2" class="mod">The North, 1785–1860</h3>
+                    <p data-uuid="414504fba22b4bbd82147a368e42991c" class="mod">In an age of technology, American inventors transformed life
+                        in the United States. They improved textile production and transportation.
+                        American inventors also created new and better equipment and manufacturing
+                        processes, making the United States an industrial leader.</p>
+                </article>
+            </section>
+            <section data-uuid="2e8df599e67948e097d580d2bce59f7a" class="timeline">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" data-uuid="61d89606db1f4ff8b5c307c1315d6643" class="widget">
+                    <param name="configFile" value="../../widget_data/config/61d89606db1f4ff8b5c307c1315d6643.json" />
+                    <param name="audio_description" value="NA" />
+                    <param name="audio_script" value="NA" />
+                </object>
+            </section>
+        </section>
+        <section data-uuid="8f1a8d91c40b4d0ab6ee3cd3d237a833" class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="91547445f2ed4051beab0b052a6a65cb" class="widget">
+                <param name="configFile" value="../../widget_data/config/91547445f2ed4051beab0b052a6a65cb.json" />
+            </object>
+        </section>
+        <section data-teacher-view="v0.1.0" data-uuid="a73d1f9905264149b49dd46244be2abf" class="teacher-view">
+            <button data-teacher-view-toggle="true" data-uuid="0a5fc2c64c914963995f37c671288ef6"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" data-uuid="c4deb1293f284c82b3e98c942510a7b3" class="widget">
+                <param name="configFile" value="../../widget_data/config/c4deb1293f284c82b3e98c942510a7b3.json" />
+            </object>
+        </section>
+        <p data-uuid="96dae973bee24d51b622a1bee42436b9"><br />
+        </p>
+    </body>
+</html>

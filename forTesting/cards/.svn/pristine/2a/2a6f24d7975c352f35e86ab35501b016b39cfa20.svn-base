@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="bbfc79c9bd5f44eba761fd9bc9325a81">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="39d7188f543a4273a260dae506a8f29e">
+            <p class="lesson-number" data-uuid="7eda53a361df47879d2dbd52dda9a27e">Lesson 1</p>
+            <article class="header-container" data-uuid="869d94857c3e4dc184b0a9ea59d9eef3">
+                <div class="header-element" data-uuid="2504986b3caa42949b843a84f0313a39">
+                    <h1 data-uuid="7631b3da98064cfdb13e1a2f848750e6">Conflict in the Colonies</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="5a6ec8e89bca4590a764f24e5db582ef"></div>
+                    <h2 data-uuid="b7829b450727477cb72fbb1fb8ffe87d">The Big Idea</h2>
+                    <p data-uuid="66e7a07daee94e0d972a1bc278916c8d">Tensions developed as the British government placed
+                        tax after tax on the colonies.</p>
+                </div>
+            </article>
+            <article data-uuid="86026b4dfa6f4bbc983a4c171cf4656f">
+                <h3 class="if-you-were-there" data-uuid="30baa8bc65584d5c8a9e01deac67e605">If YOU were there...</h3>
+                <p data-uuid="1aee559d23874e4dacbd1cc38a7f4344">You
+                    live in the New England colonies in the 1700s. Recently, British officials have
+                    placed new taxes on tea—your favorite beverage. You’ve never been very interested
+                    in politics, but you’re beginning to think that people far across the ocean in
+                    Britain shouldn’t be able to tell you what to do. Some of your friends have
+                    joined a group that refuses to buy British tea.</p>
+            </article>
+            <section class="question-long-text" data-uuid="9895c99c47dd4018a2b645e3a1e778a5">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2bc544d8142c43b6b5a6195c023ebc3f">
+                    <param name="configFile" value="../../widget_data/config/2bc544d8142c43b6b5a6195c023ebc3f.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8ffeb7e686dd4810939a4e4cdc11f37b">
+            <button data-teacher-view-toggle="true" data-uuid="7e330969475242c9816f1c23ddfe689e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="33c7e9b4182c44658db830a16729337e">
+                <param name="configFile" value="../../widget_data/config/33c7e9b4182c44658db830a16729337e.json" />
+            </object>
+        </section>
+        <p data-uuid="abc6d79bb00f4bb2b0b153f3ae48b68f"><br />
+        </p>
+    </body>
+</html>

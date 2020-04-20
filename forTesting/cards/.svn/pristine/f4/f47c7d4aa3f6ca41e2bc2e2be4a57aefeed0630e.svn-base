@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7eefcfe257f44d4dbfaf9ff28615a56a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Panic of 1837</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="ab178831b05b4d68b424f2c4d77db57a">
+            <article data-uuid="0b995d5c24e147e8a60654a412bea08b">
+                <h4 data-uuid="05826baf65954fb2906ee9807d6a6847">Main Idea</h4>
+                <p class="main-idea" data-uuid="98ea0e3634954e4daebc77483f81c78c">Jackson’s policies led to the Panic of 1837.</p>
+                <h2 data-uuid="f04d61f6bbda44dc8a356e8cde1ecad6">Panic of 1837 </h2>
+                <div class="yellow-star-yellow-bar" data-uuid="c083149adc5c4f7aac4dc4b3376494d1"></div>
+            </article>
+        </section>
+        <p data-uuid="4833152bb3ec478aabc7789a51b63fc0">Jackson was still very popular with voters in 1836. He chose not to run in 1836, however, and the Democrats nominated Vice-President Martin Van Buren.</p>
+        <p data-uuid="a33fe5298e374358b76ffe5e6b2d3d50">In 1834 a new political party had formed to oppose Jackson. Its members called themselves Whigs, after an English political party that opposed the monarchy, to make the point that Jackson was using his power like a king. The <b><dfn title="Whig Party">Whig Party</dfn></b> favored the idea of a weak president and a strong Congress. Unable to agree on a candidate, the Whigs chose four men to run against Van Buren. Because of this indecision, and with backing from Jackson, Van Buren won the election.</p>
+        <p data-uuid="c2a7c89234b6429fa7f76aa57af544fb">Shortly after Van Buren took office, the country experienced the <b><dfn title="Panic of 1837">Panic of 1837</dfn></b>, a severe economic depression. Jackson’s banking policies and his unsuccessful plan to curb inflation contributed to the panic. But people blamed Van Buren.</p>
+        <p data-uuid="91f10bb0e66e4e5aaf59d85cfa6e18d4"> In 1840 the Whigs united against the weakened Van Buren to stand behind one candidate, <b><dfn title="Harrison, William Henry">William Henry Harrison</dfn></b>, an army general. Harrison won in an electoral landslide. The Whigs had achieved their goal of winning the presidency.<br />
+        </p>
+        <section class="reading-check" data-uuid="6c5319e7c8604ac48c4a116a0dcea237">
+            <section class="question-long-text" data-uuid="7969dce50c4b4ca49f8e82142a5cb247">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="3cc940f25a544b7fb3c6a5dcfed9af79">
+                    <param name="configFile" value="../../widget_data/config/3cc940f25a544b7fb3c6a5dcfed9af79.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="03ea8a7385fb4476b6c632242b7b3f7c">
+            <div class="go-prompt-bottom-bar" data-uuid="d913dd70605b437196e0f6c163f1cd92">
+                <p data-uuid="e550b4f7b00d4a4d84255065fb8d3722">Remember to use the graphic organizer to take notes on how Jackson’s policies led to the Panic of 1837.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="259ecd52fb264384b17033fc7a2cc72f">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="c3c47fe9e19340ebace9a64f8ee3c3c4">
+                <param name="configFile" value="../../widget_data/config/c97ab9cc3b394eb8ab957e905e7ff5c3.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="57c5da140a244c1dbaa79ae116b7fdeb"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="05f5da25d02244728e388a44b81df327">
+            <button data-teacher-view-toggle="true" data-uuid="afa031fa80184597bc70de8882feb3a9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6d68aadc074a4626b780935842184348">
+                <param value="../../widget_data/config/6d68aadc074a4626b780935842184348.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="f2f7c9bb86b74a8db99eddb70133b536" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="a29aae97ea944221a650826d697a1024">
+            <div class="header-element header-container " data-uuid="c7e4ea2eeae8465381a3c38520849983">
+                <p class="lesson-number" data-uuid="3c302f11878c42f7ac3f633e9dd304fe"><br />
+                </p>
+                <h2 data-uuid="021f58dad4784757a11eaf6b6ecf397a"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="0b05a6ba7a254de1ae68053644fb7271">Part 2: Write an Explanatory Essay</h3>
+            <h6 data-uuid="b73d699730f241629d0453e0dc632a97">Historical Context</h6>
+            <p data-uuid="39b8f1d330ef40028b30fa71748e59e9">Slavery
+                was controversial in America long before the United States came into existence.
+                During the first half of the 19th century, a powerful movement developed to
+                abolish slavery. Meanwhile, most southerners remained deeply committed to the
+                practice. Yet on several occasions when a crisis developed over slavery,
+                politicians from the North and the South found a way to compromise and hold the
+                nation together.</p>
+            <h6 data-uuid="156225a4c5794a5a88d66997f1125bb0">Task</h6>
+            <p data-uuid="888fac573481431c97d764615a0d770b">In
+                the decade leading up to the Civil War, why were U.S. political leaders unable
+                to reach a lasting compromise over the issue of slavery? Write an essay in
+                response to this question.</p>
+            <p data-uuid="d8fa00c06eaf4cd885fdbdb5fbbb985e">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="92e56de574454650901b00e9863b55d3">
+                <li data-uuid="d11d19cc889646c1b5c39192e6d1e5c5">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="a3e67a94135a477689d65be0c5b3f26a">
+                    Use at least <i>three</i> of the sources in Part 1, and develop the topic
+                    with relevant, well-chosen text evidence from the documents.
+                </li>
+                <li data-uuid="06349fee829a413ab3074cda7fa1567d">
+                    Cite specific text evidence from each of the sources in your
+                    response.
+                </li>
+                <li data-uuid="78fc368effe0421f8a6e6b699204e1c2">
+                    Plan your essay so that it includes an introduction, several body paragraphs, and a concluding paragraph.</li>
+                <li data-uuid="cbf2dec3129946af8cb29beb60b31b2d">Organize your essay in a clear way that focuses on the topic and supports it with explanations and facts.<br />
+                </li>
+                <li data-uuid="733b77eefc264975ba5b4c8756f83a13">Write a conclusion that
+                    sums up your ideas and supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8ea512e3f6bd44a3a28071e14dd4c098">
+            <button data-teacher-view-toggle="true" data-uuid="559c2a09e67346629f46743532bd1180"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="96ca8d99a5c744bfac39bd2fe1e9ce57">
+                <param name="configFile" value="../../widget_data/config/96ca8d99a5c744bfac39bd2fe1e9ce57.json" />
+            </object>
+        </section>
+        <p data-uuid="9c9ae257c3d44afab2229d5894962c52"><br />
+        </p>
+    </body>
+</html>

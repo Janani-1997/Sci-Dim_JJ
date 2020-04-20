@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c34431d8377c41d29108ec5cdc336ef4">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="50c71abbc0d2452bb901fdfc24a9ef2d">
+            <div class="header-element header-container " data-uuid="e5a0fbe7eaa5415ca5fd644825c606e4">
+                <p class="lesson-number" data-uuid="b72e8989b8824fedaa1ef1478f02ec72">
+                    Lesson 3</p>
+                <h2 data-uuid="700cd69c2c87405fa28610fdc34638f5">Review</h2>
+                <p class="white" data-uuid="84dc94a46d2a47758f177e2ede1204f5">In this lesson, you’ve learned that opinions about
+                    the Vietnam War divided American society in the 1960s. Now you will review some
+                    key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="b80d87fae7fc4447bd30c48c61d60a4c">Review Key Terms and People</h3>
+            <p data-uuid="441b5d002ed346cabe22e1ad6200fe9f">Define each term or person shown on the card. Flip
+                the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="bf4f34c81d6747e3a1edf72920e09f36">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="5dc4928677ab4068a6773b93db38de78">
+                <param name="configFile" value="../../widget_data/config/5dc4928677ab4068a6773b93db38de78.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="e5671fcc40174ae1957d2fb045b1051b">
+            <div class="go-prompt-bottom-bar" data-uuid="288650c5a0984b81bf3ae3d46bc04b12">
+                <h5 data-uuid="fc3da6d5b67947c5a57e340aae692100">Review the Graphic Organizer</h5>
+                <p data-uuid="1abb2f88b3f74cbe8b8d6ef2b4ebaa5b">Review your graphic organizer notes and use them
+                    to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="6ddd79db2f654c6595e92e95f0d57356">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="7be0c1cc2c7044f5bcf88a40134a5bfa">
+                <param name="configFile" value="../../widget_data/config/7be0c1cc2c7044f5bcf88a40134a5bfa.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="e8cd82d5252242888c67254bf0fc281e">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="239ce081af52484ea572ab8332135d11">
+                <param name="configFile" value="../../widget_data/config/3df2d745ba3d41c19049319efdd65d31.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="1abb90bdc0a74417b4ec58847dd082c5"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7fba1c248af64eecaaaaf37ec5a3f44b">
+            <button data-teacher-view-toggle="true" data-uuid="db41e7fcc92b44598dd0655cb7ec4dd0"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="2c410ed3a7154eeeb537150a8ffd6092">
+                <param name="configFile" value="../../widget_data/config/2c410ed3a7154eeeb537150a8ffd6092.json" />
+            </object>
+        </section>
+        <p data-uuid="b337c92daec14df4b3d660b6d9f8fea5"><br />
+        </p>
+    </body>
+</html>

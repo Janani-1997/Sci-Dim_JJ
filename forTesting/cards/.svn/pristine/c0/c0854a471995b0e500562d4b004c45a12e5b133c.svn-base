@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="171b4c57b9ff4c74bab44bbc5a4e1520">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section data-uuid="196ae71cb6c846e3a2c61e10d39103ab" class="module-opener">
+        <div data-uuid="f1c977cb946040279919cffa1c10fedc">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="2b3d8d304c51496ab9158e3b65f954ed"/>
+            <div class="header-element" data-uuid="99b8890d073d4c878d0f6ef2d284de2e">
+                <section data-uuid="a6069847c8f74f7eaa4afb6191e99db2" class="calendar-container ">
+                    <div data-uuid="2bbaf9d4c0974b73aff2dab5187118f8" class="yellow-star-yellow-bar"></div>
+                    <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                    <h1 data-uuid="c918f3a5a1ff4cef91e6abe50ebbe248">New Empires in the Americas</h1>
+                </section>
+                <section data-uuid="7327597c51b74055afdda6c6c63a25ba" class="eq-container">
+                    <figure data-uuid="be7954d5f0c74397ad1344f1333097e2" class="image ">
+                        <img alt="This is a photograph of reproductions of two of Christopher Columbus's ships, sailing on the open sea." data-uuid="b1a11c8dfa484a52869f37f34c8e9d84" src="../../img/module_2opener/ms_snlese454149_481p.jpg" />
+                        <div data-uuid="2302a91eac27473b9662f8102852380b" class="image-metadata-container">
+                            <span class="image-text image-alt"></span>
+                            <span class="image-text image-credit"></span>
+                        </div>
+                    </figure>
+                </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="bc6c12eeee6b40ee9997dc9d389becd2">
+                <p data-uuid="ecaae767b3dd45f2bd9255faff780fe3" class="caption">The ships of explorer Christopher Columbus sail again in the form of these replicas.</p>
+            </div>
+            <article data-uuid="4037b8441df3489ba359bdff7ec47556">
+                <h3 data-uuid="1bd53be5f3614a98adc4ae76bc275a32" class="eq">Essential Question</h3>
+                <h3 data-uuid="8d3b0a097d904accbbb1d0b0946a07d1" class="eqt">How did Europeans change life in the Americas?</h3>
+                <p data-uuid="0d4ac9d6b76a442e9e59170cf5e8584e">When Columbus started on his voyage, he hoped to find lands containing resources and goods that would be valuable to Europeans. Little did he realize that by setting foot in the Bahamas he would forever change the lives not only of Europeans, but of those people living in the Americas.</p>
+                <p data-uuid="19bc0397d93e4bf88bc499140c5c1820">As you read this module, look for ways that
+                    European explorers and colonists changed life in the Americas. When you are
+                    done, you will write a short essay answering the Essential Question for this
+                    module.</p>
+            </article>
+            <section data-uuid="e3bdf3716fbf4fd7a5cb42138224060d" class="video-container ">
+                <article data-uuid="c4666956e6a64e76a87e7456cf470514">
+                    <h3 data-uuid="0ac2ebd919354ec49ad074294b32b6b5" class="vid">Columbus
+                        Sails West</h3>
+                    <p data-uuid="37e467f9f4cb4ad382c7975779921ab8">Columbus sailed west in an attempt to find a shorter route to Asia, which contained many resources that Europeans wanted. However, he did not know that the New World lay between Europe and Asia. The Europeans’ desire for the resources Columbus discovered would lead to profound changes in the lives of both Europeans and Native Americans.</p>
+                    <section data-uuid="fb05f6bfe6474e14af561bdc457ea44a" class="video">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" data-uuid="5e09279d61064b918c342fb813c7600b" class="widget"><param name="configFile" value="../../widget_data/config/5e09279d61064b918c342fb813c7600b.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section data-uuid="792c7b73f83649a5be340b51536b474b" class="question-long-text">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="0051d2055b224f02ab19d508697b0c7f" class="widget">
+                    <param name="configFile" value="../../widget_data/config/0051d2055b224f02ab19d508697b0c7f.json" />
+                    
+                    
+                </object>
+            </section>
+            <section data-uuid="4a769d13dee348c99cd2dd2e51508e25" class="timeline-container ">
+                <article data-uuid="89dc3f0c30f146abb2428488a4f0dc09">
+                    <h3 class="mod" data-uuid="32ab1da4ef994e39a3e5493481861fea">New Empires in the Americas, 1400–1700</h3>
+                    <p data-uuid="3438e1ac6e014b32be6356ad1cd123c1" class="mod">From the 1400s through the 1700s, Europe
+                        experienced a period of scientific discovery and exploration. Inventions, such
+                        as the printing press and the telescope, improved communication and people's knowledge of the world. As European nations explored the Americas, they established
+                        colonies, often with disastrous results for the native peoples.<br />
+                    </p>
+                </article>
+            </section>
+            <section data-uuid="6ee94d1fef234290961e4319b308d790" class="timeline">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" data-uuid="d3a7e767d8494092a992c5f7cafdd847" class="widget">
+                    <param name="audio_description" value="na" />
+                    <param name="audio_script" value="na" />
+                    <param name="configFile" value="../../widget_data/config/d3a7e767d8494092a992c5f7cafdd847.json" />
+                </object>
+            </section>
+        </section>
+        <section data-uuid="e870c5ab73b246539ae559e98e2897fb" class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="76d3f0d7618e496fb66434df0b4c937a" class="widget">
+                
+                
+                <param name="configFile" value="../../widget_data/config/76d3f0d7618e496fb66434df0b4c937a.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="07ae9efb0c6d4929b7c773ca35e595ac">
+            <button data-teacher-view-toggle="true" data-uuid="993257657755451fbdf1723a1dc532bd"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b6864781886c46cf986a31122826a6f0">
+                <param name="configFile" value="../../widget_data/config/b6864781886c46cf986a31122826a6f0.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="60a8b41a71fb48979580e94cca796dcd" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="801f78b05fad4af8aec95c36a642ab97">
+            <div class="header-element header-container " data-uuid="61a68f33fd07405abd9d9ec94e82254f">
+                <p class="lesson-number" data-uuid="7cb5c776f4854d3380605dfa7951463d"><br />
+                </p>
+                <h2 data-uuid="8bbe8def0c244678845b176a555f642d"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="ad932fb813d7440d9e1a311bbe250198">Part 2: Write an Argument</h3>
+            <h6 data-uuid="49707f8136914b7b8b8b45ba38416da3">Historical Context</h6>
+            <p data-uuid="7840e6b86af045f3aa74dee830b1a5fe">In the late 1700s and early 1800s, the Industrial
+                Revolution changed the way goods were produced in the United States. After the
+                War of 1812 manufacturing grew more quickly. New factories were built that
+                changed how many Americans lived and worked. Workers organized to ensure fair
+                pay and working conditions. New technology and inventions changed the way
+                people traveled, communicated, and did housework.</p>
+            <h6 data-uuid="678e2f64aeff4458809caa94a6e2510f">Task</h6>
+            <p data-uuid="67a4c5b83f8c465a81197cebebf93786">
+                The Industrial Revolution transformed people’s
+                lives in the northern United States. It changed the way people lived and worked
+                for the better and sometimes for the worse. Did the pros of the Industrial Revolution outweigh the cons? Write an argumentative essay in which you take a stand on the effects that rapid
+                industrialization had on life in the North.</p>
+            <p data-uuid="232bb14aeb6b4ff7857ec0ceaba14d00">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="2ffe2122ee3d47cb80c62d4e4d16abf7">
+                <li data-uuid="281173a954d64eb5a9d517e42c9179e5">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="78936934d708489b858ac96a9d52f6d4">
+                    Use at least <i>three</i> of the sources in Part 1, and develop the topic
+                    with relevant, well-chosen text evidence from the documents.
+                </li>
+                <li data-uuid="bf6eb7b177bc4845b464ed592b61467a">
+                    Clearly state your claim, or position on the topic, and consider any opposing claims.</li>
+                <li data-uuid="a5ad4b33961749b9b6b275e869c2aac5">Support your claim with logical reasoning and evidence from credible sources.</li>
+                <li data-uuid="0382b64e15ee46b7a09583abaf993314">Organize your essay in a clear and logical way and use linking words and phrases to clarify the relationship between claims and counterclaims, as well as between ideas.</li>
+                <li data-uuid="ac1e178c919947b8929465b951375072">Use a formal writing style and correct grammar and punctuation.</li>
+                <li data-uuid="a137b2c88eb546a986f6f0f2f15827e3">Write a conclusion that sums up your ideas and supports the argument you present.</li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8f72155e75c64d0484b5f85db89941cb">
+            <button data-teacher-view-toggle="true" data-uuid="d4806074862545499056e43edde50efb"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f82ea5644bd54793bf0262e685a92f8b">
+                <param name="configFile" value="../../widget_data/config/f82ea5644bd54793bf0262e685a92f8b.json" />
+            </object>
+        </section>
+        <p data-uuid="33ba75fda8524b55b9dc61f2040402cc"><br />
+        </p>
+    </body>
+</html>

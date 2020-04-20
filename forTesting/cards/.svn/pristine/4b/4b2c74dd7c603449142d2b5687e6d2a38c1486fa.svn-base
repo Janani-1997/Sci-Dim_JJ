@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="66c0f550085143509bf7b338b06f42ef">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="229b8a37840244cb869f8fd4aaf0d5d4">
+            <p class="lesson-number" data-uuid="c8364e86dac04128a1dca176e02f67be">Lesson 3</p>
+            <article class="header-container" data-uuid="8b80e79565494b0a9058ec21392fa2f9">
+                <div class="header-element" data-uuid="353e55edcec74e918e4331d28a994242">
+                    <h1 data-uuid="873059422821443b80ae6f78f5bd67a7">The
+                        Reagan Presidency</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="0fd32bd72d8e49578e1f3226527a71ba"></div>
+                    <h2 data-uuid="1ea1af46ae194941a3a35be5515a635f">The Big Idea</h2>
+                    <p data-uuid="5dc4de02451b4ad19ce56acac067a3a8">President Reagan enacted conservative policies
+                        at home and took a strong anti-Communist stance in the Cold War.</p>
+                </div>
+            </article>
+            <article data-uuid="ac5f0dce23c5449a8f97788047687ccc">
+                <h3 class="if-you-were-there" data-uuid="0db555824b5441d99f068389a8817252">If YOU were there...</h3>
+                <p data-uuid="b2aae86ed45f473986716921063764f3">It is 1980, and you are a top adviser to the
+                    newly elected president, Ronald Reagan. You think about the challenges Reagan
+                    will face. High inflation and unemployment are plaguing the economy. Relations
+                    with the Soviet Union are falling apart. Also, 52 Americans are still being
+                    held hostage in Iran.</p>
+            </article>
+            <section class="reading-check" data-uuid="516338756ca747d9965ff0f84ea712fc">
+                <section class="question-long-text" data-uuid="9792c5e65cfc408bba934e2ed6717033">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="6d59079b1f3949b3ad500898681c0255">
+                        <param name="configFile" value="../../widget_data/config/6d59079b1f3949b3ad500898681c0255.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="e8cbec51e7f946b48e275b3c46c10a1e">
+            <button data-teacher-view-toggle="true" data-uuid="349cea8ef1bf43e6abeb2c583451e1dc"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0e9b151e714349a8b202e8cbfe7bc5ba">
+                <param name="configFile" value="../../widget_data/config/0e9b151e714349a8b202e8cbfe7bc5ba.json" />
+            </object>
+        </section>
+        <p data-uuid="710ef6a2ce9e4422a5859b9926f03835"><br />
+        </p>
+    </body>
+</html>

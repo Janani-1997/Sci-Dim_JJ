@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ab0f53f375f24658be62fec1adcee412">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Battle of Yorktown</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="c07d74bd30574c96b381e3f07229e4f6">
+            <article data-uuid="6e0229731b454733a45e17162597227c">
+                <h4 data-uuid="bc007a67f5f74e0cbc4a1a0c405978d2">Main Idea</h4>
+                <p class="main-idea" data-uuid="3251440c874f4dcba8c6e9f37b8a0488">The American Patriots finally defeated the British at the Battle of Yorktown.</p>
+                <h2 data-uuid="a02544d345b04f22b77521d481741900">Battle of Yorktown</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="1d27201889a54497ac4f9edd4416eece"></div>
+            </article>
+        </section>
+        <p data-uuid="1c09241b17d64bc795d32e1b1e1ec6b1">In early 1781 the war was going badly for the Patriots. They were low on money to pay soldiers and buy supplies. The help of their foreign allies had not brought the war to a quick end as they had hoped. The British held most of the South, plus Philadelphia and New York City. The Patriots’ morale took another blow when Benedict Arnold, one of America’s most gifted officers, turned traitor.</p>
+        <p data-uuid="927954866c51486aabb420ebe921c9f2">Regrouped under Nathanael Greene, the Continental army began harassing British general Charles Cornwallis in the Carolinas. Hoping to stay in communication with the British naval fleet, Cornwallis moved his force of 7,200 men to Yorktown, Virginia. It was a fatal mistake.</p>
+        <section class="interactive-map" data-uuid="0df2214d94ed4c628902d549410c7e20">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="23f1584a50ba46d4b2ffba2ed4a1d1d8">
+                <param name="selected_map" value="8_snlese454170_722m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="240ef8b02e9d47979e0a8ffa5907c7e3">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="b7c44a179f654d7e83e6034ee12023dc"><param name="configFile" value="../../widget_data/config/b7c44a179f654d7e83e6034ee12023dc.json" /></object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="3543307a4c034bafa52b8027281105f3">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="e77024af2b424544a18b9fdd47279e24">
+                <param name="configFile" value="../../widget_data/config/e77024af2b424544a18b9fdd47279e24.json" />
+            </object>
+        </section>
+        <p data-uuid="adb44daa4b764ec4ad335ff38824d0e1">An enslaved African named <b><dfn title="Armistead, James">James Armistead</dfn></b> worked as a spy for the Marquis de Lafayette. The information Armistead collected for Lafayette gave the Continental army an advantage over the British at Yorktown. General Washington saw a chance to trap Cornwallis there. He ordered Lafayette to block Cornwallis’s escape by land. Then he combined his 2,500 troops with 4,000 French troops commanded by the <b><dfn title="Rochambeau, Comte de">Comte de Rochambeau</dfn></b> (raw-shahn-BOH). </p>
+        <p data-uuid="41c2003441744d6e830f376681e027a0">Washington led the French-American force on a swift march to Virginia to cut off the other escape routes. The Patriots surrounded Cornwallis with some 16,000 soldiers. Meanwhile, a French naval fleet seized control of the Chesapeake Bay, preventing British ships from rescuing Cornwallis’s stranded army.</p>
+        <p data-uuid="797d04ad48804d818bda46f16f3578f9">The siege began. For weeks, the fighting steadily wore down the British defenses. Alexander Hamilton, who later became America’s first secretary of the treasury, took part in the Battle of Yorktown. He commanded an infantry battalion under General Washington. In early October, Washington prepared for a major attack on the weakened British troops.</p>
+        <section class="video" data-uuid="ee99238e9e5848118240c135b8a2e281">
+            <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="b3764060f3624fd8acdd75f0d00c6e00"><param name="configFile" value="../../widget_data/config/b3764060f3624fd8acdd75f0d00c6e00.json" /></object>
+        </section>
+        <section class="question-long-text" data-uuid="0afc7823368d4d9d910494069aee96b8">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c2cb8375caab4c15ba7eaea5782cd59a">
+                <param name="configFile" value="../../widget_data/config/c2cb8375caab4c15ba7eaea5782cd59a.json" />
+            </object>
+        </section>
+        <p data-uuid="c55f0b03c7704ecb965112295db90166">Facing near-certain defeat, on October 19, 1781, Cornwallis sent a drummer and a soldier with a white flag of surrender to Washington’s camp. The Patriots took some 8,000 British prisoners—the largest British army in America.</p>
+        <p data-uuid="2b8352e8268f4a5aaaf87a32342d51e6">The <b><dfn title="Battle of Yorktown">Battle of Yorktown</dfn></b> was the last major battle of the American Revolution. Prime Minister Lord North received word of the Yorktown surrender in November. In shock he declared, “It is all over!”</p>
+        <section class="question-long-text" data-uuid="747589b3d29c40488c50f400943ab84e">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="771793e867f6433ea0c9f50344d0e2a7">
+                <param name="configFile" value="../../widget_data/config/771793e867f6433ea0c9f50344d0e2a7.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="a260cb93275646048471d715f9435e14">
+            <div class="go-prompt-bottom-bar" data-uuid="7493b5d87ca64e54b222ab55bb7892a4">
+                <p data-uuid="9f4e0f9f41f34e7385828cc87c74feef">Remember to complete the graphic organizer with information on the events that led to the end of the war.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="43b03c16897145e6b4a5c459c4f4f584">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="3c441562ead046568c3cadf18dd03289">
+                <param name="configFile" value="../../widget_data/config/9a73db635fd648f299466b64931469aa.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="b831792d26494ef285fef870e8ddcc33"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="90932e40237b4207ae0544d07fd2499d">
+            <button data-teacher-view-toggle="true" data-uuid="ef01b7c8e3e3484e856adb55e4561b0a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ba211ce0e9d549cdabfbb264b625ea9f">
+                <param value="../../widget_data/config/ba211ce0e9d549cdabfbb264b625ea9f.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

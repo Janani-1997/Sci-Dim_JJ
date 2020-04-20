@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ad08bc45b2b04a18a04b521760e06f72">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="ae9d7b58ad70411095688ef53bab743b">
+            <p class="lesson-number" data-uuid="6e5d88d5ac5f4c9b9e0001657a748654">Lesson 4</p>
+            <article class="header-container" data-uuid="0108fcba4e3444efa1c956ce53fc2e2e">
+                <div class="header-element" data-uuid="a4decbc429d248388c08c16cf1921ef1">
+                    <h1 data-uuid="fcf2af281b2f4a3ab0dccf02d681a02b">The Race for Empires</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="3ce3cad52fb44531861004e61999f366"></div>
+                    <h2 data-uuid="8eb1772f14254d0fa90a04dd5381f76a">The Big Idea</h2>
+                    <p data-uuid="7f2da8a6a3e04350b87b13ee66f2482f">Other European nations challenged Spain in the
+                        Americas.</p>
+                </div>
+            </article>
+            <article data-uuid="1ec25a84ba8a4471ae99b258268144ac">
+                <h3 class="if-you-were-there" data-uuid="5ba641237c3b4fcc84263261e8ddec88">If YOU were there...</h3>
+                <p data-uuid="036606f8de0f4cfb907d1b490d3af798">The
+                    people of your village in France have always belonged to the same church. Now,
+                    in the 1600s, your village is divided over religious beliefs. You have heard
+                    about the Dutch colony of New Netherland in America, where people can practice
+                    any religion freely. You would like to leave for America, but your parents are
+                    unwilling to leave their home.</p>
+            </article>
+            <section class="question-long-text" data-uuid="24bb6f8f99734eceb085a8031eaa53db">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ca2471d292d84acc948d02bc8df2cdeb">
+                    <param name="configFile" value="../../widget_data/config/ca2471d292d84acc948d02bc8df2cdeb.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9e5e31e7088c4a939650dc7e9741ef7c">
+            <button data-teacher-view-toggle="true" data-uuid="a482a496a1434c21acb3883df9d749e9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c1233486a6274d1a828d04cc50695611">
+                <param name="configFile" value="../../widget_data/config/c1233486a6274d1a828d04cc50695611.json" />
+            </object>
+        </section>
+        <p data-uuid="b495b470ce3a40878840a6d47de65bf0"><br />
+        </p>
+    </body>
+</html>

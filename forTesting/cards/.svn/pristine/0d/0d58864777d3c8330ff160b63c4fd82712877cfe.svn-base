@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="9fdd144bcc19446992e945490ebdfbbd">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="08f844f8964c468a82b999dd443a9967">
+            <div class="header-element header-container " data-uuid="416bf77306db44f1a2440661087a58ca">
+                <p class="lesson-number" data-uuid="c2809becdb4a49aaad258039b71e497b"><br />
+                </p>
+                <h2 data-uuid="71e1550514e64f74a67828cdfd7df3c0"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="b82029ca655244f689e89d08dd6cd788">In this module,
+                    you’ve learned about the reform movements in the United States in the late 1800s and early 1900s. Now it’s your turn to demonstrate your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="0089e0884c65491c9369e1bea8ee518f">How progressive were the Progressives?
+                <!--
+                    g&#65533;cu&#65533;
+                -->
+            </h3>
+            <p data-uuid="8772f814188f472ba8c6e0e5e2c1888c">Write a persuasive
+                essay answering this question. Your essay should include key people, events,
+                and turning points that resulted in the progressive ideas and initiatives that swept
+                across the nation. Be sure to cite
+                evidence to support your position and organize your essay into an introduction,
+                body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="43d0d8d21a3843739276fd4498f30a68">
+            <button data-teacher-view-toggle="true" data-uuid="c32fa7e420f84fb191cf9b2d378d5434"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b2f74f604f2a46a5825243814a062bdb">
+                <param name="configFile" value="../../widget_data/config/b2f74f604f2a46a5825243814a062bdb.json" />
+            </object>
+        </section>
+        <p data-uuid="4b9a3be5b8e545509f4f8a7814e0fef6"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e43c3c0c492046b7a46e9f034daa202b">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Fredericksburg and Chancellorsville</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="a1f26e24271245a6b3ea7c297398dbf1">
+            <article data-uuid="ab66b36d9bf4456db4e0b172a78e67fc">
+                <h4 data-uuid="7fc8e1c86a684459a8f9bf5d9376e8dd">Main Idea</h4>
+                <p class="main-idea" data-uuid="a39cabb885b2401a9364847d09b43163">The Union tried to divide the Confederate army at Fredericksburg, but the attempt failed.</p>
+                <h2 data-uuid="82e6462875624b01ae17d4baf44f0ed8">Fredericksburg and Chancellorsville</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="f3bb0467f0d0462f9a6cc09cee8e339d"></div>
+            </article>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="a7f7569fddf74561a3af8cbe0a3c399e">
+            <div class="go-prompt-bottom-bar" data-uuid="161c3f228bec439db6b38e78c9d41b45">
+                <p data-uuid="37b504232d0f44f193f18bb5c17d42d0">As you read, use the graphic organizer to recall the events that led to the end of the Civil War.</p>
+            </div>
+        </section>
+        <p data-uuid="0c33c970d64b4d5d9e0640714f57cb6b">Frustrated by McClellan’s lack of aggression, Lincoln replaced him with General Ambrose E. Burnside as leader of the Army of the Potomac. Burnside favored a swift, decisive attack on Richmond by way of Fredericksburg. In November 1862 he set out with 120,000 troops.</p>
+        <p data-uuid="39f2db5d96a8493ab9ab0145333d8989">Burnside’s tactics surprised General Lee. The Confederate commander had divided his force of 78,000 men. Neither section of the Confederate army was in a good position to defend Fredericksburg. However, Burnside’s army experienced delays in crossing the Rappahannock River. These delays allowed Lee’s army to reunite and entrench themselves around Fredericksburg. Finally, the Union army crossed the Rappahannock and launched a series of charges. These attacks had heavy casualties and failed to break the Confederate line. Eventually, after suffering about 12,600 casualties, Burnside ordered a retreat. The Confederates had about 5,300 casualties.</p>
+        <p data-uuid="f6188137f301484d887d6ec93353bf4e"> Soon, Burnside stepped down from his position. Lincoln made General Joseph Hooker the commander of the Army of the Potomac.<br />
+        </p>
+        <section class="pullquote_wrapper" data-uuid="545725f09755498ab29cf0d7c9613e20">
+            <p class="pullquote hang" data-uuid="c55bfc057ea44b3e871af86e4f7c8e1c">“You will remember that I some time ago told you that I wished to retire to private life. The rebellion now seems pretty well checked &amp; the work I am doing can no doubt be as well or better performed by some one else so that I can now conscientiously ask to be allowed to resign if you think the good of service will permit.”</p>
+            <div class="pullquote_attribution_wrapper" data-uuid="db9499baa83341c5867758dadca7dcf9">
+                <p class="pullquote_address" data-uuid="0ece9eca50bb404ea349b03ed5e46229">—Ambrose E. Burnside</p>
+                <p class="p_source" data-uuid="ade39b2951d848cba56eec053219f748">to Abraham Lincoln, Thursday, September 10, 1863, The Abraham Lincoln Papers at the Library of Congress<br />
+                    <span class="important"></span></p>
+                
+            </div>
+        </section>
+        <p data-uuid="ccac4bbf06b94b0d9c9ad21a8964f447">At the end of April 1863, Hooker and his army of about 138,000 men launched a frontal attack on Fredericksburg. Then Hooker ordered about 115,000 of his troops to split off and approach the Confederate’s flank, or side. Hooker’s strategy seemed about to work. But for some reason he hesitated and had his flanking troops take a defensive position at Chancellorsville. This town was located a few miles west of Fredericksburg.</p>
+        <p data-uuid="43ea14ca4b104d7b9b96eed80fa8612a">The following day, Lee used most of his army (about 60,000 men) to attack Hooker’s troops at Chancellorsville. Stonewall Jackson led an attack on Hooker’s flank while Lee commanded an assault on the Union front. The Union army was almost cut in two. They managed to form a defensive line, which they held for three days. Then Hooker ordered a retreat.</p>
+        <p data-uuid="15de7b61e22a4540be5b5da547780c97"> Lee’s army won a major victory. But this victory had severe casualties. During the battle, Lee’s trusted general, Stonewall Jackson, was accidentally shot by his own troops. He died a few days later.<br />
+        </p>
+        <section class="question-long-text" data-uuid="e994495a4982423c86c60e1bfd022b6f">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="aa8a3aceb27d4a15bdaf5eca27d49e94">
+                <param name="configFile" value="../../widget_data/config/aa8a3aceb27d4a15bdaf5eca27d49e94.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="cb799d5d37644765b13580c4f8929a3c">
+            <div class="go-prompt-bottom-bar" data-uuid="0cdd806d3e544e2d896782b78b0eb437">
+                <p data-uuid="41ecaf4a7dd94d9eab6669bd9b095d4a">Remember to use the graphic organizer to recall the events that led to the end of the Civil War.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="e67edc282f9e4dd8bb51278f12585445">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="f84138d661d7418c998211d1f22a48fc">
+                <param name="configFile" value="../../widget_data/config/f84138d661d7418c998211d1f22a48fc.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="f49fca89ba6549508fc277b17cd9b703"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="b60915d64cf14d9ebc05a6fc90cb9e87">
+            <button data-teacher-view-toggle="true" data-uuid="0bce240ee52e4e7bb2a820c3834299ad"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="030d6995fc244d2b81ac265637d4de68">
+                <param value="../../widget_data/config/030d6995fc244d2b81ac265637d4de68.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

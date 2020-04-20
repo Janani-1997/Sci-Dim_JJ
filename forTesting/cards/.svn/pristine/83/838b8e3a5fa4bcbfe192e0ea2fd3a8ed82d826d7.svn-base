@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="755f5a9da21c44a39642ad7c6cac5d14">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Checks and Balances</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="5f15b5ed556d4a34ae22f5d0fcde6a11">
+            <article data-uuid="301477f698a742a8b70ab263f0219bc2">
+                <h4 data-uuid="bd7f4de507fd400c99f413f200b658af">Main Idea</h4>
+                <p class="main-idea" data-uuid="a70e5b9d3bbe4ed8a811f7c8e0d9a1aa">Each branch of the government can exercise checks, or controls, over the other branches. </p>
+                <h2 data-uuid="ea0b1619dddf4360ba040937741bcd80">Checks and Balances</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="a14a3c928258463ba47d24fe69c4c078"></div>
+            </article>
+        </section>
+        <p data-uuid="ce2a4b85286748fda3bc94f82e380de3">Although the three branches of government are separate, they must cooperate with one another to perform the work of government. The framers of the Constitution created a system of checks and balances, which gives each branch the ability to use checks, or controls, over the other branches. This system prevents any one branch from growing too powerful. </p>
+        <p data-uuid="575b74e598a440bf8d0c45a6b9f79b92"> For example, only Congress can pass a bill. Yet the president can check this power by vetoing the bill. In turn, Congress can override the president’s veto to make the bill become law. Finally, the Supreme Court can declare that a law passed by Congress and signed by the president violates the Constitution.<br />
+        </p>
+        <section class="cause-effect" data-uuid="bfbbdb70488547ab8ee48d1c715dce47">
+            <article class="box" data-uuid="2d7eca9a2dd54e50906ebd1cd2c0c11b">
+                <div class="header-element" data-uuid="9a175945f8bc40d2bcd0aa42bad51620">
+                </div>
+                <div class="quickfacts" data-uuid="34d49f44d9b2455780bc50fc79e8e616">
+                    <h5 data-uuid="7e27ac993ee34f22b6ff1be39bfa9ed5">QUICK FACTS</h5>
+                </div>
+                <h2 data-uuid="e8e2dd5a541348439b2c92b929d3bafc">Checks and Balances</h2>
+                <p data-uuid="acf80521d00a4ca7ae74aeb094471345">The system of checks and balances helps make sure that the branches of government work together.</p>
+            </article>
+        </section>
+        <figure class="image-with-caption main" data-uuid="5869f4ab6729407587a46a9f3750af2b">
+        <img alt="" class="" data-uuid="20b48e6222f74bdf8dd7e69f26a8daac" src="../../img/module_6_lesson02/ms_snlese454149_the_federal_system_t-rev.png" />
+            <div class="figcaption" data-uuid="fef40cac7d064d4a82f4724e23a9b231">
+            </div>
+        </figure>
+        <p data-uuid="f24c33db529f4488993da78732ce4b9d" class="image-above">For example, only Congress can pass a bill. Yet the president can check this power by vetoing the bill. In turn, Congress can override the president’s veto to make the bill become law. Finally, the Supreme Court can declare that a law passed by Congress and signed by the president violates the Constitution.</p>
+        <section class="ssna-time-traveller" data-uuid="d09ae01e630047b09f7c37843a9ef279">
+            <object type="text/html" data="../../assets/widgets/time_traveler/index.html" class="widget" data-uuid="c585e26370904ed4a1d8f7b20e012f68">
+                <param name="configFile" value="../../widget_data/config/c585e26370904ed4a1d8f7b20e012f68.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="1256ee03e7414985a7c64154350dcb14">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4fbca0bbbe564df68b0e480fdec55c87">
+                <param name="configFile" value="../../widget_data/config/4fbca0bbbe564df68b0e480fdec55c87.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="5713dc1aa8b74e1cb939c353cfb6dbc2">
+            <div class="go-prompt-bottom-bar" data-uuid="93cc243bf7db419d999e91d5c82e1708">
+                <p data-uuid="d507c0eeae724f8b85749ff1dddcbb7a">Remember to use the graphic organizer to take notes on the system of checks and balances. </p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="ac5794eca5fe4101a90f02c5451922d7">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="171211d87f944331b18e28ae8fb99252">
+                <param name="configFile" value="../../widget_data/config/7478a3643b7144ab839ebc17fddad506.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="3e3346ea9979446aa3e28ba2d2f32251"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a43bb1a8c477407d8c35fe828513494c">
+            <button data-teacher-view-toggle="true" data-uuid="c9277e18439d4badb7aae515b07e5f6b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="37bd43c77195463d832ae8814504a28f">
+                <param value="../../widget_data/config/37bd43c77195463d832ae8814504a28f.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

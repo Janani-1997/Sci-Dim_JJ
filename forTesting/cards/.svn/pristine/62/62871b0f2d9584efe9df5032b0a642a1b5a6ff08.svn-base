@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="169173b69c9746a28b6bdc718b6a6e8b">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="2ba7067007654f88963d9519bd482cb9">
+            <p class="lesson-number" data-uuid="f29c40c8d0794307a86b8e007b70f54c">Lesson 4</p>
+            <article class="header-container" data-uuid="4130b41126ae430a9881bf0474b66072">
+                <div class="header-element" data-uuid="18d48bbb06d243abb0d8b17a9cfab53e">
+                    <h1 data-uuid="e2626951342b42618d87cd9b89c5b3e0">Ratifying the Constitution</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="f60dd88f1e9748ffb6cf1a6f73e7a803"></div>
+                    <h2 data-uuid="3472378b31904661bc1e0562c3edf5d6">The Big Idea</h2>
+                    <p data-uuid="07ff03e350e94de181948964f2e8f925">Americans carried on a vigorous debate before ratifying the
+                        Constitution.</p>
+                </div>
+            </article>
+            <article data-uuid="c17c7875c5b94330baa46d620771dcec">
+                <h3 class="if-you-were-there" data-uuid="34324aac4d324603a429de38029fc7d7">If YOU were there...</h3>
+                <p data-uuid="3836727a13194a1bb24993dbeaef7290">You are a newspaper editor in Philadelphia.
+                    During colonial rule, officials sometimes closed down your newspaper because
+                    you had criticized the governor. Now you are one of many Americans who want to
+                    be sure the new Constitution will guarantee individual rights. You are writing
+                    an editorial in your paper explaining what you want.</p>
+            </article>
+            <section class="question-long-text" data-uuid="6f74868fece847548abf44fb852619a3">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="60c2cae910274c5eaa751eaf104af60f">
+                    <param name="configFile" value="../../widget_data/config/60c2cae910274c5eaa751eaf104af60f.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c5ebd9b5388344718a4efc9cc0713b03">
+            <button data-teacher-view-toggle="true" data-uuid="8f706c9e2d7e41beae74fea02ae63700"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ef2ef2398a9c49ec857e86b723529a9f">
+                <param name="configFile" value="../../widget_data/config/ef2ef2398a9c49ec857e86b723529a9f.json" />
+            </object>
+        </section>
+        <p data-uuid="c6055b14155c47d98ebdda18e9f91b35"><br />
+        </p>
+    </body>
+</html>

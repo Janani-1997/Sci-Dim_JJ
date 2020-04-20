@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="784e461ebb3c4c2a9cdf0f07d95504a4" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="53456be86fe14eab8b7ff91565a85675">
+            <div class="header-element header-container full-bleed" data-uuid="c1d381f12d68485e8b473325d113a567">
+                <p class="lesson-number" data-uuid="139cdef9c53146e7959d052b9b0e54a2">Lesson 4</p>
+                <h2 data-uuid="9122ac6cabde44eba7f4fb084d272d27">Assessment</h2>
+            </div>
+            <h5 data-uuid="fffc6a7aac244a6c8233ada75d1c14d5">Establishing Peace</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="0a7697da16ff469a877f4c232b24b895">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="b87f418731f54cd98bf9aa631bb7f0ac">
+                <param name="configFile" value="../../widget_data/config/b87f418731f54cd98bf9aa631bb7f0ac.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2475932280cb4950984ebef47a73812e">
+            <button data-teacher-view-toggle="true" data-uuid="cd277921fa2e4788b0b65a35d3ca50dd"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="41aa2e46797140978e55815d388fe321">
+                <param name="configFile" value="../../widget_data/config/41aa2e46797140978e55815d388fe321.json" />
+            </object>
+        </section>
+    </body>
+</html>

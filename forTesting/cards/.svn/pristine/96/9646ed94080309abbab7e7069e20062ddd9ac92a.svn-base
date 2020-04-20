@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e44ed7fe884e48928440bbe8ef60349c">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="823742d7ce37462f9b67ca8e3b1b374e">
+            <div class="header-element header-container " data-uuid="e5b670cfa399481799996d8f50807fa3">
+                <p class="lesson-number" data-uuid="96cf155843fb4cf7ab138b56b8d7d156"><br />
+                </p>
+                <h2 data-uuid="e80b3a8407404430bf8c09d6f5515a23"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="d8abb900abdd4459986b95fe3a7b0f57">In this module, you’ve learned about U.S.
+                    involvement in World War II. Now it’s your turn to demonstrate your
+                    understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="55887cc9935d4861ab6eaae4713cd3ed">How did World War II impact the lives of Americans and the nation’s role
+                in the world?</h3>
+            <p data-uuid="2b06a9eff47d4619bcdf91c45be32269">Write a persuasive essay answering this
+                question. Your essay should include key people, events, and turning points related
+                to American involvement in World War II. Be sure to cite evidence to support
+                your position and organize your essay into an introduction, body, and
+                conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="e8f89ae2cfd74dd485aaf51fb042422d">
+            <button data-teacher-view-toggle="true" data-uuid="dbdb6b49f5c34f138a9327b2e305f44f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="531f2da59aea4d2498029d3f3eadce5f">
+                <param name="configFile" value="../../widget_data/config/531f2da59aea4d2498029d3f3eadce5f.json" />
+            </object>
+        </section>
+        <p data-uuid="5d2b70de5aa24609b1a89958283205a6"><br />
+        </p>
+    </body>
+</html>

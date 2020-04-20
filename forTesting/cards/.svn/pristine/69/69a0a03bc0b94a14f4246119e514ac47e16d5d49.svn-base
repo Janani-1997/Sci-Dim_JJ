@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="47202674d3fe4b2694048954dc815e46">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="57b58e91c79e4e3095373d1b008c8e90">
+            <div class="header-element header-container " data-uuid="b6c7db0e62d44b5796c777d413c6809f">
+                <p class="lesson-number" data-uuid="0cc1cd0625f74cf69cfca296ff456b14"><br />
+                </p>
+                <h2 data-uuid="19fd6fff271244cab3b62aacbf775d91"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="f4d47865f4134f2a9d38fe19158912c7">Part 2: Write a Compare and Contrast Essay</h3>
+            <h6 data-uuid="49f8aec47c3d47efb147d4dbfdd57b5f">Historical Context</h6>
+            <p data-uuid="fb731bb82acb44c6bdf11328a3a701ad">By
+                the late 1800s the U.S. had significantly expanded its presence in the world. By
+                using diplomacy it gained access to markets in East Asia, and by using force it
+                gained valuable territories across the globe. A nation once limited by
+                isolationist policies had now grown into a powerful empire.</p>
+            <h6 data-uuid="8869cb8d637040f8acd864789ac83f61">Task</h6>
+            <p data-uuid="836dfe11f9104b3799097318bba83bbb">The
+                United States expanded its influence and presence in the Pacific, the
+                Caribbean, and Latin America. But what motivated the United States to get
+                involved in each of these regions? How were the motives similar or different
+                for each geographical area? Write a compare and contrast essay to answer these
+                questions.</p>
+        </section>
+        <p data-uuid="6f99db5ac6cf4966bf4afa4609baa270">Complete the following steps as you plan and compose your essay.</p>
+        <ol data-uuid="9ab3a0a0961f4a9ca685d7c98ee8c361">
+            <li data-uuid="c2446eaad44f4f1885c1d79ffd0d7d20">Review your notes and sources before you start writing.</li>
+            <li data-uuid="caa6be4436b04f82ba5f795e8af5ad0d">Use at least <i>two</i> of the sources in Part 1, and develop the topic with relevant, well-chosen text or visual evidence from the documents.</li>
+            <li data-uuid="15044610b7a941dda8e02f3df634d4c8">Cite specific text or visual evidence from each of the sources in your response.</li>
+            <li data-uuid="0abc52bb071f41c29a84b7fa619ae051">Plan your essay so that it includes an introduction, several body paragraphs, and a concluding paragraph.</li>
+            <li data-uuid="c227463386e341069d3e8dfc2f303574">Organize your essay in a clear and logical way that highlights comparisons and contrasts.</li>
+            <li data-uuid="4d86e59055134c8ca7835e963d8c5fdb">Write a conclusion that sums up your ideas and supports the information you present.<br />
+            </li>
+        </ol>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a0675716fbcc449ab024f19d5628b133">
+            <button data-teacher-view-toggle="true" data-uuid="279fa6fdb4984730a4a71181b3890dfe"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="414cdcef82c9460db07856d1ff184f80">
+                <param name="configFile" value="../../widget_data/config/414cdcef82c9460db07856d1ff184f80.json" />
+            </object>
+        </section>
+        <p data-uuid="b54f86730b344cae81997f4c37ad7cfb"><br />
+        </p>
+    </body>
+</html>

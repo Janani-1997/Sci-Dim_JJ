@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="356188cdbdb2471ca0303945c46fa087" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="c29f7e2bad6349e4bb9b44a520674021">
+            <div class="header-element header-container " data-uuid="8f402f3513284c05b5641beb021cbb24">
+                <p class="lesson-number" data-uuid="c4e7be5e6852422d9263878a07402859">Lesson 3</p>
+                <h2 data-uuid="16b2949c13394e84bf31ec2991b0219c">Assessment</h2>
+            </div>
+            <h5 data-uuid="d674017c0fcb451290a997a43269f1fe">Rights for Other Americans</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="0c3c1e8850874c0bb1caa1a08b6da21e">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="7ebd489bdafb432a9973244b17d1af36">
+                <param name="configFile" value="../../widget_data/config/7ebd489bdafb432a9973244b17d1af36.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="30c2bc6ee077479c9415bb5b8e7bc439">
+            <button data-teacher-view-toggle="true" data-uuid="43e8dc2626a046b390f7ac933a985a86"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="64b83a77eb8a41088c7dc10d0135e53a">
+                <param name="configFile" value="../../widget_data/config/64b83a77eb8a41088c7dc10d0135e53a.json" />
+            </object>
+        </section>
+        <p data-uuid="be309117bf61412499a4652cc10c84b6"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="59d5e30e3ac44833a8e63d2e2a711f60" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="9301f9a4b75049adae8af260b99889c1">
+            <div class="header-element header-container " data-uuid="fdb043ab450a404e8be26128ff5bf34f">
+                <p class="lesson-number" data-uuid="6dca52637b284777947bbb894befdaca"><br />
+                </p>
+                <h2 data-uuid="d884347798804e339c6b7dcae02b15b3"> Review</h2>
+                <p class="white" data-uuid="c77ed733d8214dac95c76ba1468f210e">In this module you learned about the Civil War. Now you will review some key terms and people before
+                    completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="48c73797216248f38953acabde4f9135">Review Key Terms and People</h3>
+<p data-uuid="5a649da6d4db497db5916f5f59f9b7b3">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="f03fc57b99634801ad7a0fa26f6c825b">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget" data-uuid="f91b4be821f249b28ed91acbfa21ab8e">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/f91b4be821f249b28ed91acbfa21ab8e.json" />
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="9dfbdc091c0b4924887fcd1f66620fad">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="9c9cd7bfcfe44d0ca429646e49ccdbb9">
+                    <param name="configFile" value="../../widget_data/config/9c9cd7bfcfe44d0ca429646e49ccdbb9.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="21aa8932a6b94c4c92881dc6dc384ccc">
+            <button data-teacher-view-toggle="true" data-uuid="1a38ddf08a984e4ab23154aa21efd464"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6da36c710eee4c2db6b828c10ec276b9">
+                <param name="configFile" value="../../widget_data/config/6da36c710eee4c2db6b828c10ec276b9.json" />
+            </object>
+        </section>
+        <p data-uuid="0ded361200714af38dcb687902416333"><br />
+        </p>
+    </body>
+</html>

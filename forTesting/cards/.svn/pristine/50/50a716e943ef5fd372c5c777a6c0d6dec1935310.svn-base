@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6063f74fd81848f291e3dd21c9abe6a3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="81c61a748baf4f6b941632c44478700d">
+            <p class="lesson-number" data-uuid="b7cc934330114cac960254d2ed0ad98b">Lesson 3</p>
+            <article class="header-container" data-uuid="8227eed2ecdb4c618f14279496354446">
+                <div class="header-element" data-uuid="ffb0d6564c114e079d2e645bd7c7db36">
+                    <h1 data-uuid="d2878015a4c04460b8ee0024f574de2e">The War in the West</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="d1284f2a8d2f4d2697d073d05fb32b45"></div>
+                    <h2 data-uuid="e9e53cc207f9442a85518ba3d3e04337">The Big Idea</h2>
+                    <p data-uuid="73d1f92f73d545d6b144e41f7f39aa1d">Fighting in the Civil War spread to the western
+                        United States.</p>
+                </div>
+            </article>
+            <article data-uuid="13e1f6ef2f264caca05f0172592e8953">
+                <h3 class="if-you-were-there" data-uuid="44a8c894a9614727b2af48722fba9b33">If YOU were there...</h3>
+                <p data-uuid="b47fa4fef48a4606814b8bce09afc496">You live in the city of Vicksburg, set on high
+                    bluffs above the Mississippi River. Vicksburg is vital to the control of the
+                    river, and Confederate defenses are strong. But the Union general is determined
+                    to take the town. For weeks you have been surrounded and besieged. Cannon
+                    shells burst overhead, day and night. Some have fallen on nearby homes.
+                    Supplies of food are running low.</p>
+            </article>
+            <section class="question-long-text" data-uuid="adf770f2c9b641fd9a208e0971fa59a2">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0197d231993647b4a84567bd7f677cae">
+                    <param name="configFile" value="../../widget_data/config/0197d231993647b4a84567bd7f677cae.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8e333c7687a44503b32577c012575265">
+            <button data-teacher-view-toggle="true" data-uuid="e61f570b847041e3a920e5f332012b89"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8779d1574efb4e858b0c616267678aad">
+                <param name="configFile" value="../../widget_data/config/8779d1574efb4e858b0c616267678aad.json" />
+            </object>
+        </section>
+    </body>
+</html>

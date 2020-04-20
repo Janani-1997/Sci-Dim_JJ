@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="21582c642a2146d7b1d6f563acee751e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="f4cb58316dd74c22a2d3a234321058b1">
+            <div class="header-element header-container " data-uuid="e7c6dea26bbd4faaa64ade16496e5e19">
+                <p class="lesson-number" data-uuid="dc0ce7ca168b44b28c8c23f12064491f"><br />
+                </p>
+                <h2 data-uuid="f83cabbc503343faa07e36db537acfe3"> Review</h2>
+                <p class="white" data-uuid="bf05a8f3416c40299c9c5cfff7ee319a">In this module you learned about the economy and society of the South during the 1800s. Now you will review
+                    some key terms and people before completing the Module Assessment.</p>
+            </div>
+            <h3 data-uuid="18dab2dbeadb4cb6941a6a5419673ec4">Review Key Terms and People</h3>
+            <p data-uuid="51376ea6dfc148df978e2501d371bd8b">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="0d31ec92ab384332ab89a271f22fb484">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget" data-uuid="c75ab085224f4603884cd7410ba679e3">
+                    <param name="configFile" value="../../widget_data/config/c75ab085224f4603884cd7410ba679e3.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="b6bee98f174d4f9fbbdb325d0b34f36c">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="43667942807140da9b0d7e04374119f8">
+                    <param name="configFile" value="../../widget_data/config/43667942807140da9b0d7e04374119f8.json" />
+                    <param name="audio_description" value="na" />
+                    <param name="audio_script" value="na" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="769af14008404f9abaf785bc26b22941">
+            <button data-teacher-view-toggle="true" data-uuid="b9554d7aae7c488eb42205d56dd0a3b9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a2d5f92015f949059692b672e4bbe144">
+                <param name="configFile" value="../../widget_data/config/a2d5f92015f949059692b672e4bbe144.json" />
+            </object>
+        </section>
+        <p data-uuid="68f9a6c87e244a1395a51a6be86d1b2d"><br />
+        </p>
+    </body>
+</html>

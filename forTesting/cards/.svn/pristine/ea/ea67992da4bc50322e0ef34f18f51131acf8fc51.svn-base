@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="19b1f353eb6a4a7f82c8c5f5203365a1">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Looking toward the Sea</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="5b3155de705442e7b3a8685cb0ffa6b3">
+            <article data-uuid="a85824eed7194fd88a852eb7b8f9328c">
+                <h4 data-uuid="a79b975b241b40bfbc50389e27f9cdef">Main Idea</h4>
+                <p class="main-idea" data-uuid="0fca5655b184407cb718ef8aa4f73bb4">Prince Henry the Navigator established a school for sailors and provided financial support that enabled the Portuguese to start exploring the oceans.</p>
+                <h2 data-uuid="7ac09fc0432148ee924ab3f3a1269ea7">Looking toward the Sea</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="6a7c138e701e4696ac9a811291d478bf"></div>
+            </article>
+        </section>
+        <p data-uuid="b28d4b1a0b6e4936a02c5f74b7192cb8">Exploration was necessary for European trade. One reason was that European mines were running out of silver and gold. Merchants needed more of the precious metals to conduct business. In addition, new forms of production, such as spinning wheels and windmills, made manufacturing more efficient. As a result, workers needed more raw materials, and merchants needed new markets where they could sell the manufactured goods. Traders also sought products—from incense to silk—that could only be found in the East.</p>
+        <p data-uuid="85c3e51e4852475582d8dbf271921942"> Since the 1200s Europeans had been traveling east by land. The Crusades had introduced them to knowledge, products, markets, and natural resources found across Asia. For a time, land routes to the east were relatively safe. The Mongols, who had conquered much of the continent, provided protection. When the Muslim Ottomans conquered Constantinople in 1453, however, they blocked the land trade routes to Asia. In response, the European powers began to compete in a race to find a sea route to Asia.</p>
+        <section class="interactive-map" data-uuid="39a5a54b17ba4be384de8567fc129ee4">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="e92cf7da060a4f51a361b5a4ba6d2558">
+                <param name="selected_map" value="8_snlese454170_202m" />
+            </object>
+            <section class="skillbuilder" data-uuid="97d1428fb8024e489cf3dd31f0805c1f">
+                <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="a02d04e1e5494ca2911170ddd6bf3ed6">
+                    <param name="configFile" value="../../widget_data/config/a02d04e1e5494ca2911170ddd6bf3ed6.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-multiple-choice" data-uuid="93f0a36fe5024ef8b71b08950af2807f">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="2868b58307ca4358b4a85f0869403f83">
+                <param name="configFile" value="../../widget_data/config/2868b58307ca4358b4a85f0869403f83.json" />
+            </object>
+        </section>
+        <h3 data-uuid="6450c5c90b3f499d8f31ee1913e01da8">Riches and Religion</h3>
+        <p data-uuid="6d0988d69e0246a9ba6c03dad5d1b9d2">During the 1400s Europeans had several reasons to explore the world. First, they wanted Asian spices. They hoped to bypass the merchants who had a monopoly on, or economic control of, the Asian products that reached the Mediterranean. If a sea route to Asia could be found, countries could buy spices and other items directly. </p>
+        <p data-uuid="d44ecfaa5a4b45c9b57f68d4621be94d"> Second, religion played a role in exploration. Christians in Europe wanted to convert more people to their faith. Third, many Europeans had become interested in Asian cultures. Explorer Marco Polo wrote a book about his travels throughout Asia. It remained popular in Europe long after his death in 1324. Many Europeans wanted to learn more about Asia and the money they could make by trading with Asians. </p>
+        <h3 data-uuid="37ec2334b3d84e83a03c3f1b16803823">Portugal Leads the Way</h3>
+        <p data-uuid="3ae7e3eda5584b999adbfdbf9865cf43">Portugal became a leader in world exploration. <b><dfn title="37ca00d104d0433b99155c3d346b637a">Prince Henry the Navigator</dfn></b>, in particular, was responsible for advances that would make exploration more successful. Although he never set out on a voyage himself, Henry greatly advanced Portugal’s exploration efforts.</p>
+        <p data-uuid="2b14247454ff4af483d091e0803d6f8d"> In the early 1400s Prince Henry built an observatory and founded a school of navigation to teach better methods of sailing. He also financed research by mapmakers and shipbuilders. Finally, he paid for expeditions to explore the west coast of Africa.</p>
+        <section class="image-with-assessment" data-uuid="ea71e9ff10f248c29094fbe8742a7fb2">
+            <p data-uuid="c8c46bab9da44dd48967f23cb3188486"></p>
+        </section>
+        <h3 data-uuid="27a413149ea2445d945b053410e818f2">Scientific and Technological Advances</h3>
+        <p data-uuid="e2a0f5cf59c941638dbd2fb38fbe9fc2">Scientific and geographical knowledge about the Earth had increased, thanks in part to rediscovery of Roman sources and to overland journeys by European merchants. This knowledge led to better maps. Sailors had more, although still incomplete, information about the sea and lands beyond it. </p>
+        <p data-uuid="407dc36eaf0541b5b572b30ef29a9788"> New technology also played a major role in advancing world exploration. The Portuguese, for instance made advances in shipbuilding. They began designing ships that were smaller, lighter, and easier to steer than the heavy galleons they had used before. These new ships, called <b><dfn title="caravels">caravels</dfn></b> (KER-uh-velz), used triangular sails that, unlike traditional square sails, allowed ships to sail against the wind. By placing rudders at the back of the ship, the Portuguese also improved the steering of ships.<br />
+        </p>
+        <section class="image-with-hotspots" data-uuid="6706f6fdc1f74ec087c54b74463d5abd">
+            <object type="text/html" data="../../assets/widgets/image_hotspot/index.html" class="widget" data-uuid="2dc292c95ccf49cab3524aabe6b43ff2">
+                <param name="configFile" value="../../widget_data/config/2dc292c95ccf49cab3524aabe6b43ff2.json" />
+                <param name="reference_id" value="ref:V_HC_2749" />
+                <param name="externalwidget" value="true" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="7140f4b538a24af0a4333fd74dae8aee">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="0e223766c1e444489c156733dd452d96">
+                <param name="configFile" value="../../widget_data/config/0e223766c1e444489c156733dd452d96.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="71652ead65e1460098c34a0aa4f650b1">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="126d4a0e64b543ab9f0fc0f428401822">
+                <param name="configFile" value="../../widget_data/config/126d4a0e64b543ab9f0fc0f428401822.json" />
+            </object>
+        </section>
+        <p data-uuid="6a7ff58cb8e24cedb8c1506be0720e8f">There were other advances in technology, too. Sailors began to use tools such as the magnetic compass, which indicated all directions by always pointing north. In addition, sailors had the <b><dfn title="astrolabe">astrolabe</dfn></b>, a device that enabled navigators to learn their ship’s location by charting the position of the stars. Better instruments made it possible for sailors to travel the open seas without landmarks to guide them.</p>
+        <section class="reading-check" data-uuid="d96b2972081749feb995af5f96c281c2">
+            <section class="question-long-text" data-uuid="416e460a1d574b17ad1a5a698861d0af">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f093b4daa1bd42fc9236044400813072">
+                    <param name="configFile" value="../../widget_data/config/f093b4daa1bd42fc9236044400813072.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="e3e7e1c80ab84e2bac6ef469c050bbb8">
+            <div class="go-prompt-bottom-bar" data-uuid="ab5c67abc12e4342bdb9eca160299497">
+                <p data-uuid="d3aa32f175fd447aaeee0b5df78a335a">Remember to use the graphic organizer to take notes on the reasons for explorations and the results of each journey.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="8b9e166022b8426786fef961e5552b8e">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="77f2354f6eff49bf8caeb5bc2acfaa65">
+                <param name="configFile" value="../../widget_data/config/4130a8c84ba744c9b3b2dca25d17c84b.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="cc446bb4060f4f9297a0a202246b388e"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2e58229559414b78b2ff68a07d01c606">
+            <button data-teacher-view-toggle="true" data-uuid="720a65194e13434f9f067e19f676baaa"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8f0f1594f90340b58aee3ca6556c2db1">
+                <param value="../../widget_data/config/8f0f1594f90340b58aee3ca6556c2db1.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="abe0e7f1fd724d8f8024010b287c306c">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Free African Americans and Discrimination</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="2e3a7e822de64442b07ded49fce67756">
+            <article data-uuid="2cdb6ec2909a4fa7bbb3f1fd88a0674b">
+                <h4 data-uuid="8760b6c002dc4d1fae80210ebfa47ece">Main Idea</h4>
+                <p class="main-idea" data-uuid="d8c11163dbb94213a89c5c0bdb20a376">Free African Americans in the South faced a great deal of discrimination.</p>
+                <h2 data-uuid="202a55dd67ff41b3a4dc3da011b74b43">Free African Americans and Discrimination</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="365371e508f44bec9bd112e9c67e818f"></div>
+            </article>
+        </section>
+        <p data-uuid="ee5a585c607746dd941d0e172098abe3">Although the vast majority of African Americans in the South were enslaved, more than 250,000 free African Americans lived in the region by 1860. Some were descendants of slaves who were freed after the American Revolution. Others were descendants of refugees from Toussaint L’Ouverture’s Haitian Revolution in the late 1790s. Still others were former slaves who had run away, been freed by their slaveholder, or earned enough money to buy their freedom.</p>
+        <p data-uuid="2bf074fcc6504b21b4e54649c22e4386">Free African Americans lived in both rural and urban areas. Most lived in the countryside and worked as paid laborers on plantations or farms. Free African Americans in cities often worked a variety of jobs, mostly as skilled artisans. Some, like barber William Johnson of Natchez, Mississippi, became quite successful in their businesses. Frequently, free African Americans, especially those in the cities, formed social and economic ties with one another. Churches often served as the center of their social lives.</p>
+        <section class="image-carousel" data-uuid="eff73bb6e3594202aa8401168998ed60">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html" data-uuid="0ba30e6272ed44969058b604f986e863">
+                <param name="configFile" value="../../widget_data/config/0ba30e6272ed44969058b604f986e863.json" />
+                <param name="credit" value="[null,null,null]" />
+            </object>
+        </section>
+        <p data-uuid="e72681f4665e4b0d8f000c549207653f">Free African Americans faced constant discrimination from white southerners. Many governments passed laws limiting the rights of free African Americans. Most free African Americans could not vote, travel freely, or hold certain jobs. In some places, free African Americans had to have a white person represent them in any business transaction. In others, laws restricted where they were allowed to live or conduct business.</p>
+        <p data-uuid="f03743b1a88e46e0bf568d0b9844c83c"> Many white southerners argued that free African Americans did not have the ability to take care of themselves. Southerners used this belief to justify the institution of slavery. “The status of slavery is the only one for which the African is adapted,” wrote one white Mississippian. To many white southerners, the very existence of free African Americans threatened the institution of slavery. </p>
+        <section class="true_false_game type-true-false" data-uuid="1d58c10e9a9143d0b51839aff2c40c96">
+            <object type="text/html" data="../../assets/widgets/true_false_game/index.html" class="widget" data-uuid="39f55fdca1984f4ea352759d21a12a14">
+                <param name="configFile" value="../../widget_data/config/39f55fdca1984f4ea352759d21a12a14.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="6980756291b34370b4bba6e2f09d4646">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="11f935b80ed04a7480ad2dcd3e76b4aa">
+                <param name="configFile" value="../../widget_data/config/11f935b80ed04a7480ad2dcd3e76b4aa.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="f6b47d5215024ecb8010028910a2d9e3">
+            <div class="go-prompt-bottom-bar" data-uuid="0357101171404786825ad2d516ada052">
+                <p data-uuid="e09f6a5cdf6e44ea8a9add83170a298b">Remember to complete the graphic organizer with information on free African Americans and the discrimination they faced in the South. </p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="ea2c8bc927184adaafc56a82ec5b628d">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="b760ab6e7a8e4e2c98230cfe64a5ef59">
+                <param name="configFile" value="../../widget_data/config/cde66ab93cd34058ae530439ed5acde3.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="c8c946c33e36408fbba395c809979a1c"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="51dc0a4720b444e591a573a29051a713">
+            <button data-teacher-view-toggle="true" data-uuid="685ccb82e4cb407d8e388de2caa66e48"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7a4a98f86d584617ad3e90cd9c5efd31">
+                <param value="../../widget_data/config/7a4a98f86d584617ad3e90cd9c5efd31.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

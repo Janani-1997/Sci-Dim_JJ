@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="1118b8110c6142059b1a225e6b0b56b1">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Effects of the New Deal</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="293dae1c713f461ab70faadb66af91db">
+            <article data-uuid="d61718b62bce4ae18976174d6e2649d8">
+                <h4 data-uuid="d1be103accfe4984a1c693bb4f6847ad">Main Idea</h4>
+                <p class="main-idea" data-uuid="830bd67d07424371803a43f83abf02c8">The New Deal had lasting effects on American society.</p>
+                <h2 data-uuid="05e43c7187e64a05aa9112b9fa8fc073">Effects of the New Deal</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="e5c52024e1cb4c3ebe03fed140587090"></div>
+            </article>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="a0737655d9e348f68df6de4207fde705">
+            <div class="go-prompt-bottom-bar" data-uuid="a2c0cb434cb44e39af65e76ff7b6bd0e">
+                <p data-uuid="c42a04232e104d2893fb4f26643d0c83">As you read, use the graphic organizer to take notes on the effects of the New Deal.</p>
+            </div>
+        </section>
+        <p data-uuid="ea0fa94bc07949ee912e46620808a173">People are still debating the effects of the New Deal today. New Deal critics point out that Roosevelt’s programs did not end the Great Depression. Full recovery occurred in the early 1940s, after the United States entered World War II. Roosevelt’s supporters, however, believe that the New Deal gave Americans help and hope in a time of severe economic crisis.<br />
+        </p>
+        <section class="cause-effect" data-uuid="4cd17434243a43538f3389fb33f20d10">
+            <article class="box" data-uuid="bb74906d527f4cdd98c4b72d2c2a8cb7">
+                <div class="header-element bleed-padding-wider" data-uuid="dae3fcb11a7240c182385ac4a04093dd">
+                </div>
+                <div class="quickfacts bleed-padding-middle" data-uuid="d1e8f0e3bb1a4da6af09435e7eaca9ec">
+                    <h5 data-uuid="e40d47ba004c4cf5957e504e9e9742af">QUICK FACTS</h5>
+                    <a title="Click or tap on parts of the graphic to learn more." class="tooltip"></a>
+                </div>
+                <h2 data-uuid="8c879a886ef64ddcb75603a653083c11">Causes and Effects of the New Deal</h2>
+            </article>
+            <section class="cause-effect-widget" data-uuid="be6e00aa51b94c7586e6dfc683beac80">
+                <object type="text/html" data="../../assets/widgets/cause_and_effect/index.html" class="widget" data-uuid="86c0e3a44dbb49eaa5be40484e55ca81">
+                    <param name="configFile" value="../../widget_data/config/86c0e3a44dbb49eaa5be40484e55ca81.json" />
+                </object>
+            </section>
+        </section>
+        <section class="skillbuilder" data-uuid="e82987323dff4d0b9caddd328c85dfb1">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="7d425083856645f0b48793e6f603a492">
+                <param name="configFile" value="../../widget_data/config/7d425083856645f0b48793e6f603a492.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="9d0f922dc8fe4310bcfb532663f1f144">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="7b6a499bd30f4eb1aca4d6f046955054">
+                <param name="configFile" value="../../widget_data/config/7b6a499bd30f4eb1aca4d6f046955054.json" />
+            </object>
+        </section>
+        <p data-uuid="ac466f80bed040c394fb5b91820783b1">People today do agree that the New Deal greatly expanded the role of the federal government. Some of the programs and agencies created as part of the New Deal, such as Social Security and the Federal Deposit Insurance Corporation (FDIC), remain part of our lives. Social Security still provides economic relief to the elderly, children, and those with disabilities. The FDIC protects the savings of bank customers. </p>
+        <section class="question-long-text" data-uuid="c87214bf28a740b89edfaccc6d83ce09">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b78b4f1eb8154cf2ba56844bfa28ceb0">
+                <param name="configFile" value="../../widget_data/config/b78b4f1eb8154cf2ba56844bfa28ceb0.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="f4106df56a7d44998ac373b92803aec8">
+            <div class="go-prompt-bottom-bar" data-uuid="8be99c8a3fe44381924f48d9f968bf2e">
+                <p data-uuid="8681c2c5fff14f68aa602209e41124e2">Remember to complete the graphic organizer to take notes on the effects of the New Deal.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="8d4f7621ba3141149cbeac4f36ad9340">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="f464bb9055604f8dac1bc063c50aca4e">
+                <param name="configFile" value="../../widget_data/config/920f1cf57a1c4ce5a3c36cd51c37bebf.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="21d8bf647fbb4482aac2a73583b37db8"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6cedd077b466471eb8eb5cb29c9dafc4">
+            <button data-teacher-view-toggle="true" data-uuid="074f928252704f468cec2298ffb956dc"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="24a8bdad13cf410080efd84d0361b24b">
+                <param name="configFile" value="../../widget_data/config/24a8bdad13cf410080efd84d0361b24b.json" />
+            </object>
+        </section>
+        <p data-uuid="94373dd0ca4d4f4aa0a08f0ca0acc896"><br />
+        </p>
+    </body>
+</html>

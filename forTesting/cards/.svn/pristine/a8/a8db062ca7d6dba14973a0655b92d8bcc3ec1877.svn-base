@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="e411178be9e343b4a4a00051074d5f02" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>The Agricultural South</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="90a26ddbd75e4075855bb666f74453e6">
+            <article data-uuid="e156dea720284a28a2c9e37ccecd5aaa">
+                <h4 data-uuid="ca88ca7283384f2099a283762a3145e5">Main Idea</h4>
+                <p class="main-idea" data-uuid="cd989bf8630144d3b3ce904b7f8b3705">The southern economy and society centered on agriculture.</p>
+                <h2 data-uuid="837ac0f849a14e2987b19ed46117aa93">The Agricultural South</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="69414dcd0d1d4749812c222c4e22aa32"></div>
+            </article>
+        </section>
+        <p data-uuid="172b669c00f0495f8d058fbb37bd125f">Compared to the North, the South had less industry and fewer big cities. As a result, fewer immigrants settled in the region. Instead, the South remained rural and agricultural, relying on cash crops for its wealth.<br />
+        </p>
+        <h3 data-uuid="d09b69100b0249c4ad11163c0991ee7f">The Cotton Boom</h3>
+        <figure class="image-with-caption one-half right top-align" data-uuid="195c2f6286b344299270321d99deea43">
+            <img alt="This photograph shows a cotton gin. Cotton has been placed in an opening at the top of the machine. A door on the side of a machine is open and shows a compartment holding cotton seeds." data-uuid="f2b593fb69144e8e86f6d3be236b61e4" src="../../img/prologue_lesson04/ms_snlese454149_867p.png" />
+            <div class="figcaption" data-uuid="eb93327a27f0492b841b18b418dff89c">
+                <h5 data-uuid="3715d13f0bdc494297d2279a90ced94c">Cotton Gin</h5>
+                <p class="caption" data-uuid="b76ac09a37864b73a12a849e8725698d">Before the cotton gin, cotton seeds had to be removed by hand, a slow and laborious process.</p>
+            </div>
+        </figure>
+        <p data-uuid="66942b62c40b4f62ae735c5ad9247af2">The first southern cash crops were tobacco, rice, and indigo. Eli Whitney’s invention of the cotton gin in 1793 made cotton the South’s biggest crop. The gin quickly removed seeds from cotton fibers. </p>
+        <p data-uuid="7e8d8b06b6ca4f36ab53dc503ea3e561"> The demand for cotton boomed as textile mills in the American North and in Great Britain grew. The South became a major player in world trade and was sometimes called the Cotton Kingdom.<br />
+        </p>
+        <h3 data-uuid="5117bac75ed44549a8d441dc7b7c11bf">The Slave System</h3>
+        <p data-uuid="4b6cdf160a2042c49052d0191ec546bb">Cotton brought wealth but also increased the demand for slave labor to grow and process the crop. Only about one-third of white southerners had slaves. Yeomen farmers and poor whites owned few or no slaves, but most defended the slave system. Many slaves lived on the small number of large plantations owned by wealthy planters.<br />
+        </p>
+        <section class="image-carousel" data-uuid="9baf57069f7542b5943808697e210e45">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html" data-uuid="4d605f9b40df4fb7a1dcfd7b1a54c766">
+                <param name="credit" value="[null,null,null]" />
+                <param name="configFile" value="../../widget_data/config/4d605f9b40df4fb7a1dcfd7b1a54c766.json" />
+            </object>
+        </section>
+        <p data-uuid="6b9203f713e040d5bcada37254d1bcd8">On big plantations most slaves worked in the fields, while some had specific skilled jobs like carpentry. Slaves’ living conditions were poor and the punishments they faced harsh. Slave codes limited slaves’ right to travel and banned them from schools. Still, enslaved people kept alive African customs and expressed themselves through folktales and spirituals. Some slaves even led rebellions, though these were rare and severely punished.</p>
+        <section class="question-long-text" data-uuid="be26380893b64bb3be3e52c90e0c5408">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="403b37fd1f134ddd8653edecdf131cd9">
+                <param name="configFile" value="../../widget_data/config/403b37fd1f134ddd8653edecdf131cd9.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt" data-uuid="064baa1387e648d399b9359bb9a67c62">
+            <div class="go-prompt-bottom-bar" data-uuid="68f2009dc1144b7ca6d7cef94a14298e">
+                <p data-uuid="2c96b68291884516b1e05b24b988356e">Remember to complete the graphic organizer with information about the agricultural South.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-uuid="6060014b37324d7ebd0a5766b0640665">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="f3de40fcee7748fab2038444b18cce36">
+                <param name="configFile" value="../../widget_data/config/1b1122c05a4547c3bd8c7ac11aaf4bc6.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="529ba4483ffc450fb34f6e8f2a9dbbd3"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="67ecd29b1fb943b08b68fc01533144ec">
+            <button data-teacher-view-toggle="true" data-uuid="bb96d288667e466db8d8538c16fb53ec"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="48c1878441e64c99af7eb0cb77d29230">
+                <param name="configFile" value="../../widget_data/config/48c1878441e64c99af7eb0cb77d29230.json" />
+            </object>
+        </section>
+        <p data-uuid="e2c42123c28d49a09dd6b8292b1563cd"><br />
+        </p>
+    </body>
+</html>

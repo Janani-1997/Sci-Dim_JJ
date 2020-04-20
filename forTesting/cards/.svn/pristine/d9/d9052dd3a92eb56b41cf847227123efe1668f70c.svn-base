@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c308d7517fcb44789813d09c085bf93a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Religion and Music</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="63e0cdc6f97d4743b926fd173f346ab6">
+            <article data-uuid="dc2c77b8c817499288bb1514e981b19d">
+                <h4 data-uuid="8831e4f086154978add0d49e4768ea32">Main Idea</h4>
+                <p class="main-idea" data-uuid="985fa865c06b43f1a75802134a8d8c00">American ideals influenced other aspects of culture, including religion and music.</p>
+                <h2 data-uuid="a74221f1fec842ae88b4f63201de34e7">Religion and Music</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="70852ca8b20342fba4186847c3f1fe55"></div>
+            </article>
+        </section>
+        <p data-uuid="8c65689b60d74a9fbd99cf09b6f167f7">Through the early and mid-1800s, several waves of religious revivalism swept the United States. During periods of revivalism, meetings were held for the purpose of reawakening religious faith. These meetings sometimes lasted for days and included large sing-alongs. James Finley, later a revival preacher himself, provided this account of a Kentucky revival:<br />
+        </p>
+        <section class="pullquote_wrapper" data-uuid="e1d191ee83ed4b30be9c9c0200107a07">
+            <p class="pullquote hang" data-uuid="835f450c96b2423bbd3e48b77f48be02">“The noise was like the roar of Niagara. The vast sea of human beings seemed to be agitated as if by a storm. I counted seven ministers, all preaching at one time some on stumps, others on wagons . . . some of the people were singing, others praying, some crying for mercy”</p>
+            <div class="pullquote_attribution_wrapper" data-uuid="9997c53d2382491fa3c057433d380a9a">
+                <p class="pullquote_address" data-uuid="4e4b18473fa547edb65a37e8b04b4496">—James Finley</p>
+                <p class="p_source" data-uuid="056579f1487b467ababe79eb74d16372">Autobiography of James Finley</p>
+                
+            </div>
+        </section>
+        <p data-uuid="66ea54b206d140e8a34490b44c035b6e">At many revival meetings people sang songs called <i>spirituals</i>. Spirituals are a type of folk hymn found in both white and African American folk-music traditions. This type of song developed from the practice of calling out text from the Bible. A leader would call out the text one line at a time, and the congregation would sing the words using a familiar tune. Each singer added his or her own style to the tune. The congregation of singers sang freely as inspiration led them.</p>
+        <p data-uuid="aae58f66a14a475c8927cbdf4ddb0e9d"> While spirituals reflected the religious nature of some Americans, popular folk music of the period reflected the unique views of the growing nation in a different way. One of the most popular songs of the era was “Hunters of Kentucky,” which celebrated the Battle of New Orleans. It became an anthem for the spirit of nationalism in the United States and was used &#173;successfully in Andrew Jackson’s campaign for the presidency in 1828.<br />
+        </p>
+        <section class="question-long-text" data-uuid="da5f29d5cefc4439829b69e7d2cbdb99">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e426a1a7d7e148e4b601d023edb8150d">
+                <param name="configFile" value="../../widget_data/config/e426a1a7d7e148e4b601d023edb8150d.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="e1a11301b88e4d94bf2614d2c1e65589">
+            <div class="go-prompt-bottom-bar" data-uuid="cb33451d371c4482a32dc8ce9b318884">
+                <p data-uuid="fb50d528108141e3b53c2c392e1702c6">Remember to complete the graphic organizer with information on the changes in American religion and music.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="909ce54fb969444c9428ad20bf4439ac">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="0796515fc401499bad3a61344916fc73">
+                <param name="configFile" value="../../widget_data/config/b5d946f8b594402b8fd67d47711df31a.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="86e9adf75b284a71894c99529f3e3465"></button>
+        </section>
+        <p data-uuid="8b103d281bdb43ad87cc0564006d2fb4"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="36254059b46f4d3bbbc40124357768b7">
+            <button data-teacher-view-toggle="true" data-uuid="9c25ad6bbbc04527b0eb7a87127cd6b7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8872d3ca41644aae9dda065a8c936d52">
+                <param value="../../widget_data/config/8872d3ca41644aae9dda065a8c936d52.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

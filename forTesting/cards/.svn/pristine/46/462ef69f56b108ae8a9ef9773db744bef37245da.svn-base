@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="57fa39cf08d740a283e1779cb6e49a1e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="ad7d76f059fa42f69ca7496dbda71f1a">
+            <div class="header-element header-container " data-uuid="33cda0ca09d54328998e58ccfeb91801">
+                <p class="lesson-number" data-uuid="a930713250cd454fa78426dd7d8f2b5f">Lesson 1</p>
+                <h2 data-uuid="1d8de8b2d5654b6a9f9c1430acd73f0a">Assessment</h2>
+            </div>
+            <h5 data-uuid="10473e68512f44bf90d59e4425942bca">The Texas Revolution</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="2786e5c4eff64d8aa8cdfdf09e041aa6">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="bdab4ce10d314951a76baa603577a621">
+                <param name="configFile" value="../../widget_data/config/bdab4ce10d314951a76baa603577a621.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f47c3dd001744e498d21e2ad247cd340">
+            <button data-teacher-view-toggle="true" data-uuid="06246b9099a4422d85640ad13cf66608"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e8f5d60314134af99569d4f5fa054727">
+                <param name="configFile" value="../../widget_data/config/e8f5d60314134af99569d4f5fa054727.json" />
+            </object>
+        </section>
+        <p data-uuid="bf75bf893c554f9b83c7e54daf33e4b2"><br />
+        </p>
+    </body>
+</html>

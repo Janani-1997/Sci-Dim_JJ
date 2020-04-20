@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ffab26854f7f4ecaaca5038b97d66af8">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="f608dc77643547ba93fcc7a49f4f3a55">
+            <p class="lesson-number" data-uuid="53b6217c182842298ab4e54e02a10c7a">Lesson 2</p>
+            <article class="header-container" data-uuid="415fc874a027421b8798d696a9c65cf8">
+                <div class="header-element" data-uuid="dac6a9f057474ad2975e4016fdf13c38">
+                    <h1 data-uuid="11272b934ffb48ca884eeb549342feba">War in Korea and a New Red Scare</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="d28523952f7743b7999a9eebb17c6c7d"></div>
+                    <h2 data-uuid="c770c33ea9354aaaabb721578398fdcd">The Big Idea</h2>
+                    <p data-uuid="65a609b787f64ef9897656baaa7ac4f2">During the Cold War, the U.S. government
+                        confronted communism globally and within the United States.</p>
+                </div>
+            </article>
+            <article data-uuid="c68a0346b81a4e7a9761f3806da18c97">
+                <h3 class="if-you-were-there" data-uuid="06d636478c1c4e339b267a1ac1a2e8f4">If YOU were there...</h3>
+                <p data-uuid="d94263535d3948a48fcff8d21ceee06c">A radio broadcast on June 26, 1950, delivers a shocking
+                    announcement. Communist forces from North Korea have just invaded South Korea.
+                    President Truman has demanded that the North Koreans halt their invasion, but
+                    they seem to be ignoring this demand. Now Truman has to decide whether to use
+                    American military force to stop the North Koreans.&#160;</p>
+            </article>
+            <section class="reading-check" data-uuid="d3b61aa27fad491c8c123f2e2f1c2151">
+                <section class="question-long-text" data-uuid="e3066abedb9441f4b8a1094799882a96">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="563114cf9593418d9d142cbad5c52b13">
+                        <param name="configFile" value="../../widget_data/config/563114cf9593418d9d142cbad5c52b13.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="dde63f56a67148918621884fc749b4a3">
+            <button data-teacher-view-toggle="true" data-uuid="f1b1f32083fb4f57b11d579b9b9d24d9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1e54b533e4204f1bacabfc426ee77a15">
+                <param name="configFile" value="../../widget_data/config/1e54b533e4204f1bacabfc426ee77a15.json" />
+            </object>
+        </section>
+        <p data-uuid="921ecb2b1b35492287a8ba77e5e3e7c3"><br />
+        </p>
+    </body>
+</html>

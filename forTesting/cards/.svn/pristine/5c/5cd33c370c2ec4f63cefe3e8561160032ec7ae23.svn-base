@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2c31b0031f444eeeb331d4d447803713">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="5f1b07f04b42480a891bbfc1f1032808">
+            <p class="lesson-number" data-uuid="3577f752503442d9aa7565bfcce082af">Lesson 3</p>
+            <article class="header-container" data-uuid="4ed2341af0bd46a0b3bee9871f6bf942">
+                <div class="header-element" data-uuid="23e0b9cf2bcc4b5cabc299deb31f26c7">
+                    <h1 data-uuid="429790e5a9b04777881916d0818d60cd">Rights
+                        for Other Americans</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="b5bfb2e771e24cb995f2c985be2972c7"></div>
+                    <h2 data-uuid="37151511ac4f46b2ac495512499613d0">The Big Idea</h2>
+                    <p data-uuid="56af2257e2b9487ca62dfab25619a981">Encouraged by the success of the civil rights
+                        movement, many groups worked for equal rights in the 1960s.</p>
+                </div>
+            </article>
+            <article data-uuid="ff2cf9aceaf946dfb740d7fef80b4b2e">
+                <h3 class="if-you-were-there" data-uuid="673cdf8950f14568b6f3525109ff8013">If YOU were there...</h3>
+                <p data-uuid="a3fdf793f83246d7962464c0f0965979">Your parents came to the United States from Mexico,
+                    and you were born in California in the 1950s. You and your family work
+                    year-round picking crops—the work is hard, and the pay is low. You’re trying to
+                    put aside some money for school, but your family barely makes enough to get by.
+                    Some farmworkers are talking about going on strike for better wages.</p>
+            </article>
+            <section class="reading-check" data-uuid="152c5afd6de942c184987d608a24ea6a">
+                <section class="question-long-text" data-uuid="5862669986d0412cb11ce50a41dbee5f">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2d881eb3f7c64c3eae66f5ecf382fdc7">
+                        <param name="configFile" value="../../widget_data/config/2d881eb3f7c64c3eae66f5ecf382fdc7.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="31efb14f18274c8689150f1df9e257c1">
+            <button data-teacher-view-toggle="true" data-uuid="ad37e5b8a99e400984d4c66b60900f15"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="bdbe31d1c8954c58a1e192945e951e0b">
+                <param name="configFile" value="../../widget_data/config/bdbe31d1c8954c58a1e192945e951e0b.json" />
+            </object>
+        </section>
+        <p data-uuid="4c498268e6e84ec082eb91a72ce35684"><br />
+        </p>
+    </body>
+</html>

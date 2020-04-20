@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b091c91da037484bbfb53ffe451e4af7">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="e35df2b480fd469ca4231ca95f67c35b">
+        <div data-uuid="915be5c784594f92af055ff65dc1ffb4">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="dbfca2125eb443fbadd3ba2f30c041f8"/>
+         <div class="header-element" data-uuid="158d4d1d22ce452d8bf67de3bdd0d3c9">
+                        <section class="calendar-container-bottom" data-uuid="076bf652ed204ecc9a5af7df0ce6e13c">
+                            <div class="yellow-star-yellow-bar" data-uuid="ff519c22598a4cc49ba62ee65d78253f"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="231955dbd1e942f695b26daecaa1707d">A New National Identity</h1>
+                        </section>
+            <section class="eq-container" data-uuid="20083c9f7da54d9a86d1bc8de991aef4">
+                <figure class="image " data-uuid="0c7ba3aba9d44f738d958daf3b96c333">
+                   
+                        <img alt="This photo shows a modern scene of a tourist boat traveling down a river, with many people sightseeing from the top level of the boat. Along a path to the side of the river, a man is driving a cart pulled by two mules. " class="" data-uuid="6648a93fef974998917063780aca82fc" src="../../img/module_9opener/ms_snlese454149_87p.jpg" />
+                         </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="e333e98558954213b08351a49f29612b">
+                        <p class="caption" data-uuid="982ee7aefcb146c6ad38fe4571bbfa49">The Erie Canal, completed in 1825, improved travel between cities and helped to unify the country.</p>
+                    </div>
+               
+
+            <article data-uuid="ac31afeff70343d49e6975174af77ba3">
+                <h3 class="eq" data-uuid="10bd7a6232474cb3a58945131e0d7b50">Essential Question</h3>
+                <h3 class="eqt" data-uuid="ee47196af82b405c88bd1d37535d89da">Why did America’s
+                    national identity change the early 1800s?</h3>
+                <p data-uuid="9962efddd76144a3a98c632b88675524">After the War of 1812, Americans were filled with national
+                    pride and confidence in the future. During this “Era of Good Feelings,” the
+                    nation adjusted its foreign policy, united the country with roads and canals,
+                    and devoted itself to distinctly American cultural expressions. Still, against
+                    this backdrop, regional differences threatened the nation’s unity.</p>
+                <p data-uuid="08dd57e9f1774707b8cf8bfb801388e2">As you read this module, look for evidence of the political and cultural
+                    influences that helped propel the development of a unique American national
+                    identity. Note the key people, decisions, circumstances, and turning points that resulted in this new identity. When you are done, you will write a short essay answering the
+                    Essential Question for this module.<br />
+                </p>
+            </article>
+            <section class="video-container " data-uuid="b5cfeee4e7794d79a1c03f9c0af87990">
+                <article data-uuid="7aab9d22b4364e6d93ef240b96238673">
+                    <h3 class="vid" data-uuid="364d64db33d84b989c8ac6f798c52a78">James Monroe</h3>
+                    <p class="vid" data-uuid="8d28b0e388c64031bc18a53845e6dd10">In the early 1800s, the
+                        nation was expanding and enjoying a time of economic prosperity. During this
+                        “Era of Good Feelings,” the United States was primarily under the leadership of
+                        President James Monroe. His foreign and domestic policies helped in the shaping
+                        of a distinctive national identity.<br />
+                    </p>
+                    <section class="video" data-uuid="57c152487da5426ca8ee9543c993837a">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="c0e5752b63ab4445bcf1a10b7182ea7c"><param name="configFile" value="../../widget_data/config/c0e5752b63ab4445bcf1a10b7182ea7c.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="87ae74f56ce44ae8b4b0cef28a5237ac">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="7d6627de91c343968b55375ef67df57d">
+                    <param name="configFile" value="../../widget_data/config/7d6627de91c343968b55375ef67df57d.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="bba6b55dd86e44aeb09cd07c818f0203">
+                <article data-uuid="35ab44c4b877409a92b0a81c5e5a83b5">
+                    <h3 class="mod" data-uuid="a9771f6d38074ea2b67298771d93206c">A New National Identity, 1810–1830
+                    </h3>
+                    <p class="mod" data-uuid="d0d44665d8f04769926c45b0a0a7d388">Having proven itself a
+                        stable nation, the United States waged war against Great Britain, began
+                        internal improvements such as the National Road, and took on a growing role in
+                        world events, particularly events in the Western Hemisphere. American artists
+                        like John James Audubon became internationally known.</p>
+                </article>
+            </section>
+        </section>
+        <section class=" timeline" data-uuid="11d48c55ad0c49418ac657c7594f4d5f">
+            <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" height="1020" data-uuid="d2a99ac5e99d415580ea416e2220ebe7">
+                <param name="configFile" value="../../widget_data/config/d2a99ac5e99d415580ea416e2220ebe7.json" />
+                <param name="audio_description" value="NA" />
+                <param name="audio_script" value="NA" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="3eeeec25d02945daa2018260ce3b641d">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="6c787cdecbc94a4b85b81787063a0b51">
+                <param name="configFile" value="../../widget_data/config/6c787cdecbc94a4b85b81787063a0b51.json" />
+                
+                
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="da0ea4ea2bc240aca67cc7685c84ccbd">
+            <button data-teacher-view-toggle="true" data-uuid="d1a5e6eb07e246f5ba45797c5967686b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="098368c5fdd04c5cbf462eeb6263920b">
+                <param name="configFile" value="../../widget_data/config/098368c5fdd04c5cbf462eeb6263920b.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="e6e513d510bd4bb3a5d6520069c72f49">
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="188e511294bd4eefa2b31297798a875f"></button>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="574b032d4df5415cb344b8bbdfc56068">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="194eac1ca23b42019a740c555065f1ea">
+            <p class="lesson-number" data-uuid="4315b6fbc319417a800cde5f865839da">Lesson 1</p>
+            <article class="header-container" data-uuid="4c9f4a198a6a43678c8729362f31c773">
+                <div class="header-element" data-uuid="bdb6459328ea4d189f7844c3d27bfb68">
+                    <h1 data-uuid="96a57eecdea94d9787a573692a7ee84f">The Southern Colonies </h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="88c625172bf5415fb8d18f118f9c6381"></div>
+                    <h2 data-uuid="86d4af3cea8f40e98061c9ae815c4080">The Big Idea</h2>
+                    <p data-uuid="49f52f444e7246059a1932d343fc151d">Despite a difficult
+                        beginning, the southern colonies soon flourished.</p>
+                </div>
+            </article>
+            <article data-uuid="7afe5bdeff094397bd7bc223733c7643">
+                <h3 class="if-you-were-there" data-uuid="f91881e40b5040a5a15bfbb9c16f1b8d">If YOU were there...</h3>
+                <p data-uuid="ca62b700347241629ad319fc1122e188">A year ago, in 1609, you moved
+                    to the colony of Virginia. Life here has been hard. During the winter many people
+                    died of cold or sickness. Food is always scarce. Now it is spring, and a ship
+                    has come from England bringing supplies. In a week it will sail home. Some of your
+                    neighbors are giving up and returning to England. They ask you to come, too.</p>
+            </article>
+            <section class="question-long-text" data-uuid="2598fcdb2c744948b5feb85acd33f68d">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="86e6c8f72baf4e92b95385ac66b4ff5c">
+                    <param name="configFile" value="../../widget_data/config/86e6c8f72baf4e92b95385ac66b4ff5c.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="46f57a1a6d674389bae89b64ed980148">
+            <button data-teacher-view-toggle="true" data-uuid="216fbff59e434f1084adaa0654655ca1"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b30f960d02b7418baa347cf21378eb17">
+                <param name="configFile" value="../../widget_data/config/b30f960d02b7418baa347cf21378eb17.json" />
+            </object>
+        </section>
+        <p data-uuid="359b5f17ff754b239fd41c26ae5a0b2c"><br />
+        </p>
+    </body>
+</html>

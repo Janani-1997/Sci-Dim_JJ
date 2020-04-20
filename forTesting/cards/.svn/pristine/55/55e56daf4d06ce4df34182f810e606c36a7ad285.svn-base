@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2b3f64aeb7f74bdab7ece92e17fa9d93">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="6df841668dea451095d2324e3d12d4a1">
+            <p class="lesson-number" data-uuid="c45ecc725b0f477fa44a75a0603b73e8">Lesson 2</p>
+            <article class="header-container" data-uuid="ebb7aedf51454bfe9b33c64ec9204606">
+                <div class="header-element" data-uuid="54b22cc4466c4851bac6eb7891c9b1d9">
+                    <h1 data-uuid="df84b4bee5754919aeaf38ac328dd8e2">Reforming the Workplace</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="4bd982f214724187b44fea33805ec1f7"></div>
+                    <h2 data-uuid="41f0b21492d1454896da8f7c8329f0dc">The Big Idea</h2>
+                    <p data-uuid="e097c2fdadb74ffda871a059c40de412">In the early 1900s Progressives and other reformers focused on improving
+                        conditions for American workers.</p>
+                </div>
+            </article>
+            <article data-uuid="7ab6fab960dd42dca9cdd5a631dae6ac">
+                <h3 class="if-you-were-there" data-uuid="a87565fdd6cc47bf868718bb2749a600">If YOU were there...</h3>
+                <p data-uuid="8fb9df10cd9043e5819e7c51ccd438e2">You have been working in a hat factory since 1900, when you were eight
+                    years old. Now you are experienced enough to run one of the sewing machines.
+                    You don’t earn as much as older workers, but your family needs every penny you
+                    bring home. Still, the long hours make you very tired. One day you hear that
+                    people are trying to stop children from doing factory work. They think that
+                    children should be at school or playing.</p>
+            </article>
+            <section class="reading-check" data-uuid="48a1f3633cc640b685350bf2896fa6c0">
+                <section class="question-long-text" data-uuid="534f2a999b154bd78aad31cc08d4b1d0">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="fc302a7d83124cbd811070d33f734a53">
+                        <param name="configFile" value="../../widget_data/config/fc302a7d83124cbd811070d33f734a53.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ae790c2420c840209196708f04d39cb4">
+            <button data-teacher-view-toggle="true" data-uuid="81915a1cf6f3435c91db67986633ea74"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="789a582e3f6d404fa74cfdb2ce1a0377">
+                <param name="configFile" value="../../widget_data/config/789a582e3f6d404fa74cfdb2ce1a0377.json" />
+            </object>
+        </section>
+        <p data-uuid="6b5d133608f6417f83839cec33840a9a"><br />
+        </p>
+    </body>
+</html>

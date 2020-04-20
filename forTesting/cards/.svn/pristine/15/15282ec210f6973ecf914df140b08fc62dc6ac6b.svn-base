@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="36b90004376949659fac2b58f7a7f27a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="b1c0c67f3b084cab8760566fb154c1c2">
+            <section class="lesson-review" data-uuid="84d37d10f0fd446ead4ca026cc63cf6c">
+                <div class="header-element header-container " data-uuid="aa51bdf05355427390fa8e430599e3f0">
+                    <p class="lesson-number" data-uuid="3fa8efc027f1425fa33b5f80f166bd04"> Lesson 4</p>
+                    <h2 data-uuid="2ce5a159cd4b473388b3ac9c4e569a74">Review</h2>
+                    <p class="white" data-uuid="b5a8f6f1d8904532843c9eb1b261c3a1">In this lesson you learned how the movement to end slavery was one of the most prominent and divisive efforts of the reforms of the mid-1800s. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="e94120460a8f4948b07375c7dc69d6ce">Review Key Terms and People</h3>
+                <p data-uuid="97ea2f1ce4d64ca98272a08a0ab91169"> Define each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="c9f8364641834772be46ab087c61024f">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="3deca718eae44e8cb12d3db61e348423">
+                <param name="configFile" value="../../widget_data/config/3deca718eae44e8cb12d3db61e348423.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="6faada146e8a44568165ae60d9eb3929">
+            <div class="go-prompt-bottom-bar" data-uuid="997e109e652a466fb3ca9b789147e494">
+                <h5 data-uuid="725f53b47dfa445eab183e9951b9f57b">Review the Graphic Organizer</h5>
+                <p data-uuid="6ac6e79b4d3640e99440074c55130415">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="2098b5c7a9854591919557cc1c3281be">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="272baf988b8140299b092ff14875d152">
+                <param name="configFile" value="../../widget_data/config/272baf988b8140299b092ff14875d152.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="6c2d0f26794a4f1fa1e1c5cf5332b142">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="c44c45f8c24447449bdb87d7f5745066">
+                <param name="configFile" value="../../widget_data/config/a18d2ca7b0064a36b81f72a7b4bea4af.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="f085b545b4b44104ba635aa20c7f0b34"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="da8c52cd0eba443ca033626f062d48f1">
+            <button data-teacher-view-toggle="true" data-uuid="5d2279ff1fdc4ff9b87a6b159845e90f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="da9fd298a27946db87fa0753b10280e5">
+                <param value="../../widget_data/config/da9fd298a27946db87fa0753b10280e5.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

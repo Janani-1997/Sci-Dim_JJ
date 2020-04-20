@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="5e7f2e9fb75a46f7af07afba89445450">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="4222c9280f3449c7bfc01caca3fe1067">
+            <div class="header-element header-container " data-uuid="f3f6fad6db534e3d92808b1479915605">
+                <p class="lesson-number" data-uuid="2de64a7e3e72468386354804c7a11988"><br />
+                </p>
+                <h2 data-uuid="91b6b07632f94a2cb4272a8f9e658c05"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="25594a5c15fe41aab789722dd767743d">In this module, you’ve
+                    learned about the social and economic changes of the 1920s. Now it’s your turn
+                    to demonstrate your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="3e8845c3c36f411fa6db5d4145e2b795">How did American society
+                change during the Roaring Twenties?</h3>
+            <p data-uuid="48ce0ce82d0d4f5ca0dc385d49544645">Write a persuasive essay
+                answering this question. Your essay should include key people, events, and
+                turning points for American society during the 1920s. Be sure to cite evidence
+                to support your position and organize your essay into an introduction, body,
+                and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="eecae656ae394c9d8befadee7c7698d3">
+            <button data-teacher-view-toggle="true" data-uuid="ef92e52e227a447491332b72b90c7311"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f237e838efeb46f39903ef664d5c5398">
+                <param name="configFile" value="../../widget_data/config/f237e838efeb46f39903ef664d5c5398.json" />
+            </object>
+        </section>
+        <p data-uuid="039d9df9966c412c9846b0e7dc9a38ca"><br />
+        </p>
+    </body>
+</html>

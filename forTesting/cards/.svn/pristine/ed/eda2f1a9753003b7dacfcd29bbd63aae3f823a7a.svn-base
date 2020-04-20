@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3c4051327fe742eeab3d3f2af37c31c6">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="c7157b1118a44e85baa5b84def0881cd">
+            <div class="header-element header-container " data-uuid="4fac010aee294d8c8f5b9398e24c3551">
+                <p class="lesson-number" data-uuid="b2a4dd5035b046f0b58a51fa310aa001"><br />
+                </p>
+                <h2 data-uuid="76e2c8f2f73842bfa2be8e53d92ebe61"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="61aab4119d3940878b4eeb5d789ed437">In this module you’ve learned about the
+                    political struggle for control of the Reconstruction effort and its effect on a
+                    newly freed African American population. Now it’s your turn to demonstrate your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="e1314c761e4e430ca3ac71ad16979747">To what extent did Reconstruction achieve its
+                goals?</h3>
+            <p data-uuid="19ca8490213746f6b46c327cf041972e">Write a persuasive essay answering this
+                question. Your essay should include key people, events, and turning points in
+                the political battles over Reconstruction. Be sure to cite evidence to support your position and
+                organize your essay into an introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a365dd163f5e48198676c9e83b14d4b2">
+            <button data-teacher-view-toggle="true" data-uuid="bf94d282a8f446b7a3548ef8907cf2ab"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="26a76d853b224944bc40467fb941ccd4">
+                <param name="configFile" value="../../widget_data/config/26a76d853b224944bc40467fb941ccd4.json" />
+            </object>
+        </section>
+        <p data-uuid="4a7ff1171ab94086b7184bac2e009438"><br />
+        </p>
+    </body>
+</html>

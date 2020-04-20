@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e5287c441eef4ba784146003d09ef2b0">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="4236b9fab14142918751bbb45536f6cb">
+            <div class="header-element header-container " data-uuid="d282fd50956b4f57a0185428f6da029c">
+                <p class="lesson-number" data-uuid="8fec3dd19e4144ceb4c27b7f10eecc67"><br />
+                </p>
+                <h2 data-uuid="f070938ada3d410e8325f8e605b8a486"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="492335de82434a50bbf269fe40e34173">In this module you’ve
+                    learned about the Europeans who explored and colonized the Americas. Now it’s
+                    your turn to demonstrate you understanding of the module content by writing an
+                    essay.</p>
+            </div>
+            <h3 data-uuid="48ea2f5594dd4e758537544702e37cfe">How
+                did Europeans change life in the Americas?</h3>
+            <p data-uuid="2b929c82147641c79a98473455b9974b">Write a persuasive essay
+                answering this question. Your essay should include key people, events, and circumstances
+                that changed life in the Americas. Be sure to cite evidence to support your
+                position and organize your essay into an introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c92ca49ab7bc40f7b1efa200b769d5f0">
+            <button data-teacher-view-toggle="true" data-uuid="e7f84b83e52f452ba87c024a4759c53a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3764f350322747bc8ee898a0c7ddc018">
+                <param name="configFile" value="../../widget_data/config/3764f350322747bc8ee898a0c7ddc018.json" />
+            </object>
+        </section>
+        <p data-uuid="01c3fcbb6f774848b82e710912880499"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e04a0ab0663c4d78b24a93106c23458d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="e683cb7f3d08429e9f96c2dd24a24a22">
+            <div class="header-element header-container " data-uuid="f79184ad1b76428798c86959584d8553">
+                <p class="lesson-number" data-uuid="3001bec94f654409b732e6eeaae2e44e"> Lesson 1</p>
+                <h2 data-uuid="eee8f8f1cc0341adacd08795e81c104e">Review</h2>
+                <p class="white" data-uuid="db64a41ee2a04f99bf9882b03fe75e60">In this lesson, you learned about how totalitarian governments rose to power in Europe and Japan. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="dfbb0b14944c441ba919fb59cdfe0d9d">Review Key Terms and People</h3>
+            <p data-uuid="77e16b83129f43f1b440e75ff3a264bc">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="356298720b964ecd906524c6ee15560c">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="74aa8269fc4442018cdd72207c37bf5d">
+                <param name="configFile" value="../../widget_data/config/74aa8269fc4442018cdd72207c37bf5d.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="1ea22ccc6cd94b88b78aeb3441a17f8b">
+            <div class="go-prompt-bottom-bar" data-uuid="e6436d99fed040238e6edd3fcebbfea0">
+                <h5 data-uuid="7ad6c86bc436415291729c6470ac1ca9">Review the Graphic Organizer</h5>
+                <p data-uuid="5ba2eb2c10ab436aa0d546272eea5d27">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="b09f0287b29240d1bd36ccd2f325d352">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="bc8654307b0a4c80bac5c774f09016f6">
+                <param name="configFile" value="../../widget_data/config/bc8654307b0a4c80bac5c774f09016f6.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="78c9dd12cabc4f619acf9eb07d46720a">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="a80db548800d4a6d8d8a19c58d19211a">
+                <param name="configFile" value="../../widget_data/config/3291a2edab404130af15332301cff8fc.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="deadcb1d9b9c4005b6eb697a0898c866"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6e8b18e8e5674f8d95da0eb4c8f39587">
+            <button data-teacher-view-toggle="true" data-uuid="84fb780186ce4ea59784ede2e1d28955"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7be51655398641e5ae12577d4e711bf9">
+                <param value="../../widget_data/config/7be51655398641e5ae12577d4e711bf9.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

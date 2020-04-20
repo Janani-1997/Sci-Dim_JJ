@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="49a944a4a14d458f96f6e89b4c03cbc8" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="350f3db52b5c424f8f713d413e427d40">
+            <div class="header-element header-container " data-uuid="912842a24f034bce9ffe3f3e836a45ed">
+                <p class="lesson-number" data-uuid="8c2d2d4cc5854d419614852425c72153">Lesson 1</p>
+                <h2 data-uuid="b26208ae94394a52a37ecef3bec32b1d">Assessment</h2>
+            </div>
+            <h5 data-uuid="e13ef8a8d32c4c1ba9baa549bfcc633e">The Debate over Slavery</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="117958d105e14298b8f252e9f67d1569">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="edda4ec482084076a0cd1527302b94db">
+                <param name="configFile" value="../../widget_data/config/edda4ec482084076a0cd1527302b94db.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="fb1d62849eb545329bb6ec09a46809a6">
+            <button data-teacher-view-toggle="true" data-uuid="ef6efcf42001460983b54118cd1c680c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="102a1545613545c491ea76bac753febd">
+                <param name="configFile" value="../../widget_data/config/102a1545613545c491ea76bac753febd.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="728b570d39fb4b79acd2b5965cf799be">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="f4be4ad3e70d4c29a22fca1ad940fcf5">
+            <div class="header-element header-container " data-uuid="ab25799b63374775b0ad76af964bd134">
+                <p class="lesson-number" data-uuid="b77c355180224d1fb5cb41a4c4641028"><br />
+                </p>
+                <h2 data-uuid="d3f09695c703486cb78b19ec0cd7e0b6"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="8208dd3b49a44b97a2d781423bea9886">Part 2: Write a Compare and Contrast Essay</h3>
+            <h6 data-uuid="a6d39dd0ba7c45e381f0c174afd95e4d">Historical Context</h6>
+            <p data-uuid="d40ce7fff3ac41b7ada482958a79afbc">From 1861 to 1865, the United States was divided by a bloody civil war. Both sides—the North and the South—entered the war with great confidence and mobilized forces quickly. Although most major battles were fought in the South, the war consumed the nation. In the end, the conflict resulted in freedom for some 4 million enslaved people and the preservation of the nation. The costs were staggering—more than 600,000 lives were lost and about $5 billion in property was damaged or destroyed.</p>
+            <h6 data-uuid="e5b2ef1071fa4794882e95999e68e059">Task</h6>
+            <p data-uuid="9575b0c576b845a1a1eeaf79a796ed4c">During
+                the Civil War, both sides were convinced that they were in the right and
+                represented the true spirit of democracy. Write an essay that explains why each
+                side believed this and use specific examples from the documents as evidence.</p>
+            <p data-uuid="e4915d7687614b8a9ea1618fdc1d9555">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="59a6b8394cdd4b029c5204b7487cb30a">
+                <li data-uuid="7f10277763c4438f81c6e4342ee3b1c0">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="4d35de6d94984ffca689e2c5f0426d78">
+                    Use
+                    at least <i>three</i>&#160;of the sources in Part 1, and develop the essay with
+                    relevant, well-chosen text evidence from the documents.</li>
+                <li data-uuid="435c74b5de344d1d8e7c5c7c57407ae0">
+                    Cite specific text evidence from each of the three sources in your
+                    response.
+                </li>
+                <li data-uuid="47097055bdc64c0089ace01ed85ce7f9">
+                    Plan
+                    your essay so that it includes an introduction, several body paragraphs, and a
+                    concluding paragraph.</li>
+                <li data-uuid="f07f28e60ffb4e6898c2be51e0d4579b">Organize
+                    your essay in a logical way that highlights comparisons and contrasts.<br />
+                </li>
+                <li data-uuid="54f23c24430740cb9e2609f5b10bfb2b">Write
+                    a conclusion that sums up your ideas and supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c13ff89eefaa4154bc843fcef860bda8">
+            <button data-teacher-view-toggle="true" data-uuid="8db019187f7343cc88f63ec7c4c20d40"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="70147c384526498b940c44fc9c0ec625">
+                <param name="configFile" value="../../widget_data/config/70147c384526498b940c44fc9c0ec625.json" />
+            </object>
+        </section>
+        <p data-uuid="368613c125fe4471a96015cff15794a4"><br />
+        </p>
+    </body>
+</html>

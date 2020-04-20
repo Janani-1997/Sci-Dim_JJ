@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="1a38d3132f0f4d3b8b62f3925634b7d8" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="2cff98b504b644068d4f25b372a032df">
+            <div class="header-element header-container " data-uuid="0a85d65300104a048b6bf93a6aa6a0ef">
+                <p class="lesson-number" data-uuid="d2c36e8cd17c4ad98d921998a1b3054e">Lesson 2</p>
+                <h2 data-uuid="325e02228a1a4f298babd1b8cf3a1e04">Assessment</h2>
+            </div>
+            <h5 data-uuid="312aeeb99a1b481684f2e31d25b1b6ac">War in Korea and a New Red Scare</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="02888da1a52742ff98a9d2ede593e43a">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="6b1ea3a3eda54a1597f2f089e899b05c">
+                <param name="configFile" value="../../widget_data/config/6b1ea3a3eda54a1597f2f089e899b05c.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="5fe1f23ead7e43b88d44ea957878ed95">
+            <button data-teacher-view-toggle="true" data-uuid="33e9f4fe66d645f8a2fe66dcfe36c924"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6fd0c9407a6f4957a2c98c24a0eb2499">
+                <param name="configFile" value="../../widget_data/config/6fd0c9407a6f4957a2c98c24a0eb2499.json" />
+            </object>
+        </section>
+        <p data-uuid="f3ff7aa608884970ba10e5cbe218a450"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="baacf88055e142d8a06fb8d1e6387d0f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="473905626540419fae3fd48f83cf80fb">
+            <div class="header-element header-container " data-uuid="eb8d4068b1424d53b39ec3d71801f421">
+                <p class="lesson-number" data-uuid="c461a14f36234649ae7fcd11652261cd"><br />
+                </p>
+                <h2 data-uuid="84bfbf5383f34f88a478ffca8157a65c"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="3e317d5a3bae46beacf2c8e074834e48">In this module you’ve learned about <span>the important events of the first three presidencies and how they
+                    affected the country</span>. Now it’s your turn to demonstrate you
+                    understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="efd7b81e6a65495e8fc38b47695552b2"><span>How
+                did&#160;challenges and disagreements help shape the new nation?</span></h3>
+            <p data-uuid="9a1ac3fa312b4162a8a20483782a0b67">Write a persuasive essay answering this
+                question. Your essay should include key people, events, and turning points during
+                the presidencies of Washington, Adams, and Jefferson. Be sure to cite evidence
+                to support your position and organize your essay into an introduction, body,
+                and conclusion.&#160;</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f1aaa668fc5347ea82c895422a16316e">
+            <button data-teacher-view-toggle="true" data-uuid="f0ad7e1ce6c940958fd4e68b112cecee"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="67a3958e693f4c7f91118960048c1291">
+                <param name="configFile" value="../../widget_data/config/67a3958e693f4c7f91118960048c1291.json" />
+            </object>
+        </section>
+        <p data-uuid="d064b9257e4b4e3199faa554fc63b00d"><br />
+        </p>
+    </body>
+</html>

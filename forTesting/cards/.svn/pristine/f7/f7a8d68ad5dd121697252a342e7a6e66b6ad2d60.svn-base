@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="a7dc89cf15d94c16a81ab4106163ad0a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section data-uuid="2e6ac0b264b141c288c0307451725fcb" class="lesson-opener ">
+            <p data-uuid="f6bd0df7b77c459d9de56c20557746a9" class="em">Lesson 4</p>
+            <article data-uuid="ea9ff8490b914ee19d600881ee3d9f1a" class="header-container">
+                <div class="header-element" data-uuid="41049dc6b25640ee944b325204f58c7b">
+                    <h1 data-uuid="fa5ae575138449f7ae6770aa3f75d731">Farming and Populism</h1>
+                    <div data-uuid="5571c0b4a03340b9a75e85b8e5e0e716" class="yellow-star-yellow-bar"></div>
+                    <h2 data-uuid="f2f86491c4454010af09c5845793b76b">The Big Idea</h2>
+                    <p data-uuid="f6ba6b83cdac4e47a4cedd5d5d5fba63">Settlers on the Great Plains created new
+                        communities and a unique political movement.</p>
+                </div>
+            </article>
+            <article data-uuid="f317f9a2446c4e248b0dcdaa15c03dd8">
+                <h3 data-uuid="3398c80b34c4403a90ce03e4d0c6bc01" class="if-you-were-there">If YOU were there...</h3>
+                <p data-uuid="c01926a7787e415a858e115cddaf63ab">You are a female schoolteacher in Wisconsin in 1880.
+                    You live and teach in a small town, but you grew up on a farm and are used to hard work. Now you are thinking about moving
+                    West to claim free land from the government. You could teach in a school there too. You think it would be an exciting adventure, but your family is horrified
+                    that a single woman would move West on her own.</p>
+                <section class="question-long-text" data-uuid="121442a83ba140ddba76c5bcc7821337">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="9f250513f9a8440b97cf9a45add6dab3">
+                        <param name="configFile" value="../../widget_data/config/9f250513f9a8440b97cf9a45add6dab3.json" />
+                    </object>
+                </section>
+            </article>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="3baa4d7f2bb54b8b905ce0e6254a2b18">
+            <button data-teacher-view-toggle="true" data-uuid="d3bef47e879248d7a513fb2ebcb835c6"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ace964cddab2490285b4726045473ec1">
+                <param name="configFile" value="../../widget_data/config/ace964cddab2490285b4726045473ec1.json" />
+            </object>
+        </section>
+        <p data-uuid="0978d241a4dd43f7950be0579cb06297"><br />
+        </p>
+    </body>
+</html>

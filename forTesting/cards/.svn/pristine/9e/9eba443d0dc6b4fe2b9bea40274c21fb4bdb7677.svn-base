@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c8e7349285a7478dad8787182d48584e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="0941bd224ab64319a55d4ef41e257faa">
+            <div class="header-element header-container " data-uuid="008cfa2f91e84e2b81473cca3f2b6299">
+                <p class="lesson-number" data-uuid="84bf76d6a31b4d95887e15c923253eeb"><br />
+                </p>
+                <h2 data-uuid="97ff9269786a4dbe965817cb31e66a20"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="dded6f238c174509904668eae2e379cd">In this module you’ve
+                    learned about the English settlements that dotted the East Coast of North
+                    America. Now it’s your turn to demonstrate your understanding of the module
+                    content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="edd331626c0a4c7aa77680c168623d3a">How
+                did the colonial experience shape America’s
+                political and social ideals?</h3>
+            <p data-uuid="cc731428c04144339dc119786141800c">Write a persuasive essay
+                answering this question. Your essay should include details about the
+                key political and social developments that occurred in the 13 English colonies. Be
+                sure to cite evidence to support your position and organize your essay into an
+                introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7d20ceea84d245629430e6f18f913756">
+            <button data-teacher-view-toggle="true" data-uuid="3a622d51ce43407a96183a4579f3cae7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d3926e43cc494426bf5dc4f4437ca85e">
+                <param name="configFile" value="../../widget_data/config/d3926e43cc494426bf5dc4f4437ca85e.json" />
+            </object>
+        </section>
+        <p data-uuid="d6cc36252739466f83ee19b921b45ecc"><br />
+        </p>
+    </body>
+</html>

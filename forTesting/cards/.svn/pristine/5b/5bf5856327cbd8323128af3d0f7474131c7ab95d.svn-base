@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6dccdc68967140fbbb644af06e8adcbc" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="34a3a94755a14be9982a899e458ab71c">
+            <div class="header-element header-container " data-uuid="2567c9cce3be4287908afb3977f2e4f1">
+                <p class="lesson-number" data-uuid="39ba11514d8c440aa5ed89d25224cb99"><br />
+                </p>
+                <h2 data-uuid="0637806971d942209c5324a2e0f4271c"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="bc8861ed4df24c47964ec4f216014922">Part
+                2: Write an Explanatory Essay</h3>
+            <h6 data-uuid="60fb8b9b84d84b32933d9def1e0a8e41">Historical Context</h6>
+            <p data-uuid="3ba6b1afcbea46da84d8ad84abe51084">The time of Andrew Jackson’s presidency, also called
+                the Age of Jackson, was a time of regional differences and political changes. At first many people saw Andrew Jackson as a representative of everyday people.
+                Soon tensions between the North and South led to tariff regulations. This led
+                to the nullification crisis in which Jackson upheld federal authority. He did
+                not always support greater federal power. For example, he opposed the Second
+                Bank of the United States. President Jackson also did not make the state of
+                Georgia follow the ruling of the Supreme Court in <i>Worcester </i>v.<i> Georgia.</i> This led to removal of the Cherokees to the
+                Indian Territory and the Trail of Tears.</p>
+            <h6 data-uuid="6d7612722d244339a5b9903ccdb9574e">Task</h6>
+            <p data-uuid="7130b46855574434a054c6f61e5be40a">The Age of Jackson was a time of many controversies,
+                including tensions between the regions of the country, the state and federal governments, and Native Americans and white settlers. Write an explanatory essay about the Age of Jackson.</p>
+            <p data-uuid="4f1e9a45bb2c4c96bcfff255b8f04d90">Complete the following steps as you
+                plan and compose your essay.</p>
+            <ol data-uuid="7b44c0822e9342048c846c225404c40a">
+                <li data-uuid="855497bda3af40339950b5d27de8fd13">Review your notes and sources before you start writing.<br />
+                </li>
+                <li data-uuid="c7448b81d7e64ed2804ef50646859b88">Use at least <i>two&#160;</i>of the
+                    sources in Part 1, and develop the topic with relevant, well-chosen text
+                    evidence from the documents.<br />
+                </li>
+                <li data-uuid="049fe6f2c4704b2b9f6f92343bcd4d7a">Cite specific text evidence from each of the sources in your
+                    response.<br />
+                </li>
+                <li data-uuid="ebfb156cab194497ada149b8134aa418">Plan your essay so that it includes an introduction, several body
+                    paragraphs, and a concluding paragraph.<br />
+                </li>
+                <li data-uuid="0f5c16ec4b2b4ad3921fb96885b08f89">Establish a formal tone and use transitions to improve the flow of your writing, connect ideas, and clarify meaning.</li>
+                <li data-uuid="db376e2374334b99ad03bc3b6c257b85">Organize your essay in a clear way that focuses on the topic and supports it with well-chosen facts, details, and examples.</li>
+                <li data-uuid="d293f4e6af134f2a84b2e44e5cd0e6e2">Use precise, descriptive language and social studies terms to explain your topic.</li>
+                <li data-uuid="0ddaec91b0224be5bb9190ca572467e5">Write a conclusion that sums up your ideas and supports the information you present.</li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="20a15bcedac94646a65c131fc5fa45d0">
+            <button data-teacher-view-toggle="true" data-uuid="673a485e64094a58b20abddc264ec147"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="74373c72bcd94e32ad77da1cbd5a8148">
+                <param name="configFile" value="../../widget_data/config/74373c72bcd94e32ad77da1cbd5a8148.json" />
+            </object>
+        </section>
+        <p data-uuid="3a7ffb7d42f841ac8b054b0837e49a75"><br />
+        </p>
+    </body>
+</html>

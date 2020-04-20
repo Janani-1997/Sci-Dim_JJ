@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="e15da3dae1714c7e8933687af5f6ca54" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Opposition to Immigration</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="51757a263a9c4b71852222484b6bbc82">
+            <article data-uuid="18362420ff304096901ad4771848db5a">
+                <h4 data-uuid="7b4b7286470e40c1a06c9e579f11e950">Main Idea</h4>
+                <p class="main-idea" data-uuid="d322adb14bd246d0a2e2feca5a4336b6">Some Americans opposed immigration and worked to restrict it.</p>
+                <h2 data-uuid="db578db7d64e4d6699be4f955d97b55c">Opposition to Immigration</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="9a2d16e6c5084d61beeda24d26a90b87"></div>
+            </article>
+        </section>
+        <p data-uuid="58ca835963194bb3ab7fa4958aef78d1">Some Americans welcomed new immigrants. Many business leaders, for example, wanted immigrant workers who were willing to work for low pay. In general, however, anti-immigrant feelings grew as immigration increased in the late 1800s. Some labor unions opposed immigration because their members believed immigrants would take jobs away from native-born Americans.</p>
+        <p data-uuid="7a46a575864841db9f94a731f2f97174">Other Americans called nativists also feared that too many new immigrants were being allowed into the country. Many nativists held racial and ethnic prejudices. They thought that the new immigrants would not learn American customs, which might harm American society.</p>
+        <p data-uuid="3ea8060b67404b7b938aa8a4de1631d9">Some nativists were violent toward immigrants. Others advocated laws and policies to stop or limit immigration. For example, in 1880 about 105,000 Chinese immigrants lived in the United States. Two years later, Congress passed the Chinese Exclusion Act. This law banned new immigrants to the United States from China for ten years. This was the first time a nationality was banned from entering the country. Although the law violated treaties with China, Congress continued to renew it for several decades. Other immigration policies included another law passed in 1892 that restricted convicts, immigrants with certain diseases, and those likely to need public assistance from entering the country.</p>
+        <p data-uuid="9416ac905a214a33a71e7b5402249d9f">Despite such opposition, immigrants continued to arrive in large numbers. They worked for low pay in factories. They built buildings, highways, and railroads. Their labor helped power the continuing industrial growth of the late 1800s and early 1900s. They did not always achieve their dreams as quickly as they had hoped. But most immigrants remained confident about the future for themselves and their families in the United States. A Jewish immigrant from Russia named Abraham Hyman expressed this idea, saying, “Your feeling is that a better time is coming, if not for yourself, for your families, for your children.”</p>
+        <section class="extension" data-uuid="d51431f768914f31bb1607aa0472d7ff">
+            <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="4d04afca3dd54ba38c2e895afa336013">
+                <param name="configFile" value="../../widget_data/config/4d04afca3dd54ba38c2e895afa336013.json" />
+                <param name="audiopath" value="" />
+                <param name="widgettype" value="shortplayer" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="463c3079810740e3a8a962aa95fe173f">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="09618d3a29234522a535243ee9784f79">
+                <param name="configFile" value="../../widget_data/config/09618d3a29234522a535243ee9784f79.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="8d820047089849d193e536372b058863">
+            <div class="go-prompt-bottom-bar" data-uuid="b0c8e72efa3e484ba38c5297f3128251">
+                <p data-uuid="3798bdf1046a4ee3b9019f4ba51370ec">Remember to complete the graphic organizer with the challenges new immigrants faced.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="25e28c693bb5401eb4b9a02fcf9a4c39">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="74fbb52d391e4ad5ab505276035ec8a2">
+                <param name="configFile" value="../../widget_data/config/e7e9b4a219bb49149ae9a6584389a5c1.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="2bccd39e88304ba690b8f10fc3e67a81"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="cecb80c42c0b4c0fa0dbb3bba5eae754">
+            <button data-teacher-view-toggle="true" data-uuid="70879b063d5041f69fd4b15dd8438b7b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4cbe85eac1b747ea9ae30da07bd0f89d">
+                <param name="configFile" value="../../widget_data/config/4cbe85eac1b747ea9ae30da07bd0f89d.json" />
+            </object>
+        </section>
+        <p data-uuid="7e124d74e08c476a9cc43219dcd6a52e"><br />
+        </p>
+    </body>
+</html>

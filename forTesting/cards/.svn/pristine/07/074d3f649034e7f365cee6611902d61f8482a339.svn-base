@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="767d33dbe4e248e2afcf409a8592f7e0" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="a62b5093ca97405aa0a278f134c338ed">
+            <div class="header-element header-container " data-uuid="5fcda7c09ffb46f1b0a344a27aedf2dd">
+                <p class="lesson-number" data-uuid="293da77c5a2b4431b4e979cdd07bca90">Lesson 1</p>
+                <h2 data-uuid="0eaad373b7494c95b65bcd244bf27542">Assessment</h2>
+            </div>
+            <h5 data-uuid="1515042d2d1c4f2b9f0f81d37ef34d75">Immigrants and Urban Challenges</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="8111993fbb084b75adf253957364742d">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="adc9fdb6997d445490704a05bf0df859">
+                <param name="configFile" value="../../widget_data/config/adc9fdb6997d445490704a05bf0df859.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="cdcadeddef614af8811d726a27452a6b">
+            <button data-teacher-view-toggle="true" data-uuid="fea7d62e8934489cb287e82215fb60f9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="88dd89ef3b4a415c8556e5bacd94c6e9">
+                <param name="configFile" value="../../widget_data/config/88dd89ef3b4a415c8556e5bacd94c6e9.json" />
+            </object>
+        </section>
+    </body>
+</html>

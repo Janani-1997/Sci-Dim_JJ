@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7426f611d9cf41ada5c539b753be308e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="fd36c249f59f4dd4ba55f26488853a7f">
+        <div data-uuid="f0c81b398ed5463bb1f4066df6740e28">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="cb3aac983bdf4f928267240f0194082f"/>
+            <div class="header-element" data-uuid="5c9d64a8bae94f4ab0b203a4c66446b0">
+                <section class="calendar-container " data-uuid="0e37a143a40e46e7948e3b95d6a69d61">
+                    <div class="yellow-star-yellow-bar" data-uuid="5d4c2176123a48eab71dbdb96c22964a"></div>
+                    <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                    <h1 data-uuid="a0233ad625834aa59de0d2d7c0fd6819">The South</h1>
+                </section>
+                <section class="eq-container" data-uuid="12eef27465c54b6fbb8a82917eb26656">
+                    <figure class="image " data-uuid="3f3d7ae506574ae6b81bac115e2a8a7a">
+                        <img alt="This photo shows slaves working on a sugarcane plantation in Georgia." class="" data-uuid="9d574894d0dd4fc191428861a2200713" src="../../img/module_14_opener/ms_snlese454149_866p.jpg" />
+                    </figure>
+                </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="44dd1f26b34447e8a6e9cdc4ec72b069">
+                <p class="caption" data-uuid="1db03970200e4aea80ab7684b33fa954">Slaves processing sugarcane on a Georgia plantation.</p>
+            </div>
+            <article data-uuid="dbef507af6934c2a862dbf643305f7a4">
+                <h3 class="eq" data-uuid="aa34abd978d84459a26907efd824455d">Essential Question</h3>
+                <h3 class="eqt" data-uuid="97a10ef53eec418280de5157f86622e3">How important was slavery for the economy and
+                    society of the South?</h3>
+                <p data-uuid="54282acfdf0b4e4e9cc2fa9dafc10281">Slavery gradually died out in the northern
+                    states after the American Revolution, and the international slave trade was
+                    outlawed in 1808. Yet in the South, the demand for slave labor continued to
+                    increase, fueled mainly by the cotton boom.&#160;</p>
+                <p data-uuid="fcb6b7d2540441ff8b3d84acd2ab3124">As you read this module, look for evidence of how slavery
+                    affected the South’s economy and society. Note the key people, decisions, circumstances, and turning points that resulted in the region’s heavily agricultural economy based on slave labor. When you are done, you will write a
+                    short essay answering the Essential Question for this module.</p>
+            </article>
+            <section class="video-container " data-uuid="fcabe843c7dd43a7aab2e3f363a14a46">
+                <article data-uuid="cd314007769f4681bb6f0d21819c1e08">
+                    <h3 class="vid" data-uuid="6d40cfd5750a419da01ec11141603cc1">Growth of the Cotton Industry</h3>
+                    <p class="vid" data-uuid="52ad8f5b5d7d45e4b463adf32e3022a4">Before the cotton gin was invented, picking and cleaning cotton had been extremely labor-intensive. After 1793, Eli Whitney’s machine made it possible for each worker to process fifty times more cotton than by hand. &#160;Cotton production soared, southern planters grew wealthy, and the demand for slave labor grew.</p>
+                    <section class="video" data-uuid="afdd797803364963bf6166de7ae0cbe4">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="d30048b6d06746689f993ce5bb1c3767"><param name="configFile" value="../../widget_data/config/d30048b6d06746689f993ce5bb1c3767.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="0e36f4aa5120430c88ba9757f89789fe">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0c438ecfa3ed4ef9a46588a25b92ac04">
+                    <param name="configFile" value="../../widget_data/config/0c438ecfa3ed4ef9a46588a25b92ac04.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="74e8ac1ba0fe43a5a1dd456dfcc2b518">
+                <article data-uuid="3810ab489b2d462b8367190d07df21ef">
+                    <h3 class="mod" data-uuid="f67a6181a7f74752ba2d0115f8044243">The South, 1790–1860</h3>
+                    <p class="mod" data-uuid="451c9b66f0a84986a5cce6728d9824ef">The cotton gin dramatically increased cotton
+                        production in the South, creating a demand for more slaves. An early U.S.
+                        antislavery measure was a ban on importing slaves, but it did not ban slavery itself. By this time, France had already outlawed slavery in its colonies and Britain had banned slave trading
+                        throughout its empire. Slave revolts caused fear among southerners.<br />
+                    </p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="e35f5b2bfa85488fa328e40a52b5ab3f">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="f73ec60918594820bf6f782d2170c23d">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/f73ec60918594820bf6f782d2170c23d.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="0e5d79120d554c80b3b4bf2d9ad95b9f">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="3988dc3e205c4e3bacb4b0e5a4b69345">
+                <param name="configFile" value="../../widget_data/config/3988dc3e205c4e3bacb4b0e5a4b69345.json" />
+                
+                
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2a490fb690a9480c81c6969eedcac959">
+            <button data-teacher-view-toggle="true" data-uuid="fd098a6e4d0b49e1b3bdfa1a8f00e9d8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6fa6a1a8eaf34becaad041044f413e3c">
+                <param name="configFile" value="../../widget_data/config/6fa6a1a8eaf34becaad041044f413e3c.json" />
+            </object>
+        </section>
+        <p data-uuid="64abb6b326bc480dafafe8ceaa9f2436"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2c9d87d4ecbf4cb299eefc3c78867b60">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="76d9c12716304846b6dbbfa7febbdfd2">
+            <div class="header-element header-container " data-uuid="6705899da8ae479181b557c5ecf49180">
+                <p class="lesson-number" data-uuid="e7984cd6dee34b9e8d57feb4b4f7e001">Lesson 1</p>
+                <h2 data-uuid="df48c851556c4330b63069d55961746e">Assessment</h2>
+            </div>
+            <h5 data-uuid="1b4e13ce35a646adb8422c8d5be6fb29">Nixon’s Presidency and Watergate</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="db7a488b9bbb42bda56a11d275155367">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="145e056c82da41fbafdc6971f57007e9">
+                <param name="configFile" value="../../widget_data/config/145e056c82da41fbafdc6971f57007e9.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a7ea0583aa604da4a003e29e328b73a5">
+            <button data-teacher-view-toggle="true" data-uuid="8a086ee88ebf4bc09946d7dbe9d11030"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5e110f69e4204ba3856c93bd69642f40">
+                <param name="configFile" value="../../widget_data/config/5e110f69e4204ba3856c93bd69642f40.json" />
+            </object>
+        </section>
+        <p data-uuid="e95c6042af244fceb06883215dbc1190"><br />
+        </p>
+    </body>
+</html>

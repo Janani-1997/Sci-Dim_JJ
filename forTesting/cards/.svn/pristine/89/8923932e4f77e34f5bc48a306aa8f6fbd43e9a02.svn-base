@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="1626a2dbc2bc4f89886ccc614b9abe4b">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Another Attempt at Compromise</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="b393771ec6654038ab61cc0899b2dae1">
+            <article data-uuid="c6557b15ebe04585a8163bc813cb86b9">
+                <h4 data-uuid="f76992f508064867a837d8238fba1ad8">Main Idea</h4>
+                <p class="main-idea" data-uuid="ac11393c210945ddacf87362125c53ee">The Compromise of 1850 tried to solve the disputes over slavery.</p>
+                <h2 data-uuid="a70eb179b72a425a843cfd2ad48e08e7">Another Attempt at Compromise</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="01c7e83ec1974db8a4c6f33bb65e2dfc"></div>
+            </article>
+        </section>
+        <p data-uuid="e4285bab6f2a4930b6a1a9bb3ac4e8c4">By 1850 the population in California had grown so much because of the gold rush that it applied to join the Union as a state instead of as a territory. This request brought the issue of slavery to the surface. If California entered the Union as a free state, the balance between free and slave states would change, favoring the free states. This was unacceptable to the South.</p>
+        <p data-uuid="fecb7224d83a42c09ccff8509ebe2062"> Kentucky senator Henry Clay introduced a plan that proposed several compromises on the slavery issue. Clay’s plan drew attack from representatives from the North and the South. Senator John C. Calhoun of South Carolina argued that letting California enter as a free state would destroy the nation’s balance. He asked that the slave states be allowed to <b><dfn title="secede">secede</dfn></b>, or formally withdraw, from the Union.</p>
+        <section class="interactive-map" data-uuid="5f2843b02fcc4db69d8f798d1fbb5722">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="b3f7edd321fc46e1b71c71b56f5de680">
+                <param name="selected_map" value="8_snlese454170_167m" />
+            </object>
+            <section class="skillbuilder" data-uuid="e4db83192225450da0ab6bc79c4dc045">
+                <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="47becde618c846898cc07fa8fd070c81">
+                    <param name="configFile" value="../../widget_data/config/47becde618c846898cc07fa8fd070c81.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-multiple-choice" data-uuid="e85c2f89c24141b8919fb1bf14f00d48">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="0140a41cae414c4db15ff011ec84adac">
+                <param name="configFile" value="../../widget_data/config/0140a41cae414c4db15ff011ec84adac.json" />
+            </object>
+        </section>
+        <p data-uuid="0770a4604180452bbb680b106e3164aa">After months of debate, the Senate finally passed five laws based on Clay’s resolutions. Together, these laws formed what became known as the <b><dfn title="Compromise of 1850">Compromise of 1850</dfn></b>. California was able to enter the Union as a free state. The rest of the Mexican Cession was divided into two territories—Utah and New Mexico—where the question of whether to allow slavery would be decided by popular sovereignty. Texas agreed to give up its land claims in New Mexico in exchange for financial aid from the federal government. Lastly, the compromise outlawed the slave trade in the District of Columbia and established a new fugitive slave law.</p>
+        <section class="reading-check" data-uuid="01d5e4165098464e986e504ec68fb2ac">
+            <section class="question-long-text" data-uuid="f6bc362c124247f489ffd26bafbb9731">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e905ab900ae1427b8c0446a9d7d72e08">
+                    <param name="configFile" value="../../widget_data/config/e905ab900ae1427b8c0446a9d7d72e08.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="f4735627902941c483540a982002354e">
+            <div class="go-prompt-bottom-bar" data-uuid="de974b9d312e4b708cc8db925f7facfd">
+                <p data-uuid="606b1eda4b83401d8bfdeb6a6145b431">Remember to use the graphic organizer to take notes on the political developments related to the issue of slavery and the significance of each one.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="fdab43e474d347f086ccfd7c869107eb">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="8115a69a7465439bbc7712936e158af5">
+                <param name="configFile" value="../../widget_data/config/99a46ca7bfa9451fa79f25529d9b4267.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="104f2724daa14964b9ce6a4e9c68bc27"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="81982639e58f43879466ec9ea740aab3">
+            <button data-teacher-view-toggle="true" data-uuid="9a692a233465438a9b1ff36b9e16da93"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="11c2a652eace455dbb210a50b306acb4">
+                <param value="../../widget_data/config/11c2a652eace455dbb210a50b306acb4.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

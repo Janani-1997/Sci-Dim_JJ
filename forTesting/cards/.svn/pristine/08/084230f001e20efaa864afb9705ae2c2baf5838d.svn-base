@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="45d28c30d23844a481601577cadba4b4">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="c321b1196ba7475b8916aaaa06361ee7">
+            <div class="header-element header-container " data-uuid="8657d4594b7b4971a08ff4843f79a6b1">
+                <p class="lesson-number" data-uuid="8aec953e8941474eb1cddc307270cacd"><br />
+                </p>
+                <h2 data-uuid="d2b1ea91635b480d96a54f50e6078825"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="7c86a4cca86b4097a2b7f4c7ae909152">In this module you have learned about the
+                    economy and society of the South in the first half of the 1800s. Now it’s your
+                    turn to demonstrate your understanding of the module content by writing an
+                    essay.</p>
+            </div>
+            <h3 data-uuid="f7bb092a59de4bbd86c058c8ec4796b3">How important was slavery for the economy and
+                society of the South?</h3>
+            <p data-uuid="1c699333227f412c8a4edf41bce6edf6">Write a persuasive essay answering this
+                question. Your essay should include key people, events, and turning points that influenced the southern economy, society, and culture. Be sure to
+                cite evidence to support your position, and organize your essay into an
+                introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="bee7cd49620a41dd96089a9697582bbf">
+            <button data-teacher-view-toggle="true" data-uuid="c3bc2213c2294dd4a406824eda1de77e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6412e06204f142109d399fb233df91e2">
+                <param name="configFile" value="../../widget_data/config/6412e06204f142109d399fb233df91e2.json" />
+            </object>
+        </section>
+        <p data-uuid="b2a2c0f7a3e1454ea4e4d639fbff0a75"><br />
+        </p>
+    </body>
+</html>

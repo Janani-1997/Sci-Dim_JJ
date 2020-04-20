@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6310381c255e40f7944b4b90efec2a8b">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="7c1db1bde1724521b9aa6ab8f450733e">
+            <p class="lesson-number" data-uuid="41daf407001846c194485acf583ee7bb">Lesson 1</p>
+            <article class="header-container" data-uuid="9a87f6b3fce24ec8b84895c8393351b2">
+                <div class="header-element" data-uuid="835bd97737864e2c91bedb37222aef58">
+                    <h1 data-uuid="772d971747444541aa96081976b907ea">The Texas Revolution</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="f8dbbb2489c948319be397c4390da5ac"></div>
+                    <h2 data-uuid="7db31fee4b9f401abc638d275ea55237">The Big Idea</h2>
+                    <p data-uuid="5d6ef22ceab34cb28b69683427040fcd">In 1836 Texas gained its independence from Mexico.</p>
+                </div>
+            </article>
+            <article data-uuid="c44cb2488ed14ba38582db350a8c2adf">
+                <h3 class="if-you-were-there" data-uuid="7705b869b1cd4f85b3475c4d011a6b67">If YOU were there...</h3>
+                <p data-uuid="ad72d785d2ba40018f35a0642b66f78f">You are the father of a large farm family in Missouri.
+                    There is not enough land for everyone, so you’re looking for another
+                    opportunity. One day, a land agent comes to town. He is looking for people to
+                    settle in Texas. The Mexican government is offering generous tracts of land to
+                    colonists. However, you have to become a citizen of Mexico and follow Mexican
+                    laws.&#160;</p>
+            </article>
+            <section class="question-long-text" data-uuid="58d3ed03507c4bdaa4077ba1c76cfe17">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f498b23ce5624511b77ace9cf021ab0b">
+                    <param name="configFile" value="../../widget_data/config/f498b23ce5624511b77ace9cf021ab0b.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="311aeb761a7e4c58b8cdf1ba9cf91438">
+            <button data-teacher-view-toggle="true" data-uuid="7f06fc6064ad4a4993d1b3d30b95e563"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cf8159c5bb0943508b7a156df32e993b">
+                <param name="configFile" value="../../widget_data/config/cf8159c5bb0943508b7a156df32e993b.json" />
+            </object>
+        </section>
+        <p data-uuid="11d0538233734ae2be1d024bc2f07416"><br />
+        </p>
+    </body>
+</html>

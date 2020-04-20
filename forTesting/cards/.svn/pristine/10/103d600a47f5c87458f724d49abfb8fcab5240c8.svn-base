@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="987c1a61a20845b88daa3726ee0e2c1d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Architecture and Education</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="ad1b3aaba6e643788d1267381164f279">
+            <article data-uuid="be9e110c3b9c43fcbcbceb2782d5be54">
+                <h4 data-uuid="0a20e2d6467d43fd944944d12bc8cef7">Main Idea</h4>
+                <p class="main-idea" data-uuid="bf928b2790164ab1932cd322eaee65a2">Architecture and education were affected by cultural ideals.</p>
+                <h2 data-uuid="e0040eae4a7d47fb944ef1a70d4e4a56">Architecture and Education</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="da7d2eee10f9422aa947f70a89933c05"></div>
+            </article>
+        </section>
+        <p data-uuid="5785deb3da8b4ef0bba5db238f4c1033">American creativity extended to the ways in which people designed buildings. Before the American Revolution, most architects followed the style used in Great Britain. After the Revolution, leaders such as Thomas Jefferson called for Americans to model their architecture after the styles used in ancient Greece and Rome. Many Americans admired the ancient civilization of Greece and the Roman Republic because they contained some of the same democratic and republican ideals as the new American nation did.<br />
+        </p>
+        <figure class="image-with-caption main" data-uuid="8bda7816528b4752a244ba667a20cf5a">
+            <img alt="This photo shows an American home built in the architectural style of ancient Greece and Rome. " data-uuid="7f89a2f09bf24df4ac33d5c4e4eb3969" src="../../img/module_9_lesson03/ms_snlese454149_109p.jpg" />
+            <div class="figcaption" data-uuid="a6991b5e22f44372823feaa0f81c0865">
+                <p class="caption" data-uuid="6538a604eacf4762bb89f7a0f4aaadb9"> In the early to mid-1800s, American architects were inspired by ancient Greece and Rome.</p>
+            </div>
+        </figure>
+        <p data-uuid="a326b7ec7b2f42d494c192a2eeec2e71"><span>As time went by, more architects followed Jefferson’s ideas. Growing American cities soon had distinctive new buildings designed in the Greek and Roman styles. These buildings were usually made of marble or other stone and featured large, stately columns. </span></p>
+        <p data-uuid="8b17df410153483eb60d9c6b6d495d21"> Americans also embraced educational progress. Noah Webster, well known for his dictionary of American English published in 1828, spent much of his life working to provide children with a distinctly American education.<br />
+        </p>
+        <figure class="image-with-caption right one-half" data-uuid="7a12102a87f648fdaadcf45354dccd84">
+            <img alt="This photo shows a page from “The American Spelling Book,” a book published by Noah Webster in 1783. The left side of the page shows a portrait of Webster, and the right side shows the title of the book and its publishing information.  " data-uuid="90009ef3fb1046a18955888045f0115a" src="../../img/module_9_lesson03/ms_snlese454149_086p.jpg" />
+            <div class="figcaption" data-uuid="da73d679faba47e2bfe440ab44050ec0">
+                <p class="caption" data-uuid="ca76f1db4e6544a3b92c4a28a2bad8e4"> Noah Webster publishes <i>The </i><i>American Spelling Book</i> in 1783 in an effort to promote American education.</p>
+            </div>
+        </figure>
+        <p data-uuid="383fd26552314d4c89445d2d2acfa05b">Several early American political leaders expressed a belief that democracy would only succeed in a country of educated and enlightened people. But there was no general agreement on who should provide that education.</p>
+        <p data-uuid="892461941447433e91929f647ccb56ee"> Eventually, the idea of a state-funded public school gathered support. In 1837 Massachusetts lawmakers created a state board of education. Other states followed this example, and the number of public schools slowly grew.<br />
+        </p>
+        <section class="question-long-text" data-uuid="f76accefcb5e48fd9003a23f95d0f105">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="5fbc4253d152456ea324bbda4e039db8">
+                <param name="configFile" value="../../widget_data/config/5fbc4253d152456ea324bbda4e039db8.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="1e69659b89174fe8810187c0b3b1cf4a">
+            <div class="go-prompt-bottom-bar" data-uuid="f54469dce44f45848003b5a637029bc2">
+                <p data-uuid="0c2e4752da254e97b0a8916e2f41e997">Remember to complete the graphic organizer with information on the developments in American architecture and education.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="091db40a243f4c0db603a81add6ffdaa">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="1eba8c42842345c0a0e2315a12c4b97b">
+                <param name="configFile" value="../../widget_data/config/b5d946f8b594402b8fd67d47711df31a.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="b8e1e6ac870d4699a0445db32f9efd24"></button>
+        </section>
+        <p data-uuid="3263c761731d4a3fa472ff07f99038fe"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="eb7a1d738e594c68a424e6265fe8afa9">
+            <button data-teacher-view-toggle="true" data-uuid="78540620ae5741209779287195e37e5b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ca2a5be53f7a45fc9292d8b75b21cbd9">
+                <param value="../../widget_data/config/ca2a5be53f7a45fc9292d8b75b21cbd9.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

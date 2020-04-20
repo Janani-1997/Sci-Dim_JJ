@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2a53fa73510e46628d4c0919e113d7a3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="11104e1c96a44b9eb67805fe1e6c05c8">
+            <div class="header-element header-container " data-uuid="e900bdf2cdc84da495bee38435cfc847">
+                <p class="lesson-number" data-uuid="18dcfe478dc14313b8b9d7c022f7089e"><br />
+                </p>
+                <h2 data-uuid="5956ad179d6641dc96ac8432d8d6736d"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="179f02e7943b435b9d0864625e867ba6">In this module, you’ve learned about how the United
+                    States used its imperialist policies to gain territory and grow into a world
+                    power. Now it’s your turn to demonstrate your understanding of the module
+                    content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="da72a94271d241b1b096c7ff8a203dd8">Why did the United States turn to empire in the late
+                1800s?</h3>
+            <p data-uuid="9b7b3a056b8e42de932e062bd33aa5c3">Write a persuasive essay answering this question. Your
+                essay should include key people, events, and turning points that set into
+                motion the imperialist expansion of the United States. Be sure to cite evidence
+                to support your position and organize your essay into an introduction, body,
+                and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="72783bdc74a44c3caf4ed24470f0f574">
+            <button data-teacher-view-toggle="true" data-uuid="2c5f435183b64fe8b591144c21e8a31e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5f2c63af42a54e8fb47e6ba4aed740aa">
+                <param name="configFile" value="../../widget_data/config/5f2c63af42a54e8fb47e6ba4aed740aa.json" />
+            </object>
+        </section>
+        <p data-uuid="c0f1f836f0e044f7a66913c45694a897"><br />
+        </p>
+    </body>
+</html>

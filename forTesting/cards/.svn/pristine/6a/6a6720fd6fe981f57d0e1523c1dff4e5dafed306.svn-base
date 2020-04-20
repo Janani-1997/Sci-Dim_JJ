@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="42860811519b4b8399dae1a3838c261f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="dd1daf27997c4479828470eb2b1d12e4">
+            <p class="lesson-number" data-uuid="cabdcc146f0342409ff9f719969838e5">Lesson 3</p>
+            <article class="header-container" data-uuid="b13c27f5b2e94f469a58ae2b58a09649">
+                <div class="header-element" data-uuid="76b84513e53f442c9a733ee8456d581d">
+                    <h1 data-uuid="87c29a4d685345a8a312bea1aed4b3dd">Settling International Issues</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="e7302197260e447fb714b4394652c805"></div>
+                    <h2 data-uuid="4216884f93e54e47a9b3880e193f8cdf">The Big Idea</h2>
+                    <p data-uuid="32afb2f9dd6a4b4f8fe1c5784f912795">The Monroe administration secured and expanded its
+                        borders by settling issues with other nations.</p>
+                </div>
+            </article>
+            <article data-uuid="3c84ba2d962f45d38e20ec9f82c0d045">
+                <h3 class="if-you-were-there" data-uuid="32a2b1748ef44337a36cbf2682fd753c">If YOU were there...</h3>
+                <p data-uuid="4e7d3dcd09964bb3b45bc3d46a774799">You are a Spanish settler living
+                    in West Florida in 1820. Your family has lived in Florida for many years. Only
+                    a few years ago, people in Spanish Florida were furious when American soldiers
+                    occupied the town of Pensacola.&#160;Now
+                    you hear that Spain has signed a treaty with the United States—Florida is no
+                    longer Spanish territory but rather part of the United States.</p>
+            </article>
+            <section class="reading-check" data-uuid="30202a9f520149de860e4b4500acbcf4">
+                <section class="question-long-text" data-uuid="af73f03ea6af4fd2b87e46c6dad8564a">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="62373b1598ce4eb7a8528419cd49899f">
+                        <param name="configFile" value="../../widget_data/config/62373b1598ce4eb7a8528419cd49899f.json" />
+                    </object>
+                    <span>&#160; &#160; &#160; &#160; &#160;</span>
+                </section>
+            </section>
+        </section>
+        <p data-uuid="dcb575c53c0e4718b46ff3e2f202ed0d"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0a082b6db0073cf1824a4d891a77942f">
+            <button data-teacher-view-toggle="true" data-uuid="685ea4e425a54a4ba14f05b75de3ba33"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="568d04e870aa48e2b4aec1836673ffb8">
+                <param name="configFile" value="../../widget_data/config/568d04e870aa48e2b4aec1836673ffb8.json" />
+            </object>
+        </section>
+    </body>
+</html>

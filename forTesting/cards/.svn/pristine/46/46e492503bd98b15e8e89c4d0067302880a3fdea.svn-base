@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="f4a6f5fd54c246a1b755c4ff667a7365">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="c9381eac20024b9f94d37cd77ee134b2">
+            <div class="header-element header-container " data-uuid="49ac7e4c4da14a3b8f23686da2240377">
+                <p class="lesson-number" data-uuid="d009c2dd8cde459ca010653e4c408ade">Lesson 4</p>
+                <h2 data-uuid="f525c522a5234e148cb5d46b73305fd5">Assessment</h2>
+            </div>
+            <h5 data-uuid="71b45c3b521f4f3ebfc7b0afbe3167b1">War in the Pacific</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="c0c860a0bba64790b58c03704039c8f6">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="a114fdf061594b20a6a5b4b7986a2639">
+                <param name="configFile" value="../../widget_data/config/a114fdf061594b20a6a5b4b7986a2639.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="75dd39c6f0724d4491cb99dfdd379874">
+            <button data-teacher-view-toggle="true" data-uuid="c11e017baa7c4c9a859b4d19d9956fd7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="fe5aea4dd32247fa9fa0a7e07c4391c9">
+                <param name="configFile" value="../../widget_data/config/fe5aea4dd32247fa9fa0a7e07c4391c9.json" />
+            </object>
+        </section>
+        <p data-uuid="e6c87de1641f4252b280e9923709fc78"><br />
+        </p>
+    </body>
+</html>

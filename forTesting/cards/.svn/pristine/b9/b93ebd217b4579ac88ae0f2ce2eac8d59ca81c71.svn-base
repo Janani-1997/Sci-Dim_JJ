@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="bcedf6f410ab4b8c8de2a31cdf6cf3f3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="83039de6fd3e4ca8915d68dfee05374f">
+            <div class="header-element header-container " data-uuid="d04b09fe24a249c7adc252aa7c125f3f">
+                <p class="lesson-number" data-uuid="718e4a430c464399bb461a074f19d57a"><br />
+                </p>
+                <h2 data-uuid="faeb6550ac18485ca75b16e9cd42fc70"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="80779b80f3cf4a108490b6a88c34c95c">Part 2: Write an Explanatory Essay</h3>
+            <h6 data-uuid="363dc38debe9416e9d580441ea7815a0">Historical Context</h6>
+            <p data-uuid="47dd5db1a3e44d6c83810937493a6c9a">During
+                the Revolutionary War, the Continental Congress passed the Articles of
+                Confederation. This document, which established the powers of the national
+                government, remained in effect when the war was over. But the government proved
+                too weak to deal with many of the issues confronting the young nation. In 1787 delegates from each state met in Philadelphia, and after difficult negotiations
+                they drafted a new U.S. Constitution.</p>
+            <h6 data-uuid="21a5d9712ed94401818980b770f24476">Task</h6>
+            <p data-uuid="751551312aec42f38cd427d5645058e8">The
+                Constitution has guided the U.S. government for more than two centuries. Yet
+                after it was drafted, a fierce debate erupted over its ratification. Why was
+                this document so controversial? Write an explanatory essay about the major
+                issues involved in the fight to ratify the Constitution.</p>
+            <p data-uuid="7aa5a5458bf84f2cb8d6448d0bdd3f73">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="098b637a923247e584506a552abb9191">
+                <li data-uuid="9dba7465f11a4691b688407b8df12d78">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="6c65a35a09514bc1a380714eae64efe4">Use at least <i>three</i>&#160;of the sources in Part 1, and develop the essay with relevant, well-chosen text evidence from the documents.</li>
+                <li data-uuid="cba974469ad44d6e910d621669cb3262">Cite specific text evidence from each of the sources in your
+                    response.
+                </li>
+                <li data-uuid="1a1a6ea2369e46998948f86a9b89841a">Plan
+                    your essay so that it includes an introduction, several body paragraphs, and a
+                    concluding paragraph.<br />
+                </li>
+                <li data-uuid="60b6f60f800c4398acf155ea6487c456">Organize your essay in a clear way that focuses on the topic and supports it with explanations and facts.<br />
+                </li>
+                <li data-uuid="48e9229cf46d4f99b5ede97e8cc7e622">Write
+                    a conclusion that sums up your ideas and supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6089cb9978f24927831c15357b1770c3">
+            <button data-teacher-view-toggle="true" data-uuid="3edfb0b942aa4630b39668616c76f65f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="87dd28fee4de455384a617c34d95db5b">
+                <param name="configFile" value="../../widget_data/config/87dd28fee4de455384a617c34d95db5b.json" />
+            </object>
+        </section>
+        <p data-uuid="f252ff0df51b4fdb9a7468f27334b1f9"><br />
+        </p>
+    </body>
+</html>

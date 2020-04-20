@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="02b1a10957ab457baf2e3d0908a89fb8" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson 4 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="ea66c8223b064997b85c14eed5fc8262">
+            <div class="header-element header-container" data-uuid="c33e8a7d33b842c190ec6a2d2829d98f">
+                <p class="lesson-number" data-uuid="be5321cfbe4c48898946d95e11849394"> Lesson 4</p>
+                <h2 data-uuid="a7c42c3441784bd782bec198aa926188">Review</h2>
+                <p class="white" data-uuid="6716cd269584477aa5f3411842614e57">In this lesson you learned about difference between the North, the South, and western territories of the United States between 1830 and 1850. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="4c6e0671d4d449edb9ea6185504d9b90">Review Key Terms and People</h3>
+            <p data-uuid="7220904a62c34f51bf02da6a1a9d8fe2">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="38f257c8122d4ffc87c4568b2a6dce73">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="9c88a2db8eae4105995599ab396a6dde">
+                <param name="configFile" value="../../widget_data/config/9c88a2db8eae4105995599ab396a6dde.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="e29a88cba84f412cbef78f5a306ac21c">
+            <div class="go-prompt-bottom-bar" data-uuid="5bfffee52c374d3bbc2eeb1aa5d43807">
+                <h5 data-uuid="be580205c96d455fb7da6ed4778ed020">Review the Graphic Organizer</h5>
+                <p data-uuid="49818a4456b4493c8bd334daf6c7f90b">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="e2bac33c561a4ee5b7276f08dc557062">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="525f804668d64624accf68ca6167b7b1">
+                <param name="configFile" value="../../widget_data/config/525f804668d64624accf68ca6167b7b1.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-uuid="2acc571bee9d47cf890cb1a3c82d941c">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="7c316528965a4e119be1d255210fbca4">
+                <param name="configFile" value="../../widget_data/config/1b1122c05a4547c3bd8c7ac11aaf4bc6.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="f93abf9b79a245f38d461bfa6f42fd1a"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8760372c9af24b5daf988edafb489bd3">
+            <button data-teacher-view-toggle="true" data-uuid="871087cd85eb4192a25ba42a0d260df3"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4205dba09758426bb86612eb8ed12385">
+                <param name="configFile" value="../../widget_data/config/4205dba09758426bb86612eb8ed12385.json" />
+            </object>
+        </section>
+        <p data-uuid="045836317f354be8b8d5e9c4d78e7068"><br />
+        </p>
+    </body>
+</html>

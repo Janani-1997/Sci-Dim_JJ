@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="1d35f5004cde471c8c8943cb660a7bc6">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>The Supreme Court</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="842fc5664b684290b7036adc3bcbd21f">
+            <article data-uuid="106b77ee69d5485d9068563a8971370e">
+                <h4 data-uuid="b2b2fe1153be45a8af0bf42c615309e6">Main Idea</h4>
+                <p class="main-idea" data-uuid="90dff8ccc3d445c3b9cb5fa99d75db8e"><i>Marbury</i> v. <i>Madison </i>increased the power of the judicial branch of government.</p>
+                <h2 data-uuid="bf763c588e4f4339bb9140092bb36418">The Supreme Court</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="ff4d629a1084409c935916c0f96ae7f7"></div>
+            </article>
+        </section>
+        <p data-uuid="41d4a2c8a2404d62a06453f13abde34e">Although Republicans controlled the presidency and Congress, Federalists dominated the federal judiciary. In an effort to continue their control over the judiciary, Federalist legislators passed the Judiciary Act of 1801 shortly before their terms of office ended. This act created 16 new federal judgeships that President Adams filled with Federalists before leaving office. The Republican press referred to these people as midnight judges. They argued that Adams had packed the judiciary with Federalists the night before he left office.</p>
+        <p data-uuid="5d9f95c3aa5243c19dcff6743193387e">Some of these appointments were made so late that the documents that authorized them had not been delivered by the time Adams left office. This led to controversy once Jefferson took office. William Marbury, named as a justice of the peace by President Adams, did not receive his documents before Adams left office. When Jefferson took office, Marbury demanded the documents. On Jefferson’s advice, however, the new secretary of state, James Madison, refused to deliver them. Jefferson argued that the appointment of the midnight judges was not valid.</p>
+        <p data-uuid="c563e6a7c50f4dbaa1b13dbdce27db55">Marbury brought suit, asking the Supreme Court to order Madison to deliver the appointment papers. Marbury claimed that the Judiciary Act of 1789 gave the Supreme Court the power to do so.</p>
+        <p data-uuid="38f9fc95698543379b69b156068b3735"><b><dfn title="Marshall, John">John Marshall</dfn></b>, a Federalist appointed by John Adams, was the chief justice of the United States. Chief Justice Marshall and President Jefferson disagreed about many political issues. When Marshall agreed to hear Marbury’s case, Jefferson protested. He said that the Federalists “have retired into the judiciary as a stronghold.”</p>
+        <section class="section-a  biography" data-uuid="bbd4d10527d44987816b6d8f4f9939bd">
+            <div class="header-element" data-uuid="cb3b582ce7ff44feb4ad9324dbdebc14">
+                Biography
+            </div>
+            <p class="name" data-uuid="1c2fe7f0ec9f489dbcb40b52d4a6bb01">John Marshall</p>
+            <p class="date" data-uuid="55fe3479942548f69c86d139a19e9ffe"><b>(1755–1835)</b></p>
+            <figure class="bio-image" data-uuid="578db3bc3eb04164afa4922eca053bbe">
+                <img alt="This is an artist's rendering of John Marshall." src="../../img/module_7_lesson05/8_snlese454170_742p.png" data-uuid="69463d0f403f45a0ab15a13a56cc4a00" />
+            </figure>
+            <p data-uuid="1478fdfe34fe438789ad9091adfd0e36">John Marshall was born, the first of 15 children, in Virginia’s backcountry. He had little formal schooling. He received most of his education from his parents and a minister who lived with the family one year.</p>
+            <p data-uuid="e011b8c314904e2589a8b83cbfd73c31"> Even so, the lasting strength of the U.S. Constitution is partly due to Marshall’s brilliant legal mind. In his long tenure as Chief Justice, John Marshall participated in more than 1,000 decisions and wrote 519 of them himself.<br />
+            </p>
+            <div class="blue-star-blue-bar" data-uuid="81a4e278ead541debb434a4fb993b5cb">
+                <span class="star">
+                </span>
+            </div>
+        </section>
+        <p data-uuid="81c54aa0473c46909f0733fc77d577cd">Marshall wrote the Court’s opinion in <dfn title="Marbury v. Madison"><i>Marbury </i>v. <i>Madison</i><i>.</i></dfn> This case helped establish the Supreme Court’s power to check the power of the other branches of government. The Constitution, Chief Justice Marshall noted, gave the Supreme Court authority to hear only certain types of cases. A request like Marbury’s was not one of them. The law that Marbury’s case depended upon was, therefore, unconstitutional.<br />
+        </p>
+        <section class="pullquote_wrapper" data-uuid="0c90590fc0304f6c90c4c686e788b330">
+            <p class="pullquote hang" data-uuid="e0098a986ae942b3ac78897b8c187a69">“The constitution is either a superior, paramount law, unchangeable by ordinary means, or it is on a level with ordinary legislative acts, and, like other acts, is alterable when the legislature shall please to alter it.If the former part of the alternative be true, then a legislative act contrary to the constitution is not law; if the latter part be true, then written constitutions are absurd attempts, on the part of the people, to limit a power in its own nature illimitable.”</p>
+            <div class="pullquote_attribution_wrapper" data-uuid="cc2dddc3489c42cf831b0c60b0d56f3a">
+                <p class="pullquote_address" data-uuid="ed86dc4ddbdb46c691f50b3072aa5f93">—John Marshall</p>
+                <p class="p_source" data-uuid="538d885a9d2c4f52a75b9cd6ab85dfed">quoted in <i>Commentaries on the Constitution of the United States</i> 1873</p>
+                
+            </div>
+        </section>
+        <p data-uuid="af13325222b8424b97e939d93e917137">In denying Marbury’s request in this way, the Court avoided a direct confrontation with Jefferson’s administration. But more importantly, it established the Court’s power of <b><dfn title="judicial review">judicial review</dfn></b>, the power to declare an act of Congress unconstitutional. Marshall and later federal judges would use this power of judicial review to make the judiciary a much stronger part of the national government.<br />
+        </p>
+        <section class="question-long-text" data-uuid="33b14840876448db9853765839dc9577">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b2608d1eb0fa445ab51d9f433a8adf49">
+                <param name="configFile" value="../../widget_data/config/b2608d1eb0fa445ab51d9f433a8adf49.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="e29119ac93fb4cc8806a07d4a3abd3d7">
+            <div class="go-prompt-bottom-bar" data-uuid="d1129face535424e9d16a5770fd8535c">
+                <p data-uuid="24b5eb6eb76349559e19766ec64a3d00">Remember to use the graphic organizer to take notes on how the power of the judicial branch changed during Jefferson’s time in office.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="4593bfdea2d745579023e6857bf44684">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="953454f9ecfc4a76b3632ec22a249b7a">
+                <param name="configFile" value="../../widget_data/config/344097ae9c404aeeaa42776d5717618b.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="cf8a744e4a014dc5b2f7effeaba22071"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="69ea1821dedb44f89c344eaf8c4582ad">
+            <button data-teacher-view-toggle="true" data-uuid="205f987c746d474bbc40760f69c56428"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="03ed5089252e405ba59ffc4584f2a17f">
+                <param value="../../widget_data/config/03ed5089252e405ba59ffc4584f2a17f.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

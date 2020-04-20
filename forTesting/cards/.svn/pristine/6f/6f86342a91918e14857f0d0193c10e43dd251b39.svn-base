@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="730b6b9dad144867b2baf6748b4d9b4e" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>The Dust Bowl</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="d315c29e260640bc88555352a5686754">
+            <article data-uuid="06caf01691fd4d37add184a674d7f2aa">
+                <h4 data-uuid="b7eab09e0e89479f8e9c9c0261982a1f">Main Idea</h4>
+                <p class="main-idea" data-uuid="f5dde349f2dc49b2a7cc34577530fa7a">Parts of the Great Plains came to be known as the Dust Bowl as severe drought destroyed farms there.</p>
+                <h2 data-uuid="0bca6cc7a5b64caf9de2cfe3af8d94ab">The Dust Bowl</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="54e2f62470334eee8f8a4e2ef6be190e"></div>
+            </article>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="e990dad089584422a9499c6e537e6dfb">
+            <div class="go-prompt-bottom-bar" data-uuid="2967e2387ca24ac29a7563438332c925">
+                <p data-uuid="e17338e654c24f3396b3cb8ac00039c9">As you read, use the graphic organizer to take notes on the Dust Bowl.</p>
+            </div>
+        </section>
+        <p data-uuid="fa3a6a8496e64f36ae4281c1390d2012">For American farmers, hard times began well before the start of the Great Depression. Despite the widespread prosperity of the 1920s, prices for farm products remained low. Many farmers went into debt or lost their farms. The Depression worsened this already bad situation. Conditions worsened again when a severe drought hit the Great Plains in the early 1930s and lasted most of the decade. From North Dakota to Texas, crops withered away. With no roots to hold it in place, topsoil began to blow away.<br />
+        </p>
+        <figure class="image-with-caption feature" data-uuid="51916a16a9bf45d9ae3c0dac79e13eac">
+            <img alt="This photograph shows a huge dust storm headed for a farm, where two people are standing outside in front of a house." data-uuid="019601055ac2428cb28cf794c7f65ca2" src="../../img/module_26_lesson03/ms_snlese454149_679p.jpg" />
+            <div class="figcaption" data-uuid="dbce838ea02143cb8992ab1fa5cb0db3">
+                <p class="caption" data-uuid="8694e6a4189a42088420081ad1f30d44">Severe drought during the 1930s destroyed the livelihood of many Great Plains farmers. Here, a black cloud of dust rages toward a town in Texas.</p>
+            </div>
+        </figure>
+        <p data-uuid="a138be308b9c4287902ce97fb87b9479">Massive dust storms swept the region, turning parts of the Great Plains into the <b><dfn title="Dust Bowl">Dust Bowl</dfn></b>. “These storms were like rolling black smoke,” recalled one Texas schoolboy. “We had to keep the lights on all day. We went to school with the headlights on, and with dust masks on.” A woman from Kansas remembered dust storms “covering everything—including ourselves—in a thick, brownish gray blanket . . . Our faces were as dirty as if we had rolled in the dirt; our hair was gray and stiff and we ground dirt between our teeth.”
+        </p>
+        <section class="interactive-map" data-uuid="f97fbe4b813c44328472cc9165e6f647">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="f067d56cbd104fe08189fd5bfb6b31c0">
+                <param name="selected_map" value="8_snlese454170_1380m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="c539ab70237d4987b28f833a67a5a866">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="5eef0962fb6c46fb8de9dcdbfa3815ac">
+                <param name="configFile" value="../../widget_data/config/5eef0962fb6c46fb8de9dcdbfa3815ac.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="3a4fddd845a749028c19e90bb0bc7271">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="562424b1730e44bebff1022813af8dec">
+                <param name="configFile" value="../../widget_data/config/562424b1730e44bebff1022813af8dec.json" />
+            </object>
+        </section>
+        <p data-uuid="b40cab9768e0423a8d44cd4c4a3435eb">Unable to raise crops, farmers in the Dust Bowl region could not pay their mortgages. Many lost their farms. Several New Deal programs tried to assist farmers by offering loans and by working to stabilize prices for farm products. Scientists also began thinking of ways to prevent dust storms during future droughts. Soil conservation experts encouraged farmers to adopt new farming methods to protect the soil. Grass was planted to hold soil in place, and rows of trees were planted to help break the wind. These changes have helped prevent another Dust Bowl in the years since the Great Depression.</p>
+        <section class="historical-source nobg" data-uuid="814ea75f28b64c528d7b70c0f13f1c32">
+            <article class="box gradient" data-uuid="58fbe646d2cb4e519623b31a536c690e">
+                <div class="header-element" data-uuid="5762d8f0e5fe4c0d9a06f27f01c3f2e4">
+                    <h2 class="label" data-uuid="6103df82c8d64e44a7a1b13b0d246d45">Historical Source</h2>
+                </div>
+                <div class="jonra" data-uuid="880c23e97419449b9dfc6dd1f6ce135b">
+                    <h2 data-uuid="e3f18785202444e28d460a4fa64b7c88">The Dust Bowl</h2>
+                    <p class="source" data-uuid="1c0a1a14636143e4864b7d8dd737a00d">The effects of the Dust Bowl were devastating for many Americans. The account below is from Lawrence Svobida, a Kansas wheat farmer who saw his life’s work destroyed in the 1930s.</p>
+                </div>
+                <section class="historical-source-image-text-audio" data-uuid="7a5760949ca64ac6a884d9477dcd4722">
+                    <section class="pullquote_wrapper" data-uuid="487a83c323644d2297591322219b3155">
+                        <p class="pullquote hang" data-uuid="111bee5bde5643ce827d2625ca1487d1">“When I knew that my crop was irrevocably [forever] gone I experienced a deathly feeling which, I hope, can affect a man only once in a lifetime. My dreams and ambitions . . . and my shattered ideals seemed gone forever. The very desire to make a success of my life was gone, the spirit and urge to strive were dead within me. Fate had dealt me a cruel blow above which I felt utterly unable to rise.”</p>
+                        <div class="pullquote_attribution_wrapper" data-uuid="6fde6fe4ed194501be8f7968f8acf2fa">
+                            <p class="pullquote_address" data-uuid="cdf136da105d46c6b051b90757a82176">—Lawrence Svobida</p>
+                        </div>
+                    </section>
+                </section>
+                <section class="skillbuilder" data-uuid="3c3397654f7847429bf208fe1900205d">
+                    <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="bbdc51783054466292e0c6c42143e925">
+                        <param name="configFile" value="../../widget_data/config/bbdc51783054466292e0c6c42143e925.json" />
+                    </object>
+                </section>
+            </article>
+            <section class="question-long-text" data-uuid="4aec027166964375b7f95a405f710cac">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="34fa0bc5bfaa4c3b983708419d34a369">
+                    <param name="configFile" value="../../widget_data/config/34fa0bc5bfaa4c3b983708419d34a369.json" />
+                </object>
+            </section>
+        </section>
+        <p data-uuid="ce01bbf20f184df5ac4070e706f7efdf">For many farmers in the 1930s, however, the new programs came too late. After losing their crops and livestock to dust storms, about 2.5 million people left the area. Many packed up whatever they could fit in the family car or truck and drove to California to look for any kind of work they could find. Once there, they often found that there were already more workers than available jobs.<br />
+        </p>
+        <section class="question-long-text" data-uuid="cb98153385d44a43b9f801d2070890e8">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="dfcf78f6c8d54a5ea7ddc623adca6c17">
+                <param name="configFile" value="../../widget_data/config/dfcf78f6c8d54a5ea7ddc623adca6c17.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="85d7a35b740842029c6c67b00580251b">
+            <div class="go-prompt-bottom-bar" data-uuid="fd89fea72a5b4fc592ef98880c3d0570">
+                <p data-uuid="25d43b072e7645fc901cadd6fa324470">Remember to use the graphic organizer to take notes on the Dust Bowl.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="1a5f3ba48bf74e1da3b4f06e712015c3">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="920f1cf57a1c4ce5a3c36cd51c37bebf">
+                <param name="configFile" value="../../widget_data/config/920f1cf57a1c4ce5a3c36cd51c37bebf.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="748e24faeb7f4c169f7e252d41e1c4bd"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="763b492bbd07447791882eb94eb1efe9">
+            <button data-teacher-view-toggle="true" data-uuid="bb61c1c3ffc248dfaa8fcdad1363ae63"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="959eda7a439c4709b14379ab25f505a4">
+                <param name="configFile" value="../../widget_data/config/959eda7a439c4709b14379ab25f505a4.json" />
+            </object>
+        </section>
+        <p data-uuid="e91b993ce1d74bc4bcba9c6018ae2190"><br />
+        </p>
+    </body>
+</html>

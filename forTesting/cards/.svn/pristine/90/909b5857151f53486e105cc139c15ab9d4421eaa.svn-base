@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="128d82f67f6746a3a3c5e103523f33d4">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="eef86cc5662b4fc1a8429ec19c7d2ae4">
+            <p class="lesson-number" data-uuid="13c9875b98954236856d6bad949d7cc1">Lesson 3</p>
+            <article class="header-container" data-uuid="f5d34f94337041b6a2a7f1cffc34565f">
+                <div class="header-element" data-uuid="787ce451eb604c3083d152fed73f1643">
+                    <h1 data-uuid="fed6477143164e4f971878f70292c2ed">Reforming Society</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="caef635623ed47918f489db5c4536361"></div>
+                    <h2 data-uuid="b6bcd3e8ef314f4e8f7aaf9ef3deb86d">The Big Idea</h2>
+                    <p data-uuid="0cf2462e75b045fdbe9de415391f416c">Reform movements in the early 1800s affected
+                        religion, education, and society.</p>
+                </div>
+            </article>
+            <article data-uuid="76c382e3b2f44f3baa80cb51bc8138ae">
+                <h3 class="if-you-were-there" data-uuid="cf8603f9aba34a5cba2bab48890afe69">If YOU were there...</h3>
+                <p data-uuid="61a74fdd017e416aab8b3af80ad5adcd">You live in New York
+                    State in the 1850s. You are the &#173;oldest daughter in your family. Since
+                    childhood you have loved mathematics, which puzzles your family. Your sisters
+                    are happy learning to sew and cook and run a household. You want more. You know
+                    that there is a female seminary nearby, where you could study and learn much
+                    more. But your parents are undecided.</p>
+            </article>
+            <section class="question-long-text" data-uuid="02c5a7cd99a94ac2a76f8aab4e6ae4e2">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="54178687fbdf4b559ed25353c37ac59d">
+                    <param name="configFile" value="../../widget_data/config/54178687fbdf4b559ed25353c37ac59d.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d0b5848f941d4ef28108fea4b5b8aa16">
+            <button data-teacher-view-toggle="true" data-uuid="5cd47db34757495dbd8fe6b9a0a7be9a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="139066a17a1f41d59f3fdf301fd9bfd7">
+                <param name="configFile" value="../../widget_data/config/139066a17a1f41d59f3fdf301fd9bfd7.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6a10c9675fdb4bf493fbcddbfc68a458">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="19ce6d95e0a5497f8f61d65c287f4e68">
+            <p class="lesson-number" data-uuid="8291a804880745679624e80dc5c31960">Lesson 2</p>
+            <article class="header-container" data-uuid="6c75a7e61e75459692cb2bce56259b7f">
+                <div class="header-element" data-uuid="616e1e26fa6b4ee7b67c6cb4f236ac7c">
+                    <h1 data-uuid="55fda733d7dc49d0b1f1c37dd3941b2b">Structure of the Government</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="1e54c89fd18e4724b267fc7a450934c1"></div>
+                    <h2 data-uuid="ae7d21a942b04260a4dbe687b28891ae">The Big Idea</h2>
+                    <p data-uuid="2421a41a9c6f4c34ac884f74e2c51c8a">The U.S. Constitution
+                        balances the powers of the federal government among the legislative, executive,
+                        and judicial branches.</p>
+                </div>
+            </article>
+            <article data-uuid="afc5a54e58e54f15a15e69b7a8102c5b">
+                <h3 class="if-you-were-there" data-uuid="c8b5c98045a14217b453e4977094b504">If YOU were there...</h3>
+                <p data-uuid="f780d7ed758140fb86843e7b6ad5218d">You have just been elected to the U.S.
+                    House of Representatives. You know that committees do much of the work in
+                    Congress. They deal with many different fields such as foreign policy,
+                    agriculture, national security, science, and education. You would like to ask
+                    for a spot on a committee whose work interests you.</p>
+            </article>
+            <section class="question-long-text" data-uuid="fb26957551ff483691072a89c1ac3b62">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="cd504ced1bf34d8c9fa18ec86d45b901">
+                    <param name="configFile" value="../../widget_data/config/cd504ced1bf34d8c9fa18ec86d45b901.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="5f75cd085b2b46e2ba4ba6e0e5a8915c">
+            <button data-teacher-view-toggle="true" data-uuid="5e8f4b1ba1b748edbcd16fd015d6ef96"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="19345ba4dd9b45b2a917422a27d255c2">
+                <param name="configFile" value="../../widget_data/config/19345ba4dd9b45b2a917422a27d255c2.json" />
+            </object>
+        </section>
+    </body>
+</html>

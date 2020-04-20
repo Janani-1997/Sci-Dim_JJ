@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="84bbc2b2456548b6ab3df42824a22fc6">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="5ca38d8b617b49c190da0664b2460e44">
+            <p class="lesson-number" data-uuid="629e9ea449c64004bed2258e2c0eb47b">Lesson 5</p>
+            <article class="header-container" data-uuid="7cd21669327e4eeea1fb1fb9192299ae">
+                <div class="header-element" data-uuid="c51244ab79a64e43bf21d0d0c694b4c1">
+                    <h1 data-uuid="a913a8a7fee646a8980740ce34876597">Independence!</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="2e6c8ee4a4bd4016ba54129889720795"></div>
+                    <h2 data-uuid="ea5789143c814f6aa28d3fb9ad06c0c1">The Big Idea</h2>
+                    <p data-uuid="f9157a4077104720ad5432f7d7afa2ac">The war spread to the southern colonies, where the
+                        British were finally defeated.</p>
+                </div>
+            </article>
+            <article data-uuid="3142ba6039d24a9ca7f48f16514da8f1">
+                <h3 class="if-you-were-there" data-uuid="5d7a1588a5544226a90c4b419fd41d54">If YOU were there...</h3>
+                <p data-uuid="15b031d2d70b409ab4cb686bf97f774e">You have grown up on a farm in South Carolina. You
+                    know every inch of the woods and marshes around your home. You are too young to
+                    join the Continental army, but you have heard stories about a brave group of
+                    soldiers who carry out quick raids on the British, then disappear into the
+                    woods. These fighters get no pay and live in constant danger.</p>
+            </article>
+            <section class="question-long-text" data-uuid="f30a3fbb6cd045b98d07b7d18a060818">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="884fe2e01a88489f885d09f0d9d5d0cb">
+                    <param name="configFile" value="../../widget_data/config/884fe2e01a88489f885d09f0d9d5d0cb.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="418581347d9f498682db8eaf8b8381bc">
+            <button data-teacher-view-toggle="true" data-uuid="dcece86d2d5a41fb8c5b6d33fce0c79c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c580bfedb4ca4dd8b7c3996b824f04ba">
+                <param name="configFile" value="../../widget_data/config/c580bfedb4ca4dd8b7c3996b824f04ba.json" />
+            </object>
+        </section>
+        <p data-uuid="2b62385fed9d44debb35ad45edf1e1d9"><br />
+        </p>
+    </body>
+</html>

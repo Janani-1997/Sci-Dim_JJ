@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="188994d45ac0402e9eae18a3bbcc362d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="141f385888f246c796d131eb955fcaad">
+            <p class="lesson-number" data-uuid="d5460405ef514c9db5adf35e56a520de">Lesson
+                1</p>
+            <article class="header-container" data-uuid="85dca364d699489081b68eb6ed584a4d">
+                <div class="header-element" data-uuid="9297488dc97843afa75ddd7975c7ba98">
+                    <h1 data-uuid="7bd00e8b40f446e5a21a0e84cd7bc76e">Rebuilding the South</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="4fbfe86d2d344c0dad1285108f6ff68c"></div>
+                    <h2 data-uuid="d85fd1a432ce4e31b5866c8e94f98443">The Big Idea</h2>
+                    <p data-uuid="20556cd169e1435aa0e0bc002b406f4d">The nation faced many problems in rebuilding the
+                        Union.</p>
+                </div>
+            </article>
+            <article data-uuid="fd2b2077eaa544138cbc060b2be1e1f1">
+                <h3 class="if-you-were-there" data-uuid="bb549e9745694e8aa0cdd9ff0b5fcd0b">If YOU were there...</h3>
+                <p data-uuid="3e827a4bf4d249d98ef9e0af5003db0d">You
+                    are a young soldier who has been fighting in the Civil War for many months. Now
+                    that the war is over, you are on your way home. During your journey, you pass
+                    plantation manor homes, houses, and barns that have been burned down. No one is
+                    doing spring planting in the fields. As you near your family’s farm, you see
+                    that fences and sheds have been destroyed. You wonder what is left of your home
+                    and family.</p>
+            </article>
+            <section class="reading-check" data-uuid="fb91f3bb00f54a708ec5f41dfb3ef8c8">
+                <section class="question-long-text" data-uuid="b37cf56e3ba84daba8032068672afb33">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ae4d895be44d4c529df24492723b8c1d">
+                        <param name="configFile" value="../../widget_data/config/ae4d895be44d4c529df24492723b8c1d.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="03377ab9e3ef4ac9b758a8510d3e75fb">
+            <button data-teacher-view-toggle="true" data-uuid="41b92da1e7f94fda99ee98c7dfb80ff1"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="49c736fee110401a8b2f1e76c8b9ee38">
+                <param name="configFile" value="../../widget_data/config/49c736fee110401a8b2f1e76c8b9ee38.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="24e74e20b58246c487a210ddfb7d6a34">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Hoover Elected</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="4cc554dbf84848d79e2c8a1b452bdc53">
+            <article data-uuid="09a7e2f407454247ad027ab782be6f75">
+                <h4 data-uuid="40e626bf973d48fd906317e51ec04de6">Main Idea</h4>
+                <p class="main-idea" data-uuid="297b70877aed489ea43aa8d0023ba48c">In 1928 Americans elected Herbert Hoover, hoping he would help good financial times continue.</p>
+                <h2 data-uuid="117b80fdad584cf196c2aab8624622a5">Hoover Elected</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="fbac04012f644e019149b1304ae08586"></div>
+            </article>
+        </section>
+        <p data-uuid="e99103c42c0342779427ab6b6ef02161">With the economy booming, public support for the Republican Party remained strong. President Coolidge decided not to run for reelection in 1928. The Republican Party chose Coolidge’s secretary of commerce, <b><dfn title="Hoover, Herbert">Herbert Hoover</dfn></b>, as its nominee. The Democrats nominated New York governor Alfred E. Smith.</p>
+        <p data-uuid="13a17b8ca1c740f6a2be4d77b685f8dd"> Hoover told voters that he was the right choice to maintain economic prosperity. Hoover boldly claimed that “we in America today are nearer to the final triumph over poverty than ever before in the history of any land.”<br />
+        </p>
+        <section class="compare_images" data-uuid="9533e67887e845a48a5a9bc4baa4f4d0">
+            <object type="text/html" data="../../assets/widgets/primarysource/index.html" class="widget" data-uuid="5d40d640a13040c7b10f095fde80df50">
+                <param name="configFile" value="../../widget_data/config/5d40d640a13040c7b10f095fde80df50.json" />
+            </object>
+        </section>
+        <p data-uuid="126fa9c70e26442e8d413a43ced66eb9">Smith’s campaign focused mainly on issues facing city dwellers. This concerned some rural voters. Smith’s religious faith also became an issue. He was the first Catholic to run for president. His opponents stirred up fears that the pope and other church officials would control Smith. In the end, Hoover won easily, gaining 58 percent of the popular vote.<br />
+        </p>
+        <section class="question-long-text" data-uuid="05b54257494547e3adc90062486a5ae9">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f666c3ea47724bada7a82b3fad320523">
+                <param name="configFile" value="../../widget_data/config/f666c3ea47724bada7a82b3fad320523.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="74d26eec56f84b9688a59031ca43e2ba">
+            <div class="go-prompt-bottom-bar" data-uuid="02942b13893a421c8eb756aa9c8b9fcc">
+                <p data-uuid="93aff2dbc8c84e278c8862de05bcac88">Remember to use the graphic organizer to take notes on the 1928 presidential election.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="c29550faf33c4a97b2005c7669b51ba8">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="8d250512d8a74877b3c363de52e2ac47">
+                <param name="configFile" value="../../widget_data/config/679c7ef51c5d42848328406a95a213c6.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="2c90ad12844a42fab2b85c06e65e00cb"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4e9ac6b14b7644369040725c0f1e194b">
+            <button data-teacher-view-toggle="true" data-uuid="777159ce453040f99210efbcd7cb7ee1"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ee3d7d2200344dc89005f046558f1807">
+                <param name="configFile" value="../../widget_data/config/ee3d7d2200344dc89005f046558f1807.json" />
+            </object>
+        </section>
+        <p data-uuid="6ee2fcee3d2b47b0abdd4508680cbd23"><br />
+        </p>
+    </body>
+</html>

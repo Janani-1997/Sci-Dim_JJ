@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="9e8ed3433518422abd412a6a49e06451">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="24ef885b73a8431c9c22abcbe1dd5cb9">
+        <div data-uuid="d37d3c986a5e48d7812b645ddfbdbf2f">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="5b097ca9b6224fa18d36d33c3c382104"/>
+        <div class="header-element" data-uuid="a2e59a0124cf48aca357100df5423662">
+            <section class="calendar-container " data-uuid="cc7622eaf7a44920b2f59cc96e23d253">
+                <div class="yellow-star-yellow-bar" data-uuid="f8524c79566e43a38c2b2fb1d781a1ab"></div>
+                <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                <h1 data-uuid="e2aca327c7d54194b6b507eaef619f60">Launching the Nation</h1>
+            </section>
+            <section class="eq-container" data-uuid="9c80b076f6ed4f4a9f8558d4f49e72aa">
+                <figure class="image " data-uuid="97d28bd06786461980999fc7dad2fbdf">
+                    <img alt="This is a photo of the Washington, D.C., skyline at twilight. It shows the Lincoln Memorial, lit up prominently in the foreground, the Washington Monument in the middle of the photo, and the White House in the background. " class="" data-uuid="b9be68cc1c894d13b7a398d194f6dd23" src="../../img/module_7opener/ms_snlese454149_831p.jpg" />
+                </figure>
+            </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="52cb9cfe734c4af5b5c6e6cc66a46668">
+    <p class="caption" data-uuid="e6729a44b12f465cb0d9cfc0cbe5527f">The Washington Monument in the nation’s capital is one of many tributes to George Washington.</p>
+</div>
+            <article data-uuid="5f5cb643282a4d5d939a218691170504">
+                <h3 class="eq" data-uuid="60e422bd420149dc9ef7697aee3f7fab">Essential Question</h3>
+                <h3 class="eqt" data-uuid="ed543629255e43a6a5e3dd0c31cc4603">How did challenges and disagreements help shape the
+                    new nation?</h3>
+                <p data-uuid="16832dcdeb764b389fd128e24053f246">Victory in the Revolutionary War brought new
+                    challenges to the American people. Revolutionary leaders struggled to form a
+                    new, unified nation. After the failures of the Articles of Confederation, a new
+                    plan of government was developed at the Constitutional Convention. Newly
+                    elected officials—the president and the members of Congress—set out to put the
+                    Constitution into action. How did challenges and disagreements help shape the
+                    new nation? <span>As you read this module, look
+                    for information about early foreign and domestic challenges; political,
+                    economic, and social disagreements; and the effect each had on the nation. When you are done, you will write a short essay
+                    answering the Essential Question for this module.</span></p>
+            </article>
+            <section class="video-container " data-uuid="cd300883e7ff41398f93018fec7a3284">
+                <article data-uuid="1cbccb23554845a19b4c89e9d23a7dc7">
+                    <h3 class="vid" data-uuid="a97dc444fb264db094dd4de110d99876">George
+                        Washington</h3>
+                    <p class="vid" data-uuid="d1e8ac23f5ab41da867bdf156e0a3c44">Popular and widely respected, George Washington was the only person seriously considered by the Founders to become America’s first president. The Constitution established the office of the presidency, but did not specify many details about the role of the president. Washington’s conduct in office set many precedents for future presidents to follow.</p>
+                    <section class="video" data-uuid="eec9633b986a4176bc3593e09cc1e910">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="bf6674e1caef4111b532d88c201a28b7"><param name="configFile" value="../../widget_data/config/bf6674e1caef4111b532d88c201a28b7.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="29fce565fd6e46b599ca06afc51ef6d7">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="968c8a7f91f14e228819fadc22917e65">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/968c8a7f91f14e228819fadc22917e65.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="73ad865aed5843d0b82e50c872f07390">
+                <article data-uuid="95ccbc26f98c4d98a616dfeefa308e99">
+                    <h3 class="mod" data-uuid="9f6ee518651a4f969196d9db02e84f6c">Launching the Nation, 1785–1805</h3>
+                    <p class="mod" data-uuid="9d8e33db93a142b090dd1ca42f209a59">In the two decades after the Revolutionary War,
+                        the new United States proved its stability. The federal government and its
+                        officials developed ways for the government to operate effectively. The nation
+                        experienced smooth changes in leadership. The power of the federal government
+                        grew, the nation’s borders expanded, and the United States became active
+                        internationally.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="257ad61a99f044d784ac2b1af618780f">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="4d773a11533548fc9f8a408e0b1da092">
+                    <param name="audio_description" value="na" />
+                    <param name="audio_script" value="na" />
+                    <param name="configFile" value="../../widget_data/config/4d773a11533548fc9f8a408e0b1da092.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="94588f189b9b4d17a1517a3eafb9b82d">
+            <button data-teacher-view-toggle="true" data-uuid="537d7b7e14c047c0a29a1f570e3761d8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cb466d12c8304eddafffbd1b4a42455a">
+                <param name="configFile" value="../../widget_data/config/cb466d12c8304eddafffbd1b4a42455a.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="4bb0bc98ebe141e1a0a6f1facad6bb9f">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0da22050d99c4101a909f4d897d93b79">
+                <param name="configFile" value="../../widget_data/config/0da22050d99c4101a909f4d897d93b79.json" />
+                
+                
+            </object>
+        </section>
+    </body>
+</html>

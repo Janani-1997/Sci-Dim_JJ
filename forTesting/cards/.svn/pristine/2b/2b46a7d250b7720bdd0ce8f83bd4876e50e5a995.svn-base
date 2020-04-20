@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="70cab401e4c54a16894492777ad34ef5">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="45590f5177234420949ad4b7dd46d3e0">
+        <div data-uuid="f547cbf8e5604c6381178d9f44f59c6b">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="9fff8107830d4a619e14683236b44b52"/>
+        <div class="header-element" data-uuid="33ad2ac9a3024d538f39b782d8d66335">
+            <section class="calendar-container" data-uuid="3d94d57928324e4c942230e42da04b02">
+                <div class="yellow-star-yellow-bar" data-uuid="375409ccc8f4411bafb6e6d724f8d1cb"></div>
+                <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                <h1 data-uuid="8b866d181f01412db99bc485f6bc4a86">World War II</h1>
+            </section>
+            <section class="eq-container" data-uuid="061709ce7ee14f38a419c7efcefcb8f2">
+                <figure class="image " data-uuid="c2e927df99b64aa6873d7e539a850df0">
+                    <img alt="This black-and-white photo shows Allied troops on the beach of Normandy, France, during the D-Day invasion. Two large ships sit in the water in the background. " data-uuid="c2b33832e56842bf9828cbd8c3faef74" src="../../img/module_27opener/ms_snlese454149_406p.jpg" />
+                    <div class="image-metadata-container" data-uuid="53c3a00fcffe4b529292beef8acdf056">
+                        <span class="image-text image-alt"></span>
+                        <span class="image-text image-credit"></span>
+                    </div>
+                </figure>
+            </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="2bb85489a0354b3bbfed860cbf2aba10">
+            <p class="caption" data-uuid="3f3a93424d394da59d9de25017ea03c9">The D-Day invasion at Normandy, France, was one of the most successful Allied invasions of the war.</p></div>
+            <article data-uuid="4c3150a3319a430798d879a3bd48f607">
+                <h3 class="eq" data-uuid="44ee642ccc3b4bbc9644fba0f1620edf">Essential Question</h3>
+                <h3 class="eqt" data-uuid="f1041090d0274e15a629075e2c138cb2">How did World War II impact the lives of Americans and the nation’s role in the world?</h3>
+                <p data-uuid="39a22d23523a417b9fcc0bd6e7f23434">Millions of Americans served valiantly overseas in the
+                    World War II. Americans at home also pitched in to help the war effort. They
+                    mastered new jobs, did without, collected scrap metal, bought war bonds, and
+                    generally supported the troops.</p>
+                <p data-uuid="e98caa440d884eacb4f2e1a93307abac">
+                    As
+                    you read this module, look for evidence of how World War II changed the way
+                    Americans lived and how the country’s role in world affairs expanded. Note the
+                    key people, decisions, and turning points that resulted in victory. When you
+                    are done, you will write a short essay answering the Essential Question for
+                    this module.<br />
+                </p>
+            </article>
+            <section class="video-container " data-uuid="49e4bb97d94a4515ac4f47ba96a1db32">
+                <article data-uuid="9b6b93210c6140a684b9b163966f925c">
+                    <h3 class="vid" data-uuid="70e59143a21b49fe9503c4690de94a2b">D-Day</h3>
+                    <p class="vid" data-uuid="bef641a581564d57b2c83d078b4649b0">The Americans and their
+                        allies fought hard to win the war against Germany and the other countries at
+                        war with them. A major turning point took place on June 6, 1944. Known as D-Day,
+                        this was the date that that the United States and its allies launched an enormous
+                        invasion of German-controlled territory. This action would help free many of the world’s people from the rule of ruthless dictators.</p>
+                    <section class="video" data-uuid="38eaad7f8fa84fb08b5136f935ebf9d5">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="62ccde979a62481d8acaafef1f39bf77"><param name="configFile" value="../../widget_data/config/62ccde979a62481d8acaafef1f39bf77.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="5d4df51e15094bf2a97e46e521efd9b7">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="6230b3ca312f44fc9e586aa0fab9753b">
+                    <param name="configFile" value="../../widget_data/config/6230b3ca312f44fc9e586aa0fab9753b.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="0dc1f8cf9aed4561a35a82cce6cb8a14">
+                <article data-uuid="963826ae48e54a949ca9d3d563c97bdc">
+                    <h3 class="mod" data-uuid="9a56542ee9ed41d6a7d26e3396f5420d">World War II 1935–1950</h3>
+                    <p class="mod" data-uuid="16ad35274dc94f7b825a9ca5c33dd209">World War II was in many
+                        ways a continuation of the unsettled issues of World War I. The Axis powers and
+                        the Allies were the main nations involved, but the conflict touched almost
+                        every part of the world. The destruction and death that came as a result of the
+                        war make World War II the bloodiest war in history.<br />
+                    </p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="c5b4dd394e224265987a928698a19a38">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="0810a4a552374e5a9553cbeae5e8e06f">
+                    <param name="configFile" value="../../widget_data/config/0810a4a552374e5a9553cbeae5e8e06f.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="7dc008a3df84484c9ae65f4c68e3fe5a">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="16234b3c13304e30a267fb46cb3a7dfb">
+                <param name="configFile" value="../../widget_data/config/16234b3c13304e30a267fb46cb3a7dfb.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="b3702e11472e439da0dab791a06bfd05">
+            <button data-teacher-view-toggle="true" data-uuid="342426c84eca43aab6a470f0e447ac87"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="89bef7b0b0ea4356acb547e0731ab1bf">
+                <param name="configFile" value="../../widget_data/config/89bef7b0b0ea4356acb547e0731ab1bf.json" />
+            </object>
+        </section>
+        <p data-uuid="9867d57f08944f41a9903e8f83f4554d"><br />
+        </p>
+    </body>
+</html>

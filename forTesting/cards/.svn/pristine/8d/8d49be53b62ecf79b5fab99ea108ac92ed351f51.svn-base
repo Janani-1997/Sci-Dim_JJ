@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b0ec344d48ec41c9957ba0b29acec3a4">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="793fab054b5d4805b1b9643456d41923">
+            <div class="header-element header-container " data-uuid="05b2d0aecb5045a0bd383eda65755655">
+                <p class="lesson-number" data-uuid="637f08e6e8c04981875e0f64ae035cbd"><br />
+                </p>
+                <h2 data-uuid="2d8e5b59fafb4d2c9844d92beb1db187"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="05f44d4fcbdb4c60a18cb6973c3da76d">Part 2: Write an Informative Essay</h3>
+            <h6 data-uuid="16ec7fa4542340558c04d098c755dcfb">Historical Context</h6>
+            <p data-uuid="03b03c4d001e463ab2b6d01ceef70cc1">World
+                War I began when Archduke Ferdinand was assassinated in 1914. For over four
+                years, the Central powers (including Austria-Hungary and Germany) fought the
+                Allied powers (including France, Russia, and Britain). The U.S. joined in 1917.
+                The Allies won, resulting in an armistice in November 1918.</p>
+            <h6 data-uuid="ca7e6caba64746929d4a8a55a867fd33">Task</h6>
+            <p data-uuid="c4a73751af3b4022883b47668d0a14cd">When World War I broke out in Europe in 1914, President Woodrow Wilson declared U.S. neutrality. In an informative essay, explain how the United States went from a neutral party, to a member of the Allies, to a member of the winning side that nonetheless did not sign the Treaty of Versailles.</p>
+            <p data-uuid="51df532d686246aeb57fa7d830f44c17"></p>
+            <p data-uuid="9291d5c2ede3454d9cbc95d1e19564f7">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="2ea00e04f0b342d4ba1c9487b5af297b">
+                <li data-uuid="9d680ce5df4c47ef83ae4a1a06cb64b4">Review your notes and sources before you start writing.</li>
+                <li data-uuid="9c7d37900dc848058a87918d4d43e2e0">Use at least <i>three</i> of the sources in Part 1, and develop the topic with relevant, well-chosen text or visual evidence from the documents.</li>
+                <li data-uuid="c98cda7484464e3eb4527cc1d1e103cf">Cite specific text or visual evidence from each of the sources in your response.</li>
+                <li data-uuid="d6499fa2e65548deb02f542859daae81">Plan your essay so that it includes an introduction, several body paragraphs, and a concluding paragraph.</li>
+                <li data-uuid="dca80fbea417499c91d0193d01813dad">Organize your essay in a clear and logical
+                    way that focuses on the topic and supports it with explanations and facts.</li>
+                <li data-uuid="874cd2a2a7884f18bf55b8be16fb664e">Write a conclusion that sums up your ideas and supports the information you present.</li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d1b7282f8b0741b2901d161f37e1ec5f">
+            <button data-teacher-view-toggle="true" data-uuid="0d2b8bc15d044485adb9859828d0f246"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0d180be6a3794b74bead39a1c7b96800">
+                <param name="configFile" value="../../widget_data/config/0d180be6a3794b74bead39a1c7b96800.json" />
+            </object>
+        </section>
+        <p data-uuid="84daba29824044be80221a6934c277a4"><br />
+        </p>
+    </body>
+</html>

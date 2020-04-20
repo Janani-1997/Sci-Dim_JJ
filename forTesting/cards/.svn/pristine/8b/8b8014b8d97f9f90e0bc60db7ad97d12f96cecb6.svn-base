@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7f4a925b9e2249debb76525f072ac5d3" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="c7e6b7a4b88b45f9814e95aa7f4fcc7c">
+            <div class="header-element header-container " data-uuid="048d2f87dee1466aa944a670fed82ee2">
+                <p class="lesson-number" data-uuid="a979969e4d204a1f9306aef2735cc87b"><br />
+                </p>
+                <h2 data-uuid="098535796f8d4c598fc7a54043d74204"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="c1b6825b68e54949a609138e8bd2c766">Part 2: Write an Explanatory Essay</h3>
+            <h6 data-uuid="b93132ef809d43d689fce096dbe7d3c6">Historical Context</h6>
+            <p data-uuid="18b1036da8c44381b75c152f3a1fbdec">Through an assortment of protests and legal battles, the African
+                American civil rights movement made great strides in the 1950s and 1960s. Their
+                successes spurred other groups to fight for their rights as well, altering the
+                way the nation and its laws viewed a person’s race, ethnicity, sex, and
+                disability.</p>
+            <h6 data-uuid="086fe4e3f14b464ba7c0a830e2ce10d6">Task</h6>
+            <p data-uuid="b117786cd33c4353b95083c4b2be3f6a">Civil rights groups used a variety of methods to achieve their goals.
+                What methods did they use? Were some more successful than others? Why? Write an
+                explanatory essay to answer these questions.</p>
+        </section>
+        <p data-uuid="9e6df060727042a8a4c2fa8eeaf2bcb3">Complete the following steps as you plan and compose your essay.</p>
+        <ol data-uuid="04c556c6a8d9446dadb87e7002e5f7ea">
+            <li data-uuid="4d47dbc73a824207bc98473b44eda1ff">Review your notes and sources before you start writing.</li>
+            <li data-uuid="0b8b81c3693c4b15a01a42313b383248">Use at least <i>two</i> of the sources in Part 1, and develop the topic with relevant, well-chosen text or visual evidence from the documents.</li>
+            <li data-uuid="b4b5c27d18e8493e9a6729c976e5474f">Cite specific text evidence from each of the sources in your response.</li>
+            <li data-uuid="52eed1c856234a4385861a19ea8b0ac0">Plan your essay so that it includes an introduction, several body paragraphs, and a concluding paragraph.</li>
+            <li data-uuid="e1cfc1e578af43569e804be9e3e7cedc">Establish a formal tone and use transitions to improve the flow of your writing, connect ideas, and clarify meaning.</li>
+            <li data-uuid="38919e1788224eacbe94053b13b703db">Organize your essay in a clear way that focuses on the topic and supports it with well-chosen facts, details, and examples.</li>
+            <li data-uuid="1eca5e72829c4ded9a7a1cdb7fa143e9">Write a conclusion that sums up your ideas and supports the information you present.</li>
+        </ol>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="cf8256c4697a4918852e5be15dbb6413">
+            <button data-teacher-view-toggle="true" data-uuid="90b261989ac24e95a59e6c06a3257618"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d7b01c1622504d33949484117e28f28b">
+                <param name="configFile" value="../../widget_data/config/d7b01c1622504d33949484117e28f28b.json" />
+            </object>
+        </section>
+        <p data-uuid="d1b32502174d461da5e4e3478d918a69"><br />
+        </p>
+    </body>
+</html>

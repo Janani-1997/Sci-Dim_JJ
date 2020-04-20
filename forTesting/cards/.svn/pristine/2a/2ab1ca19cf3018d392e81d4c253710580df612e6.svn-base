@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="06c71581663b4417a94e8780983d9519">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="81d041856a2541d6b683cfbbf1413399">
+            <p class="lesson-number" data-uuid="83a0ac54b5b546a9ab8b7b59ad81cb06">Lesson 1</p>
+            <article class="header-container" data-uuid="b2299f98621545b08c9a71bd0ff2946f">
+                <div class="header-element" data-uuid="6498efcb18d34e9da336b64e4187b919">
+                    <h1 data-uuid="8d32b1ceccc84450bebb50b54d76456d">The
+                        Earliest Americans</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="b506820530cc40389795a35c24a8c5c7"></div>
+                    <h2 data-uuid="d2540b82546244deac7f366a5d0ce0ad">The Big Idea</h2>
+                    <p data-uuid="722b64d2240c45c2a28bfed4b4369cfd">Native
+                        American societies developed across North and South America.&#160;</p>
+                </div>
+            </article>
+            <article data-uuid="eb572a255f8a47249dff11528209436e">
+                <h3 class="if-you-were-there" data-uuid="0ba94e535ae74d2da926e911a77eccd2">If YOU were there...</h3>
+                <p data-uuid="4739c44f0d734e13a9ed9b6e20c55763">You are living in North America about 10,000 years ago,
+                    close to the end of the Ice Age. For weeks, your group has been following a
+                    herd of elk across a marshy landscape. This trip has taken you far from your
+                    usual hunting grounds. The air is warmer here. There are thick grasses and
+                    bushes full of berries. You decide to camp here for the summer and perhaps stay
+                    a while.</p>
+            </article>
+            <section class="reading-check" data-uuid="5ad4ca6218a44f8ba240f517e790f99b">
+                <section class="question-long-text" data-uuid="85f43af0ccca4606a7b62f56e40d1a2b">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="38eb647a096c477ca75b167387370626">
+                        <param name="configFile" value="../../widget_data/config/38eb647a096c477ca75b167387370626.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4968890f67834a8487eb07ed42aab621">
+            <button data-teacher-view-toggle="true" data-uuid="3efaf99822f24bbb819e252f498ed159"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="fcb5b8e083b649f6a8ecf7d9804e5d26">
+                <param name="configFile" value="../../widget_data/config/fcb5b8e083b649f6a8ecf7d9804e5d26.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0cc4266b6ac1410f87a6a09ce7d07bd7">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Paine’s Common Sense</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="250487adef4a435a9a564c1e6122c71a">
+            <article data-uuid="6fe210a7bbda462399c54d289fe4cae9">
+                <h4 data-uuid="7c18ce34f36643958d9a37de8fe384d6">Main Idea</h4>
+                <p class="main-idea" data-uuid="a9d7745f2e874e86bc67afd93dbdd163">Thomas Paine’s <i>Common
+                    Sense</i> led many colonists to support independence.</p>
+                <h2 data-uuid="cd3a1e1ad5b847579208c12c34155aea">Paine’s <i>Common Sense</i></h2>
+                <div class="yellow-star-yellow-bar" data-uuid="023b03cac4294dc291655435b02f77ac"></div>
+            </article>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="dbbc473fd8c647b68a7f205dc70c2902">
+            <div class="go-prompt-bottom-bar" data-uuid="7091a594d7ad4f3d8afa46fcdcbabbe7">
+                <p data-uuid="cb4d12335e2a4f64b3ee929fd7590fa2">As
+                    you read, use the graphic organizer to take notes on the results of the
+                    Declaration of Independence.</p>
+            </div>
+        </section>
+        <p data-uuid="3e8b7160d2b2458798f463dd0fdc6f1f">
+            “[There]
+            is something very absurd in supporting a continent to be perpetually [forever]
+            governed by an island.” This plainspoken argument against British rule over
+            America appeared in <dfn title="Common Sense"><i>Common Sense</i></dfn>, a 47-page pamphlet that was distributed in
+            Philadelphia in January 1776. <i>Common
+            Sense</i> was published anonymously—that is, without the author’s name. The
+            author, <b><dfn title="Paine, Thomas">Thomas Paine</dfn></b>, had
+            recently emigrated to the colonies from Great Britain. He argued that citizens,
+            not kings and queens, should make laws. At a time when monarchs ruled much of
+            the world, this was a bold idea.</p>
+        <figure class="image-with-caption vertical" data-uuid="1295d3ca697c454588bdbb4419d52fdd">
+            <img alt="This photo shows a printed page from Thomas Paine's Common Sense." data-uuid="a29d6840b14647c585be4a0012274b75" src="../../img/module_4_lesson03/8_snlese454170_709p.jpg" />
+            <div class="figcaption" data-uuid="48b3031fef684af99d260ad6b293a24f">
+                <p class="caption" data-uuid="ac0026c5d9734828956be2b56246c713">
+                    In <i>Common
+                    Sense</i>, Thomas Paine argued that the colonies should claim their independence.
+                </p>
+            </div>
+        </figure>
+        <p data-uuid="713ef139cd62420a817b196d54d23d40">News of the work spread throughout the colonies,
+            eventually selling some 500,000 copies. Paine reached a wide audience by
+            writing as a common person speaking to common people. He used loaded language
+            to influence people’s opinions. Loaded language is powerful words and phrases
+            used to persuade people by appealing to their emotions. <i>Common Sense</i> changed the way many colonists viewed their king. It
+            made a strong case for economic freedom in the colonies and for the right to
+            military self-defense. It cried out against tyranny—that is, the abuse of
+            government power. Thomas Paine’s words rang out in his time, and they have
+            echoed throughout American history.<br />
+        </p>
+        <section class="question-long-text" data-uuid="b73c34123501462988d548c00f7d6a26">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="1d1c47f1b41b4550bbd0781d82f5b423">
+                <param name="configFile" value="../../widget_data/config/1d1c47f1b41b4550bbd0781d82f5b423.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="84f5b11d6fed492cbc64da5f813a266e">
+            <div class="go-prompt-bottom-bar" data-uuid="274ba2acd95441b291ba79e6d63a3eba">
+                <p data-uuid="8c94b1ce068d4753ace07974b48a3d6c">Remember to complete the graphic organizer with information on the results of the Declaration of Independence.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="f250eec0968c4327918a357574bed117">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="6b00b3dec4f3412b9dbad80695f367c0">
+                <param name="configFile" value="../../widget_data/config/6b00b3dec4f3412b9dbad80695f367c0.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="0f7d79073ab24dfeafc643fbf01cd7c7"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0cf6879e2ae84b678b6d81cd7c902fad">
+            <button data-teacher-view-toggle="true" data-uuid="f1202374a84e4920ac03989c3b2818b0"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0d873b40dafb4dc8815c9e91f4513528">
+                <param value="../../widget_data/config/0d873b40dafb4dc8815c9e91f4513528.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

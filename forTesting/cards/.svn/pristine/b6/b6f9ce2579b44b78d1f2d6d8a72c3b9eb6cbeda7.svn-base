@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="946141f595b3477ba90b5537131a7f50">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="0485675a966342f8be4abeb7e1891eab">
+            <div class="header-element header-container " data-uuid="0f1c45c1394a49bfbe4625be42a6b15f">
+                <p class="lesson-number" data-uuid="47dbca471c13479899d2bf1e2957cd93"><br />
+                </p>
+                <h2 data-uuid="dd5705051e554d998d1150fa6ca6bba8"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="08c6ac8fa9db4e408dddae3fc4f86eb1">Part 2: Write a Speech</h3>
+            <h6 data-uuid="bf499c6c40a04ed69f6ba3fa8cf1321b">Historical Context</h6>
+            <p data-uuid="59c3e76a97404ba3a577fefac828bf88">The
+                Constitution established a federal system of government for the United States.
+                Under this system, responsibilities are divided between the federal and state
+                governments. In addition, the Constitution created three separate branches of
+                the federal government to help prevent the abuse of power. The framers of the
+                Constitution also designed it to be flexible enough to adapt to changes in
+                society. This flexibility is achieved through the adoption of amendments. The
+                first ten amendments, known as the Bill of Rights, protect the basic rights of
+                individuals. </p>
+            <h6 data-uuid="f06a8c39a23747e1af77eae870d2764d">Task</h6>
+            <p data-uuid="59bae1782805450dbeaf0c0c0a712364">How
+                does the Constitution promote the welfare of ordinary Americans? Write a speech
+                in which you explain how the Constitution protects individuals and the nation
+                as a whole.</p>
+            <p data-uuid="bd6e7b32cae844248bccee88c3019b1c">Complete the following steps as you plan and compose your
+                speech.</p>
+            <ol data-uuid="277e4fc9bb264c4a8ffa0e7434aae52b">
+                <li data-uuid="11a6bb98339f4e1cbea81cae2959e170">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="f015bbce301340d48104c05d61c48bfb">Use at least <i>three</i>&#160;of the sources in Part 1, and develop the speech with relevant, well-chosen text evidence from the documents.&#160;</li>
+                <li data-uuid="a4df44d1b2f641a08c02a9c411ae5d81">Cite
+                    specific text evidence from each of the sources in your response.<br />
+                </li>
+                <li data-uuid="7c471363348043a3a78b157efa4dc947">Plan
+                    your speech so that it includes an introduction, several body paragraphs, and a
+                    conclusion.<br />
+                </li>
+                <li data-uuid="8a53447f90af4505a003e09497f33863">Organize
+                    your speech in a logical way, with clear transitions from section to section.<br />
+                </li>
+                <li data-uuid="66b28e25deb34ea29ba28ec229918af8">Use relevant visuals and technology to support the topic of your speech.</li>
+                <li data-uuid="c462e2a05add42ec8a4a68ad4f12d49d">Write
+                    a conclusion that sums up your ideas and supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="98c88b9dd1cb45b48020926b6f445b18">
+            <button data-teacher-view-toggle="true" data-uuid="a38085a4a90f4d52a5ddcc75cfbef177"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6bc691bafc3d46fb8fbc4cb71a4f15cd">
+                <param name="configFile" value="../../widget_data/config/6bc691bafc3d46fb8fbc4cb71a4f15cd.json" />
+            </object>
+        </section>
+        <p data-uuid="c1d357f53bc64044a1b999e25d2c8345"><br />
+        </p>
+    </body>
+</html>

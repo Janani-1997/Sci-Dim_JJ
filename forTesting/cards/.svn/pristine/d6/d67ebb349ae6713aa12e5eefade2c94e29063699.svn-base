@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="73d1db5b427b4fe1babedd4734c21c20">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="74327b24115b4bae95b46eca88a3e17e">
+            <p class="lesson-number" data-uuid="5dcc5736879645e4a2b550463a189739">Lesson 3</p>
+            <article class="header-container" data-uuid="368ab7661625490880b5eb945070ed2a">
+                <div class="header-element" data-uuid="e489a0c9c8b541c0a87075d0d6c8f8f0">
+                    <h1 data-uuid="ed0f572b9c8f4043957b6dd80a11c58d">War in Europe and North Africa</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="a8ad77c0f6b74e5e826e5761c14abdfb"></div>
+                    <h2 data-uuid="36be3839aba64ea6a46ed24f4f5c1d41">The Big Idea</h2>
+                    <p data-uuid="ce8c93357d7542d0b0d7bfc2b6816ed0">After fierce fighting in North
+                        Africa and Europe, the Allies stopped the German advance and slowly began
+                        driving back German forces.</p>
+                </div>
+            </article>
+            <article data-uuid="070619e5fbb84c849c0e1eae7c6d608c">
+                <h3 class="if-you-were-there" data-uuid="7d9037e0ca474bf49302e29532020d67">If YOU were there...</h3>
+                <p data-uuid="3f13d9b2269647e4b1b677c7c8e92e1c">
+                    The year is 1943, and you are a senior in high
+                    school. You know that you will be drafted into the armed forces as soon as you
+                    graduate. Every day after school you listen to radio reports about the battles
+                    being fought around the world. Your future, and the future of the whole world,
+                    seem so uncertain.</p>
+            </article>
+            <section class="reading-check" data-uuid="caa314d28a3d453c95233682fed90c74">
+                <section class="question-long-text" data-uuid="7e8c1e92cbc74fe9ada69d9a9f328d60">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c99eaebcba5a44c0bd874ca5596f2295">
+                        <param name="configFile" value="../../widget_data/config/c99eaebcba5a44c0bd874ca5596f2295.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d0a19adc883c48e1b6e08a83ff5cdf9a">
+            <button data-teacher-view-toggle="true" data-uuid="83a72df5f0504a3f8c61549b96f96ba8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="20c83f08f1874be7b91f6922215030e9">
+                <param name="configFile" value="../../widget_data/config/20c83f08f1874be7b91f6922215030e9.json" />
+            </object>
+        </section>
+        <p data-uuid="95f3745defe242fabec013cc63f547c3"><br />
+        </p>
+    </body>
+</html>

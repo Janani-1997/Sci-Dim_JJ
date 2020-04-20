@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="598f25ab71434dfcb5c3db26ea292075" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="3aa954077d5e46e0ad596e38f6d4fff0">
+            <div class="header-element header-container " data-uuid="cad65749b70f4a6387068c67e51456d4">
+                <p class="lesson-number" data-uuid="97255a77c4f94f67bed1ded45286b4ff"><br />
+                </p>
+                <h2 data-uuid="e4299183e11b457c862fc3cd31d41a79"> Review</h2>
+                <p class="white" data-uuid="8cdda9181fc148b48542607b5114dd6b">In this lesson you learned about how slavery
+                    began in the Americas. Now you will review some key terms and people before
+                    completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="fee121217f9244d1973f32d019004669">Review Key Terms and People</h3>
+<p data-uuid="42f5a60d8b4d44a2affab8e9a1363881">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="b5016b24bef8496388fb5956765ec668">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget" data-uuid="a30c28a2760c442c922caef101ed3709">
+                    <param name="configFile" value="../../widget_data/config/a30c28a2760c442c922caef101ed3709.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="6d9392e4061c4e2fb930c992f2095147">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="9b6319b142594bd288f72034201bd9ba">
+                    <param name="configFile" value="../../widget_data/config/9b6319b142594bd288f72034201bd9ba.json" />
+                    <param name="audio_description" value="NA" />
+                    <param name="audio_script" value="NA" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="5d97c575e23b4250af7d46fccfacca88">
+            <button data-teacher-view-toggle="true" data-uuid="9cb2389461b948bc97a94001820895f0"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c5038cdb79024342983d8c78b13d8c79">
+                <param name="configFile" value="../../widget_data/config/c5038cdb79024342983d8c78b13d8c79.json" />
+            </object>
+        </section>
+        <p data-uuid="c063b475829f4012a1e3d33eac5d22dd"><br />
+        </p>
+    </body>
+</html>

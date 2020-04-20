@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="20a0e8462520495bbf92d70621b05062">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="00270b2130f74891880d10c4059605e0">
+            <div class="header-element header-container " data-uuid="ddfa63cc6c0f4428a02b2f8f404a4b4e">
+                <p class="lesson-number" data-uuid="975f686fba2940a287ce252f3bb5f2be"><br />
+                </p>
+                <h2 data-uuid="68cb6f0fa1bb4841abfdb397b4ae13bc"> Review</h2>
+                <p class="white" data-uuid="f2aa3d7d451749379d0046d18835b58f">In this module you learned
+                    about how the Progressive movement affected life in the United States. Now you will review some key terms and people
+                    before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="4b57eed6b9194f58b128fc84827c92a3">Review Key Terms and People</h3>
+            <p data-uuid="65a6cf021b054091961eab09514e7868">Define each term or person
+                shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="e6be9d781b6347c4bf34eec091d21a9c">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget" data-uuid="43e4d8fa6c9147af9aa66a9c9bc94288">
+                    <param name="configFile" value="../../widget_data/config/43e4d8fa6c9147af9aa66a9c9bc94288.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="a97c8d153ab74cfbbf35a8dd1e97cf9c">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="11d4a8327d8140008c240006a56f28c1">
+                    <param name="configFile" value="../../widget_data/config/11d4a8327d8140008c240006a56f28c1.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a72b3dd8e9984debbfbeebe5fd6178cc">
+            <button data-teacher-view-toggle="true" data-uuid="ce480f35423e48688d55b7905693f334"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c809a06745154797b7f8f2d6a226154f">
+                <param name="configFile" value="../../widget_data/config/c809a06745154797b7f8f2d6a226154f.json" />
+            </object>
+        </section>
+        <p data-uuid="828e220c389b43408b7afdb00e4ece15"><br />
+        </p>
+    </body>
+</html>

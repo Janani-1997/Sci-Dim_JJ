@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="75e6c666dbd54b5a93e3025aca712b5b">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="ffa7d15d2d0c4836aebac1b728f42acf">
+            <p class="lesson-number" data-uuid="e94e145c15044fcabb2175f2a4438677">Lesson 3</p>
+            <article class="header-container" data-uuid="d44bf515b1174282ba9653cb71cb222e">
+                <div class="header-element" data-uuid="d5e338d0585b488cad5329974ffdca27">
+                    <h1 data-uuid="bf8725e268e246eeba32e817e1b37ba2">Wars for the West</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="a07f8757091b45048f39fa71f4a74d0d"></div>
+                    <h2 data-uuid="c3e2d374600b4ce0951b1ecb9e6947bf">The Big Idea</h2>
+                    <p data-uuid="c02826f060684b88a67947d44d850168">Native Americans and the U.S. government came
+                        into conflict over land in the West.</p>
+                </div>
+            </article>
+            <article data-uuid="80639c4fc73c47e3877af515e4c289d3">
+                <h3 class="if-you-were-there" data-uuid="158fca26c5524c9c8b9881a4297e0f93">If YOU were there...</h3>
+                <p data-uuid="0ab37c6308df44e48a40d19d23755b7b">You are a member of the Sioux nation, living in
+                    Dakota&#160;Territory in 1875. These&#160;lands are sacred to your people, and
+                    the&#160;U.S. government has promised them to&#160;you. But now gold has been
+                    found here, and the government has ordered you to&#160;give up your land. Some
+                    Sioux leaders want to fight. Others say that it is of no&#160;use, that the
+                    soldiers will win.</p>
+            </article>
+            <section class="reading-check" data-uuid="9781645d0d7b4192b4e132e364348a7a">
+                <section class="question-long-text" data-uuid="f2ec56915f234843a908814a903c3ce6">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="03f7d3d2131843449d8b8fdc8640b155">
+                        <param name="configFile" value="../../widget_data/config/03f7d3d2131843449d8b8fdc8640b155.json" />
+                        <param name="audio_description" value="Enter your answer. You may also save your answer to your Notebook." />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="20ea93305293401483fce370d272fe85">
+            <button data-teacher-view-toggle="true" data-uuid="16e42b4613464cf1b18650d11f3c3115"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="336f5da825924e4e804b6190f46aadd4">
+                <param name="configFile" value="../../widget_data/config/336f5da825924e4e804b6190f46aadd4.json" />
+            </object>
+        </section>
+        <p data-uuid="17d3bfb9a2e545b0b4137a441748efd2"><br />
+        </p>
+    </body>
+</html>

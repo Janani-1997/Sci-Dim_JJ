@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<config xmlns="http://www.standardnine.com/s9ml" data-uuid="5539325e2bde4e218ae5be4c4db1c871">
+   <!-- <outlines>
+      <section level="0">
+        <excludes>
+          <exclude paths="front_matter/*.s9ml"/>
+          <exclude paths="chapter*/ch01_section_1.html"/>
+        </excludes>
+      </section>
+      <section level="1" xpath="//xhtml:section/xhtml:h2">
+        <excludes>
+          <exclude paths="frontmatter/*.html"/>
+          <exclude paths="chapter*/*guide*.html"/>
+        </excludes>
+      </section>
+      <section level="2" xpath="//xhtml:section/xhtml:h3">
+        <excludes>
+          <exclude paths="frontmatter/*.html"/>
+          <exclude paths="chapter*/*guide*.html"/>
+        </excludes>
+      </section>
+    </outlines>
+    <outlines>
+        <section level="1" xpath=".//xhtml:body//xhtml:h2" />
+        <section level="2" xpath=".//xhtml:body//xhtml:h3" />
+    </outlines>
+-->
+	<exports>
+	    <profile type="epub" />
+	    <profile type="pdf" />
+	</exports>
+    <images>
+        <profile name="jpg_90">
+            <format>jpg</format>
+            <quality>90</quality>
+        </profile>
+        <apply profile="jpg_90">
+            <alpha>false</alpha>
+            <glob>*.png</glob>
+        </apply>
+    </images>
+</config>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e44224001c9a4b0c8483a066075781c3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="f1a52d166f1546ef85b7d7947a49e3b4">
+            <div class="header-element header-container " data-uuid="c098d79e28a74c3bbb1a3b945e9d0a1a">
+                <p class="lesson-number" data-uuid="522de862088e4ea59ab383ad147d9e26"><br />
+                </p>
+                <h2 data-uuid="bc34feeac04642ddb7fff82b21ef565e"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="8eee8019dbb44fd19c6a341b866a5715">In this module you’ve learned how divisions
+                    between the North and South over the issue of slavery led to the breakup of the
+                    Union. Now it’s your turn to demonstrate your understanding of the module
+                    content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="32c11008d35e480c95fd53de88a111c0">Could the Civil War have been avoided?</h3>
+            <p data-uuid="1bfdea1320db45b993c6a7027231d6a2">Write a persuasive essay answering this
+                question. In your essay, discuss the political events of the 1850s, the
+                violence that arose after passage of the Kansas-Nebraska Act, and the South’s
+                reaction to Lincoln’s election. Also, consider whether the Union and the
+                Confederacy could have existed peacefully as separate nations. Be sure to cite
+                evidence to support your position, and organize your essay into an
+                introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="db87e3927a03437cb67b225e281c4f0a">
+            <button data-teacher-view-toggle="true" data-uuid="e6ca6eba43d547169bf66611b73bfbaa"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0c5c50a7aa2d4c19807f1f226f4fdf47">
+                <param name="configFile" value="../../widget_data/config/0c5c50a7aa2d4c19807f1f226f4fdf47.json" />
+            </object>
+        </section>
+        <p data-uuid="a10160daad2c43cc96ead6f72b10f917"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b456a66983ad4b8c93fd10505b2dff74">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="bf58164f7d554373bcf975dfa6d437dd">
+            <div class="header-element header-container " data-uuid="18c1740621824385b61eabeda42c4860">
+                <p class="lesson-number" data-uuid="079c006c5a8248e0a50f81b88e468097"><br />
+                </p>
+                <h2 data-uuid="6547d69bda0941eaa348dfd9701c086c"> Review</h2>
+                <p class="white" data-uuid="7ed3407e602d40a39c27df6dc8edaa3e">In this module you learned
+                    about a new wave of immigration in the late 1800s that brought large numbers of
+                    immigrants to the United States. Now you will review some key terms and people
+                    before completing the Module Assessment.</p>
+            </div>
+            <h3 data-uuid="f6a66eb6d5f9422ebd5c1aaed70a4319">Review Key Terms and People</h3>
+            <p data-uuid="968c8a0b969148218b07aa443b99e4f0">Define each term or person
+                shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="df5a0ebc23854c4c94f5410a733622df">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget" data-uuid="70cac317e46d456fb3515605b660420c">
+                    <param name="configFile" value="../../widget_data/config/70cac317e46d456fb3515605b660420c.json" />
+                    
+                    
+                </object>
+            </section>
+            <p data-uuid="57b0a2f0c6f24518b77e0e2691e2070a"></p>
+            <p data-uuid="280e5ca3d2924fd8a1452f463b355e63"></p>
+            <section class="sequence_timeline  " data-uuid="1779edd9f4d24effb13ed74a30c0a6da">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="790e29f8544843c88ff3af066206ae2e">
+                    <param name="configFile" value="../../widget_data/config/790e29f8544843c88ff3af066206ae2e.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="3b9d708062e64e91a8cd0dadd87e2d1c">
+            <button data-teacher-view-toggle="true" data-uuid="8ed97b2bee5846139f9d942f957f5e33"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f572976560314b0b8bd1c469c5da044e">
+                <param name="configFile" value="../../widget_data/config/f572976560314b0b8bd1c469c5da044e.json" />
+            </object>
+        </section>
+        <p data-uuid="961e44e8873e414c84c00e82ed70d21a"><br />
+        </p>
+    </body>
+</html>

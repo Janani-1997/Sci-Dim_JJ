@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0f2356c140534372a1a385c6cd9b128f" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="d6dda246782540e1aac6186a145f51c4">
+            <div class="header-element header-container " data-uuid="eb6b2ae165154b159cb4787874fe558e">
+                <p class="lesson-number" data-uuid="6c033e0f707e40158c4986b71751d26e">Lesson 2</p>
+                <h2 data-uuid="73190709fe5e497bbcac0b94f1894dae">Assessment</h2>
+            </div>
+            <h5 data-uuid="5d6f56adb19a4a669ffb8b7720372520">The Growth of Cities</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="3255ec00f9144e8b94f41695724c9a28">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="c9badadb47e54d69907903a2b32b6186">
+                <param name="configFile" value="../../widget_data/config/c9badadb47e54d69907903a2b32b6186.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a7024d05746744ef8d9fd2a5e6bdc246">
+            <button data-teacher-view-toggle="true" data-uuid="90a06c4b218b4594a1febd56b4605415"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e7ca8edf0d5d4ff982e41e98822cf2a4">
+                <param name="configFile" value="../../widget_data/config/e7ca8edf0d5d4ff982e41e98822cf2a4.json" />
+            </object>
+        </section>
+        <p data-uuid="a1cdab0b6ef24a52b48d7ad195440a6b"><br />
+        </p>
+    </body>
+</html>

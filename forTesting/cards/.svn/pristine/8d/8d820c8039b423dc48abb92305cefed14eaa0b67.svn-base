@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="012bd82493284f439dedc9cd3d89ab01">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="6484f0c6281241a59ee47401f932990f">
+            <p class="lesson-number" data-uuid="b4b498a0ed554cc89ee317fdfee77a28">Lesson 1</p>
+            <article class="header-container" data-uuid="335d1cd9eaf6480391abe02fd7151237">
+                <div class="header-element" data-uuid="e9f61d4518164926b10dbc2f6f1ac60e">
+                    <h1 data-uuid="655bfea364594ee9a498ce2332fbc8d4">Kennedy and Foreign Policy</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="6c1f510fd1564394b9e95f727fd83d10"></div>
+                    <h2 data-uuid="e655c9e531214005b33722186864f73d">The Big Idea</h2>
+                    <p data-uuid="fdb53ebfd9334acc91ea4716e989469c">The United States confronted
+                        Communist nations in Cold War conflicts around the world.</p>
+                </div>
+            </article>
+            <article data-uuid="dbb9e43c816945e6a7b1aaf1dcefd322">
+                <h3 class="if-you-were-there" data-uuid="102d9e59f55c4a83a868a58dfe4f341d">If YOU were there...</h3>
+                <p data-uuid="22ab2cb0d26d4700b9647a013b8b0ab5">
+                    You are a student in 1960. Whenever you discuss
+                    current events in class, students talk nervously about the ongoing nuclear arms
+                    race between the United States and the Soviet Union. If Cold War tensions ever
+                    spark an all-out nuclear war, entire cities and populations could be destroyed in
+                    just a matter of minutes.</p>
+            </article>
+            <section class="reading-check" data-uuid="f60adaeca1f2408295b55f63fc50c626">
+                <section class="question-long-text" data-uuid="59b5b7dcb6af4367aff0eab31b0e264f">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c92b4db58aaa4e0483a4708eadcc0bfb">
+                        <param name="configFile" value="../../widget_data/config/c92b4db58aaa4e0483a4708eadcc0bfb.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4592303e53cd4e5c8f758cae13ca56e3">
+            <button data-teacher-view-toggle="true" data-uuid="d35e2482dcdf45e7b04bb4329f3c43b2"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f47667b0558e40888e99245158db15ec">
+                <param name="configFile" value="../../widget_data/config/f47667b0558e40888e99245158db15ec.json" />
+            </object>
+        </section>
+        <p data-uuid="b19faa7de1a144d480657e5629c1b254"><br />
+        </p>
+    </body>
+</html>

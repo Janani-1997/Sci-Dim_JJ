@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b737350b85b2483ba952dd85dc30d678">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="85cd2dfd607c4af49d96edeae0b4f731">
+            <p class="lesson-number" data-uuid="df2f5b2999e04a17a6299bc48e10c652">Lesson 1</p>
+            <article class="header-container" data-uuid="4b5a457828574f6f80e9cb1aa2d5bf9c">
+                <div class="header-element" data-uuid="7e25da8fd49c4103bd47db02a8f76f28">
+                    <h1 data-uuid="6286c19cb1c944d880c5fa391a80f727">Boom Times</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="aa5f00c9b11b4761a44e8cdb916d477b"></div>
+                    <h2 data-uuid="426e74c7e7cc47d09b3b80cd76d15543">The Big Idea</h2>
+                    <p data-uuid="16137e4926094c82975f82fffa46c840">American industries boomed in
+                        the 1920s, changing many Americans’ way of life.</p>
+                </div>
+            </article>
+            <article data-uuid="c60439a687654638afa0ce549951667d">
+                <h3 class="if-you-were-there" data-uuid="2b23cda6da024a29bcbdee6c4b892e27">If YOU were there...</h3>
+                <p data-uuid="6613a9bc310d446d81b0a971fdf45b87">You have been working in a car
+                    factory for years, and now you have finally bought a car of your own—a shiny
+                    new 1920 Ford Model T. As you set out on your first drive, the car rattles and
+                    bounces over unpaved roads that were designed for horse-and-buggy travel. But
+                    you don’t mind the rough ride. You now have the freedom to drive anywhere you
+                    want to go!</p>
+            </article>
+            <section class="reading-check" data-uuid="5dd53d46ca354a578fa41b52f61daa5b">
+                <section class="question-long-text" data-uuid="8d0c7c8cce9149fd8c4ecf97bcd4a58f">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="454eeca4bc4145088c491636db2fbe31">
+                        <param name="configFile" value="../../widget_data/config/454eeca4bc4145088c491636db2fbe31.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="73d6f01097a14a0f9c12855c75820a1a">
+            <button data-teacher-view-toggle="true" data-uuid="01be6dce71a74df984961fdde629da59"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b216fffc8b6d4eb2b0ed880e052ac4b4">
+                <param name="configFile" value="../../widget_data/config/b216fffc8b6d4eb2b0ed880e052ac4b4.json" />
+            </object>
+        </section>
+        <p data-uuid="9a4e227bec1e4f3ebe2e2d15e658b74c"><br />
+        </p>
+    </body>
+</html>

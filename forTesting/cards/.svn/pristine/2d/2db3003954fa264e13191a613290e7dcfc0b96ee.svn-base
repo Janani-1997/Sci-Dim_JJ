@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6e241e315dbb4e2b824f7b6ee21fdccf" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="42cd16bbe1f34f1eb9ea2e22a426dcac">
+            <div class="header-element header-container " data-uuid="968fe5ab4e1a4447b85efeaf05b36ce5">
+                <p class="lesson-number" data-uuid="1118260f745248249d026e6402b58792">Lesson 1</p>
+                <h2 data-uuid="26f407a4d9554332bc93673eda619f4f">Assessment</h2>
+            </div>
+            <h5 data-uuid="00426cb6756c49eb8ae86eb3474cdc6d">A New Wave of Immigration</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="7c1b894b1d404f9dae2a60331a5a6656">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="74fc668b0cf44603968d76632ad490ab">
+                <param name="configFile" value="../../widget_data/config/74fc668b0cf44603968d76632ad490ab.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2f176f8d3d664126a625d79364b0dc19">
+            <button data-teacher-view-toggle="true" data-uuid="fe682ce2d4a44be19e8c6c52a7fa8c2c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6274ee98fa92480ca16a3b8bef47969a">
+                <param name="configFile" value="../../widget_data/config/6274ee98fa92480ca16a3b8bef47969a.json" />
+            </object>
+        </section>
+        <p data-uuid="390f6b98e82942b089f622522dc85d03"><br />
+        </p>
+    </body>
+</html>

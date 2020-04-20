@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="dbad809a6c22420daad02558ee1635ee">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="1789265373444caf8ce9a7ddd3ae87c8">
+            <p class="lesson-number" data-uuid="c5b3e29646c143b399a7291d98afd14c">Lesson 4</p>
+            <article class="header-container" data-uuid="818b931cdd4d451f8e290bc10593ce95">
+                <div class="header-element" data-uuid="b2176ced438945aab98aeb46e4d4b69a">
+                    <h1 data-uuid="f1f00d97ba6743ada5cb793bda638399">The
+                        End of the Twentieth Century</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="1356f3cfa4df4775a4883e767054fcd7"></div>
+                    <h2 data-uuid="eb940cd147ea47d499f1e5e09a661385">The Big Idea</h2>
+                    <p data-uuid="20e7bdcff22d41ce8313532e310b0158">The United States and the world faced many new
+                        challenges at the end of the twentieth century.</p>
+                </div>
+            </article>
+            <article data-uuid="d2dcfeb197c2405c9febed802fc57c21">
+                <h3 class="if-you-were-there" data-uuid="7cbb7ce754b844a7a0f34246faf3b132">If YOU were there...</h3>
+                <p data-uuid="9172fc03a91e45f980b4317f8061addb">You are visiting the city of West Berlin in
+                    1989. Just after midnight on November 9, you see huge crowds of people pouring
+                    into the streets to celebrate. You rush outside to find out what’s going on.
+                    “The wall is falling!” people shout. You run toward the Berlin Wall, and there
+                    you see East and West Germans working together to rip down the hated wall.</p>
+            </article>
+            <section class="reading-check" data-uuid="5b8ae11757c149a4a038be426e4da5da">
+                <section class="question-long-text" data-uuid="abb173ebdab94556809b903c53bafd5e">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="40945e9e990b4e26858baf27c8e6b54c">
+                        <param name="configFile" value="../../widget_data/config/40945e9e990b4e26858baf27c8e6b54c.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8a192ab229884b16933eb2f815cd6847">
+            <button data-teacher-view-toggle="true" data-uuid="83ac002df4bd4a71b2311972f90329de"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="594935a766a6426394362cdc860f83f0">
+                <param name="configFile" value="../../widget_data/config/594935a766a6426394362cdc860f83f0.json" />
+            </object>
+        </section>
+        <p data-uuid="09fe1c2ba8764ea9b18a74bd7ed6672c"><br />
+        </p>
+    </body>
+</html>

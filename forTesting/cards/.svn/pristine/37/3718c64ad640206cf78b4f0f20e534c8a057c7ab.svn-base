@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c586a1c4ac824c9fa4bd162def2fef68">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="45649d8af8ab49e68724318e517d3223">
+            <div class="header-element header-container " data-uuid="1ba39274c52744379ca5d3cae653656a">
+                <p class="lesson-number" data-uuid="bd88f2b24d0249aebf743fadaaa9e3b3"><br />
+                </p>
+                <h2 data-uuid="a4bd60147d254a9d9ad13e18c8113aa6"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="b5c1421ef50a49aca6cb12bc97f99077">In this module you’ve learned about what changes occurred during the Age of Jackson. Now it’s your turn to demonstrate your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="108ad2d4387243e19a80f0ab811b8fa2">Did
+                Andrew Jackson advance the cause of democracy?</h3>
+            <p data-uuid="59be6cd5ac204147b4e6669dfc957263">Write a persuasive essay answering this question. Your essay should include key people, events, and turning points during the Age of Jackson. Be sure to cite evidence to support your position and organize your essay into an introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7c1cceb2085247f384499e43469877fb">
+            <button data-teacher-view-toggle="true" data-uuid="774d55a99115466d870eefc9d19e5e50"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="42a2633d5bf5427e9a31b98514099f14">
+                <param name="configFile" value="../../widget_data/config/42a2633d5bf5427e9a31b98514099f14.json" />
+            </object>
+        </section>
+        <p data-uuid="122242d175904b7d9bbcd099185df138"><br />
+        </p>
+    </body>
+</html>

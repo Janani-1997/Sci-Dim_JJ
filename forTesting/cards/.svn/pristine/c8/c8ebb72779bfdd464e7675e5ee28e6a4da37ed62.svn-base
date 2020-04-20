@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="74723f31cc024985872fba68358000a7">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="27e1e07ec8ac4ae5bc29747081303869">
+            <p class="lesson-number" data-uuid="f19f3577210f4b608c0cd7b43ced3b22">Lesson 3</p>
+            <article class="header-container" data-uuid="40f44d5c956d46da937cfb8f9a5115da">
+                <div class="header-element" data-uuid="cd048d491e0e447e94bc2a44d410071b">
+                    <h1 data-uuid="50a5a09fd277459da9042f763a4058dc">Rapid
+                        Changes</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="ca5a2c2f0c654995b683e89ba45e55b8"></div>
+                    <h2 data-uuid="9cb0c505dd6e43b1886e0fbd5a26b196">The Big Idea</h2>
+                    <p data-uuid="bb021aaed11a405e9e0416410b8e9bae">The United States continues to grow and change as
+                        we move ahead in the twenty-first century.</p>
+                </div>
+            </article>
+            <article data-uuid="8e80651500244e48823ee1cb3b9260ea">
+                <h3 class="if-you-were-there" data-uuid="cd7926096455404cbf69823f11e7f10b">If YOU were there...</h3>
+                <p data-uuid="a62e40fcf5ad4ac39a8f447093022452">You are a student studying American history. You
+                    have read about the dramatic impact that inventions, new industries, political
+                    changes, and wars have had on daily life over the years. In your own life, you
+                    have seen how much things can change in just a few years. Now picture yourself
+                    living in the United States 50 years from now.</p>
+            </article>
+            <section class="reading-check" data-uuid="4d41c12f3d8a41728a9ce4a996a00882">
+                <section class="question-long-text" data-uuid="05a6cea908004387989cc02d2f003c8c">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e4dc9990ee2e48f3817f18c2a056fdc3">
+                        <param name="configFile" value="../../widget_data/config/e4dc9990ee2e48f3817f18c2a056fdc3.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="524f53dfe1754a11a5389e48eb68a70f">
+            <button data-teacher-view-toggle="true" data-uuid="04d134d703c3420ca1efc037a096d725"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a1312506ca77430cb19493d10b50de6c">
+                <param name="configFile" value="../../widget_data/config/a1312506ca77430cb19493d10b50de6c.json" />
+            </object>
+        </section>
+    </body>
+</html>

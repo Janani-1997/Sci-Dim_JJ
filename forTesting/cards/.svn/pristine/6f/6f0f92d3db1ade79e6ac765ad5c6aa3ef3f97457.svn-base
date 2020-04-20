@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="f209f751e4d94ee49b48d0ab686a3bf2" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>October Fury: The Cuban Missile Crisis</title>
+    </head>
+    <body>
+        <section class="ssna-mmc" data-uuid="78f976fa3d30402bb14a6c0f7856664c">
+            <object type="text/html" data="../../assets/widgets/mmc/index.html" class="widget" data-uuid="0adbd4598bcc48b796bbc8cc0d674779">
+                <param name="configFile" value="../../widget_data/config/0adbd4598bcc48b796bbc8cc0d674779.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="3c3f8417ad3d458697fedf2860e56d3c">
+            <button data-teacher-view-toggle="true" data-uuid="af9b8377317e4b7a8f062a2dae8ea4f1"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="53d178e00ef94ee696f483ca327b5d7e">
+                <param name="configFile" value="../../widget_data/config/53d178e00ef94ee696f483ca327b5d7e.json" />
+            </object>
+        </section>
+        <p data-uuid="83e74244cd2a452bbbf46a1171da86e8"><br />
+        </p>
+    </body>
+</html>

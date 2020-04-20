@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3489eb1c52d74a44aba75ea5202c60cd">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="2908949f3fb14a7c8d72edbd0c88d3e0">
+            <div class="header-element header-container " data-uuid="f9d7a2be406247239f0315807ac0f88a">
+                <p class="lesson-number" data-uuid="fb1fb7ea8d7844ba80a274dc51cfb82d">Lesson 2</p>
+                <h2 data-uuid="b22f11f319984e7e8d35293e9f190964">Review</h2>
+                <p class="white" data-uuid="8fd4667e8d26490281641014164bf461">In this lesson you learned about southern society. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="13a3d2df38e04cb3a3b21b022441a84a">Review Key Terms and People</h3>
+            <p data-uuid="621e37b5e30c4f75bb0dc948ff6b9fa4">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="c8066fbf5f924c3b8197cca071e4ec4f">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="7e559d61f3a54fdabc923d22e60c0861">
+                
+                
+                <param name="configFile" value="../../widget_data/config/7e559d61f3a54fdabc923d22e60c0861.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="b16e112e93c148519acab401607c4440">
+            <div class="go-prompt-bottom-bar" data-uuid="523faf9bcd3143e8a6126a50e408b5f9">
+                <h5 data-uuid="d13f9cb66ea2470d9b07e13ad2ea8dbc">Review the Graphic Organizer</h5>
+                <p data-uuid="a12d71ca5ae748948506e4c3d5aacfd0">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="23022dec5d1244ba826669e462481bbb">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4b110211cff94bf29eca198aecad407e">
+                <param name="configFile" value="../../widget_data/config/4b110211cff94bf29eca198aecad407e.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="61bd3a9ad0f540c78e5ab865dc4ab83a">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="29539f9172b1489e85f35002b69decfb">
+                <param name="configFile" value="../../widget_data/config/cde66ab93cd34058ae530439ed5acde3.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="b39e82aab069455c9f30cff8a0666f33"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7a5aff2571834b10b0327a0642aadba8">
+            <button data-teacher-view-toggle="true" data-uuid="7180098d81eb4c9f96fe1265e3763b55"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ae7f78bb60ca4178a479a23c9e5f2f52">
+                <param value="../../widget_data/config/ae7f78bb60ca4178a479a23c9e5f2f52.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

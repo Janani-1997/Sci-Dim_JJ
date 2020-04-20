@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="9f9430b47e4d44128ead1a819848ed0f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Rapid Growth of Cities</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="95ad691e81044956bbc580c46fca9e91">
+            <article data-uuid="afa332ddde8b4c88ae96f521c600d900">
+                <h4 data-uuid="5eb909e84f544c6daa38227c4ff042d3">Main Idea</h4>
+                <p class="main-idea" data-uuid="f58cbffa04e54c0b800ff721c7a4eaed">Industrialization led to the growth of cities.</p>
+                <h2 data-uuid="36fcb7bfd4f44f8d9f43688c55c1b887">Rapid Growth of Cities</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="d191653c08424a2cb8df9aeba4c22ded"></div>
+            </article>
+        </section>
+        <p data-uuid="174e9f059c1e4616b10cebb33fc00ecc">The Industrial Revolution led to the creation of many new jobs in American cities. These city jobs drew immigrants from many nations as well as migrants from rural parts of the United States. The Transportation Revolution helped connect cities and made it easier for people to move to them. As a result of these two trends, American cities grew rapidly in number and population during the mid-1800s. Cities in the northeastern and Middle Atlantic states grew the most. By the mid-1800s, three-quarters of the country’s manufacturing jobs were in these areas.</p>
+        <section class="graph-pattern" data-uuid="4b6b18b949e24762977c6e847a3baffd">
+            <div class="header-element main" data-uuid="d16635cf55d94df89c0c52026829ff29">
+                <section class="white-box" data-uuid="8b23274e7245402f9a0a753a76811bde"></section>
+                <a title="Click or tap on parts of the graphic to learn more." class="tooltip withhead"></a>
+            </div>
+            <h5 class="column-head" data-uuid="497e8cf7255749e5993a8d2a418e3512">Rural and Urban Population, 1820–1870</h5>
+            <p class="intro" data-uuid="4afe94571e6a4fdd9fc250450256e620">An influx of immigrants, particularly the Irish, contributed to urban growth in the mid-1800s. </p>
+        </section>
+        <section class="graph-pattern" data-uuid="b37b215388b542ccb34f9b6a1fa588d0">
+            <section class="graphs" data-uuid="bf4e76e80a544332bc4666663920d76c">
+                <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget" data-uuid="54e7979c269a4c51a4da5287db90f2b5">
+                    <param name="configFile" value="../../widget_data/config/54e7979c269a4c51a4da5287db90f2b5.json" />
+                </object>
+            </section>
+        </section>
+        <section class="skillbuilder" data-uuid="886193b883e542aea0a392fceca24e01">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="f8f5caa624794d688a846482b61d1718">
+                <param name="configFile" value="../../widget_data/config/f8f5caa624794d688a846482b61d1718.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="09407f64c8664e4993d20a6f1fc20561">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="ae8357a07b614a65877172922e451668">
+                <param name="configFile" value="../../widget_data/config/ae8357a07b614a65877172922e451668.json" />
+            </object>
+        </section>
+        <p data-uuid="985a4464f499424f9589dcc77a89d099">The rise of industry and the growth of cities changed American life. Those who owned their own businesses or worked in skilled jobs benefited most from those changes. The families of these merchants, manufacturers, professionals, and master craftspeople made up a growing social class. This new <b><dfn title="middle class">middle class</dfn></b> was a social and economic level between the wealthy and the poor. Those in the new middle class built large, dignified homes that demonstrated their place in society.</p>
+        <section class="image-with-assessment" data-uuid="e18c999cc9c04ceaab0c8bfca9a722fc">
+        </section>
+        <section class="question-long-text" data-uuid="79b785dc4e734ac0926dc086e6883c21">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="79fb2d8ec796421283405751d4203c2d">
+                <param name="configFile" value="../../widget_data/config/79fb2d8ec796421283405751d4203c2d.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="ae5060d6efde49e5a07aeedc053893ce">
+            <div class="go-prompt-bottom-bar" data-uuid="e565545ca6164ec8ae070aee9647bf5f">
+                <p data-uuid="843467d4482b44e5afb460d5820c37f7">Remember to use the graphic organizer to take notes on the rapid growth of cities.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="0e855c5b989744059e14708a042eb03d">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="fa31b253e1374f7badcb1fbea739cbee">
+                <param name="configFile" value="../../widget_data/config/99f4994ac26749cd82954c677407fe6f.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="04ba812b1e794ac2a1fc43c44ab52412"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="163d3d7b9d4e4eb6b662b8f635b9df14">
+            <button data-teacher-view-toggle="true" data-uuid="3b09e068f4c544dbaef980769744b4eb"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4cc718be2ff648e5b620ca0b6b91d464">
+                <param value="../../widget_data/config/4cc718be2ff648e5b620ca0b6b91d464.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

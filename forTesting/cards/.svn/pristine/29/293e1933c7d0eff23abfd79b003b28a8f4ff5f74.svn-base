@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="f9bd16baf6484eaaa6e665f04665617f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Steam Power and New Factories</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="cc4f102e99de4d9aaa684aa2c64c7af4">
+            <article data-uuid="3995188496b9482fb71fd4c9e74e61ea">
+                <h4 data-uuid="d7f5a9e8c89d4b0eb2af715cce7c18a9">Main Idea</h4>
+                <p class="main-idea" data-uuid="a509b10ee846450fa7e0d6724a5883df">With the shift to steam power, businesses built new factories closer to cities and transportation centers.</p>
+                <h2 data-uuid="3ed6c202749847248ea59da8aab5bbcc">Steam Power and New Factories</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="a57c850e79e242c4a0b4202e5dff7872"></div>
+            </article>
+        </section>
+        <p data-uuid="936dc63e330a4624b40f0dc0debffa45">At the start of the Industrial Revolution, most factories ran on waterpower. In time, however, factory owners began using steam power. This shift brought major changes to the nation’s industries. Water-powered factories had to be built near streams or waterfalls. In contrast, steam power allowed business owners to build factories almost anywhere. Yet the Northeast was still home to most of the nation’s industries. By 1860 New England alone had as many factories as the entire South did.</p>
+        <p data-uuid="3dc646ada36246d9adfe8effa6fb06da">Some companies decided to build their factories closer to cities and transportation centers. This provided easier access to workers, allowing businesses to lower wages. Being closer to cities also reduced shipping costs. Cities soon became the center of industrial growth. People from rural areas as well as foreign countries flocked to the cities for factory jobs.</p>
+        <p data-uuid="b276e88b92f04d88a5bdb8a467982390">Factory workers improved the designs of many kinds of machines. Mechanics invented tools that could cut and shape metal, stone, and wood with great precision. By the 1840s this new machinery was able to produce interchangeable parts. Within a short period of time, the growing machine-tool industry was even making customized equipment.</p>
+        <section class="reading-check" data-uuid="7cf61917f7cb455a85343b39b49d22f9">
+            <section class="question-long-text" data-uuid="88419e56ddae4c62b53fc42341338d8e">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0bdca17ee1454420b391ab7198b1015e">
+                    <param name="configFile" value="../../widget_data/config/0bdca17ee1454420b391ab7198b1015e.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="02b84d9e82624a8284f0282f4d7ea8c4">
+            <div class="go-prompt-bottom-bar" data-uuid="8cb841ed5fe041b2813c23b1ac4da7a7">
+                <p data-uuid="2010832ab9274935a48b91e2c349d40a">Remember to use the graphic organizer to take notes on the impact of steam power.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="c00fab747be9446390b41784c6f8c668">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="5d2411b83c0043a3aa5c4c6b0597d183">
+                <param name="configFile" value="../../widget_data/config/a6e3d61bf54949c2a418107a52055638.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="52e3f50c8f374c219b6a84a690ce8217"></button>
+        </section>
+        <p data-uuid="1c8dbf95919c471ba0ef7a2b824a7872"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="b06a71ffb73e4c29bd14b936573963fe">
+            <button data-teacher-view-toggle="true" data-uuid="17d205b8c38d44418f661992d897096d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d4080f740a8f42f1a85dbd39b283486e">
+                <param value="../../widget_data/config/d4080f740a8f42f1a85dbd39b283486e.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

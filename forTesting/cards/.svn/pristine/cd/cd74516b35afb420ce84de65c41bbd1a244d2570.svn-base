@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="c47d24b008ee48b3a54b0bce1c36e557" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener" data-uuid="551528a177a44fcf9900a4aa9b585596">
+            <p class="lesson-number" data-uuid="e7c0720b5a2a47a6ab4ee0146dfb1c7c">Lesson 5</p>
+            <article class="header-container" data-uuid="652cb1ea5d254ea99075b56965263df4">
+                <div class="header-element" data-uuid="06ff426cf46c4c448b0bac5724f4973a">
+                    <h1 data-uuid="35e727c8023b44a5882978ec6f4a8d4a">The
+                        Nation Breaks Apart</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="fb36ee43028f4ae6b53060e28499356a"></div>
+                    <h2 data-uuid="13d8c2b0f0104443b8cd542caf717630">The Big Idea</h2>
+                    <p data-uuid="dc158c249bba475a93106ec1f767291c">The
+                        acquisition of new lands and antislavery literature intensified the debate
+                        over slavery.</p>
+                </div>
+            </article>
+            <article data-uuid="29df6ed76c374c6091b3ceae98904445">
+                <h3 class="if-you-were-there" data-uuid="9f8decd6d2e94e7a915cec6af1bcf645">If YOU were there...</h3>
+                <p data-uuid="9dddba5ec5c24021885995d71f21f226">You
+                    live in a crowded neighborhood in New York City in 1854. Your apartment
+                    building is home to a variety of people—longtime residents, Irish immigrants,
+                    free African Americans. One day, federal marshals knock on your door. They
+                    claim that one of your neighbors is a fugitive slave. The marshals say you must
+                    help them find her. If you don’t, you will be fined or even sent to jail.</p>
+            </article>
+            <section class="reading-check" data-uuid="d5120bbdf4174115829fe6100592e27f">
+                <section class="question-long-text" data-uuid="63f39d343ba141258b21d78391cb4c40">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="9155baf9f3f64cea80b7e9e75b0e2597">
+                        <param name="configFile" value="../../widget_data/config/9155baf9f3f64cea80b7e9e75b0e2597.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="27bb709922f846cda89fd103110fbc2c">
+            <button data-teacher-view-toggle="true" data-uuid="7b1a5ebf4cb7490ca00e164efdcd2cac"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5ed808e16f8b4153abc51cac5c95ebb7">
+                <param name="configFile" value="../../widget_data/config/5ed808e16f8b4153abc51cac5c95ebb7.json" />
+            </object>
+        </section>
+        <p data-uuid="0fcf45080b0046ea82d14e0be7f12438"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0cc8c482fb6a447e8aa6343cb6108357">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="d1693f7077d742c3ad99281ecc19a38b">
+            <div class="header-element header-container " data-uuid="56722d384d8e4db08b4744c7101dfb42">
+                <p class="lesson-number" data-uuid="6b8434792a41494fa7eda522897c86c3"><br />
+                </p>
+                <h2 data-uuid="5b8e07ce83264efdb56e0ac308c3efbb"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="b36d7fe1bcff4fe78164f36ffe6d3fa5">Part 2: Write an Argument</h3>
+            <h6 data-uuid="41f6e2e855214641af4ebf6d25845bba">Historical Context</h6>
+            <p data-uuid="958a573a83d14857adaf682eece269fa">Historians still argue about the success of Reconstruction. On one hand, the
+                government did achieve its most important goal—the reunification of the nation.
+                On the other hand, despite significant progress, Reconstruction failed to secure equal rights for African Americans.</p>
+            <h6 data-uuid="4d61a58078054165ad8322e780b66e08">Task</h6>
+            <p data-uuid="b60eaa27029b4d2ba4942e5484bc213a"><span>Reconstruction resulted in three constitutional amendments and government efforts such as the Freedmen’s Bureau to promote equal rights in the South. This era, however, also witnessed a determined southern campaign to block racial equality. Write
+                an argument in which you support a claim about the impact Reconstruction had on
+                African Americans.</span></p>
+            <p data-uuid="c45b1702698c4c3aafc6066480c55910">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="b1a21740c12947e7af5ef97eef025f28">
+                <li data-uuid="25c901970d494d53ac52bd9f87d0a2bb">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="4f916e8381f84df89a61e33eede9b9cb">
+                    Use at least <i>two</i> of the sources in Part 1, and develop the topic
+                    with relevant, well-chosen text evidence from the documents.
+                </li>
+                <li data-uuid="6499a68a1e634089888c5b83b397eff4">
+                    Cite specific text evidence from each of the sources in your
+                    response.
+                </li>
+                <li data-uuid="d9692fb98e234aea8b0d47ba51ef687a">
+                    Plan your essay so that it includes an introduction, several body paragraphs, and a concluding paragraph.</li>
+                <li data-uuid="60f2a9ab164446d0b34f9007ded0dcd6">
+                    <p data-uuid="b71b30148cf440be98ef1d0e2400d1e8">Clearly state your claim, or position on the topic, and
+                        consider any opposing claims.</p>
+                </li>
+                <li data-uuid="9d0e87427ded493f8b716f7d50660ac3">
+                    <p data-uuid="a864d67e418e4994a235a7d8d7e98d55">Organize your essay in a clear and logical way and use
+                        linking words and phrases to clarify the relationship between claims and
+                        counterclaims, as well as between ideas.</p>
+                </li>
+                <li data-uuid="c47c67fad6724b4c972a5c4b9b3d8f33">
+                    <p data-uuid="af90f137c56f4b7d8f013b4946728f76">Support your claim with logical reasoning and evidence from
+                        credible sources.</p>
+                </li>
+                <li data-uuid="762072913e6d40afbbf45277d46b8229">Write a conclusion that sums up your ideas and
+                    supports the argument you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d6648c0c542c434db8b17304e4b167f8">
+            <button data-teacher-view-toggle="true" data-uuid="4fe0043aa4534c6d89076f8e20f82b11"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b260ad313cf64275b0ccc2473cd6da8f">
+                <param name="configFile" value="../../widget_data/config/b260ad313cf64275b0ccc2473cd6da8f.json" />
+            </object>
+        </section>
+        <p data-uuid="edb37e3578224934b394744ac71343a9"><br />
+        </p>
+    </body>
+</html>

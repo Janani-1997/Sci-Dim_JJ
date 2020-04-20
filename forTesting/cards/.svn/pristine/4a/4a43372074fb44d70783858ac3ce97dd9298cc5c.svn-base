@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e6609d579b834a36bb1900c67d5a04c0">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="96539ea9525d4e35bd36e7bde26e8a18">
+            <div class="header-element header-container " data-uuid="9a0fceb036c84b2eab3bd87de351de78">
+                <p class="lesson-number" data-uuid="05b8ba40ed0a496683ebe89c527e92fe"> Lesson 3</p>
+                <h2 data-uuid="40a5a9d31fef4ca4b5d762b1d621f10f">Review</h2>
+                <p class="white" data-uuid="b0057ec1ffb04252b7dd28d46b79e7bb">In this lesson you learned how the American Expeditionary Force worked with the Allied powers to achieve victory over Germany. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="47a8d32320f049e1a447f99b605b831d">Review Key Terms and People</h3>
+            <p data-uuid="fa56c9618b5f42ddb52b4c25f9444658">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="6765197c999d414ca3676ec710e9f06d">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="fa62c6af4b3945fabbc25c5289dac3d7">
+                <param name="configFile" value="../../widget_data/config/fa62c6af4b3945fabbc25c5289dac3d7.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev " data-uuid="5481ba33230847b29e458bdcee7f6068">
+            <div class="go-prompt-bottom-bar" data-uuid="4521767d94644fa6b5455e62844a8dc7">
+                <h5 data-uuid="1e40f2a289df4732b3de72a00307ddec">Review the Graphic Organizer</h5>
+                <p data-uuid="f74679ef6cea4b84a54337fe0a49ff2d">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="4d4ec93443f442b2a164de30ea4a7e38">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="28d21de6496e40f8978a840fe4520f18">
+                <param name="configFile" value="../../widget_data/config/28d21de6496e40f8978a840fe4520f18.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="88eda066ab0045c793dde8a428ee5cd4">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="c2d228dd58794f84b27f5c61eec6b031">
+                <param name="configFile" value="../../widget_data/config/c5d152765eea4d8b845353cc8ccd7118.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="b4d715fc29b34f21812500f8a546c9cf"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8ecb1353c4b849a1a720ca7eba427ccb">
+            <button data-teacher-view-toggle="true" data-uuid="400dff2cf7d84a858044ac6cfd95d0d9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e0c9f2f610bd4d6e80f3172930098137">
+                <param value="../../widget_data/config/e0c9f2f610bd4d6e80f3172930098137.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

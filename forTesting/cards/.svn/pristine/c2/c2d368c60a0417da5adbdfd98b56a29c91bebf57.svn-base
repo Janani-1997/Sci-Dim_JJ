@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c891cb0d4c01434cb4c7dce9b7536633">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="a73decfa6b6c4e2e8ab55d4ebf006422">
+            <div class="header-element header-container " data-uuid="cb919b06aabb43ec8f469e13c1ad8d02">
+                <p class="lesson-number" data-uuid="77cc4c4d2fa34ec8a9dd6c206baccfef"><br />
+                </p>
+                <h2 data-uuid="1faef391d7894b4186696f9c3c02876b"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="b1fcbea17e464d01bc165442574fdb39">Part 2: Write an Analytical Essay</h3>
+            <h6 data-uuid="8ce1ba7789584ee3a32bd40efdd7bd7c">Historical Context</h6>
+            <p data-uuid="6d3dbfd2c4e042abae5d0d3c31c4f510">In the late 1800s rapid
+                industrialization in the United States led many people to move to American
+                cities. Among these people were millions of Europeans. Some fled religious or
+                political persecution in their countries of origin. Many came to find jobs. Most
+                settled in large cities like New York City, Chicago, and Boston, where most
+                manufacturing jobs were located.</p>
+            <h6 data-uuid="f0efa02c20d24d39b52db9ffc64c8f0e">Task</h6>
+            <p data-uuid="7ed297b6fc934c5fb6a15f4257e22152"></p>
+            <p data-uuid="0a82c2096d1d493ea32a9b93128251b1">Immigrants to the United States often
+                arrived with little money and few possessions. Yet they had to find a way to
+                establish a life. What challenges faced immigrants who settled in America’s
+                urban areas? What opportunities did they encounter? Write an analytical essay
+                that addresses these questions.</p>
+            <p data-uuid="68196b83ba334b5b882d440ea8304c4a"></p>
+            <p data-uuid="afbe397c662542ecb0abfcc8859629b7">Complete the following steps as you
+                plan and compose your essay.</p>
+            <ol start="1" type="1" data-uuid="2e7a0e54992e4aecad57c4b4d67375c7">
+                <li data-uuid="6ad44fdd8b5f46f38a3d08736b5bf741">Review
+                    your notes and sources before you start writing.</li>
+                <li data-uuid="e6121945e4af41b697c649c29e044f95">Use at
+                    least <i>two</i> of the sources in Part
+                    1, and develop the topic with relevant, well-chosen text evidence from the
+                    documents.</li>
+                <li data-uuid="e79e9010dac84f8eae5f4f3a170cb990">Cite
+                    specific text evidence from each of the two sources in your response.</li>
+                <li data-uuid="818e7c234eba4f40a0f448e8fb379d43">Plan your
+                    essay so that it includes an introduction, several body paragraphs, and a
+                    concluding paragraph.</li>
+                <li data-uuid="f6c264f804ed4338adbf7c905cac4146">Organize your essay in a clear and logical way that links evidence and important details to your main topic.</li>
+                <li data-uuid="ac892bfb36be4520844fd700cb36eb23">Write a conclusion that sums up your ideas and supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d9466936d51a4698a544b70800c1d8df">
+            <button data-teacher-view-toggle="true" data-uuid="c243b633210842959022f62a2e48f9ae"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1fee4cb5b577406e852457fb65dfcb0d">
+                <param name="configFile" value="../../widget_data/config/1fee4cb5b577406e852457fb65dfcb0d.json" />
+            </object>
+        </section>
+        <p data-uuid="3252156896eb4d0684fca9e18b9bedfc"><br />
+        </p>
+    </body>
+</html>

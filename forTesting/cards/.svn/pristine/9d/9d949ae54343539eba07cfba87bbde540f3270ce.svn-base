@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="5283a0b7a1104b0c8adf34db0a460087">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="f17c3d904f204e5ea4dc4f8dd8f56e0d">
+            <p class="lesson-number" data-uuid="028ff876fe2c4f3f8e2acfc27c76bb2a">Lesson 5</p>
+            <article class="header-container" data-uuid="ee55a8cd45924b0b992d07f93ece22e0">
+                <div class="header-element" data-uuid="5136cfba6541419ab7b44d5803b7ab49">
+                    <h1 data-uuid="12192f93b55445158b4ec14cfa1c5e03">Women’s Rights</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="cba3284ae75d4920b38b3b2864d0c983"></div>
+                    <h2 data-uuid="63cf8d3782284271a5377df87947b779">The Big Idea</h2>
+                    <p data-uuid="ffa2a3a1a89c4c4a813beabeeeacc920">Reformers sought to improve women’s rights in
+                        American society.</p>
+                </div>
+            </article>
+            <article data-uuid="44ae61ae66bf4f058b3e9ab99a27d26b">
+                <h3 class="if-you-were-there" data-uuid="a437b44141a94fcb99dc18756f7abfbd">If YOU were there...</h3>
+                <p data-uuid="9f8bd05600d441f19a0f09635b54ab2f">You are a schoolteacher
+                    in New York State in 1848. Although you earn a small salary, you still live at
+                    home. Your father does not believe that unmarried women should live alone or
+                    look after their own money. One day in a shop, you see a poster about a public
+                    meeting to discuss women’s rights. You know your father will&#160;be angry if
+                    you go to the meeting. But you are very&#160;curious.</p>
+            </article>
+            <section class="question-long-text" data-uuid="9ef916a6c4314fa091856fa8347644b1">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="83cb9f018d1a4fa2a2ba39718c13c21d">
+                    <param name="configFile" value="../../widget_data/config/83cb9f018d1a4fa2a2ba39718c13c21d.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="966490db4c6844cc8e4f8f4b79b06890">
+            <button data-teacher-view-toggle="true" data-uuid="d67d4c0f9d3445c6909a817c3d6a9ac8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1c05061af17947e7a699eafed016bed2">
+                <param name="configFile" value="../../widget_data/config/1c05061af17947e7a699eafed016bed2.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ff85176d36b24c7cab4e28af57477903">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="01e76a7db6df4a82aee2a84942f70a57">
+            <div class="header-element header-container" data-uuid="0b2529ccbbbb4311919afdf0cc088338">
+                <p class="lesson-number" data-uuid="73a1afd155f1416f87740d6b9eec7871"><br />
+                </p>
+                <h2 data-uuid="d976d6380dd846eb8a2e666a0bfb4500"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="d4b5eb5c04754be3bf4edd491241e2cc">In this module, you’ve learned about the causes
+                    and effects of the Vietnam War and how it became a divisive issue. Now it’s
+                    your turn to demonstrate your understanding of the module content by writing an
+                    essay.</p>
+            </div>
+            <h3 data-uuid="46f48772aa4442b7ae43ae2ccc0b54ad">Why did some Americans oppose
+                the Vietnam War?</h3>
+            <p data-uuid="3b4c317cd81a44849694e8e28933dfa3">Write a persuasive essay answering this
+                question. Your essay should include key people, events, and turning points such
+                as the Gulf of Tonkin Resolution and the Tet Offensive. Be sure to cite evidence
+                to support your position and organize your essay into an introduction, body,
+                and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="645ea28a151846f0a2f50a83a4257347">
+            <button data-teacher-view-toggle="true" data-uuid="844f95c307cf4cd9bcd8e75e85c0e656"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5be3d7711858413d8ebcfa4686864444">
+                <param name="configFile" value="../../widget_data/config/5be3d7711858413d8ebcfa4686864444.json" />
+            </object>
+        </section>
+        <p data-uuid="87f7bf7f8f0a447d9e2e2b5e553e6c27"><br />
+        </p>
+    </body>
+</html>

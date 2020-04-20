@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="bf665ac41fe444cdbeb25ee7a8af82f8" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="ccfcdb07294448718c7ab61880234a43">
+            <div class="header-element header-container " data-uuid="3519b820893d4b788100b42cdfb6f4f2">
+                <p class="lesson-number" data-uuid="62e382034dfd42dc868d34e17831631c">Lesson 4</p>
+                <h2 data-uuid="ebb55911b4dc469d888eaf3950f8a5fb">Assessment</h2>
+            </div>
+            <h5 data-uuid="90fb6f034d3d47c5870084e3e7b51ce1">Life in the English Colonies</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="df52230b84a14503bfca6220bbb1300f">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="9d91b5d11245410aa7f8a7fcf3686531">
+                <param name="configFile" value="../../widget_data/config/9d91b5d11245410aa7f8a7fcf3686531.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0a629ab6c390453aa4b2e7369a92884a">
+            <button data-teacher-view-toggle="true" data-uuid="d0ceca2cfb5b41efacfbc3d17ee0730c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ff3e571f1bc84b96bf73d37d9647d2e5">
+                <param name="configFile" value="../../widget_data/config/ff3e571f1bc84b96bf73d37d9647d2e5.json" />
+            </object>
+        </section>
+        <p data-uuid="bbaf3ba09e6e45bcbccd3865ea18d29e"><br />
+        </p>
+    </body>
+</html>

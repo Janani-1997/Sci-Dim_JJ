@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8bc6f32979534c799d5897594559f531">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="d32b40afadb34722935fb5f14d092af5">
+            <p class="lesson-number" data-uuid="77287d079d724da1ad9298f16e3be253">Lesson 1</p>
+            <article class="header-container" data-uuid="f945def328b64554aff8500183781b0d">
+                <div class="header-element" data-uuid="0afcff904ba64193881d3bc4ce5de1b8">
+                    <h1 data-uuid="39db4c5f9b534cf298b8d7d900adb4f5">The Gilded Age and the Progressive Movement</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="e592104fa42f464d9a6c65627a7e8734"></div>
+                    <h2 data-uuid="6d8289ed756f47b19fb085c239091d08">The Big Idea</h2>
+                    <p data-uuid="1d607f05abd94437837ee9d52f76194c">From the late 1800s through the early 1900s, the
+                        Progressive movement addressed problems in American society.</p>
+                </div>
+            </article>
+            <article data-uuid="e51267c535874adaa69d77bd26b923bb">
+                <h3 class="if-you-were-there" data-uuid="318fe6c7b839402596719b2939c78c8d">If YOU were there...</h3>
+                <p data-uuid="ccb4a46a0693483a81fbfc3a7f16e6a9">You live in a big-city neighborhood in the 1890s. You
+                    and your brother are both looking for jobs. You know that the man down the
+                    street is the “ward boss.” He can always get city jobs for his friends and
+                    neighbors. But in return you’ll have to promise to vote the way he tells you to
+                    in the upcoming election.</p>
+            </article>
+            <section class="reading-check" data-uuid="cb53c9fe260d42acb5a54264c33d8f7f">
+                <section class="question-long-text" data-uuid="986862379a2e46338751276fd9c6dca3">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="806ac80716124f9b8e7be992feb8c57c">
+                        <param name="configFile" value="../../widget_data/config/806ac80716124f9b8e7be992feb8c57c.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0e49eea55b6540e785fed9058b3b8aec">
+            <button data-teacher-view-toggle="true" data-uuid="86f956b02cf042b3948b4e34697ef424"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c2f809cec5fb49ed9a6e022bc7e03f35">
+                <param name="configFile" value="../../widget_data/config/c2f809cec5fb49ed9a6e022bc7e03f35.json" />
+            </object>
+        </section>
+        <p data-uuid="3b8fbf651a46486fa491b8de34907647"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="89f913dce55f4a6baa69206468a2f4b1" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Battle of Antietam</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="511c9d7e0f5d4da9946788865d0be34e">
+            <article data-uuid="1e30aa13f5dd457cad8bf13203ed01c5">
+                <h4 data-uuid="8b2d2c453a734a72a250ce996e287441">Main Idea</h4>
+                <p data-uuid="a913f027e81440bba3c5eedf5baf9e66" class="main-idea">The Battle of Antietam gave the North a slight advantage.</p>
+                <h2 data-uuid="3a78c073e53e42818814d09b4a02276d">Battle of Antietam</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="26c4b699a9cb4e49b16884a45e6aeb48"></div>
+            </article>
+        </section>
+        <p data-uuid="772fc1598f184310ba954d4f417cb721">Confederate leaders hoped to follow up Lee’s successes in Virginia with a major victory on northern soil. On September 4, 1862, some 40,000 Confederate soldiers began crossing into Maryland. General Robert E. Lee decided to divide his army. He sent about half of his troops, under the command of Stonewall Jackson, to Harpers Ferry. There they defeated a Union force and captured the town.</p>
+        <p data-uuid="930f0adea8064fcea56795b3c7f4950b"> Meanwhile, Lee arrived in the town of Frederick and issued a Proclamation to the People of Maryland, urging them to join the Confederates. However, his words would not be enough to convince Marylanders to abandon the Union. </p>
+        <p data-uuid="a241e7dcc54d4c76a2bf3aa93051171c">Union soldiers found a copy of Lee’s battle plan, which had been left at an abandoned Confederate camp. General McClellan learned that Lee had divided his army in order to attack Harpers Ferry. However, McClellan hesitated to attack. As a result, the Confederates had time to reunite.</p>
+        <figure class="image-with-caption text-center main" data-uuid="f75fb69f9faa41daab5b78f191e8e172">
+            <img src="../../img/module_18_lesson02/ms_snlese454149_565ap.jpg" data-uuid="2912e6733d2e49738933654cea354305" alt="This is an illustration of the battle at Antietam, showing many men firing cannons across a wide open field." />
+            <div class="figcaption" data-uuid="ea650bc66d8a4879a5fd7284087cdf15">
+                <h5 data-uuid="a67414fecd1b4961990f44147e78a85b">Eyewitness at Antietam</h5>
+                <p data-uuid="dcc4cc4538944a70bf1001bceafb11c8" class="caption">James Hope was a professional artist who joined the Union army. Too sick to fight at Antietam, Hope was reassigned to work as a scout and a mapmaker. He sketched scenes from the battle as it happened and later used his sketches to make paintings like this one. This scene is of early morning on the battlefield. This painting doesn’t represent a particular moment but is meant to show a series of events. </p>
+            </div>
+        </figure>
+        <p data-uuid="ccdb9064a1624762b831de98a6f0a8f4">The two armies met along Antietam Creek in Maryland on September 17, 1862. The battle lasted for hours. By the end of the day, the Union had suffered more than 12,000 casualties. The Confederates endured more than 13,000 casualties. Union officer A. H. Nickerson later recalled, “It seemed that everybody near me was killed.” The <b><dfn title="Battle of Antietam">Battle of Antietam</dfn></b>, also known as the Battle of Sharpsburg, was the bloodiest single-day battle of the Civil War—and of U.S. history. More soldiers were killed and wounded at the Battle of Antietam than the deaths of all Americans in the American Revolution, War of 1812, and Mexican-American War combined.<br />
+        </p>
+        <section data-uuid="b208d8f1e5484ef7a84f500ada9b7504" class="video">
+            <object class="widget" data-uuid="0c7c9e23f17d4717a065f933c2caab01" data="../../assets/widgets/html_video_player/index.html" type="text/html">
+                <param name="configFile" value="../../widget_data/config/0c7c9e23f17d4717a065f933c2caab01.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="09c5243b1d764cc08afd0f0c8d554853">
+            <object class="widget" data-uuid="5d286068f34945bfadf0befd627e22a0" data="../../assets/widgets/long_text_question/index.html" type="text/html">
+                <param value="" name="audio_description" />
+                <param value="" name="audio_script" />
+                <param value="../../widget_data/config/5d286068f34945bfadf0befd627e22a0.json" name="configFile" />
+            </object>
+        </section>
+        <p data-uuid="bd79ddeca0de4b0593620f540a596cd7">During the battle, McClellan kept four divisions of soldiers in reserve and refused to use them to attack Lee’s devastated army. McClellan was convinced that Lee was massing reserves for a counterattack. Those reserves did not exist. Despite this blunder, Antietam was an important victory. Lee’s northward advance had been stopped.</p>
+        <section class="question-long-text" data-uuid="4feb1310e50f4a29861ad705f030c142">
+            <object class="widget" data-uuid="8e3a47b5da3041b0b8ba4e1fa5fd2818" data="../../assets/widgets/long_text_question/index.html" type="text/html">
+                <param value="" name="audio_description" />
+                <param value="" name="audio_script" />
+                <param value="../../widget_data/config/8e3a47b5da3041b0b8ba4e1fa5fd2818.json" name="configFile" />
+            </object>
+        </section>
+        <section data-uuid="eb1b51fb3ff94d4b86d5199e7b79f200" class="graphic-organizer-prompt ">
+            <div data-uuid="a8cfb5fcc5c9475d92216f1a9fe39163" class="go-prompt-bottom-bar">
+                <p data-uuid="8293cbceb17647a4aa590529b9ec0436">Remember to use the graphic organizer to take notes on the battles in the east and at sea and the winners of each.</p>
+            </div>
+        </section>
+        <section data-uuid="c04475082e1642a3b8af60c58a006728" class="graphic-organizer">
+            <object data-uuid="137f86d82d814e9993232f3b64a252b2" height="0" class="widget" data="../../assets/widgets/hmh_cas_handler/index.html" type="text/html"> </object>
+            <div data-uuid="61f038f1b86544269d7de0b30f25ef67" class="go-close-btn"></div>
+        </section>
+        <section data-uuid="e5d554a56dcf45198dae71d6233ce8f2" data-go="v0.1.0" data-csm-hide="true" class="graphic-organizer">
+            <object data-uuid="f6068abf418c400183006bf1ba2039d3" data-go-content="true" class="widget" data="../../assets/widgets/go/index.html" type="text/html">
+                <param name="configFile" value="../../widget_data/config/4ed2f779d84c44d28cc98ff5904d902e.json" />
+            </object>
+            <button data-uuid="9a28543c9c0340cda2bbf06adb84b756" data-go-toggle="true" class="go-close-btn"></button>
+        </section>
+        <section data-uuid="8b12b211c34b41b0a4f4d7b6d8777225" data-teacher-view="v0.1.0" class="teacher-view">
+            <button data-uuid="0b8f1a0d01da4c13b5d03ccd2af4b0d2" data-teacher-view-toggle="true"></button>
+            <object data-uuid="7ba95f170d7c4d4ca6429c3199f8c88a" class="widget" data="../../assets/widgets/hmh_teacher_view/index.html" type="text/html" data-teacher-view-iframe="true">
+                <param name="configFile" value="../../widget_data/config/7ba95f170d7c4d4ca6429c3199f8c88a.json" />
+            </object>
+        </section>
+    </body>
+</html>

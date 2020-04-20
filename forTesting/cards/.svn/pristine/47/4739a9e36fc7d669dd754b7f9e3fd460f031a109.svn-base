@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="44b1a0d7f20b463da3cc0f44cb00d4ad">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="f84fb41e9c724bd6bf77315416af5d8c">
+            <p class="lesson-number" data-uuid="56da47a3946a4089b0f4f64c29bb404e">Lesson 2</p>
+            <article class="header-container" data-uuid="0a99b62581294e33b914ad815493fcfa">
+                <div class="header-element" data-uuid="385804da089b4fbc9e91971fce6a56cd">
+                    <h1 data-uuid="cab93ce40db84a53a070f786d99fcd6b">The Slave System</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="77a53346c91841e28286632d5fefd1de"></div>
+                    <h2 data-uuid="20aab3e9182349108ad11532c371d6bd">The Big Idea</h2>
+                    <p data-uuid="a27a7a67988448ec833523eef3eb3038">The slave system in the South produced harsh
+                        living conditions and occasional rebellions.</p>
+                </div>
+            </article>
+            <article data-uuid="20dec2f8b9314284aa99f6299a69650d">
+                <h3 class="if-you-were-there" data-uuid="4214288cf54c4af983e59f3eac2a7aac">If YOU were there...</h3>
+                <p data-uuid="e7f3738b0c4d488a8d01f311670c2023">You are a reporter for a newspaper in
+                    Philadelphia in the 1850s. You are writing a series of articles about the slave
+                    system in the South. To get background for your stories, you are planning to
+                    interview some former slaves who now live in Philadelphia. Some have bought
+                    their freedom, while others have successfully escaped from slavery.</p>
+            </article>
+            <section class="question-long-text" data-uuid="9ea475301f0d4cbf882bb531c89b148e">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b1e89d003feb47df8948ef80fa0ddcb7">
+                    <param name="configFile" value="../../widget_data/config/b1e89d003feb47df8948ef80fa0ddcb7.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="bc1056b3054a491291d5db8d8b6c082d">
+            <button data-teacher-view-toggle="true" data-uuid="8ae50003c65347fd8a1debd93acf3025"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f714b3c903404ed1bd73cfe97578e11a">
+                <param name="configFile" value="../../widget_data/config/f714b3c903404ed1bd73cfe97578e11a.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,1802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc xmlns="http://www.standardnine.com/s9ml" data-uuid="8c41958094cb414abaefd924fa7de26b">
+    <metadata thumbnailpath="../img/toc_thumbs/.crops/ush_habitat_61cab1dafe11450c875d0f8faa36c327.jpg">
+        <edition/>
+        <title>SS USH 2018 NL MS ST</title>
+        <author>Stephanie Simpson</author>
+        <publisher/>
+        <shortname>sn_3b8</shortname>
+        <glossary path="glossary.s9ml"/>
+        <!--
+            <glossary path="glossary.s9ml" />
+        -->
+        <remarks path="remarks.s9ml"/>
+        <pubdate>Publish Date</pubdate>
+        <version>Version</version>
+        <revision>Revision</revision>
+        <s9version>s9version</s9version>
+        <productid>Product ID</productid>
+        <bundleconfig path="config.s9ml"/>
+        <reflowable>true</reflowable>
+        <subtitle/>
+    </metadata>
+    <spine>
+        <unit data-uuid="59b55db697344f0daeda49509b30f187" designation="Prologue" enumeration="">
+            <title/>
+            <chapter data-uuid="5b55b70df2c6421c83f91da3c55f783d" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>U.S. History to 1860</title>
+                <exhibit path="opener120/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="e940da7557f1482087ee481e0293e1c4" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Our Colonial Heritage</title>
+                <exhibit path="lesson01/lesson_opener.html"/>
+                <exhibit path="lesson01/contact_and_colonies.html"/>
+                <exhibit path="lesson01/the_english_colonies.html"/>
+                <exhibit path="lesson01/creating_a_nation.html"/>
+                <exhibit path="lesson01/lesson_1_review.html"/>
+                <exhibit path="lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="a9ffb4e3a4764a10ae23a5e697bddc9d" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>A New Nation</title>
+                <exhibit path="lesson02/lesson_opener.html"/>
+                <exhibit path="lesson02/forming_a_government.html"/>
+                <exhibit path="lesson02/the_constitution.html"/>
+                <exhibit path="lesson02/washington_s_presidency.html"/>
+                <exhibit path="lesson02/lesson_2_review.html"/>
+                <exhibit path="lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="ddce24f89f05471ab6ae4e1e2aaa3478" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The New Republic</title>
+                <exhibit path="lesson03/lesson_opener.html"/>
+                <exhibit path="lesson03/the_american_republic.html"/>
+                <exhibit path="lesson03/growing_nationalism.html"/>
+                <exhibit path="lesson03/the_age_of_jackson.html"/>
+                <exhibit path="lesson03/lesson_3_review.html"/>
+                <exhibit path="lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="04755c09cb1747ceab0ce03877900182" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Nation Expands</title>
+                <exhibit path="lesson04/lesson_opener.html"/>
+                <exhibit path="lesson04/the_manifest_destiny.html"/>
+                <exhibit path="lesson04/the_industrial_north.html"/>
+                <exhibit path="lesson04/the_agricultural_south.html"/>
+                <exhibit path="lesson04/new_movements_in_society.html"/>
+                <exhibit path="lesson04/lesson_4_review.html"/>
+                <exhibit path="lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="39042109e6e34846b1c58455e7e6cd9f" designation="Lesson 5" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Nation Breaks Apart</title>
+                <exhibit path="lesson_501/lesson_opener.html"/>
+                <exhibit path="lesson_501/deepening_divisions.html"/>
+                <exhibit path="lesson_501/prelude_to_war.html"/>
+                <exhibit path="lesson_501/lesson_5_review.html"/>
+                <exhibit path="lesson_501/lesson_5_enrichment.html"/>
+                <exhibit path="lesson_501/credits.html"/>
+            </chapter>
+            <chapter data-uuid="dfea140dad7941a6b5b9f28a6f8e4710" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Beginnings of a Nation: U.S. History to 1860</title>
+                <exhibit path="close120/documentbased_investigation_part_1.html"/>
+                <exhibit path="close120/documentbased_investigation_part_2.html"/>
+                <exhibit path="close120/essential_question.html"/>
+                <exhibit path="close120/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="1926e2acc0f745aa82ece308405b0c3a" designation="Module" enumeration="1">
+            <title>America, Africa, and Europe before 1500</title>
+            <chapter data-uuid="fe9a63af617543dd8846fe92e0869fce" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>America, Africa, and Europe before 1500</title>
+                <exhibit path="module_1opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="6487e25cc4e943018f53b7f88c97ac77" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Earliest Americans </title>
+                <exhibit path="module_1_lesson01/lesson_opener.html"/>
+                <exhibit path="module_1_lesson01/early_migrations_to_the_americas.html"/>
+                <exhibit path="module_1_lesson01/early_mesoamerican_and_south_american_societies.html"/>
+                <exhibit path="module_1_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_1_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_1_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="ef7b14d2cdfc4a00a8b962d3bb40abd1" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Multimedia Connections</title>
+                <exhibit path="module_101/multimedia_connections_the_maya.html"/>
+            </chapter>
+            <chapter data-uuid="5d5d756b32414b45953650d4f4d9a6fc" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Native American Cultures</title>
+                <exhibit path="module_1_lesson02/lesson_opener.html"/>
+                <exhibit path="module_1_lesson02/native_american_cultures.html"/>
+                <exhibit path="module_1_lesson02/native_american_culture_areas.html"/>
+                <exhibit path="module_1_lesson02/native_american_languages.html"/>
+                <exhibit path="module_1_lesson02/similar_beliefs_and_practices.html"/>
+                <exhibit path="module_1_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_1_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_1_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="658b01b07bc14b9fb9e816874f52a81b" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Trading Kingdoms of West Africa </title>
+                <exhibit path="module_1_lesson03/lesson_opener.html"/>
+                <exhibit path="module_1_lesson03/empire_of_ghana.html"/>
+                <exhibit path="module_1_lesson03/reader_1.html"/>
+                <exhibit path="module_1_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_1_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_1_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="c06668cbcb9f4e2cbe42c4d567aa26a0" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Europe before 1500 </title>
+                <exhibit path="module_1_lesson04/lesson_opener.html"/>
+                <exhibit path="module_1_lesson04/greek_and_roman_influences_.html"/>
+                <exhibit path="module_1_lesson04/middle_ages.html"/>
+                <exhibit path="module_1_lesson04/renaissance.html"/>
+                <exhibit path="module_1_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_1_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_1_lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="0fa4dd5f39e64caa918dae7ee955c47c" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>America, Africa, and Europe before 1500</title>
+                <exhibit path="chapter01/document_based_investigation_part1.html"/>
+                <exhibit path="chapter01/reader_12.html"/>
+                <exhibit path="chapter01/reader_11.html"/>
+                <exhibit path="chapter01/reader_14.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="b84b7d8abcae4ab28103271b1743318f" designation="Module" enumeration="2">
+            <title>New Empires in the Americas</title>
+            <chapter data-uuid="67941997202a4f4e9d475d520163177d" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>New Empires in the Americas</title>
+                <exhibit path="module_2opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="967fa42cdd2c44bbad239f0ca15d2704" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Europeans Set Sail</title>
+                <exhibit path="module_2_lesson01/lesson_opener.html"/>
+                <exhibit path="module_2_lesson01/viking_sailors_reach_north_america.html"/>
+                <exhibit path="module_2_lesson01/looking_toward_the_sea.html"/>
+                <exhibit path="module_2_lesson01/a_sea_route_to_asia.html"/>
+                <exhibit path="module_2_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_2_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_2_lesson01/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="072065c2a5b94349920bde0adb24ecba" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Europeans Reach the Americas</title>
+                <exhibit path="module_2_lesson02/lesson_opener.html"/>
+                <exhibit path="module_2_lesson02/columbus_sails_across_the_atlantic.html"/>
+                <exhibit path="module_2_lesson02/other_explorers_sail_to_the_americas.html"/>
+                <exhibit path="module_2_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_2_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_2_lesson02/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="be1630e6943746b99fd8e236c4f6b05e" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Spain Builds an Empire </title>
+                <exhibit path="module_2_lesson03/lesson_opener.html"/>
+                <exhibit path="module_2_lesson03/spanish_conquistadors.html"/>
+                <exhibit path="module_2_lesson03/exploring_the_borderlands_of_new_spain.html"/>
+                <exhibit path="module_2_lesson03/spanish_treatment_of_native_americans.html"/>
+                <exhibit path="module_2_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_2_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_2_lesson03/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="67de9ba184fa48a69a2083563c8702e1" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Multimedia Connections</title>
+                <exhibit path="module_202/multimedia_connections_ponce_de_leon.html"/>
+            </chapter>
+            <chapter data-uuid="9513906db67e4551b1adb71ef572a5f3" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Race for Empires </title>
+                <exhibit path="module_2_lesson04/lesson_opener.html"/>
+                <exhibit path="module_2_lesson04/reader_1.html"/>
+                <exhibit path="module_2_lesson04/reader_2.html"/>
+                <exhibit path="module_2_lesson04/european_presence_in_north_america.html"/>
+                <exhibit path="module_2_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_2_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_2_lesson04/reader_3.html"/>
+            </chapter>
+            <chapter data-uuid="cd8af10e3f114573bbfc295d1d7a64ca" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>New Empire in the Americas</title>
+                <exhibit path="module_2close02/reader_2.html"/>
+                <exhibit path="module_2close02/reader_3.html"/>
+                <exhibit path="module_2close02/reader_1.html"/>
+                <exhibit path="module_2close02/reader_5.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="d8ae9b77e8244d46a23e8f6d49eda9d8" designation="Module" enumeration="3">
+            <title>The English Colonies</title>
+            <chapter data-uuid="a847b0d1996c40a689063cca0dc411ee" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The English Colonies</title>
+                <exhibit path="module_3opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="fd3d3be710de4641b3174a784d01f165" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Southern Colonies </title>
+                <exhibit path="module_3_lesson01/lesson_opener.html"/>
+                <exhibit path="module_3_lesson01/settlement_in_jamestown.html"/>
+                <exhibit path="module_3_lesson01/daily_life_in_virginia.html"/>
+                <exhibit path="module_3_lesson01/other_southern_colonies.html"/>
+                <exhibit path="module_3_lesson01/economies_of_the_southern_colonies.html"/>
+                <exhibit path="module_3_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_3_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_3_lesson01/reader_2.html"/>
+            </chapter>
+            <chapter data-uuid="7e1516bd75db47eca92d2921a465ade2" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The New England Colonies </title>
+                <exhibit path="module_3_lesson02/lesson_opener.html"/>
+                <exhibit path="module_3_lesson02/pilgrims_and_puritans.html"/>
+                <exhibit path="module_3_lesson02/religion_and_government_in_new_england.html"/>
+                <exhibit path="module_3_lesson02/new_england_economy.html"/>
+                <exhibit path="module_3_lesson02/education_in_the_colonies.html"/>
+                <exhibit path="module_3_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_3_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_3_lesson02/reader_2.html"/>
+            </chapter>
+            <chapter data-uuid="02abdaef462346659ec16a798bf9e613" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Middle Colonies </title>
+                <exhibit path="module_3_lesson03/lesson_opener.html"/>
+                <exhibit path="module_3_lesson03/new_york_and_new_jersey.html"/>
+                <exhibit path="module_3_lesson03/penns_colony.html"/>
+                <exhibit path="module_3_lesson03/economy_of_the_middle_colonies.html"/>
+                <exhibit path="module_3_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_3_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_3_lesson03/reader_2.html"/>
+            </chapter>
+            <chapter data-uuid="fd91caf1b6b94a9984daa13d50aebea8" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Life in the English Colonies </title>
+                <exhibit path="module_3_lesson04/lesson_opener.html"/>
+                <exhibit path="module_3_lesson04/colonial_governments.html"/>
+                <exhibit path="module_3_lesson04/english_trade_laws.html"/>
+                <exhibit path="module_3_lesson04/great_awakening_and_enlightenment.html"/>
+                <exhibit path="module_3_lesson04/french_and_indian_war.html"/>
+                <exhibit path="module_3_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_3_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_3_lesson04/reader_2.html"/>
+            </chapter>
+            <chapter data-uuid="ef171cea9c9e41e4902c67659067ca79" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The English Colonies</title>
+                <exhibit path="module_3_close03/reader_2.html"/>
+                <exhibit path="module_3_close03/reader_3.html"/>
+                <exhibit path="module_3_close03/reader_1.html"/>
+                <exhibit path="module_3_close03/reader_5.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="3458ad337b6b48bca9f6969c794a213a" designation="Module" enumeration="4">
+            <title>The American Revolution</title>
+            <chapter data-uuid="a226561f388f481ebe061220b040866d" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The American Revolution</title>
+                <exhibit path="module_4opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="4736c4d5bfc441ebaa207343c0057ba8" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Conflict in the Colonies </title>
+                <exhibit path="module_4_lesson01/lesson_opener.html"/>
+                <exhibit path="module_4_lesson01/great_britain_raises_taxes.html"/>
+                <exhibit path="module_4_lesson01/boston_massacre.html"/>
+                <exhibit path="module_4_lesson01/the_boston_tea_party.html"/>
+                <exhibit path="module_4_lesson01/the_intolerable_acts.html"/>
+                <exhibit path="module_4_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_4_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_4_lesson01/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="aff3877b8f90457ab69a4e7a3ebc4d3e" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Revolution Begins</title>
+                <exhibit path="module_4_lesson02/lesson_opener.html"/>
+                <exhibit path="module_4_lesson02/first_continental_congress.html"/>
+                <exhibit path="module_4_lesson02/shot_hear_round_the_world.html"/>
+                <exhibit path="module_4_lesson02/second_continental_congress.html"/>
+                <exhibit path="module_4_lesson02/early_battles.html"/>
+                <exhibit path="module_4_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_4_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_4_lesson02/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="1ce03af6559444ccb25c83e9531e7ec1" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Declaring Independence</title>
+                <exhibit path="module_4_lesson03/lesson_opener.html"/>
+                <exhibit path="module_4_lesson03/paines_common_sense.html"/>
+                <exhibit path="module_4_lesson03/independence_is_declared.html"/>
+                <exhibit path="module_4_lesson03/unfinished_business.html"/>
+                <exhibit path="module_4_lesson03/the_declaration_of_independence.html"/>
+                <exhibit path="module_4_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_4_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_4_lesson03/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="554c669697114ff99a28eab2b99d6ed9" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Struggle for Liberty </title>
+                <exhibit path="module_4_lesson04/lesson_opener.html"/>
+                <exhibit path="module_4_lesson04/supporting_the_war_effort.html"/>
+                <exhibit path="module_4_lesson04/defeats_and_victories.html"/>
+                <exhibit path="module_4_lesson04/help_from_europe.html"/>
+                <exhibit path="module_4_lesson04/winter_at_valley_forge.html"/>
+                <exhibit path="module_4_lesson04/war_at_sea_and_in_the_west.html"/>
+                <exhibit path="module_4_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_4_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_4_lesson04/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="8992adba9f4546f4b20bb3cf07756c90" designation="Lesson" enumeration="5" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Independence!</title>
+                <exhibit path="module_4_lesson05/lesson_opener.html"/>
+                <exhibit path="module_4_lesson05/war_in_the_south.html"/>
+                <exhibit path="module_4_lesson05/battle_of_yorktown.html"/>
+                <exhibit path="module_4_lesson05/the_treaty_of_paris.html"/>
+                <exhibit path="module_4_lesson05/lesson_5_review.html"/>
+                <exhibit path="module_4_lesson05/lesson_5_enrichment.html"/>
+                <exhibit path="module_4_lesson05/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="49391e0f7dfe46cbbca38e54f8c64515" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Multimedia Connections</title>
+                <exhibit path="module_403/multimedia_connections_the_american_revolution.html"/>
+            </chapter>
+            <chapter data-uuid="7f0b2147671a48619c3647353eb4bd3b" designation="Close " enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The American Revolution</title>
+                <exhibit path="module_4_close04/reader_2.html"/>
+                <exhibit path="module_4_close04/reader_3.html"/>
+                <exhibit path="module_4_close04/reader_1.html"/>
+                <exhibit path="module_4_close04/reader_5.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="57bb5c4a434a435b9bc43b80048d5c2c" designation="Module" enumeration="5">
+            <title>Forming a Government</title>
+            <chapter data-uuid="b30480a947c7474daf7b2e163678f498" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Forming a Government</title>
+                <exhibit path="module_5opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="a2ceac4c1de94928b4bd0a4c10a885aa" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Articles of Confederation</title>
+                <exhibit path="module_5_lesson01/lesson_opener.html"/>
+                <exhibit path="module_5_lesson01/ideas_about_government.html"/>
+                <exhibit path="module_5_lesson01/articles_of_confederation.html"/>
+                <exhibit path="module_5_lesson01/northwest_territory.html"/>
+                <exhibit path="module_5_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_5_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_5_lesson01/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="0f3297df700a45d5b32a4ee4796a0532" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The New Nation Faces Challenges </title>
+                <exhibit path="module_5_lesson02/lesson_opener.html"/>
+                <exhibit path="module_5_lesson02/relations_with_other_countries.html"/>
+                <exhibit path="module_5_lesson02/economic_problems.html"/>
+                <exhibit path="module_5_lesson02/shayss_rebellion.html"/>
+                <exhibit path="module_5_lesson02/calls_for_change.html"/>
+                <exhibit path="module_5_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_5_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_5_lesson02/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="90814c0555474453920b18a6aaf4a175" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Creating the Constitution </title>
+                <exhibit path="module_5_lesson03/lesson_opener.html"/>
+                <exhibit path="module_5_lesson03/constitutional_convention.html"/>
+                <exhibit path="module_5_lesson03/great_compromise.html"/>
+                <exhibit path="module_5_lesson03/threefifths_compromise.html"/>
+                <exhibit path="module_5_lesson03/the_constitution.html"/>
+                <exhibit path="module_5_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_5_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_5_lesson03/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="ef50eef2a7e84f3da8ef6834b385b0fe" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Ratifying the Constitution </title>
+                <exhibit path="module_5_lesson04/lesson_opener.html"/>
+                <exhibit path="module_5_lesson04/federalists_and_antifederalists.html"/>
+                <exhibit path="module_5_lesson04/campaign_for_ratification.html"/>
+                <exhibit path="module_5_lesson04/bill_of_rights.html"/>
+                <exhibit path="module_5_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_5_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_5_lesson04/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="5f5e7098cf2d4667a21c632eb728ae9e" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Forming a Government</title>
+                <exhibit path="module_5_close05/document_based_investigation_part_1.html"/>
+                <exhibit path="module_5_close05/document_based_investigation_part_2.html"/>
+                <exhibit path="module_5_close05/reader_1.html"/>
+                <exhibit path="module_5_close05/module_assessment.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="dc1b2e65366445529e50a2fb0e97eb18" designation="Module" enumeration="6">
+            <title>Citizenship and the Constitution</title>
+            <chapter data-uuid="731b49236fb54b42be7de0358c30bb32" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Citizenship and the Constitution </title>
+                <exhibit path="module_6opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="1da4f975c39e48d4b11da2f58b13634e" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Establishing the Constitution</title>
+                <exhibit path="module_6_lesson01/lesson_opener.html"/>
+                <exhibit path="module_6_lesson01/constitutional_convention.html"/>
+                <exhibit path="module_6_lesson01/great_compromise.html"/>
+                <exhibit path="module_6_lesson01/compromises_on_slavery.html"/>
+                <exhibit path="module_6_lesson01/a_new_system_of_government.html"/>
+                <exhibit path="module_6_lesson01/federalists_and_antifederalists.html"/>
+                <exhibit path="module_6_lesson01/ratifying_the_constitution.html"/>
+                <exhibit path="module_6_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_6_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_6_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="d706d3d401444726981cc0ea6146159e" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Structure of the Government</title>
+                <exhibit path="module_6_lesson02/lesson_opener.html"/>
+                <exhibit path="module_6_lesson02/the_federal_system.html"/>
+                <exhibit path="module_6_lesson02/legislative_branch.html"/>
+                <exhibit path="module_6_lesson02/executive_branch.html"/>
+                <exhibit path="module_6_lesson02/judicial_branch.html"/>
+                <exhibit path="module_6_lesson02/checks_and_balances.html"/>
+                <exhibit path="module_6_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_6_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_6_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="8920ec5eff3748539199d535fc355816" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>United States Constitution</title>
+                <exhibit path="module_607/reader_1.html"/>
+                <exhibit path="module_607/the_preamble.html"/>
+                <exhibit path="module_607/article_i_the_legislature.html"/>
+                <exhibit path="module_607/article_ii_the_executive.html"/>
+                <exhibit path="module_607/article_iii_the_judiciary.html"/>
+                <exhibit path="module_607/article_iv_relations_among_states.html"/>
+                <exhibit path="module_607/article_v_amending_the_constitution.html"/>
+                <exhibit path="module_607/article_vi_supremacy_of_the_national_government.html"/>
+                <exhibit path="module_607/article_vii_ratification.html"/>
+                <exhibit path="module_607/bill_of_rights.html"/>
+                <exhibit path="module_607/amendments_1127qu9h.html"/>
+                <exhibit path="module_607/credits.html"/>
+            </chapter>
+            <chapter data-uuid="054bb8c190254998b8640064e57d46a9" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Bill of Rights </title>
+                <exhibit path="module_6_lesson03/lesson_opener.html"/>
+                <exhibit path="module_6_lesson03/first_amendment.html"/>
+                <exhibit path="module_6_lesson03/protecting_citizens.html"/>
+                <exhibit path="module_6_lesson03/rights_of_the_accused.html"/>
+                <exhibit path="module_6_lesson03/rights_of_states_and_citizens.html"/>
+                <exhibit path="module_6_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_6_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_6_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="522b450911dc4efab7b8e051561ea0ce" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Rights and Responsibilities of Citizenship</title>
+                <exhibit path="module_6_lesson04/lesson_opener.html"/>
+                <exhibit path="module_6_lesson04/gaining_u_s._citizenship.html"/>
+                <exhibit path="module_6_lesson04/responsibilities_of_citizenship.html"/>
+                <exhibit path="module_6_lesson04/citizens_and_society.html"/>
+                <exhibit path="module_6_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_6_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_6_lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="d631c6df5d724c63af86a6344f78b2ed" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Citizenship and the Constitution</title>
+                <exhibit path="module_6_close06/document_based_investigation_part_1.html"/>
+                <exhibit path="module_6_close06/document_based_investigation_part_2.html"/>
+                <exhibit path="module_6_close06/reader_1.html"/>
+                <exhibit path="module_6_close06/module_assessment.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="68bf56956d164185b29ec45a3953579f" designation="Module " enumeration="7">
+            <title>Launching the Nation</title>
+            <chapter data-uuid="9bb268ae967c4a81a44f00d29893a081" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Launching the Nation</title>
+                <exhibit path="module_7opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="f3ad2585725e4cd5a027d146cafc8d73" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Washington Leads a New Nation </title>
+                <exhibit path="module_7_lesson01/lesson_opener.html"/>
+                <exhibit path="module_7_lesson01/the_first_president.html"/>
+                <exhibit path="module_7_lesson01/organizing_the_government.html"/>
+                <exhibit path="module_7_lesson01/americans_expectation_for_the_nation.html"/>
+                <exhibit path="module_7_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_7_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_7_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="396d8196e9694bde840152b67321bcef" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Hamilton and National Finances</title>
+                <exhibit path="module_7_lesson02/lesson_opener.html"/>
+                <exhibit path="module_7_lesson02/reader_1.html"/>
+                <exhibit path="module_7_lesson02/reader_2.html"/>
+                <exhibit path="module_7_lesson02/reader_3.html"/>
+                <exhibit path="module_7_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_7_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_7_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="0e3270c1007e49d0affa6ce3d75a7290" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Challenges for the New Nation</title>
+                <exhibit path="module_7_lesson03/lesson_opener.html"/>
+                <exhibit path="module_7_lesson03/reader_1.html"/>
+                <exhibit path="module_7_lesson03/reader_2.html"/>
+                <exhibit path="module_7_lesson03/reader_3.html"/>
+                <exhibit path="module_7_lesson03/reader_4.html"/>
+                <exhibit path="module_7_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_7_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_7_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="da43a4aac9ed4422ba1fc8062c3b4fe8" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>John Adams’s Presidency </title>
+                <exhibit path="module_7_lesson04/lesson_opener.html"/>
+                <exhibit path="module_7_lesson04/reader_1.html"/>
+                <exhibit path="module_7_lesson04/reader_2.html"/>
+                <exhibit path="module_7_lesson04/reader_3.html"/>
+                <exhibit path="module_7_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_7_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_7_lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="cbe8839c3a0b49a8acf599993fbe819f" designation="Lesson" enumeration="5" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Jefferson Becomes President</title>
+                <exhibit path="module07/reader_1.html"/>
+                <exhibit path="module07/reader_2.html"/>
+                <exhibit path="module07/reader_3.html"/>
+                <exhibit path="module07/reader_4.html"/>
+                <exhibit path="module07/reader_5.html"/>
+                <exhibit path="module07/reader_6.html"/>
+                <exhibit path="module07/reader_7.html"/>
+                <exhibit path="module07/credits.html"/>
+            </chapter>
+            <chapter data-uuid="2a03ca40851847c983fe43ee48b9197c" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Launching the Nation</title>
+                <exhibit path="module_7_close01/document_based_investigation_part1.html"/>
+                <exhibit path="module_7_close01/document_based_investigation_part2.html"/>
+                <exhibit path="module_7_close01/reader_1.html"/>
+                <exhibit path="module_7_close01/module_assessment.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="84e5b2556f9f41fa83a4d8bb19e581dc" designation="Module" enumeration="8">
+            <title>War and Expansion in the Americas</title>
+            <chapter data-uuid="87efb2f71d78497b907e43c92fd8a0f2" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>War and Expansion in the Americas</title>
+                <exhibit path="module_8_opener14/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="df7b0edde4d2463c97afacfc95426d78" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Coming of War </title>
+                <exhibit path="module_8_lesson01/lesson_opener.html"/>
+                <exhibit path="module_8_lesson01/violations_of_neutrality.html"/>
+                <exhibit path="module_8_lesson01/conflict_in_the_west.html"/>
+                <exhibit path="module_8_lesson01/call_for_war.html"/>
+                <exhibit path="module_8_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_8_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_8_lesson01/close.html"/>
+            </chapter>
+            <chapter data-uuid="3d3438930ffd46158d71491a430dc1df" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The War of 1812</title>
+                <exhibit path="module_8_lesson02/lesson_opener.html"/>
+                <exhibit path="module_8_lesson02/early_battles.html"/>
+                <exhibit path="module_8_lesson02/great_britain_on_the_offensive.html"/>
+                <exhibit path="module_8_lesson02/effects_of_the_war.html"/>
+                <exhibit path="module_8_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_8_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_8_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="cbff36fa3caf4b358ef3e42b73f44bda" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Settling International Issues </title>
+                <exhibit path="module_8_lesson03/lesson_opener.html"/>
+                <exhibit path="module_8_lesson03/violations_of_neutrality.html"/>
+                <exhibit path="module_8_lesson03/united_states_gains_florida.html"/>
+                <exhibit path="module_8_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_8_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_8_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="b69882d0ddde49dcbc17101e8ff09212" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>War and Expansion in the Americas</title>
+                <exhibit path="module_8_close01/document_based_investigation_part1.html"/>
+                <exhibit path="module_8_close01/document_based_investigation_part2.html"/>
+                <exhibit path="module_8_close01/reader_1.html"/>
+                <exhibit path="module_8_close01/module_assessment.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="e6802f5b62594e7ca3d8de4f71864a21" designation="Module" enumeration="9">
+            <title>A New National Identity</title>
+            <chapter data-uuid="0b8968ffac5648ecb5c46e9d19f63282" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>A New National Identity</title>
+                <exhibit path="module_9opener/essential_question_.html"/>
+            </chapter>
+            <chapter data-uuid="eddf1b904f4042d19a0f3a76076632e6" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>American Foreign Policy</title>
+                <exhibit path="module_9_lesson01/lesson_opener.html"/>
+                <exhibit path="module_9_lesson01/growing_nationalism.html"/>
+                <exhibit path="module_9_lesson01/the_monroe_doctrine.html"/>
+                <exhibit path="module_9_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_9_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_9_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="05561bb4456744149bc77d1bfbee3cca" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Nationalism and Sectionalism </title>
+                <exhibit path="module_9_lesson02/lesson_opener.html"/>
+                <exhibit path="module_9_lesson02/growing_nationalism.html"/>
+                <exhibit path="module_9_lesson02/the_monroe_doctrine.html"/>
+                <exhibit path="module_9_lesson02/the_election_of_1824.html"/>
+                <exhibit path="module_9_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_9_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_9_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="b0cce3ce15af4cff86f709a0c9d231cd" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>American Culture</title>
+                <exhibit path="module_9_lesson03/lesson_opener.html"/>
+                <exhibit path="module_9_lesson03/american_writers.html"/>
+                <exhibit path="module_9_lesson03/a_new_style_of_art.html"/>
+                <exhibit path="module_9_lesson03/religion_and_music.html"/>
+                <exhibit path="module_9_lesson03/architecture_and_education.html"/>
+                <exhibit path="module_9_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_9_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_9_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="f9447f54e1e04f0592b6a7995c47cceb" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>A New National Identity</title>
+                <exhibit path="module_9_close02/document_based_investigation_part1.html"/>
+                <exhibit path="module_9_close02/document_based_investigation_part2.html"/>
+                <exhibit path="module_9_close02/reader_1.html"/>
+                <exhibit path="module_9_close02/module_assessment.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="7a63d3b225f941c9ab7789f691f6b4a6" designation="Module" enumeration="10">
+            <title>The Age of Jackson</title>
+            <chapter data-uuid="b662dbee1c14490ca15f61090ce9b84e" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Age of Jackson</title>
+                <exhibit path="module_10_opener18/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="b66bc14fe3cf47878bcb383a361b9bfe" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Jacksonian Democracy </title>
+                <exhibit path="module_10_lesson01/lesson_opener.html"/>
+                <exhibit path="module_10_lesson01/expansion_of_democracy.html"/>
+                <exhibit path="module_10_lesson01/election_of_1828.html"/>
+                <exhibit path="module_10_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_10_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_10_lesson01/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="e4c20e520e7f4aaeb39be88f4afc34d5" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Jackson’s Administration </title>
+                <exhibit path="module_10_lesson02/lesson_opener.html"/>
+                <exhibit path="module_10_lesson02/sectional_differences_increase.html"/>
+                <exhibit path="module_10_lesson02/states_rights_debate.html"/>
+                <exhibit path="module_10_lesson02/jackson_attacks_the_bank.html"/>
+                <exhibit path="module_10_lesson02/panic_of_1837.html"/>
+                <exhibit path="module_10_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_10_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_10_lesson02/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="3e726ffc66e14b2d9ae3d10afd080241" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Indian Removal</title>
+                <exhibit path="module_10_lesson03/lesson_opener.html"/>
+                <exhibit path="module_10_lesson03/indian_removal_act.html"/>
+                <exhibit path="module_10_lesson03/cherokee_resistance.html"/>
+                <exhibit path="module_10_lesson03/other_native_americans_resist.html"/>
+                <exhibit path="module_10_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_10_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_10_lesson03/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="a5f3d44290704c8cb61f4436974638fa" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Age of Jackson</title>
+                <exhibit path="module_10_close02/reader_2.html"/>
+                <exhibit path="module_10_close02/reader_3.html"/>
+                <exhibit path="module_10_close02/reader_1.html"/>
+                <exhibit path="module_10_close02/reader_5.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="48a989b5f81b41509a4745cafb6b8176" designation="Module" enumeration="11">
+            <title>Westward Expansion</title>
+            <chapter data-uuid="cc72658f44dc49bbad0f8bcb8335d264" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Westward Expansion</title>
+                <exhibit path="module11/reader_4.html"/>
+            </chapter>
+            <chapter data-uuid="3a18e9bf492242eb8b548910318f9060" designation="Lesson" enumeration="1" thumbnailpath="../img/toc_thumbs/ch01_thumb.png" sandbox="false">
+                <title>A Growing Nation</title>
+                <exhibit path="chapter01/reader_1.html"/>
+                <exhibit path="chapter01/reader_2.html"/>
+                <exhibit path="chapter01/reader_3.html"/>
+                <exhibit path="chapter01/reader_4.html"/>
+                <exhibit path="chapter01/reader_5.html"/>
+                <exhibit path="chapter01/reader_6.html"/>
+                <exhibit path="chapter01/reader_7.html"/>
+                <exhibit path="chapter01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="4027f4314bcb4f6eb468cb943ff5e41b" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Multimedia Connections</title>
+                <exhibit path="module_1106/multimedia_connections_lewis_and_clark.html"/>
+            </chapter>
+            <chapter data-uuid="1196fa4d69004d3b96cee76acb1eec02" designation="Lesson" enumeration="2" thumbnailpath="../img/toc_thumbs/ch02_thumb.png" sandbox="false">
+                <title>Boom Times In The West</title>
+                <exhibit path="module_11_lesson02/reader_1.html"/>
+                <exhibit path="module_11_lesson02/reader_2.html"/>
+                <exhibit path="module_11_lesson02/reader_3.html"/>
+                <exhibit path="module_11_lesson02/reader_4.html"/>
+                <exhibit path="module_11_lesson02/reader_5.html"/>
+                <exhibit path="module_11_lesson02/reader_6.html"/>
+                <exhibit path="module_11_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="39e32b94ee194804b41c6ecd3dc41b97" designation="Lesson" enumeration="3" thumbnailpath="../img/toc_thumbs/ch03_thumb.png" sandbox="false">
+                <title>Wars for the West</title>
+                <exhibit path="module_11_lesson03/reader_1.html"/>
+                <exhibit path="module_11_lesson03/reader_2.html"/>
+                <exhibit path="module_11_lesson03/reader_3.html"/>
+                <exhibit path="module_11_lesson03/reader_4.html"/>
+                <exhibit path="module_11_lesson03/reader_5.html"/>
+                <exhibit path="module_11_lesson03/reader_6.html"/>
+                <exhibit path="module_11_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="e8abccbb925e4f8191bd2aa32703b209" designation="Lesson" enumeration="4" thumbnailpath="../img/toc_thumbs/ch04_thumb.png" sandbox="false">
+                <title>Farming and Populism</title>
+                <exhibit path="module_11_lesson04/reader_1.html"/>
+                <exhibit path="module_11_lesson04/reader_2.html"/>
+                <exhibit path="module_11_lesson04/reader_3.html"/>
+                <exhibit path="module_11_lesson04/reader_4.html"/>
+                <exhibit path="module_11_lesson04/reader_5.html"/>
+                <exhibit path="module_11_lesson04/reader_6.html"/>
+                <exhibit path="module_11_lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="1b6b439070a145b1bdc2da07b9acc73f" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Westward Expansion</title>
+                <exhibit path="module_11close/reader_2.html"/>
+                <exhibit path="module_11close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_11close/reader_1.html"/>
+                <exhibit path="module_11close/timeline_activity.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="c8a6e5f4749c489cb9127aeb77e86745" designation="Module" enumeration="12">
+            <title>Expansion and Conflict</title>
+            <chapter data-uuid="c70af6931fe44b208f0975d6df434439" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Expansion and Conflict</title>
+                <exhibit path="module_12opener/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="c155c58a7fa348c8a9a28788ad72f9b5" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Texas Revolution</title>
+                <exhibit path="module_12_lesson01/reader_1.html"/>
+                <exhibit path="module_12_lesson01/reader_2.html"/>
+                <exhibit path="module_12_lesson01/reader_3.html"/>
+                <exhibit path="module_12_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_12_lesson01/reader_5.html"/>
+                <exhibit path="module_12_lesson01/reader_4.html"/>
+            </chapter>
+            <chapter data-uuid="b3212c53e26748719c5256e4e6c9f6fe" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Mexican-American War</title>
+                <exhibit path="module_12_lesson02/reader_1.html"/>
+                <exhibit path="module_12_lesson02/reader_2.html"/>
+                <exhibit path="module_12_lesson02/reader_3.html"/>
+                <exhibit path="module_12_lesson02/reader_4.html"/>
+                <exhibit path="module_12_lesson02/reader_5.html"/>
+                <exhibit path="module_12_lesson02/reader_6.html"/>
+                <exhibit path="module_12_lesson02/reader_7.html"/>
+            </chapter>
+            <chapter data-uuid="435e1b82365048d6a974086a10785bd4" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The California Gold Rush</title>
+                <exhibit path="module_12_lesson03/reader_1.html"/>
+                <exhibit path="module_12_lesson03/reader_2.html"/>
+                <exhibit path="module_12_lesson03/reader_4.html"/>
+                <exhibit path="module_12_lesson03/reader_3.html"/>
+                <exhibit path="module_12_lesson03/reader_5.html"/>
+                <exhibit path="module_12_lesson03/reader_6.html"/>
+            </chapter>
+            <chapter data-uuid="f3c179bca574458cbdee1c8afb4be649" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Multimedia Connections</title>
+                <exhibit path="module_1208/multimedia_connections_the_real_west_rush_for_gold.html"/>
+            </chapter>
+            <chapter data-uuid="65d3c1998d8342c4bded126d45a7c80a" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Expansion and Conflict</title>
+                <exhibit path="module_12_close09/reader_2.html"/>
+                <exhibit path="module_12_close09/reader_3.html"/>
+                <exhibit path="module_12_close09/reader_1.html"/>
+                <exhibit path="module_12_close09/reader_5.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="712cab083e6948c2bd5340b1f834b054" designation="Module" enumeration="13">
+            <title>The North</title>
+            <chapter data-uuid="f1c2d25a41fb4c52a2f6ced5e81fc0d7" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The North</title>
+                <exhibit path="module_13opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="fab74178dc874dabafa5e0fb9a933388" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Industrial Revolution in America </title>
+                <exhibit path="module_13_lesson01/lesson_opener.html"/>
+                <exhibit path="module_13_lesson01/the_industrial_revolution.html"/>
+                <exhibit path="module_13_lesson01/reader_1.html"/>
+                <exhibit path="module_13_lesson01/manufacturing_grows_slowly.html"/>
+                <exhibit path="module_13_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_13_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_13_lesson01/reader_2.html"/>
+            </chapter>
+            <chapter data-uuid="8e033f91f4644464851466765e7421aa" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Changes in Working Life </title>
+                <exhibit path="module_13_lesson02/lesson_opener.html"/>
+                <exhibit path="module_13_lesson02/mills_change_workers_lives.html"/>
+                <exhibit path="module_13_lesson02/the_lowell_system.html"/>
+                <exhibit path="module_13_lesson02/workers_organize.html"/>
+                <exhibit path="module_13_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_13_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_13_lesson02/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="ee13ec623c9b47cea50208d03667d109" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Transportation Revolution </title>
+                <exhibit path="module_13_lesson03/lesson_opener.html"/>
+                <exhibit path="module_13_lesson03/trade_and_daily_life.html"/>
+                <exhibit path="module_13_lesson03/steamboats.html"/>
+                <exhibit path="module_13_lesson03/american_railroads.html"/>
+                <exhibit path="module_13_lesson03/transportation_revolution_brings_changes.html"/>
+                <exhibit path="module_13_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_13_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_13_lesson03/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="7573f6629c3f4c6c8cb8e7ae8892a2f7" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>More Technological Advances </title>
+                <exhibit path="module_13_lesson04/lesson_opener.html"/>
+                <exhibit path="module_13_lesson04/telegraph_speeds_communication.html"/>
+                <exhibit path="module_13_lesson04/steam_power_and_new_factories.html"/>
+                <exhibit path="module_13_lesson04/improved_farm_equipment.html"/>
+                <exhibit path="module_13_lesson04/changing_life_at_home.html"/>
+                <exhibit path="module_13_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_13_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_13_lesson04/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="02289b1cf16c4af4b011c210ab2a2aee" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The North</title>
+                <exhibit path="module_13_close09/reader_1.html"/>
+                <exhibit path="module_13_close09/reader_2.html"/>
+                <exhibit path="module_13_close09/essesntial_questions.html"/>
+                <exhibit path="module_13_close09/reader_4.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="42b0adf2a4d541ecaf533ed2a5e750e6" designation="Module" enumeration="14">
+            <title>The South</title>
+            <chapter data-uuid="568032af0747476eb5c027a16a032ce1" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The South</title>
+                <exhibit path="module_14opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="784622df7a6547eb89e5d441bbeedcb7" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Growth of the Cotton Industry </title>
+                <exhibit path="module_14_lesson01/lesson_opener.html"/>
+                <exhibit path="module_14_lesson01/reviving_the_souths_economy.html"/>
+                <exhibit path="module_14_lesson01/the_cotton_boom.html"/>
+                <exhibit path="module_14_lesson01/other_crops_and_industries.html"/>
+                <exhibit path="module_14_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_14_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_14_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="d95c6c452a734b5e9defb8f201e2e3a4" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Southern Society</title>
+                <exhibit path="module_14_lesson02/lesson_opener.html"/>
+                <exhibit path="module_14_lesson02/southern_society_and_agriculture.html"/>
+                <exhibit path="module_14_lesson02/free_african_americans_and_discrimination.html"/>
+                <exhibit path="module_14_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_14_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_14_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="54c15cfab9434513a4217abe0d05f014" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Slavery in the South</title>
+                <exhibit path="module_14_lesson03/lesson_opener.html"/>
+                <exhibit path="module_14_lesson03/living_under_slavery.html"/>
+                <exhibit path="module_14_lesson03/a_common_culture.html"/>
+                <exhibit path="module_14_lesson03/slave_rebellions.html"/>
+                <exhibit path="module_14_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_14_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_14_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="aeed857d0fb443039378d997caf87506" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The South</title>
+                <exhibit path="module_14_close10/document_based_investigation_part1.html"/>
+                <exhibit path="module_14_close10/document_based_investigation_part2.html"/>
+                <exhibit path="module_14_close10/essential_questions.html"/>
+                <exhibit path="module_14_close10/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="40d874f9a46048ba9d57cf5a51224bad" designation="Module" enumeration="15">
+            <title>Slavery in the United States</title>
+            <chapter data-uuid="75d52e32c0c94d0c8be31b746717c23e" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Slavery in the United States</title>
+                <exhibit path="module_15opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="6fabcc5d84804d36a21cbc20a7f5e79a" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Beginnings of Slavery in the Americas </title>
+                <exhibit path="module_15_lesson01/lesson_opener.html"/>
+                <exhibit path="module_15_lesson01/segment_1.html"/>
+                <exhibit path="module_15_lesson01/the_slave_trade.html"/>
+                <exhibit path="module_15_lesson01/slave_culture_in_the_americas.html"/>
+                <exhibit path="module_15_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_15_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_15_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="c7cf8fd25b1948588e4e2b3099a57046" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Slave System </title>
+                <exhibit path="module_15_lesson02/lesson_opener.html"/>
+                <exhibit path="module_15_lesson02/slaves_and_work.html"/>
+                <exhibit path="module_15_lesson02/life_under_slavery.html"/>
+                <exhibit path="module_15_lesson02/slave_culture.html"/>
+                <exhibit path="module_15_lesson02/slave_uprisings.html"/>
+                <exhibit path="module_15_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_15_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_15_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="38d21ab7e33a4a8781eca41423230951" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Movement to End Slavery </title>
+                <exhibit path="module_15_lesson03/lesson_opener.html"/>
+                <exhibit path="module_15_lesson03/americans_oppose_slavery.html"/>
+                <exhibit path="module_15_lesson03/the_underground_railroad.html"/>
+                <exhibit path="module_15_lesson03/opposition_to_ending_slavery.html"/>
+                <exhibit path="module_15_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_15_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_15_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="45decc76dab346acb6d6c686906b3bfa" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Politics of Slavery</title>
+                <exhibit path="module_15_lesson04/lesson_opener.html"/>
+                <exhibit path="module_15_lesson04/slavery_and_territorial_expansion.html"/>
+                <exhibit path="module_15_lesson04/another_attempt_at_compromise.html"/>
+                <exhibit path="module_15_lesson04/the_crisis_deepens.html"/>
+                <exhibit path="module_15_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_15_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_15_lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="481304dd43e942e89d0fa4f5e3a31f47" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Slavery in the United States</title>
+                <exhibit path="module_15_close11/documentbased_investigation_part_1.html"/>
+                <exhibit path="module_15_close11/documentbased_investigation_part_2.html"/>
+                <exhibit path="module_15_close11/reader_1.html"/>
+                <exhibit path="module_15_close11/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="82418fcbc4b6414bb5020c30d3f42d01" designation="Module" enumeration="16">
+            <title>Reform Movements in the United States</title>
+            <chapter data-uuid="1e3fd0c2c0254adcb9833ae7a5469a29" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Reform Movements in the United States</title>
+                <exhibit path="module_16opener/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="c97986d838fe4b63ade2ba1ac336ee66" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Immigrants and Urban Challenges</title>
+                <exhibit path="module_16_lesson01/reader_1.html"/>
+                <exhibit path="module_16_lesson01/millions_of_immigrants_arrive.html"/>
+                <exhibit path="module_16_lesson01/rapid_growth_of_cities.html"/>
+                <exhibit path="module_16_lesson01/urban_problems.html"/>
+                <exhibit path="module_16_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_16_lesson01/enrichment.html"/>
+                <exhibit path="module_16_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="0c11d08cf3c4409f83ea85b415eb5ece" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>American Arts</title>
+                <exhibit path="module_16_lesson02/reader_1.html"/>
+                <exhibit path="module_16_lesson02/transcendentalists.html"/>
+                <exhibit path="module_16_lesson02/american_romanticism.html"/>
+                <exhibit path="module_16_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_16_lesson02/enrichment.html"/>
+                <exhibit path="module_16_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="382a81177908499abc68b67edc544b6a" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Reforming Society</title>
+                <exhibit path="module_16_lesson03/reader_1.html"/>
+                <exhibit path="module_16_lesson03/second_great_awakening.html"/>
+                <exhibit path="module_16_lesson03/social_reformers_speak_out.html"/>
+                <exhibit path="module_16_lesson03/improvements_in_education.html"/>
+                <exhibit path="module_16_lesson03/african_american_communities.html"/>
+                <exhibit path="module_16_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_16_lesson03/enrichment.html"/>
+                <exhibit path="module_16_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="1001579070d6460e84ef1d71f41dbbb5" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Abolition</title>
+                <exhibit path="module_16_lesson04/reader_1.html"/>
+                <exhibit path="module_16_lesson04/demanding_an_end_to_slavery.html"/>
+                <exhibit path="module_16_lesson04/escape_to_the_north.html"/>
+                <exhibit path="module_16_lesson04/opposing_abolition.html"/>
+                <exhibit path="module_16_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_16_lesson04/enrichment.html"/>
+                <exhibit path="module_16_lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="97bc7d801f354145ac6c73a8e7abd952" designation="Lesson" enumeration="5" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Women’s Rights</title>
+                <exhibit path="module_16_lesson05/reader_1.html"/>
+                <exhibit path="module_16_lesson05/womens_struggle_for_equal_rights.html"/>
+                <exhibit path="module_16_lesson05/opposing_the_call_for_womens_rights.html"/>
+                <exhibit path="module_16_lesson05/seneca_falls_convention.html"/>
+                <exhibit path="module_16_lesson05/lesson_5_review.html"/>
+                <exhibit path="module_16_lesson05/enrichment.html"/>
+                <exhibit path="module_16_lesson05/credits.html"/>
+            </chapter>
+            <chapter data-uuid="3d331cf5f5e34693931dfc4f2b222929" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Reform Movements in the United States</title>
+                <exhibit path="module_16_close12/document_based_investigation_part_1.html"/>
+                <exhibit path="module_16_close12/document_based_investigation_part_2.html"/>
+                <exhibit path="module_16_close12/reader_1.html"/>
+                <exhibit path="module_16_close12/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="3a0a8fe87e06445d8291c07ab4367ec8" designation="Module" enumeration="17">
+            <title>A Divided Nation</title>
+            <chapter data-uuid="817239857863498c9acac07bb402631a" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>A Divided Nation</title>
+                <exhibit path="module_17opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="1fe38da14b4045cd8b546f1a0ab022fc" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Debate over Slavery</title>
+                <exhibit path="module_17_lesson01/lesson_opener.html"/>
+                <exhibit path="module_17_lesson01/reader_1.html"/>
+                <exhibit path="module_17_lesson01/reader_2.html"/>
+                <exhibit path="module_17_lesson01/reader_3.html"/>
+                <exhibit path="module_17_lesson01/reader_4.html"/>
+                <exhibit path="module_17_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_17_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_17_lesson01/reader_5.html"/>
+            </chapter>
+            <chapter data-uuid="0ff69b6aaae14a37a210c9b8f434c645" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Trouble in Kansas</title>
+                <exhibit path="module_17_lesson02/lesson_opener.html"/>
+                <exhibit path="module_17_lesson02/reader_1.html"/>
+                <exhibit path="module_17_lesson02/reader_2.html"/>
+                <exhibit path="module_17_lesson02/reader_3.html"/>
+                <exhibit path="module_17_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_17_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_17_lesson02/reader_4.html"/>
+            </chapter>
+            <chapter data-uuid="f61bfaa7fc1640fa958410c961244dc7" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Political Divisions</title>
+                <exhibit path="module_17_lesson03/lesson_opener.html"/>
+                <exhibit path="module_17_lesson03/political_parties_undergo_change.html"/>
+                <exhibit path="module_17_lesson03/dred_scott_decision.html"/>
+                <exhibit path="module_17_lesson03/lincolndouglas_debates.html"/>
+                <exhibit path="module_17_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_17_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_17_lesson03/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="7df220bcd26140469d5ba912d2cfcdaf" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Nation Divides</title>
+                <exhibit path="module_17_lesson04/lesson_opener.html"/>
+                <exhibit path="module_17_lesson04/raid_on_harpers_ferry.html"/>
+                <exhibit path="module_17_lesson04/election_of_1860.html"/>
+                <exhibit path="module_17_lesson04/the_south_secedes.html"/>
+                <exhibit path="module_17_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_17_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_17_lesson04/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="1760bbecf1594212999f0d68d8f3ec65" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>A Divided Nation</title>
+                <exhibit path="module_17_close13/reader_2.html"/>
+                <exhibit path="module_17_close13/adff.html"/>
+                <exhibit path="module_17_close13/reader_1.html"/>
+                <exhibit path="module_17_close13/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="e668af3e85d549449908662fdd2063e2" designation="Module" enumeration="18">
+            <title>The Civil War</title>
+            <chapter data-uuid="bbfb8c8c918b4086ab81db3e78235a7b" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Civil War </title>
+                <exhibit path="module_18opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="8773edad72d442aa8667310d7fa524a9" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The War Begins</title>
+                <exhibit path="module_18_lesson01/lesson_opener.html"/>
+                <exhibit path="module_18_lesson01/reader_1.html"/>
+                <exhibit path="module_18_lesson01/reader_2.html"/>
+                <exhibit path="module_18_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_18_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_18_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="b0c99b41b27d46c1804e0cf4b243c9f7" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The War in the East </title>
+                <exhibit path="module_18_lesson02/lesson_opener.html"/>
+                <exhibit path="module_18_lesson02/reader_1.html"/>
+                <exhibit path="module_18_lesson02/reader_2.html"/>
+                <exhibit path="module_18_lesson02/reader_3.html"/>
+                <exhibit path="module_18_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_18_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_18_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="d2f738ffc91b4c618b59964636f69b1b" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The War in the West</title>
+                <exhibit path="module_18_lesson03/lesson_opener.html"/>
+                <exhibit path="module_18_lesson03/reader_1.html"/>
+                <exhibit path="module_18_lesson03/reader_2.html"/>
+                <exhibit path="module_18_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_18_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_18_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="b38339623f984d9bbc1b86fae175266b" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Daily Life during the War</title>
+                <exhibit path="module_18_lesson04/lesson_opener.html"/>
+                <exhibit path="module_18_lesson04/reader_1.html"/>
+                <exhibit path="module_18_lesson04/reader_2.html"/>
+                <exhibit path="module_18_lesson04/reader_3.html"/>
+                <exhibit path="module_18_lesson04/reader_4.html"/>
+                <exhibit path="module_18_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_18_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_18_lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="e09e907cc31843beb4cc5bcf40cb392e" designation="Lesson" enumeration="5" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Tide of War Turns </title>
+                <exhibit path="module_18_lesson05/lesson_opener.html"/>
+                <exhibit path="module_18_lesson05/reader_1.html"/>
+                <exhibit path="module_18_lesson05/reader_2.html"/>
+                <exhibit path="module_18_lesson05/reader_3.html"/>
+                <exhibit path="module_18_lesson05/reader_4.html"/>
+                <exhibit path="module_18_lesson05/lesson_5_review.html"/>
+                <exhibit path="module_18_lesson05/lesson_5_enrichment.html"/>
+                <exhibit path="module_18_lesson05/credits.html"/>
+            </chapter>
+            <chapter data-uuid="1e789011421f4ed39e179c100000116d" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Multimedia Connections</title>
+                <exhibit path="module_1808/multimedia_connections_days_of_darkness_the_gettysburg_civilians.html"/>
+            </chapter>
+            <chapter data-uuid="f0d022e4883942c881aed00878016ce9" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Civil War</title>
+                <exhibit path="module_18_close14/document_based_investigation_part_1.html"/>
+                <exhibit path="module_18_close14/document_based_investigation_part_2.html"/>
+                <exhibit path="module_18_close14/reader_1.html"/>
+                <exhibit path="module_18_close14/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="b48d9a71aa9c4d77a65c3e8bf7e414d7" designation="Module" enumeration="19">
+            <title>Reconstruction</title>
+            <chapter data-uuid="adcebf2e5d87459a81c96b3cd878f531" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Reconstruction</title>
+                <exhibit path="module_19opener/reader_1.html"/>
+            </chapter>
+            <chapter data-uuid="9eb4af0d684e47ad8eda4c842838f55b" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Rebuilding the South</title>
+                <exhibit path="module_19_lesson01/reader_1.html"/>
+                <exhibit path="module_19_lesson01/reader_2.html"/>
+                <exhibit path="module_19_lesson01/reader_3.html"/>
+                <exhibit path="module_19_lesson01/reader_4.html"/>
+                <exhibit path="module_19_lesson01/reader_5.html"/>
+                <exhibit path="module_19_lesson01/lesson_01_enrichment.html"/>
+                <exhibit path="module_19_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="63f752eee0a04cb8aaec46ea4fa30475" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Fight over Reconstruction</title>
+                <exhibit path="module_19_lesson02/reader_1.html"/>
+                <exhibit path="module_19_lesson02/reader_2.html"/>
+                <exhibit path="module_19_lesson02/reader_3.html"/>
+                <exhibit path="module_19_lesson02/reader_4.html"/>
+                <exhibit path="module_19_lesson02/reader_5.html"/>
+                <exhibit path="module_19_lesson02/reader_6.html"/>
+                <exhibit path="module_19_lesson02/reader_7.html"/>
+                <exhibit path="module_19_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="f30c7de6c6b741fabc5a4efa2887df2e" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Reconstruction in the South</title>
+                <exhibit path="module_19_lesson03/lesson_opener.html"/>
+                <exhibit path="module_19_lesson03/reader_1.html"/>
+                <exhibit path="module_19_lesson03/reader_2.html"/>
+                <exhibit path="module_19_lesson03/reader_3.html"/>
+                <exhibit path="module_19_lesson03/reader_4.html"/>
+                <exhibit path="module_19_lesson03/reader_5.html"/>
+                <exhibit path="module_19_lesson03/lesson_19_review.html"/>
+                <exhibit path="module_19_lesson03/lesson_19_enrichment.html"/>
+                <exhibit path="module_19_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="6fba4aa859f841919f11bfd93d303fd3" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Reconstruction</title>
+                <exhibit path="module_19_close15/document_based_investigation_part_1.html"/>
+                <exhibit path="module_19_close15/document_based_investigation_part_2.html"/>
+                <exhibit path="module_19_close15/reader_1.html"/>
+                <exhibit path="module_19_close15/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="ad8bacc3231d4cdcb915bf9f59da09b2" designation="Module" enumeration="20">
+            <title>The Industrial Age</title>
+            <chapter data-uuid="2baed31466714bb488f2a130596ab7f5" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Industrial Age</title>
+                <exhibit path="module_20opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="9f127bca739f4cc89276b1a210f824f3" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Second Industrial Revolution</title>
+                <exhibit path="module_20_lesson01/lesson_opener_.html"/>
+                <exhibit path="module_20_lesson01/reader_1.html"/>
+                <exhibit path="module_20_lesson01/reader_2.html"/>
+                <exhibit path="module_20_lesson01/reader_3.html"/>
+                <exhibit path="module_20_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_20_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_20_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="e4b9867286534346b4d6f182d7a4269f" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Multimedia Connections</title>
+                <exhibit path="module_2007/multimedia_connections_henry_ford.html"/>
+            </chapter>
+            <chapter data-uuid="75f948f8e98c428383be7c4a68e24772" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Big Business </title>
+                <exhibit path="module_20_lesson02/lesson_opener.html"/>
+                <exhibit path="module_20_lesson02/reader_1.html"/>
+                <exhibit path="module_20_lesson02/reader_2.html"/>
+                <exhibit path="module_20_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_20_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_20_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="7722ec21bf214b17b73f6d5e372d61b9" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Industrial Workers</title>
+                <exhibit path="module_20_lesson03/lesson_opener.html"/>
+                <exhibit path="module_20_lesson03/reader_1.html"/>
+                <exhibit path="module_20_lesson03/reader_2.html"/>
+                <exhibit path="module_20_lesson03/reader_3.html"/>
+                <exhibit path="module_20_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_20_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_20_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="a128e245550e4fca89565a633e705c45" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Industrial Age</title>
+                <exhibit path="module_20close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_20close/document_based_investigation_part2.html"/>
+                <exhibit path="module_20close/essential_question.html"/>
+                <exhibit path="module_20close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="6d830dc2789e478faf08ab0885a2cc0d" designation="Module " enumeration="21">
+            <title>Immigrants and Urban Life</title>
+            <chapter data-uuid="1c870f1dc19949d3bf078c6760db4f5e" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Immigrants and Urban Life </title>
+                <exhibit path="module_21opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="5a90c80f72754ae98a4eeb4574ea212c" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>A New Wave of Immigration </title>
+                <exhibit path="module_21_lesson01/lesson_opener.html"/>
+                <exhibit path="module_21_lesson01/reader_1.html"/>
+                <exhibit path="module_21_lesson01/reader_2.html"/>
+                <exhibit path="module_21_lesson01/reader_3.html"/>
+                <exhibit path="module_21_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_21_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_21_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="e15266d3b7ba4da7a922f66038b6d540" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Multimedia Connections</title>
+                <exhibit path="module_2108/multimedia_connections_ellis_island.html"/>
+            </chapter>
+            <chapter data-uuid="4d281cf2e0be4658afe2728260a1ea42" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Growth of Cities</title>
+                <exhibit path="module_21_lesson02/lesson_opener.html"/>
+                <exhibit path="module_21_lesson02/growth_of_urban_areas.html"/>
+                <exhibit path="module_21_lesson02/changing_cities.html"/>
+                <exhibit path="module_21_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_21_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_21_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="9813d663155b41999b78c24fbdc1778f" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>City Life</title>
+                <exhibit path="module_21_lesson03/lesson_opener.html"/>
+                <exhibit path="module_21_lesson03/urban_problems.html"/>
+                <exhibit path="module_21_lesson03/improving_city_life.html"/>
+                <exhibit path="module_21_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_21_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_21_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="030c661a60864258859e00ac4043eea7" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Immigrants and Urban Life</title>
+                <exhibit path="module_21close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_21close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_21close/essential_question.html"/>
+                <exhibit path="module_21close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="8213f5b2799f444db357f82afa6efdc7" designation="Module " enumeration="22">
+            <title>The Progressive Spirit of Reform</title>
+            <chapter data-uuid="c8e5bcca6d374417a1c9ced1d382af0c" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Progressive Spirit of Reform </title>
+                <exhibit path="module_22opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="26310abe389f449f84751c51dd4eb20e" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Gilded Age and the Progressive Movement</title>
+                <exhibit path="module_22_lesson01/lesson_opener.html"/>
+                <exhibit path="module_22_lesson01/lesson_1_.html"/>
+                <exhibit path="module_22_lesson01/progressives_push_for_reforms.html"/>
+                <exhibit path="module_22_lesson01/expansion_of_voting_power.html"/>
+                <exhibit path="module_22_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_22_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_22_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="f5cedc9717814531874d8602af1f6687" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Reforming the Workplace</title>
+                <exhibit path="module_22_lesson02/lesson_opener.html"/>
+                <exhibit path="module_22_lesson02/improving_conditions_for_children.html"/>
+                <exhibit path="module_22_lesson02/safety_and_working_conditions.html"/>
+                <exhibit path="module_22_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_22_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_22_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="ca89314d7891468e9ca0e7518b9abdee" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Rights of Women and Minorities</title>
+                <exhibit path="module_22_lesson03/lesson_opener.html"/>
+                <exhibit path="module_22_lesson03/women_fight_for_temperance_and_voting_rights.html"/>
+                <exhibit path="module_22_lesson03/african_americans_challenge_discrimination.html"/>
+                <exhibit path="module_22_lesson03/limits_of_reform.html"/>
+                <exhibit path="module_22_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_22_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_22_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="9c965cc9ddad4412ba0c49bb20b16782" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Progressive Presidents </title>
+                <exhibit path="module_22_lesson04/lesson_opener.html"/>
+                <exhibit path="module_22_lesson04/roosevelts_progressive_reforms2y8r.html"/>
+                <exhibit path="module_22_lesson04/reforms_of_taft_and_wilson.html"/>
+                <exhibit path="module_22_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_22_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_22_lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="29712994accd4f5ea86b48b900c737aa" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Progressive Spirit of Reform</title>
+                <exhibit path="module_22close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_22close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_22close/essential_question.html"/>
+                <exhibit path="module_22close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="de4ade34ec714db2ae12e3c67b49b26e" designation="Module" enumeration="23">
+            <title>America as a World Power</title>
+            <chapter data-uuid="ebb37841523e4bfb9a100fd2abc0dd24" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>America as a World Power</title>
+                <exhibit path="module_23opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="8330334d511d47de861b2530282fba7d" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The United States Gains Overseas Territories</title>
+                <exhibit path="module_23_lesson01/lesson_opener.html"/>
+                <exhibit path="module_23_lesson01/end_of_isolation.html"/>
+                <exhibit path="module_23_lesson01/hawaii_becomes_a_territory.html"/>
+                <exhibit path="module_23_lesson01/united_states_seeks_trade_with_japan_and_china.html"/>
+                <exhibit path="module_23_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_23_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_23_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="78b83db1d00948f7963fbfc06c96f47f" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Spanish-American War </title>
+                <exhibit path="module_23_lesson02/lesson_opener.html"/>
+                <exhibit path="module_23_lesson02/war_with_spain.html"/>
+                <exhibit path="module_23_lesson02/united_states_gains_territories.html"/>
+                <exhibit path="module_23_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_23_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_23_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="7d8994bb903b4363bf2e2fb425ee20fa" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The United States and Latin America</title>
+                <exhibit path="module_23_lesson03/lesson_opener.html"/>
+                <exhibit path="module_23_lesson03/building_the_panama_canal.html"/>
+                <exhibit path="module_23_lesson03/u_s._policy_toward_latin_america.html"/>
+                <exhibit path="module_23_lesson03/u_s._interests_in_latin_america.html"/>
+                <exhibit path="module_23_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_23_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_23_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="5c77997bfc8b4ea9af8c29b2838b5ba6" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>America as a World Power</title>
+                <exhibit path="module_23close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_23close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_23close/essential_question.html"/>
+                <exhibit path="module_23close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="7c9d38ed4dc4481da686f1223e0a08a9" designation="Module " enumeration="24">
+            <title>World War I</title>
+            <chapter data-uuid="91170ec3af4c450c8427a5837b7a4fd6" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>World War I </title>
+                <exhibit path="module_24opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="797bd1f6ce3e43a58d5c84fdec8181fe" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Road to War</title>
+                <exhibit path="module_24_lesson01/lesson_opener.html"/>
+                <exhibit path="module_24_lesson01/outbreak_of_war.html"/>
+                <exhibit path="module_24_lesson01/early_battles_of_the_war.html"/>
+                <exhibit path="module_24_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_24_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_24_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="03e0f42d293843088db1304679f7b5eb" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Americans Prepare for War</title>
+                <exhibit path="module_24_lesson02/lesson_opener.html"/>
+                <exhibit path="module_24_lesson02/the_united_states_enters_world_war_i.html"/>
+                <exhibit path="module_24_lesson02/mobilizing_for_war.html"/>
+                <exhibit path="module_24_lesson02/new_wartime_opportunities.html"/>
+                <exhibit path="module_24_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_24_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_24_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="d2c046e298ac4a589c5c76feaec52e1f" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Americans in World War I</title>
+                <exhibit path="module_24_lesson03/lesson_opener.html"/>
+                <exhibit path="module_24_lesson03/american_soldiers_arrive.html"/>
+                <exhibit path="module_24_lesson03/winning_the_war.html"/>
+                <exhibit path="module_24_lesson03/armistice.html"/>
+                <exhibit path="module_24_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_24_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_24_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="5e5d8dd4abcc4744ae62df632915426d" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Multimedia Connections</title>
+                <exhibit path="module_2407/multimedia_connections_dear_home_letters_from_world_war_i.html"/>
+            </chapter>
+            <chapter data-uuid="f73affb271bc4422953948503ed09388" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Establishing Peace</title>
+                <exhibit path="module_24_lesson04/lesson_opener.html"/>
+                <exhibit path="module_24_lesson04/the_costs_of_war.html"/>
+                <exhibit path="module_24_lesson04/the_peace_agreement.html"/>
+                <exhibit path="module_24_lesson04/treaty_of_versailles_rejected.html"/>
+                <exhibit path="module_24_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_24_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_24_lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="116b32b642c241098a42e79d66fb10cf" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>World War I </title>
+                <exhibit path="module_24close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_24close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_24close/essential_question.html"/>
+                <exhibit path="module_24close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="44c8f31104ff4790a1bbc638ed5e7c8a" designation="Module " enumeration="25">
+            <title>The Roaring Twenties</title>
+            <chapter data-uuid="21c5c3524e224ba3a8b125cdcb5a658a" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Roaring Twenties</title>
+                <exhibit path="module_25opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="7ae8d3835a9946d3a7f05552997629bd" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Boom Times </title>
+                <exhibit path="module_25_lesson01/lesson_opener.html"/>
+                <exhibit path="module_25_lesson01/reader_1.html"/>
+                <exhibit path="module_25_lesson01/reader_2.html"/>
+                <exhibit path="module_25_lesson01/reader_3.html"/>
+                <exhibit path="module_25_lesson01/reader_4.html"/>
+                <exhibit path="module_25_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_25_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_25_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="6e54aaf7ff754f8c936587e5be655754" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Life during the 1920s </title>
+                <exhibit path="module_25_lesson02/lesson_opener.html"/>
+                <exhibit path="module_25_lesson02/reader_1.html"/>
+                <exhibit path="module_25_lesson02/reader_2.html"/>
+                <exhibit path="module_25_lesson02/reader_3.html"/>
+                <exhibit path="module_25_lesson02/reader_4.html"/>
+                <exhibit path="module_25_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_25_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_25_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="ecb6366bf9c94e97b3d86fc6503e369f" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Jazz Age</title>
+                <exhibit path="module_25_lesson03/lesson_opener.html"/>
+                <exhibit path="module_25_lesson03/reader_1.html"/>
+                <exhibit path="module_25_lesson03/reader_2.html"/>
+                <exhibit path="module_25_lesson03/reader_3.html"/>
+                <exhibit path="module_25_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_25_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_25_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="9ba2d2b145f04421977d11b9d1ff0654" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Roaring Twenties</title>
+                <exhibit path="module_25close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_25close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_25close/essential_question.html"/>
+                <exhibit path="module_25close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="a30ab5836cc6467c9c6549425790566d" designation="Module" enumeration="26">
+            <title>The Great Depression</title>
+            <chapter data-uuid="02336c23e0924798abffcb31e1d69854" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Great Depression </title>
+                <exhibit path="module_26opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="9d5a864b43114f34890bdb575d6818fa" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The End of Prosperity</title>
+                <exhibit path="module_26_lesson01/lesson_opener.html"/>
+                <exhibit path="module_26_lesson01/reader_1.html"/>
+                <exhibit path="module_26_lesson01/reader_2.html"/>
+                <exhibit path="module_26_lesson01/reader_3.html"/>
+                <exhibit path="module_26_lesson01/reader_4.html"/>
+                <exhibit path="module_26_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_26_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_26_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="fc2b789655f841368c8ecfd62ece04af" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Roosevelt’s New Deal</title>
+                <exhibit path="module_26_lesson02/lesson_opener.html"/>
+                <exhibit path="module_26_lesson02/reader_1.html"/>
+                <exhibit path="module_26_lesson02/reader_2.html"/>
+                <exhibit path="module_26_lesson02/reader_3.html"/>
+                <exhibit path="module_26_lesson02/reader_4.html"/>
+                <exhibit path="module_26_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_26_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_26_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="93f944dc5ff44c0c8177f26b206c5f43" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Americans Face Hard Times</title>
+                <exhibit path="module_26_lesson03/lesson_opener.html"/>
+                <exhibit path="module_26_lesson03/reader_1.html"/>
+                <exhibit path="module_26_lesson03/reader_2.html"/>
+                <exhibit path="module_26_lesson03/reader_3.html"/>
+                <exhibit path="module_26_lesson03/reader_4.html"/>
+                <exhibit path="module_26_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_26_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_26_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="10fbdc28ad864381bed66057bfec53ed" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Great Depression</title>
+                <exhibit path="module_26close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_26close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_26close/essential_question.html"/>
+                <exhibit path="module_26close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="02b05f5b5e7f40af883d8a75ad5d079b" designation="Module " enumeration="27">
+            <title>World War II</title>
+            <chapter data-uuid="b24e0dc7f2da4557b6261a749843e802" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>World War II </title>
+                <exhibit path="module_27opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="01358f7f566f43508298ccb2ff4de267" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The War Begins</title>
+                <exhibit path="module_27_lesson01/lesson_opener.html"/>
+                <exhibit path="module_27_lesson01/reader_1.html"/>
+                <exhibit path="module_27_lesson01/reader_2.html"/>
+                <exhibit path="module_27_lesson01/reader_3.html"/>
+                <exhibit path="module_27_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_27_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_27_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="158b2c66f16f47f6a14ec96b82d248a1" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Home Front</title>
+                <exhibit path="module_27_lesson02/lesson_opener.html"/>
+                <exhibit path="module_27_lesson02/reader_1.html"/>
+                <exhibit path="module_27_lesson02/reader_2.html"/>
+                <exhibit path="module_27_lesson02/reader_3.html"/>
+                <exhibit path="module_27_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_27_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_27_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="4a5342caffbe449285991535986dc45f" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>War in Europe and North Africa </title>
+                <exhibit path="module_27_lesson03/lesson_opener.html"/>
+                <exhibit path="module_27_lesson03/reader_1.html"/>
+                <exhibit path="module_27_lesson03/reader_2.html"/>
+                <exhibit path="module_27_lesson03/reader_3.html"/>
+                <exhibit path="module_27_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_27_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_27_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="70116a9a36394346a950407fca0a2f90" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>War in the Pacific</title>
+                <exhibit path="module_27_lesson04/lesson_opener.html"/>
+                <exhibit path="module_27_lesson04/reader_1.html"/>
+                <exhibit path="module_27_lesson04/reader_2.html"/>
+                <exhibit path="module_27_lesson04/reader_3.html"/>
+                <exhibit path="module_27_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_27_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_27_lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="588140c318b344b695448411cc0864bd" designation="Lesson" enumeration="5" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Victory and Consequences</title>
+                <exhibit path="module_27_lesson05/lesson_opener.html"/>
+                <exhibit path="module_27_lesson05/reader_1.html"/>
+                <exhibit path="module_27_lesson05/reader_2.html"/>
+                <exhibit path="module_27_lesson05/reader_3.html"/>
+                <exhibit path="module_27_lesson05/reader_4.html"/>
+                <exhibit path="module_27_lesson05/lesson_5_review.html"/>
+                <exhibit path="module_27_lesson05/lesson_5_enrichment.html"/>
+                <exhibit path="module_27_lesson05/credits.html"/>
+            </chapter>
+            <chapter data-uuid="3354544e6f574698a52ea4751ed307bb" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Multimedia Connections</title>
+                <exhibit path="module_2707/multimedia_connections_memories_of_world_war_ii.html"/>
+            </chapter>
+            <chapter data-uuid="66b8a9858a7d450faf8694ae7bd989fe" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>World War II </title>
+                <exhibit path="module_27close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_27close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_27close/essential_question.html"/>
+                <exhibit path="module_27close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="f8277d4a67a6458bb40e44f2bac8665f" designation="Module" enumeration="28">
+            <title>The Cold War</title>
+            <chapter data-uuid="83caabfcf129493cb3d6c432f2e4edb5" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Cold War</title>
+                <exhibit path="module_28opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="4e3fd6508b874b9ea3086618f7e7d250" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Adjusting to Peace</title>
+                <exhibit path="module_28_lesson01/lesson_opener.html"/>
+                <exhibit path="module_28_lesson01/reader_1.html"/>
+                <exhibit path="module_28_lesson01/reader_2.html"/>
+                <exhibit path="module_28_lesson01/reader_3.html"/>
+                <exhibit path="module_28_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_28_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_28_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="17276fb07bbd426ea7bfadc179567ba7" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>War in Korea and a New Red Scare </title>
+                <exhibit path="module_28_lesson02/lesson_opener.html"/>
+                <exhibit path="module_28_lesson02/reader_1.html"/>
+                <exhibit path="module_28_lesson02/reader_2.html"/>
+                <exhibit path="module_28_lesson02/reader_3.html"/>
+                <exhibit path="module_28_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_28_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_28_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="b35eca262e044545a6cfe731765eac0e" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Nation Prospers</title>
+                <exhibit path="module_28_lesson03/lesson_opener.html"/>
+                <exhibit path="module_28_lesson03/americas_economy_in_the_1950swd2r.html"/>
+                <exhibit path="module_28_lesson03/american_pop_culture.html"/>
+                <exhibit path="module_28_lesson03/social_critics.html"/>
+                <exhibit path="module_28_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_28_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_28_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="4e11c39d01ca4d6fabe8ace2fea3ecaf" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Cold War</title>
+                <exhibit path="module_28close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_28close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_28close/essential_question.html"/>
+                <exhibit path="module_28close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="c252e5d1a0b04341b25f24d0230c331f" designation="Module" enumeration="29">
+            <title>The Vietnam War Years</title>
+            <chapter data-uuid="42bb1ffd7e874e83916e5faa336698d7" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Vietnam War Years</title>
+                <exhibit path="module_29opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="abefb9be4133466989c2715fb56ce9a8" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Kennedy and Foreign Policy</title>
+                <exhibit path="module_29_lesson01/lesson_opener.html"/>
+                <exhibit path="module_29_lesson01/kennedy_confronts_communism.html"/>
+                <exhibit path="module_29_lesson01/race_to_the_moon.html"/>
+                <exhibit path="module_29_lesson01/conflict_in_vietnam.html"/>
+                <exhibit path="module_29_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_29_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_29_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="f8e74859a50144938aeb0b21ab8859e8" designation="" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Multimedia Connections</title>
+                <exhibit path="module_2907/multimedia_connections_october_fury_the_cuban_missile_crisis.html"/>
+            </chapter>
+            <chapter data-uuid="9ee42a34bda54b47a5c81160edbc78d6" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Escalation in Vietnam</title>
+                <exhibit path="module_29_lesson02/lesson_opener.html"/>
+                <exhibit path="module_29_lesson02/johnson_commits_to_victory.html"/>
+                <exhibit path="module_29_lesson02/u_s._soldiers_in_vietnam.html"/>
+                <exhibit path="module_29_lesson02/turning_points_in_vietnam.html"/>
+                <exhibit path="module_29_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_29_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_29_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="6a85323be58b4f949bf64d5800b1772f" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The End of the War </title>
+                <exhibit path="module_29_lesson03/lesson_opener.html"/>
+                <exhibit path="module_29_lesson03/society_in_the_1960s.html"/>
+                <exhibit path="module_29_lesson03/the_war_under_nixon.html"/>
+                <exhibit path="module_29_lesson03/the_vietnam_war_ends.html"/>
+                <exhibit path="module_29_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_29_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_29_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="ab7a201d7a674d85aa0855f2a4ed85b1" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Vietnam War</title>
+                <exhibit path="module_29close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_29close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_29close/essential_question.html"/>
+                <exhibit path="module_29close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="80f99d1502c74abf8ec7cfbeecfdae19" designation="Module" enumeration="30">
+            <title>The Civil Rights Movement</title>
+            <chapter data-uuid="4218ce23276d49209a3d18633e6ad5f8" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Civil Rights Movement</title>
+                <exhibit path="module_30opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="daf95e6cb3a94007bd9cd00a17a8ead2" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Civil Rights Movement Takes Shape</title>
+                <exhibit path="module_30_lesson01/lesson_opener.html"/>
+                <exhibit path="module_30_lesson01/battling_segregation.html"/>
+                <exhibit path="module_30_lesson01/montgomery_bus_boycott.html"/>
+                <exhibit path="module_30_lesson01/sitins_and_the_sncc.html"/>
+                <exhibit path="module_30_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_30_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_30_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="09442c0d345c4319ae7d483fc9de5df7" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Kennedy, Johnson, and Civil Rights </title>
+                <exhibit path="module_30_lesson02/lesson_opener.html"/>
+                <exhibit path="module_30_lesson02/kennedy_elected.html"/>
+                <exhibit path="module_30_lesson02/the_fight_for_rights_continues.html"/>
+                <exhibit path="module_30_lesson02/johnson_becomes_president.html"/>
+                <exhibit path="module_30_lesson02/changes_in_the_civil_rights_movement.html"/>
+                <exhibit path="module_30_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_30_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_30_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="a22d741fb72d4725ac8497c85281bc7a" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Rights for Other Americans </title>
+                <exhibit path="module_30_lesson03/lesson_opener.html"/>
+                <exhibit path="module_30_lesson03/hispanic_americans_organize_for_change.html"/>
+                <exhibit path="module_30_lesson03/the_womens_movementtc6k.html"/>
+                <exhibit path="module_30_lesson03/other_voices_for_change.html"/>
+                <exhibit path="module_30_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_30_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_30_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="64bc097452ed486eac007df493ef247a" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Civil Rights Movement</title>
+                <exhibit path="module_30close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_30close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_30close/essential_question.html"/>
+                <exhibit path="module_30close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="f19e3d5addfb4d8a891414f2091e7d93" designation="Module" enumeration="31">
+            <title>Searching for Order</title>
+            <chapter data-uuid="a1deb8a66aae45e6b2f7ecf454d777cc" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Searching for Order</title>
+                <exhibit path="module_31opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="8cfe1f2e881241219912ebc41eedad9b" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Nixon’s Presidency and Watergate</title>
+                <exhibit path="module_31_lesson01/lesson_opener.html"/>
+                <exhibit path="module_31_lesson01/domestic_challenges.html"/>
+                <exhibit path="module_31_lesson01/nixons_foreign_policyxj9l.html"/>
+                <exhibit path="module_31_lesson01/the_watergate_scandal.html"/>
+                <exhibit path="module_31_lesson01/ford_as_president.html"/>
+                <exhibit path="module_31_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_31_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_31_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="ce7eaf6cccf24fe5af26c3501947a63d" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>America in the 1970s </title>
+                <exhibit path="module_31_lesson02/lesson_opener.html"/>
+                <exhibit path="module_31_lesson02/social_issues_of_the_1970s.html"/>
+                <exhibit path="module_31_lesson02/carter_elected.html"/>
+                <exhibit path="module_31_lesson02/carter_and_foreign_policy.html"/>
+                <exhibit path="module_31_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_31_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_31_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="84d9552bc6964bdd80afe2a9827a1e33" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Reagan Presidency</title>
+                <exhibit path="module_31_lesson03/lesson_opener.html"/>
+                <exhibit path="module_31_lesson03/reagan_and_conservative_ideas.html"/>
+                <exhibit path="module_31_lesson03/reagan_and_foreign_policy.html"/>
+                <exhibit path="module_31_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_31_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_31_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="7a39c714d5914cf381499d884a282d96" designation="Lesson" enumeration="4" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The End of the Twentieth Century </title>
+                <exhibit path="module_31_lesson04/lesson_opener.html"/>
+                <exhibit path="module_31_lesson04/george_h__w._bush.html"/>
+                <exhibit path="module_31_lesson04/clintons_presidencyrc6k.html"/>
+                <exhibit path="module_31_lesson04/lesson_4_review.html"/>
+                <exhibit path="module_31_lesson04/lesson_4_enrichment.html"/>
+                <exhibit path="module_31_lesson04/credits.html"/>
+            </chapter>
+            <chapter data-uuid="222c4587d753427ab80c25b33b2dcf9b" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Searching for Order</title>
+                <exhibit path="module_31close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_31close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_31close/essential_question.html"/>
+                <exhibit path="module_31close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="1c3786ed7c974435b8ddc15795fead14" designation="Module" enumeration="32">
+            <title>The Twenty-First Century</title>
+            <chapter data-uuid="860552e8d43f4e4d923f924925ea0c25" designation="Opener" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Twenty-First Century</title>
+                <exhibit path="module_32opener/essential_question.html"/>
+            </chapter>
+            <chapter data-uuid="dbd8aaf44c1a411b88a823994e7695ac" designation="Lesson" enumeration="1" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Challenges for a New Millennium</title>
+                <exhibit path="module_32_lesson01/lesson_opener.html"/>
+                <exhibit path="module_32_lesson01/the_2000_presidential_election.html"/>
+                <exhibit path="module_32_lesson01/fighting_terrorism.html"/>
+                <exhibit path="module_32_lesson01/the_new_global_economy.html"/>
+                <exhibit path="module_32_lesson01/lesson_1_review.html"/>
+                <exhibit path="module_32_lesson01/lesson_1_enrichment.html"/>
+                <exhibit path="module_32_lesson01/credits.html"/>
+            </chapter>
+            <chapter data-uuid="851388ef658f48fb8c9ec72b4dc0cb9f" designation="Lesson" enumeration="2" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Domestic and Foreign Policy Issues</title>
+                <exhibit path="module_32_lesson02/lesson_opener.html"/>
+                <exhibit path="module_32_lesson02/george_w__bush.html"/>
+                <exhibit path="module_32_lesson02/barack_obama.html"/>
+                <exhibit path="module_32_lesson02/the_2016_presidential_election.html"/>
+                <exhibit path="module_32_lesson02/lesson_2_review.html"/>
+                <exhibit path="module_32_lesson02/lesson_2_enrichment.html"/>
+                <exhibit path="module_32_lesson02/credits.html"/>
+            </chapter>
+            <chapter data-uuid="c573606302a24e6ea9b0f54efc6d7ba4" designation="Lesson" enumeration="3" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>Rapid Changes</title>
+                <exhibit path="module_32_lesson03/lesson_opener.html"/>
+                <exhibit path="module_32_lesson03/technology_moves_forward.html"/>
+                <exhibit path="module_32_lesson03/the_changing_american_population.html"/>
+                <exhibit path="module_32_lesson03/lesson_3_review.html"/>
+                <exhibit path="module_32_lesson03/lesson_3_enrichment.html"/>
+                <exhibit path="module_32_lesson03/credits.html"/>
+            </chapter>
+            <chapter data-uuid="bb623ebfe8bb488bb4ea5e54d1d940b3" designation="Close" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title>The Twenty-First Century</title>
+                <exhibit path="module_32close/document_based_investigation_part_1.html"/>
+                <exhibit path="module_32close/document_based_investigation_part_2.html"/>
+                <exhibit path="module_32close/essential_question.html"/>
+                <exhibit path="module_32close/module_review.html"/>
+            </chapter>
+        </unit>
+        <unit data-uuid="9e5ba404aa874b6c975189f4263dfa78" designation="Epilogue" enumeration="">
+            <title/>
+            <chapter data-uuid="3cbe68f981d44d90b8e50981a5e31493" designation="EPILOGUE" enumeration="" thumbnailpath="../img/.templates/chapter_thumbnail.png" sandbox="false">
+                <title/>
+                <exhibit path="epilogue06/reader_1.html"/>
+                <exhibit path="epilogue06/credits.html"/>
+            </chapter>
+        </unit>
+    </spine>
+</toc>

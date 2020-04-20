@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="60f2715910e54f968d01872170aab462" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="abd9066c38584d9ca16756d5a2e1f903">
+            <div class="header-element header-container " data-uuid="7b18fe12f77e4dba9d7caeb384e0aae8">
+                <p class="lesson-number" data-uuid="47c9f5e23dd5406ea48253617e6e1b1e"><br />
+                </p>
+                <h2 data-uuid="deb21ae7a8ba4b8f9196f05a1c432587"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="277d0fb2dc2f4beea5f19e926fb8c6aa">In this module you’ve
+                    learned about the civilizations and societies that existed in the Americas, Africa,
+                    and Europe before 1500. Now it’s your turn to demonstrate your understanding of
+                    the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="1f94a78b3bdd48dcaad5e972349f0c8a">Why might a U.S. historian study the Americas, Africa, and Europe before 1500?</h3>
+            <p data-uuid="57d11459074a4edca8b508e2e70a1e2f">Write a persuasive essay
+                answering this question. Your essay should include key people, events, and
+                turning points in the histories of each world region. Be sure to cite evidence
+                to support your position and organize your essay into an introduction, body,
+                and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="e3a20a636448487da7cf53a45171b706">
+            <button data-teacher-view-toggle="true" data-uuid="ee65bf4da82a4b3f9b2242c1700d56e5"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="41939bec97c54e91900d89d4ffd6d2c1">
+                <param name="configFile" value="../../widget_data/config/41939bec97c54e91900d89d4ffd6d2c1.json" />
+            </object>
+        </section>
+        <p data-uuid="b5fa10f5e92d4cc7b3a6356d2089c07a"><br />
+        </p>
+    </body>
+</html>

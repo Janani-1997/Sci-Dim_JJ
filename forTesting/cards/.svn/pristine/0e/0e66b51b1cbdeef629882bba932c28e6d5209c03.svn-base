@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="35be9978df804430bf1df16229d7aab4">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="f848331fbce646448b0d9341ef70d150">
+        <div data-uuid="79f21ff3de1d445c8b21e11418fa0d50">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="e161555695eb4a658a3757232e72f522"/>
+          <div class="header-element" data-uuid="72b237e13ca44291b4bc7c022d670642">
+                        <section class="calendar-container-bottom" data-uuid="3c63a49089ae43dc823dea543550e47b">
+                            <div class="yellow-star-yellow-bar" data-uuid="4f7821805c9c4ba5a66387fda856e98b"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="6a4365eec62c41f6b06ef4510b86032d">The Progressive Spirit of Reform</h1>
+                        </section>
+            <section class="eq-container" data-uuid="8a1a245d3c1e4a85af5e30d6b5a7921c">
+                <figure class="image " data-uuid="aab5c6f5486d47fe94675ed7bb394e82">
+                  
+                        <img alt="This photograph shows female suffragettes parading through a street as they fight to get the vote for women. One women pushed a small child in a stroller." data-uuid="a39ae49581cd49c1b6c58c5eb74165f3" src="../../img/module_22opener/ms_snlese454149_605p.jpg" />
+                          </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="2c26be146ca34a2bb9b2db69f806ac8d">
+                        <p class="caption" data-uuid="4a8b11954f5547d28566d4d3c7abee9a">The reform movements of the late 1800s and early 1900s were led by ordinary citizens such as these women, calling for their right to vote.</p>
+                    </div>
+              
+            <article data-uuid="de159fdf97e54f508dc26c98e99160c3">
+                <h3 class="eq" data-uuid="796d6cfa1a194c34ab10ca1ef15d3258">Essential Question</h3>
+                <h3 class="eqt" data-uuid="021c6dcd8a2e4a10bb964bdbdc1f7618">How progressive were the Progressives?</h3>
+                <p data-uuid="e338a522c3b1414d89170427d606fed6">Americans had long thought of the United States as a land of opportunity. Yet in the late 1800s, life seemed grim for many. People worked long hours in cramped factories. Many lived in unsafe apartment buildings. The food they ate could prove dangerous to their health. Different groups of Americans were even denied basic rights. These conditions led some Americans to seek changes, or reforms. They became known as Progressives.</p>
+                <p data-uuid="e3e4f5dab17a445d81c6f6f3116ff91f">As you read this module, look for evidence of key events in the reform
+                    movements that shaped the United States in the late 1800s and early 1900s. Note the key
+                    people, decisions, circumstances, and turning points that resulted in the spread of progressive ideas and initiatives across the nation. When you are
+                    done, you will write a short essay answering the Essential Question for this
+                    module.</p>
+            </article>
+        </section>
+        <section class="module-opener" data-uuid="0f0b09c8ab5d4de3b965c3fe44beede1">
+            <section class="video-container " data-uuid="09340b1a3da343dca9f8cca6cb7491de">
+                <article data-uuid="9a7b79156fd1453fb78c80f7550de8ff">
+                    <h3 class="vid" data-uuid="b51f1d6f8b0b41f2adc8638681b394de">Teddy Roosevelt vs. Corporate America</h3>
+                    <p data-uuid="147a775dfa2e483c8da32cfeba33a7ef">Toward the end of the 1800s, the average American felt overworked and taken advantage of. Businesses and the wealthy seemed to control the country. More and more people called for changes. They used their vote to elect a president who would work for reform.</p>
+                    <section class="video" data-uuid="2214c732f7574d14bbcd28a86b63fe7e">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="0d26bccbd7f645be9ded1054574d8c72">
+                            <param name="configFile" value="../../widget_data/config/0d26bccbd7f645be9ded1054574d8c72.json" />
+                        </object>
+                    </section>
+                </article>
+            </section>
+            <section class="timeline-container " data-uuid="0129cc50e7b848bea3e0ae88565567f2">
+                <article data-uuid="8d65518189ec4d20b56682f12e35814c">
+                    <section class="question-long-text" data-uuid="ae4b26a7f09946ddae7475c21d151b61">
+                        <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="cad2095ad6b54b2191d1cfddaf106d47">
+                            <param name="configFile" value="../../widget_data/config/cad2095ad6b54b2191d1cfddaf106d47.json" />
+                        </object>
+                    </section>
+                    <h3 class="mod" data-uuid="1fb0ef4e5d0641848326613af296a127">The Progressive Spirit of Reform</h3>
+                    <p data-uuid="f25d2aede4d945cd880cf2b164e5ddf9">In the late 1800s and early 1900s, rapid industrial and urban growth
+                        created problems that many Americans wanted to solve. Reformers worked to
+                        eliminate political corruption and the causes of poverty, disease, and crime. They made progress toward
+                        better living and working conditions, honest government, and broader political
+                        rights.</p>
+                </article>
+            </section>
+        </section>
+        <section class="module-opener" data-uuid="51e4bf89a5184f098fe2058ba6883207">
+            <section class="timeline" data-uuid="2a21b4229b6c4c5e92f3ce254c52827e">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="8f46cb89e07748f7b178489005c1702d">
+                    <param name="configFile" value="../../widget_data/config/8f46cb89e07748f7b178489005c1702d.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="6816638ccef84554930ee02612a07297">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="adbaae8358b149769fd916549fc9b782">
+                <param name="configFile" value="../../widget_data/config/adbaae8358b149769fd916549fc9b782.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="b70390d1ca0a4d9187b24fc7406e1460">
+            <button data-teacher-view-toggle="true" data-uuid="34bc5a8f9c5d4747b5e2449e25b7f3aa"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d05ad79dc6db41f599078a48b46876b1">
+                <param name="configFile" value="../../widget_data/config/d05ad79dc6db41f599078a48b46876b1.json" />
+            </object>
+        </section>
+    </body>
+</html>

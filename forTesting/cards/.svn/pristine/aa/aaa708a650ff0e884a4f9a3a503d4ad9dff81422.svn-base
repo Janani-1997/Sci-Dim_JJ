@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d9fb760edd374f5e812027548150c147" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="bf4c8df9010f457797e995581e4a00d6">
+            <div class="header-element header-container " data-uuid="a7048c0d7de54d6c85c634db5281e9b3">
+                <p class="lesson-number" data-uuid="4b2eb115192a4ae7b3556a45c0ed2535">Lesson 2</p>
+                <h2 data-uuid="1c56f51d2dd74f12a9b33bf0376116e3">Assessment</h2>
+            </div>
+            <h5 data-uuid="b167eef9cc3949259d13c23d28ffe419">The New Nation Faces Challenges</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="ffd1309f029548b0b9e42cefa22e6792">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="779ce089c50044eaab7906936d61cccb">
+                <param name="configFile" value="../../widget_data/config/779ce089c50044eaab7906936d61cccb.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="49c69f5eee3144ab95130ed3275d8d11">
+            <button data-teacher-view-toggle="true" data-uuid="d217aefb7bae46e7a6ec1b0b2be89fa7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7d13098454db4f13b61ce2844f2882ce">
+                <param name="configFile" value="../../widget_data/config/7d13098454db4f13b61ce2844f2882ce.json" />
+            </object>
+        </section>
+        <p data-uuid="31eefe8dbf1d45079466b64efea9ae0c"><br />
+        </p>
+    </body>
+</html>

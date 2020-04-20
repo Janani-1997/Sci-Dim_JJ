@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="a8c5dda44b5748d387f42d056228f73c">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Constitutional Convention</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="530a4c801930447bbd91cf90a8a685e6">
+            <article data-uuid="39a047767f924ef7967cdacda0bf46a5">
+                <h4 data-uuid="27809be82ca74b16ba151924a80e1abd">Main Idea</h4>
+                <p class="main-idea" data-uuid="ddfadd04d9264eed8cf89e6d392a70e8">State delegates met at the
+                    Constitutional Convention to improve the national government.&#160;</p>
+                <h2 data-uuid="23417eb9a88e478999aa2518c9dac4a0">Constitutional Convention</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="459f5265b41c4fc99e09fb98cab996b5"></div>
+            </article>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="e86dcc5093754f80b0b73bcb2b369c47">
+            <div class="go-prompt-bottom-bar" data-uuid="9d8d20c54bb04380b8dec1b8d4c94a1e">
+                <p data-uuid="081f3b8075d841f69372d9bf00819ae9">As you read, use the graphic organizer to take
+                    notes on the delegates to the convention.</p>
+            </div>
+        </section>
+        <p data-uuid="9bf2d5877873406b84180183fa773396">The Confederation Congress invited
+            each state to send delegates to a convention with the goal of improving the
+            Articles of Confederation. The convention opened on May 25, 1787, in
+            Philadelphia. The first order of business was to nominate a president for the
+            convention. Every delegate voted for the hero of the Revolution, George
+            Washington.</p>
+        <p data-uuid="3a49d292fc7542ef9f53941bf8ab5a16">The
+            55 delegates to the <b><dfn title="Constitutional Convention">Constitutional Convention</dfn></b>, as the Philadelphia
+            meeting became known, were a very impressive group. Many had been members of
+            their state legislatures and had helped write their state constitutions. Roger
+            Sherman, a Connecticut delegate, was a signer of the Declaration of
+            Independence and the Articles of Confederation. Pennsylvania’s Gouverneur
+            Morris had also signed the Articles of Confederation. Pennsylvania
+            delegate James Wilson was known for his brilliant legal mind. Virginia delegate
+            <b><dfn title="Madison, James">James Madison</dfn></b>&#160;contributed many ideas
+            that shaped the Constitution.</p>
+        <figure class="image-with-caption text-center main" data-uuid="bd0c407071984d99989ad722d7d5003e">
+            <img alt="This photo shows Independence Hall in Philadelphia, Pennsylvania, where the Second Continental Congress held its meetings." data-uuid="50169dd048434cd9b30ad33df60b1727" src="../../img/module_6_lesson01/ms_snlese454149_235ap.jpg" />
+            <div class="figcaption" data-uuid="40c2c01f3180457b83a63d9e342f5209">
+                <h5 data-uuid="35943224c9c4449fb6faa1f7d3a5dc1a">Convention Meeting Place&#160;</h5>
+                <p class="caption" data-uuid="3c6260708dc34ab9a086c4be7a6dcaf6">Delegates to the Constitutional Convention met
+                    in Philadelphia’s Independence Hall. The Second Continental Congress had held its
+                    meetings in this building, and the Declaration of Independence was signed
+                    there.
+                </p>
+            </div>
+        </figure>
+        <p data-uuid="930086a5d0d84c758da6def08859406a">A
+            number of key people were unable to attend. Thomas Jefferson and John Adams
+            were overseas at their diplomatic posts. Others had political objections. For
+            example, Patrick Henry, who had been elected as a delegate from Virginia,
+            refused to go. He said he “smelled a rat . . . tending toward monarchy.”</p>
+        <p data-uuid="648a3473d48a4b96a60fea73aef364ba">Also,
+            the convention did not reflect the diverse U.S. population of the 1780s. There
+            were no Native Americans, African Americans, or women among the delegates.
+            These groups of people were not recognized as citizens and were not invited to
+            attend.</p>
+        <section class="question-long-text" data-uuid="5ac79da9786a4200b992e0988ab540f9">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="51c92af2549f49e28733be5e8ad86817">
+                <param name="configFile" value="../../widget_data/config/51c92af2549f49e28733be5e8ad86817.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="a196db1a99844ba79ffafba9fccf0e9a">
+            <div class="go-prompt-bottom-bar" data-uuid="66b38b0a5896498bbce6d885840ec5f3">
+                <p data-uuid="ce11c67832f24a6cb00af18e9bb4c657">Remember to use the
+                    graphic organizer to take notes on the delegates to the convention.&#160;</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="049ac90f2cc54e73942fe22751972011">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="8b2171e8bbb344439d109ee2331a7687">
+                <param name="configFile" value="../../widget_data/config/8b2171e8bbb344439d109ee2331a7687.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="2a6db846fe36405486a37a7b4f9c9586"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="427832afcdf2421e9bab2650a8738666">
+            <button data-teacher-view-toggle="true" data-uuid="f6232655674e495fa00f674c0b85c689"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="627f2c1c878545df87ecf7836fa30129">
+                <param value="../../widget_data/config/627f2c1c878545df87ecf7836fa30129.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

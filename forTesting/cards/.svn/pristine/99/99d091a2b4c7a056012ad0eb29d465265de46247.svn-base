@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="17e5a124632142d89629e63480968f82">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body class="lesson-opener">
+        <section class="lesson-opener " data-uuid="3a9ce36cdc194ef0b74dfb1cc539f1d6">
+            <p class="lesson-number" data-uuid="49d7cd31864c4060992130ff3396549b">Lesson 1</p>
+            <article class="header-container" data-uuid="d1b8b332e7db4fffb7703d77bcada5fc">
+                <div class="header-element" data-uuid="356fa0de1ed94c2688b6a7e118fe593d">
+                    <h1 data-uuid="9f74a656b16a485bac9038a7aab53ead">A Growing Nation</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="2691cbb9a09d4ea48b18fe9f2bafff38"></div>
+                    <h2 data-uuid="92edc5c46c6a4bf2b3a5c8b383dc7e1a">The Big Idea</h2>
+                    <p data-uuid="40c404052b3c40699760a59d06724cf8">As Americans explored and settled in the West, the nation expanded.</p>
+                </div>
+            </article>
+            <article data-uuid="198650b7d6fc4432b13982cdb1467072">
+                <h3 class="if-you-were-there" data-uuid="b07723164d794b9ca88f0d71330ea200">If YOU were there...</h3>
+                <p data-uuid="07867dff6ba549c8a7a55d7a66853315">You and your family live on a small farm in Kentucky in about 1800. Raised on the frontier, you are a skillful hunter and trapper. One day at the trading post, you see a poster calling for volunteers to join the Corps of Discovery. This expedition will explore the vast region west of the Mississippi River. You think it would be exciting—but dangerous. You might never come home. </p>
+            </article>
+            <section class="reading-check" data-uuid="3461630030fb42c8b07863f6663ed8af">
+                <section class="question-long-text" data-uuid="291f88cdeba84f54b30dabe3a382e9bc">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4e7c60c70dad419cb7e93ce8850f6f5e">
+                        <param name="configFile" value="../../widget_data/config/4e7c60c70dad419cb7e93ce8850f6f5e.json" />
+                        <param name="audio_description" value="Enter your answer. You may also save your answer to your Notebook." />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-uuid="f16961913049475fa789dfb0917288f9" data-teacher-view="v0.1.0">
+            <button data-teacher-view-toggle="true" data-uuid="0bdf192bdf6e4255a7935f44d098b09d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data-uuid="142991f3e7f04a59990236975780e66b" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget">
+                <param value="../../widget_data/config/142991f3e7f04a59990236975780e66b.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

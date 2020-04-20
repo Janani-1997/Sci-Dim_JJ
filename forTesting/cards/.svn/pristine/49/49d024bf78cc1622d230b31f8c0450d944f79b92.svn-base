@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="27ba2e12dead43438adc4118c92e6e8a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="89ecd64b08864f6fbe6972d430bb1549">
+            <p class="lesson-number" data-uuid="438203c4305d4694b8fd231cf109a3a5">Lesson 3</p>
+            <article class="header-container" data-uuid="2b25440eebf143d783cb42fc57e57613">
+                <div class="header-element" data-uuid="2f008e6120d24c42b3f4cad298812e1b">
+                    <h1 data-uuid="d47c57e1b655416396364c869e9d20c3">The Nation Prospers</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="ac5a7f45e4464070a6ecda01a421a4a9"></div>
+                    <h2 data-uuid="aea11ef45dff47e7b82e511ad71cbcf3">The Big Idea</h2>
+                    <p data-uuid="ba96a6c12a8d4fb78ab650c0d1ce27ca">An expanding economy led to new ways of life for
+                        many Americans in the 1950s.</p>
+                </div>
+            </article>
+            <article data-uuid="61ed6b526e20457891cb62714305f826">
+                <h3 class="if-you-were-there" data-uuid="6da09b8126fe468fb9457c76a20f2d6e">If YOU were there...</h3>
+                <p data-uuid="bad373d26c0a42329c47156dabb1c80f">You live with your parents in an apartment building in
+                    1954. You have grown up in the city, and you are used to walking or taking the
+                    subway everywhere you need to go. But your parents are talking about moving out
+                    to the suburbs. They like the idea of having a house of their own, with a
+                    driveway and a backyard. They ask what you think about moving to the suburbs.</p>
+            </article>
+            <section class="reading-check" data-uuid="b815ab28d8534d69addf38a729a01a39">
+                <section class="question-long-text" data-uuid="1c0910206fad4bdda8642fda0b21dfad">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="71d5c2a9e57c4354a8c1bbd7184050c3">
+                        <param name="configFile" value="../../widget_data/config/71d5c2a9e57c4354a8c1bbd7184050c3.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="68f206ddddfc4577abada60d1c600674">
+            <button data-teacher-view-toggle="true" data-uuid="f2480fa0b5cb4ec9b1a218c1f63de980"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0d3abcdebe2b4ee4a0652b7c12e00293">
+                <param name="configFile" value="../../widget_data/config/0d3abcdebe2b4ee4a0652b7c12e00293.json" />
+            </object>
+        </section>
+        <p data-uuid="44d525d2baba403fa612ebd2d4d795c3"><br />
+        </p>
+    </body>
+</html>

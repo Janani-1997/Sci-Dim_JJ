@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="bdb10bd8e8c44168950e36b9266909d7">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="dcb8aa409fe44602a0ac90c9d5c57caf">
+            <p class="lesson-number" data-uuid="7426ded3d17947bea7420741fa9bb5b1">Lesson 2</p>
+            <article class="header-container" data-uuid="f837fedcebba4ab8b43717ab2df7b4e6">
+                <div class="header-element" data-uuid="b419444936f34b80b5b57a53fbc284ad">
+                    <h1 data-uuid="d77ff21bbe3a4039800c518de67c7463">Escalation in Vietnam</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="a55d4c933a994d2eae81aa29deb7882e"></div>
+                    <h2 data-uuid="40b9b36207914639940b57a99f9c20f3">The Big Idea</h2>
+                    <p data-uuid="024ba5d5961d4bbe85b0754f2cc2252b">Johnson quickly expanded U.S.
+                        involvement in Vietnam, but American soldiers faced a determined enemy.</p>
+                </div>
+            </article>
+            <article data-uuid="24c71b3bf1a0445a866c6a0c7bc97d75">
+                <h3 class="if-you-were-there" data-uuid="196e3aa6ab25435aa11a10cf83592cc7">If YOU were there...</h3>
+                <p data-uuid="1bd97ace54a1405b95039007467b741d">It is 1965, and you have just
+                    been elected to Congress. You know voters are concerned about events in
+                    Vietnam, and you are carefully following the progress of the war. No one knows
+                    what will happen if the United States gets more deeply involved in the
+                    conflict. It might turn back the tide of communism. On the other hand,
+                    thousands of young soldiers might die.</p>
+            </article>
+            <section class="reading-check" data-uuid="a7477ace82d342598705071166f9e396">
+                <section class="question-long-text" data-uuid="82c2f49babc4462a9a3f4ad1026e4800">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="669da35f9d7d45caa927647bcc641c3e">
+                        <param name="configFile" value="../../widget_data/config/669da35f9d7d45caa927647bcc641c3e.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6ee1e8bbf25e4b28af81fa91ef49d5b8">
+            <button data-teacher-view-toggle="true" data-uuid="d7acc4f209ec458e8d8e2fa27bbb6700"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0313e18eea84440790c4e76d56f47a89">
+                <param name="configFile" value="../../widget_data/config/0313e18eea84440790c4e76d56f47a89.json" />
+            </object>
+        </section>
+        <p data-uuid="31bd5ddb8d67406dac5b30cfa6a6cd11"><br />
+        </p>
+    </body>
+</html>

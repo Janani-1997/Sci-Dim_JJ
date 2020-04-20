@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d2c2611712b54fb29360f13873d39653" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="15d11e70bbab4fd597c1581d9db13e12">
+            <div class="header-element header-container " data-uuid="a44392505a634df39901ca2d8d059128">
+                <p class="lesson-number" data-uuid="46223a57b60440b2aa749fd3d72c3daf"><br />
+                </p>
+                <h2 data-uuid="1e6786e38da44d0a8d06c91568219227"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="3611184a5f49469dacf0e57b45b56753">Part 2: Write an Analytical Essay</h3>
+            <h6 data-uuid="087eba0b66d244ea965d07a68c486e1b">Historical Context</h6>
+            <p data-uuid="ac7c929ab06e4599a236ee77dee39622">In the early 1800s success in war and diplomacy led to U.S. expansion and a growing sense of nationalism. Through war and diplomatic effort, the United States secured its borders and acquired
+                millions of acres of new land for U.S. settlement, ultimately forcing Native Americans to
+                search for new homes.</p>
+            <h6 data-uuid="acabc264665d4392aecef1969de3c064">Task</h6>
+            <p data-uuid="6011e47fc58149c4a65aae72b3ecae7e">Consider the social, political, and geographic consequences of the use of war and diplomacy. How did war and diplomacy change the United States and people's lives in the early 1800s? Think about how American, Native American, British, and French perspectives of war and diplomacy during this period might have differed. Write an essay using evidence from the documents in this exercise and the content presented in this module to support your answer.</p>
+        </section>
+        <section class="module-close-dbi" data-uuid="8db64f2df1594a3eaa24b13ac305c8b5">
+            <p data-uuid="6be822991eb54b60951f944bd9d84578">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="ef940d3c17304d5c977d46d5a2ef0917">
+                <li data-uuid="0397d379141946c2a1dcfb5d5dcf7c1f">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="2731c5b8536e4e9ba157de62afa879f7">
+                    Use at least <i>two</i> of the sources in Part 1, and develop the topic
+                    with relevant, well-chosen text evidence from the documents.
+                </li>
+                <li data-uuid="a4d3402d3d57461db006247656266e17">
+                    Cite specific text evidence from each of the sources in your
+                    response.
+                </li>
+                <li data-uuid="736e9877717a4e4b8bbc5f00b6dcae50">
+                    Plan your essay so that it includes an introduction, several body&#160;body
+                    paragraphs, and a concluding paragraph.</li>
+                <li data-uuid="5ec2cf62c7954375bc6c6aba27545729">Organize your essay in a clear and logical way, and use relevant details to support your analysis.<span>&#160;</span><br />
+                </li>
+                <li data-uuid="5b9766df94e94fd58e47b8e4bd4903b6">Write a conclusion that sums up your ideas and supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="605c16cc882c471fa7cc87429c87079b">
+            <button data-teacher-view-toggle="true" data-uuid="179672544e5b46bbac26460e0ba82ea9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4234aa63c90c43399f5fe863f29b0103">
+                <param name="configFile" value="../../widget_data/config/4234aa63c90c43399f5fe863f29b0103.json" />
+            </object>
+        </section>
+        <p data-uuid="64442e72c133492d9d1eaf7938965dd1"><br />
+        </p>
+    </body>
+</html>

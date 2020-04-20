@@ -1,0 +1,157 @@
+/**
+ * Class groupings for the breadcrumb class picker.
+ *
+ * If a tag name is provided, the class grouping will only be suggested when such an element
+ * is selected. Each selector group should contian a class list, a display name, and the optional
+ * tag name.
+ */
+
+blockquote.one-half.right Half-width right
+blockquote.one-half.left Half-width left
+blockquote.pullquote Pullquote
+
+figure.one-half.right Half-width right
+figure.one-half.left Half-width left
+figure.one-half.top-align Half Top Align
+figure.one-third.right Third-width right
+figure.one-third.left Third-width left
+figure.one-third.top-align Third Top Align
+figure.text-center Center Align
+figure.text-left Left Align
+figure.text-right Right Align
+figure.text-justify Justify
+figure.offset.right Offset right
+figure.offset.left Offset left
+figure.center Center
+figure.image-with-caption.sidebar Small
+figure.image-with-caption.main Main
+figure.image-with-caption.feature Feature
+figure.image-with-caption.vertical Caption to Right
+figure.image-with-caption.hisdec-small Hist-Dec Small
+figure.image-table Small Image in Table
+
+section.biography.one-half.right Half-width right
+section.biography.one-half.left Half-width left
+section.biography.full-bleed Full bleed
+section.biography.offset.right Offset right
+section.biography.offset.left Offset left
+
+section.one-half.right Half-width right
+section.one-half.left Half-width left
+section.full-bleed Full bleed
+section.bg-green Green Background
+section.bg-blue Blue Background
+
+ol.list-upper-roman Upper Roman
+ol.list-lower-roman Lower Roman
+ol.list-upper-alpha Upper Alpha
+ol.list-lower-alpha Lower Alpha
+ol.list-no-style.list-no-indent Unstyled
+ol.two-col 2 Column Collapsible Table Number List
+ol.start Start at Number 1
+
+ul.list-image-checkbox Checkbox List
+ul.list-image-checkmark Checkmark List
+ul.list-image-star Starred List
+ul.list-image-correct Correct List
+ul.list-image-incorrect Incorrect List
+ul.list-no-style.list-no-indent Unstyled
+ul.two-col 2 Column Collapsible Table Bullet List
+ul.indent Bullet List Indented
+
+span.lead Lead-in
+span.smallcaps Smallcaps
+span.strikethru Strikethrough
+span.quotemarks Quotes
+
+
+p.dropcap Dropcap
+p.dropcap-knockout Dropcap Knockout
+p.text-center Center Align
+p.text-left Left Align
+p.text-right Right Align
+p.text-justify Justify
+p.indent Poem
+p.subhead Subhead
+p.pullquote.highschool Small Text
+p.pullquote.middleschool Large Text
+p.pullquote.hang Opening Quote Text
+p.red.hang Hanging Quote Red Text
+p.blue-2.hang Hanging Quote Blue Text
+p.gold.hang Hanging Quote Gold Text
+p.image-above Text Below Image with Caption Top
+p.two-col 2 Column Collapsible Table
+
+figcaption.text-center Center Align
+figcaption.text-left Left Align
+figcaption.text-right Right Align
+figcaption.text-justify Justify
+
+h1.text-center Center Align
+h1.text-left Left Align
+h1.text-right Right Align
+h1.text-justify Justify
+
+h2.text-center Center Align
+h2.text-left Left Align
+h2.text-right Right Align
+h2.text-justify Justify
+
+h3.text-center Center Align
+h3.text-left Left Align
+h3.text-right Right Align
+h3.text-justify Justify
+
+h4.text-center Center Align
+h4.text-left Left Align
+h4.text-right Right Align
+h4.text-justify Justify
+
+h5.text-center Center Align
+h5.text-left Left Align
+h5.text-right Right Align
+h5.text-justify Justify
+
+h6.text-center Center Align
+h6.text-left Left Align
+h6.text-right Right Align
+h6.text-justify Justify
+
+a.one-half Half-width
+a.one-third One-Third Width
+a.left Left Align
+a.right Right Align
+
+section.calendar-container Align Top
+section.calendar-container-bottom Align Bottom
+section.calendar-container-bottom-2line Align Bottom-2 line
+section.audio.one-line One Line Address
+section.audio.three-line Three Line Address
+section.audio.four-line Four Line Address
+section.process-steps.feature Feature Width
+section.pullquote_wrapper.short-center Narrow Quote
+section.audio.short-center Narrow Quote Audio
+section.audio.short-center-wider Narrow Quote Audio
+
+article.container-2 Collapse Table 2 Images
+
+table.fixed-width Equal Columns
+td.hide-border Hide Border
+
+th.column.white White Rule
+th.equal Equal Width
+
+td.white White Rule
+td.equal Equal Width
+
+td.small Table Text Small
+
+td.text-left Text Left
+td.text-middle Text Middle
+td.text-right Text Right
+td.vertical-center Text Center Vertical
+td.top-align Top Align
+
+li.small Table Text Small
+
+section.audio.hide Hide

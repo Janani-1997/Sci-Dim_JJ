@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="716f796efb134c06b32e80e5e1398518">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>A New System of Government</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="1135bd33ae5f44bab68fd5b94d953ae9">
+            <article data-uuid="42bd49354e554aa689d568f4630a29f6">
+                <h4 data-uuid="e8e68a2cdb1a4102bc3372dfbd147fc4">Main Idea</h4>
+                <p class="main-idea" data-uuid="210b4fc520b4473fae80cbccf9778d83">The new government was based on popular sovereignty, balance of power, and federalism. </p>
+                <h2 data-uuid="1e37bd5e814e412ba485829f9223e3cf">A New System of Government</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="c409898feebc46e9b9438d40f268ce28"></div>
+            </article>
+        </section>
+        <p data-uuid="81507f4edfe24e90892612ecf779b2ac">On September 17, 1787, the delegates at the Constitutional Convention passed the Constitution. They had spent their summer debating key issues and creating a plan for a strong national government rooted in <dfn title="popular sovereignty">popular sovereignty</dfn>, the idea that political authority belongs to the people. Their plan included a scheme for limiting government power by dividing it among three different branches. In the end, all but three of the 42 delegates signed the Constitution. However, the Constitution, now in its final form, still needed to be approved by the states. </p>
+        <h3 data-uuid="3c6bd2c2b87c4ccf9d52ec8586a6d6dc">Government Branches</h3>
+        <p data-uuid="92ac7198dd9848ba92e35cff72874314">The framers of the Constitution divided the national government into three branches. The <dfn title="legislative branch">legislative branch</dfn> is responsible for proposing and passing laws. It is made up of the Senate and the House of Representatives. The <dfn title="executive branch">executive branch</dfn> includes the president and the departments that help run the government. The executive branch makes sure that laws are carried out. The <dfn title="judicial branch">judicial branch</dfn> is made up of all the national courts. This branch interprets laws, punishes criminals, and settles disputes between states.</p>
+        <p data-uuid="2177dade38cf496a88da5bce68f4fae1"> The Constitution also includes a system of <dfn title="checks and balances">checks and balances</dfn>. Each branch has some checks, or controls, over the other branches. This system keeps any branch of the government from becoming too powerful. </p>
+        <section class="image-carousel" data-uuid="5635eabb31f44031be47ec687efae6f1">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html" data-uuid="5f615252df744935becfeb5fef54ab83">
+                <param name="credit" value="[null,null,null]" />
+                <param name="configFile" value="../../widget_data/config/5f615252df744935becfeb5fef54ab83.json" />
+            </object>
+        </section>
+        <h3 data-uuid="e82500becaf0408d880787d24c05c55c">Federalism</h3>
+        <p data-uuid="607e41891d554004bcbd9e28a513174d"> To balance power between the national and state governments, the delegates created the system of <dfn title="federalism">federalism</dfn>. Federalism is the sharing of power between a central government and the states that make up a country. The Constitution requires each state to obey the authority of the federal, or national, government. States have control over government functions not specifically assigned to the federal government. </p>
+        <section class="process-steps" data-uuid="4268695ee8b8464e96c1be01fa117c3d">
+            <object type="text/html" data="../../assets/widgets/process_steps/index.html" class="widget" data-uuid="e16f8e5cd1884694ad4bb41fdeb58623">
+                <param name="configFile" value="../../widget_data/config/e16f8e5cd1884694ad4bb41fdeb58623.json" />
+            </object>
+        </section>
+        <h3 data-uuid="a12939a6ef3d46c99594851bafd43f57">Amendments</h3>
+        <p data-uuid="ee893ae324314f3ab14971fc65cc7cd8">The framers of the Constitution also included a method for changing or adding to the Constitution. They wanted the government to be able to adapt as changes were needed. The process for amending, or adding <dfn title="amendment">amendments</dfn> to, the Constitution was made difficult. A major change to the government would require the approval of two-thirds of each house of Congress and three-fourths of states before it could take effect.</p>
+        <section class="question-long-text" data-uuid="a7718a69ef7140f1a46949b8defe1f53">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="5e25f68277834264afb9da30d49ea56a">
+                <param name="configFile" value="../../widget_data/config/5e25f68277834264afb9da30d49ea56a.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="543495d9ab49477f950a807055c6463f">
+            <div class="go-prompt-bottom-bar" data-uuid="175953eb2a4e4829b610116c6cae2744">
+                <p data-uuid="fdb1bb161d6d4d3a89b3e1e8cdf6224b">Remember to use the graphic organizer to take notes on the system of government under the Constitution.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="da015ea5cf42420eb34199c90a2c5409">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="e45ab4910f524420900d36f8797f75be">
+                <param name="configFile" value="../../widget_data/config/8b2171e8bbb344439d109ee2331a7687.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="bf732124497443fc903edb35acd53684"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9263f577f4d14d7b8f090419da288b7b">
+            <button data-teacher-view-toggle="true" data-uuid="461b0dcddd044b01b9a539aaf1e326f7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f7b6ef54dfa7462b88ddd52065a7410e">
+                <param value="../../widget_data/config/f7b6ef54dfa7462b88ddd52065a7410e.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

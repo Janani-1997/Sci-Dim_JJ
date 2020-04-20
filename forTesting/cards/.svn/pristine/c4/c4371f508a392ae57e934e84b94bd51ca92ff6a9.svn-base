@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="23b42438bb114012b4fa578b6234adda">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="45ce96a652e64d44bcbf71844731bdb8">
+            <div class="header-element header-container " data-uuid="b6f7a3273cc54035b3f04aae75c9e27e">
+                <p class="lesson-number" data-uuid="b6dcecdbdd064e4d8f238e686b6592f9">
+                    Lesson 1</p>
+                <h2 data-uuid="a4f2b12896594d6bb170dcf3333d5479">Review</h2>
+                <p class="white" data-uuid="fe5570c942c44753882c9a9100906272">In
+                    this lesson, you learned about the methods used by civil rights activists in
+                    the campaign to end segregation in the United States. Now you will review some
+                    key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="426fdeec2b074df7aef529038a2aa8cc">Review Key Terms and People</h3>
+            <p data-uuid="aeca39fdd890494280fe855fd8d7fa8e">Define each term or person
+                shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="b40e9253a5a1402e8780d6f4924f6ba2">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="ad688373c2a0419aa3c4966d372a15cb">
+                <param name="configFile" value="../../widget_data/config/ad688373c2a0419aa3c4966d372a15cb.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="7ccf841ed86b473fb9e11337fe5e520b">
+            <div class="go-prompt-bottom-bar" data-uuid="203c2f58d3df4f69a50a6654d8852093">
+                <h5 data-uuid="1885a8fb93e345e8803d01821ef686ad">Review the Graphic Organizer</h5>
+                <p data-uuid="b866c851b3d843c590ecd5f2b0134aca">Review your graphic organizer notes and use them
+                    to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="c380e2dd5b6c4c90a83ba5ca1df03ce8">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ca1b751db47149e599a220676c867e2b">
+                <param name="configFile" value="../../widget_data/config/ca1b751db47149e599a220676c867e2b.json" />
+            </object>
+        </section>
+        <section data-go="v0.1.0" data-csm-hide="true" data-uuid="6f7e9a878176478589d166ac3b805460" class="graphic-organizer">
+            <object type="text/html" data="../../assets/widgets/go/index.html" data-go-content="true" data-uuid="0af8d59514a54d08a186748c1cf8706b" class="widget">
+                <param name="configFile" value="../../widget_data/config/9e3dbd192e7f4d5a8742c4c096da29db.json" />
+            </object>
+            <button data-go-toggle="true" data-uuid="e816c28db0544c9e80b1400e9466e984" class="go-close-btn"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="bba16d2d8fec4b73a01ac4b8150abf16">
+            <button data-teacher-view-toggle="true" data-uuid="d41ca057ed604a64a20f380eeda20074"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="93c381fcb68a475a8710c7da9419743a">
+                <param value="../../widget_data/config/93c381fcb68a475a8710c7da9419743a.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

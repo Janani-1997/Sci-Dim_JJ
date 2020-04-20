@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="a13b14229d0e4efabc1fdb2a71a3e798">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="028dc7e227014ae1bdf29823bb378531">
+            <p class="lesson-number" data-uuid="20483fcf6e0340ba9dd152be85ed2365">Lesson 3</p>
+            <article class="header-container" data-uuid="d6491400ec5749c6b3dd92f4c7d54401">
+                <div class="header-element" data-uuid="5b7be5cdc2b04ace9de1a8ee630b866a">
+                    <h1 data-uuid="20cc13ee7576485c8edaa04efd902107">The End of the War</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="89fe5671155746109922b1d4b026ede1"></div>
+                    <h2 data-uuid="4dea945fa3554d0c85be8e37c4190663">The Big Idea</h2>
+                    <p data-uuid="dc35a9c9bbce42108739984a0b3c84af">Growing antiwar feelings in
+                        the United States helped convince the government to end U.S. involvement in the
+                        Vietnam War.</p>
+                </div>
+            </article>
+            <article data-uuid="7d0c3c2fe1e0402d959f875ed011a18d">
+                <h3 class="if-you-were-there" data-uuid="b6c8a19158f44508bd89f61e40d56b16">If YOU were there...</h3>
+                <p data-uuid="5f32d49f857149d38132901abd87861a">You are a high school student in 1969. You follow events in Vietnam very closely and often talk about the war with your friends. Some of your friends are active in the antiwar movement, but you also have friends who support the war. You think each group makes good points, but you are having a hard time deciding which position you support.</p>
+            </article>
+            <section class="reading-check" data-uuid="1c797c911ba046ed844ff6a3115bbed3">
+                <section class="question-long-text" data-uuid="b5b7824f260f429b946549e99006c1de">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="1127599effd444fa98fed7bae9ad97c4">
+                        <param name="configFile" value="../../widget_data/config/1127599effd444fa98fed7bae9ad97c4.json" />
+                    </object>
+                    <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="17f2571223cb49ed8120bbc58ad93f6e">
+                        <button data-teacher-view-toggle="true" data-uuid="0c80b4c6df954e2bbabb38173a6c3168"></button>
+                        <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="57f81856a1364e19bff27aaa4e51770b">
+                            <param name="configFile" value="../../widget_data/config/57f81856a1364e19bff27aaa4e51770b.json" />
+                        </object>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </body>
+</html>

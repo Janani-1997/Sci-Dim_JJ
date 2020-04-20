@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ba0130998635485ea9fe46190fe37f58">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Enrichment</title>
+    </head>
+    <body>
+        <section class="enrichment  " data-uuid="3745ca02a1ff49e7bd61e412f1fe10e2">
+            <object type="text/html" data="../../assets/widgets/enrichment/index.html" class="widget" width="900" data-uuid="21f08c27441942f085440e01e129a3d9">
+                <param name="header" value="4" />
+                <param name="externalwidget" value="true" />
+                <param name="configFile" value="../../widget_data/config/21f08c27441942f085440e01e129a3d9.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="59c32fe45474464fafa80698f704dfec">
+            <button data-teacher-view-toggle="true" data-uuid="9d92b9445e4849aa8c099a12d56998b5"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d8d705797f284804aac7c8f34a784ae8">
+                <param name="configFile" value="../../widget_data/config/d8d705797f284804aac7c8f34a784ae8.json" />
+            </object>
+        </section>
+        <p data-uuid="cc3f1e73fc7e410fb4b2eab690cb00fe"><br />
+        </p>
+    </body>
+</html>

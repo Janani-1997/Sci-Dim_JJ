@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="9182f183f276415a8f9c23c411dc3283">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="748cba8345424dd28509dc5e4ee3e70b">
+            <div class="header-element header-container " data-uuid="1a7a1e2ad3d1425b8781af155ec7bdb5">
+                <p class="lesson-number" data-uuid="c08c18e441894e4996f800ca8debe647"> Lesson 1</p>
+                <h2 data-uuid="3e693d208bab4cd99314a2c596b0203f">Review</h2>
+                <p class="white" data-uuid="264e284ea6884a229e87b2115aed70bb">In this lesson you learned about the political, economic, and social challenges the United States and the world faced after World War II. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="c759281946b04d78b049036f45208773">Review Key Terms and People</h3>
+            <p data-uuid="e7ccf4d3644f4dc7b550c6069a930b8c">Define each term or person shown on the card. Flip the card to check your answer.
+                <!--
+                    En&#65533;&#65533;0_&#65533;M
+                -->
+            </p>
+        </section>
+        <section class="flipcard" data-uuid="3e83df0acd40443d990fb3be7006af8b">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="b4f5757438774b579c3e2ad4347e5d27">
+                <param name="configFile" value="../../widget_data/config/b4f5757438774b579c3e2ad4347e5d27.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev " data-uuid="b7e3fca07338449f91aea115eca86b01">
+            <div class="go-prompt-bottom-bar" data-uuid="03298991fe354e1098f15f1e41f03c67">
+                <h5 data-uuid="70ff40ceff2e4d769ef0d0c2cc4ff593">Review the Graphic Organizer</h5>
+                <p data-uuid="cc026c3f8ba845e5afb317eb1c7d3305">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="7a98a224fe3c40cfbbee76339210c506">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f4bfc2dd93e04bc8b6650064717b8a33">
+                <param name="configFile" value="../../widget_data/config/f4bfc2dd93e04bc8b6650064717b8a33.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="008253d011474aaa8d59d2db7377f3c5">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="0053335dabd24cdda3db0368f553dd35">
+                <param name="configFile" value="../../widget_data/config/585733f8293e4a67b032b446ef86570c.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="e5e29b83f49e483a9a8f3bfb95481e98"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="44e4c53aba984188a9f444940d2a25c3">
+            <button data-teacher-view-toggle="true" data-uuid="30543970bab44909be1b41b9e4267713"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8178494c5d51484f9c8da38c86dfedc5">
+                <param name="configFile" value="../../widget_data/config/8178494c5d51484f9c8da38c86dfedc5.json" />
+            </object>
+        </section>
+        <p data-uuid="7989fee9db5a4d399030f79958eed9f2"><br />
+        </p>
+    </body>
+</html>

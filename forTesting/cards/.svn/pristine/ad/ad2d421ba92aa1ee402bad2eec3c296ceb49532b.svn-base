@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ee5b49578f6143ffaaf0049d58e23938">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="955366dece024de3a55d5064556953b6">
+            <p class="lesson-number" data-uuid="98ac0aa37aea411e8aa42091d6dcbbd0">Lesson 3</p>
+            <article class="header-container" data-uuid="db9b85ea8af64156b9bff0b7184d8237">
+                <div class="header-element" data-uuid="4685150a108a457489432d24b7630197">
+                    <h1 data-uuid="4d89bc77222b4be4b425f1636cf127cf">Challenges for the New Nation</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="c8d217dd9acb422fa9082bca9b5ce36b"></div>
+                    <h2 data-uuid="beba6e5cf5554673b7c8a040b25079ae">The Big Idea</h2>
+                    <p data-uuid="65446792787741fb9170a93d21600608">The United States faced significant foreign and
+                        domestic challenges under Washington.</p>
+                </div>
+            </article>
+            <article data-uuid="e9277f01a5094c3ba5bdaca229151ea7">
+                <h3 class="if-you-were-there" data-uuid="c79f47d1dba2451cad03b28fa66d626e">If YOU were there...</h3>
+                <p data-uuid="586cfe71ad434a4ea201bec1c6bd6013">You are the captain of an American merchant ship in
+                    the 1790s. Your ship has just picked up cargo in the French West Indies. You
+                    are headed back to your home port of Philadelphia. Suddenly, a British warship
+                    pulls alongside your ship. Marines swarm aboard. They order you into the
+                    nearest harbor and seize your goods.</p>
+            </article>
+            <section class="question-long-text" data-uuid="ed50c474b4634e27b5bdb4588991bc06">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="221b620731c44665b03e168654a7c7f5">
+                    <param name="configFile" value="../../widget_data/config/221b620731c44665b03e168654a7c7f5.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="df81f0c832894994a645135a3d1c0006">
+            <button data-teacher-view-toggle="true" data-uuid="5bbc92fc38164a4a82816e304dcd7428"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="08df71f79dac414b9528570b6803be80">
+                <param name="configFile" value="../../widget_data/config/08df71f79dac414b9528570b6803be80.json" />
+            </object>
+        </section>
+    </body>
+</html>

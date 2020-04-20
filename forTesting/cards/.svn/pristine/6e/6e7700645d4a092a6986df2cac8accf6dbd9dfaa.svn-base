@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0e52edb1210b4193a7afaf4188fdbaa6">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Great Compromise</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="1e30f658e60c46759e8e590329442374">
+            <article data-uuid="b4e10c4de74d4c12b5cf748c8af77f6a">
+                <h4 data-uuid="fc816568c8cf4cb79ad727945dc50c12">Main Idea</h4>
+                <p class="main-idea" data-uuid="c60d4bdd417246c5b80f1e31346a0ab4">The Great Compromise resolved the issue of representation in the legislature.</p>
+                <h2 data-uuid="3f046e7db6884e4fad2e49617180f828">Great Compromise</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="5e17a48bb90044eb8e6db68c2abc83a0"></div>
+            </article>
+        </section>
+        <p data-uuid="35af7342e9154a778fb9fb702ef05365">By 1787 many Americans realized that the nation needed a government that could keep order. They wanted a government that was strong enough to protect individual rights but not so strong that it would oppress them.</p>
+        <p data-uuid="3fe2a87a2cdf4429925b277cc89dd347">As the convention began, the delegates disagreed about what form the new government would take. Edmund Randolph of Virginia presented the <dfn title="Virginia Plan">Virginia Plan</dfn>.<b> </b>He proposed a new federal constitution that would give supreme power to the central government. The legislature would be made up of two houses of representatives. States with larger populations would have more representatives than would smaller states. Delegates from the small states feared that this plan would give large states too much power. </p>
+        <p data-uuid="083874560e004a65a6069f0975451ae2">New Jersey delegate William Paterson presented an alternative plan. The <b><dfn title="New Jersey Plan">New Jersey Plan</dfn> </b>called for a one-house legislature. According to this plan, each state would have an equal number of votes in the federal government. The plan gave the federal government the power to tax citizens, and it allowed the government to regulate commerce.</p>
+        <p data-uuid="cdfe686123504f8ba2d942486ca513e8">The delegates struggled to solve the problem of representation in the legislature. In early July, a committee led by Roger Sherman and other delegates from Connecticut offered a deal known as the <b><dfn title="Great Compromise">Great Compromise</dfn></b>. The legislative branch would have two houses. To satisfy the smaller states, each state would have an equal number of votes in the Senate. To satisfy the larger states, representation in the House of Representatives was set according to state populations.</p>
+        <figure class="image-with-caption main" data-uuid="3ed34743aac641b5beb5a8f6cf823b83">
+            <img alt="This is an artist's rendering of Robert Sherman, standing beside a table, upon which sits his hat." data-uuid="cbd78e16b8dd4d8cbd7b1422771083f3" src="../../img/module_5_lesson03/ms_snlese454149_056p.jpg" />
+            <div class="figcaption" data-uuid="9380ae35d2d54f69a41cc61e0ae1acbb">
+                <p class="caption" data-uuid="a2d1de0c65bb41afb6a0194212238b21">Roger Sherman was a respected delegate from Connecticut who had helped draft the Declaration of Independence. At the convention, he presented a compromise plan that broke a deadlock over the issue of representation in the legislature. </p>
+            </div>
+        </figure>
+        <section class="question-long-text" data-uuid="a304f7be168c40a8b70ae537cd8df735">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="af8155aa2fd84d58a65c3d7803242b2b">
+                <param name="configFile" value="../../widget_data/config/af8155aa2fd84d58a65c3d7803242b2b.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="56b7584da8424c5dbb9dd327dd9b8010">
+            <div class="go-prompt-bottom-bar" data-uuid="6b9b169b38734adba908f4777e95a471">
+                <p data-uuid="84f17d91f44e467fb221b6b5ff615391">Remember to use the graphic organizer to take notes on the Great Compromise.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="2e437fa6118649bda27ea0116c89a5ac">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="a39851a6187f4a30afb94944617aa67e">
+                <param name="configFile" value="../../widget_data/config/8b2171e8bbb344439d109ee2331a7687.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="4904623312074c9b8d7000870dabd5f6"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ae13d6bd4d8d4f1f8e4b42cd2c4a824f">
+            <button data-teacher-view-toggle="true" data-uuid="4d052a8c83db42108ee5a074ee5b2e6f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6457ec6247164db2a52f1e9721bdcad5">
+                <param value="../../widget_data/config/6457ec6247164db2a52f1e9721bdcad5.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

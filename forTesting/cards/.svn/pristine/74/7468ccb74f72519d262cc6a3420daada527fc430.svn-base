@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8595dca1c46c48f289792bc20e3b4b74">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="100730cf3ad844f6a2d3bf39b1cbd44a">
+            <p class="lesson-number" data-uuid="52755c2618c8499b9a5410c7fc8b4d46">Lesson 2</p>
+            <article class="header-container" data-uuid="643b257ed51d41b4b73e54d7e91a9b95">
+                <div class="header-element" data-uuid="d651eaa139894af39c8acad96d02d025">
+                    <h1 data-uuid="a8544b412faf4fa689e12afd255808a9">Jackson’s Administration</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="f7b68e845feb43949c6d0d1d87081b47"></div>
+                    <h2 data-uuid="66b4a76f2d80497a9e9e9cfba9641528">The Big Idea</h2>
+                    <p data-uuid="473986d212a74162b0b9c60237c338f5">Andrew Jackson’s presidency
+                        was marked by political conflicts.</p>
+                </div>
+            </article>
+            <article data-uuid="67a8739379da4fc6a9813215e6f98b99">
+                <h3 class="if-you-were-there" data-uuid="78047c34a8e341ed991d3d521e7b7b07">If YOU were there...</h3>
+                <p data-uuid="ee2fd2b907ff4bd481cc62b7dcccd42e">You live on a small farm
+                    in South Carolina in 1829. Your family grows corn and cotton to sell, as well
+                    as vegetables for your own table. Although you grow your own food, you also
+                    depend on imported wool, flax, iron, and hemp to make ropes. But the government
+                    has just put new taxes on these products from Europe. Now they’re too expensive
+                    for you to buy!</p>
+            </article>
+            <section class="question-long-text" data-uuid="54440317dcbb4edaa2a29952154c7682">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0dde4c731dd24da3bd75e1211488ce8f">
+                    <param name="configFile" value="../../widget_data/config/0dde4c731dd24da3bd75e1211488ce8f.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="1bc67259fcfb4ea594600da8b3218795">
+            <button data-teacher-view-toggle="true" data-uuid="9b3df5a86b83499eb9bf1e93f8afc69c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="fdaf0445c0af41dba49ad05b30914154">
+                <param name="configFile" value="../../widget_data/config/fdaf0445c0af41dba49ad05b30914154.json" />
+            </object>
+        </section>
+        <p data-uuid="0914992616e84c23ab647d8e1646ad9b"><br />
+        </p>
+    </body>
+</html>

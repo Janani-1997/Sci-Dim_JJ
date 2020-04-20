@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html data-uuid="2319d87d79bb45b68885ee333f061d15" enumeration="" designation="" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>The 2016 Presidential Election</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="f13b521328a04359945ee5bb12a0d165">
+            <article data-uuid="07db63b5fc9641c082db2485e2d21bbe">
+                <h4 data-uuid="f89f5c7a86db4bbdb44d9456b5ce77c3">Main Idea</h4>
+                <p class="main-idea" data-uuid="1a33f4ffbd7948208e1c05bf8a20b929">Donald J. Trump won the 2016 presidential election.</p>
+                <h2 data-uuid="685fddfc036d4a928bce282c03221970">The 2016 Presidential Election</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="e1166fd9a29a4d4b9601f855a79d1c69"></div>
+            </article>
+        </section>
+        <p data-uuid="e8378e7403cb416cb004cf43ff3324b5">In
+            2016, as President Obama entered his final year in office, campaigns for the
+            2016 presidential election heated up. The election turned out to be one of the
+            most surprising in U.S. history. The Democrats nominated former First Lady and
+            Secretary of State Hillary R. Clinton as their candidate. The Republicans chose New
+            York businessman and real-estate developer Donald Trump.</p>
+        <figure class="image-with-caption main" data-uuid="2bc37de289074c9c83b1d77712e0e22a">
+            <img alt="Photograph of President-elect Donald J. Trump delivering a speech at a podium surrounded by family. His wife, Melania Trump, stands behind him at left. " data-uuid="6a4d9ea9cfd3445b91fca9d32b77c65e" src="../../img/module_32_lesson02/6-8_snlese454149_1536p.jpg" />
+            <div class="figcaption" data-uuid="db6efdcd2f5a47f193b0a4a3410aa6f3">
+                <p class="caption" data-uuid="03a3646fb87345279835ed0033b15e42"><span>Surrounded by supporters and family, President-elect Donald Trump delivered his acceptance speech in New York on November 9, 2016.<span>&#160;</span></span></p>
+            </div>
+        </figure>
+        <p data-uuid="e5e3ce988a17429faf96c5f7cca5fe0f">Before Election Day, political surveys called polls predicted that
+            Clinton would win. However, on November 8, 2016, Trump won the election. He secured
+            306 electoral votes, well over the 270 electoral votes needed to become president. However, he lost the popular vote to Clinton by nearly 3 million
+            votes. On January 20, 2017, Donald Trump was sworn in as the 45th&#160;president of the United States. </p>
+        <section class="question-long-text" data-uuid="d790ec653afe4104b9906c049d0abd7f">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="09b56955540845cfb6e4374ea0285e33">
+                <param name="configFile" value="../../widget_data/config/09b56955540845cfb6e4374ea0285e33.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt" data-uuid="bbe381caf1044a9ba86d09fb093a5f98">
+            <div class="go-prompt-bottom-bar" data-uuid="5b9cc1909b644855816f7f5bfe69d9df">
+                <p data-uuid="98d259dd60cc4b60b396953efa6b6ad8">Remember to complete the graphic organizer with Information on the 2016 presidential election.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-popup="v0.1.0" data-popup-from="bottom" data-uuid="a2674085b1704b8697db5e3fdc35cec0">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-popup-content="true" data-uuid="63838d19f06c45e89e985e32684fc986">
+<param name="configFile" value="../../widget_data/config/0751a9cd659d496fb52a6a44b75d587d.json" />
+</object>
+            <button class="go-close-btn" data-popup-toggle="true" data-uuid="f83662dbd32842e38be73c3de02b51a8"></button>
+        </section>
+        <p data-uuid="ed165e549f634bc7a55d24cde4da1181"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="160e57891e7349c88c99beb9f8993b37">
+            <button data-teacher-view-toggle="true" data-uuid="ec801c3a7b2b486b8487126417997232"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ddc4fdeb61f24c94ab6a11329a2113eb">
+                <param name="configFile" value="../../widget_data/config/ddc4fdeb61f24c94ab6a11329a2113eb.json" />
+            </object>
+        </section>
+        <p data-uuid="6c835d91babc4b2793b7fb1b4339e695"><br />
+        </p>
+    </body>
+</html>

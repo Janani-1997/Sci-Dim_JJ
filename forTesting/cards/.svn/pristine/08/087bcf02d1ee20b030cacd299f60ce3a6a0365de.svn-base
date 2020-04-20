@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2297acce7d8e4033964471b7f5ece121">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="9c983dc427a9428fa1c4b72cdbc16284">
+            <div class="header-element header-container " data-uuid="08b6addb1f3b40588e3160bb99066f74">
+                <p class="lesson-number" data-uuid="f60909b9b31c46a3bd7b38acf99e75e0">Lesson 2</p>
+                <h2 data-uuid="4a71e8a2ed844bdc850a57d59f3dc046">Assessment</h2>
+            </div>
+            <h5 data-uuid="6be4e31a699c4ce6bcf316184dddb2ed">Nationalism and Sectionalism</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="cb710144d2c44d8695d7699d030a811a">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="f71d853ed5bb4473a729842c172e6802">
+                <param name="configFile" value="../../widget_data/config/f71d853ed5bb4473a729842c172e6802.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2d4657904ba74252ad4e043015c68658">
+            <button data-teacher-view-toggle="true" data-uuid="814ac64d60a644d2bc9c261ecdf27ca1"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="950858dbb1bb404eaf9f85afc468214f">
+                <param name="configFile" value="../../widget_data/config/950858dbb1bb404eaf9f85afc468214f.json" />
+            </object>
+        </section>
+        <p data-uuid="f3aedf9a10e4490b8dbcc0828e4f315c"><br />
+        </p>
+    </body>
+</html>

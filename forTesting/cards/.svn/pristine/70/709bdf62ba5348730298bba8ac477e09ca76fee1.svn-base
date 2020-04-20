@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6087ecb32dfe4b9fb2c1449082622b1d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="889acecb148f4b04b778f0f9cd7f81b2">
+            <p class="lesson-number" data-uuid="1f76a223d92744bf9a65aa5fec5fdad7">Lesson 4</p>
+            <article class="header-container" data-uuid="e3d5cbfd5b2a492d93cdcc3c4cd07548">
+                <div class="header-element" data-uuid="7882df08a17e401894b6539ce26d743d">
+                    <h1 data-uuid="fe7dffa5b84b43b68dca98f08dbb1d0c">The Nation Divides</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="2c25a7b271d34ffd88272eedbb690382"></div>
+                    <h2 data-uuid="1085d4b90236410890f43f6bf8e5ac09">The Big Idea</h2>
+                    <p data-uuid="3799c1a90d1c489e923842df41dbe0ba">The United States broke apart due to the growing
+                        conflict over slavery.</p>
+                </div>
+            </article>
+            <article data-uuid="79a3c44080a8430d8701dfa21ef99b38">
+                <h3 class="if-you-were-there" data-uuid="072582bf8ab84764a3f510c7d80ad806">If YOU were there...</h3>
+                <p data-uuid="9f0701681121486cb85b2f13b4bd3d13">You work for the weekly newspaper in Harpers Ferry,
+                    Virginia. You strongly oppose slavery, but you think the question ought to be
+                    resolved by laws, not bloodshed. Now your newspaper has sent you to interview
+                    the famous abolitionist John Brown in prison. His raids in “Bleeding Kansas”
+                    killed several people. Now he is in jail for attacking a federal arsenal and
+                    taking weapons.</p>
+            </article>
+            <section class="question-long-text" data-uuid="e75c741e483344cf89aead263fe9d56d">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="656f50001cdc4e62bec691da1a49125f">
+                    <param name="configFile" value="../../widget_data/config/656f50001cdc4e62bec691da1a49125f.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="edeca6e69123465fb7aca0be7ed94295">
+            <button data-teacher-view-toggle="true" data-uuid="09986a49426247e086ce8b587894010f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ab5addaa2212485486f8ae404e913125">
+                <param name="configFile" value="../../widget_data/config/ab5addaa2212485486f8ae404e913125.json" />
+            </object>
+        </section>
+    </body>
+</html>

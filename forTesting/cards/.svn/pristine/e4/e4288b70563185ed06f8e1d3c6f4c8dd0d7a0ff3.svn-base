@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0a7df7254d9f49bc9620274ebeb1e83a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="b148640bbc8e4fb0af56d2269a1c0771">
+            <section class="lesson-review" data-uuid="45b0f974fcab4eee8f792f59ecd55e4b">
+                <div class="header-element header-container " data-uuid="d8981f8bdef34020b68255be33af3490">
+                    <p class="lesson-number" data-uuid="14e7ee3a2c1f4e6cbdb13c186dc52af1"> Lesson 2</p>
+                    <h2 data-uuid="470de4c59ff54c14b63e7ee2ccf55603">Review</h2>
+                    <p class="white" data-uuid="afdccb070aad4b559dddbad9cce7ef62">In this lesson you learned about the role religion played in the New England colonies. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="5412b138e5e543a0bbec9908e8d7272d">Review Key Terms and People</h3>
+                <p data-uuid="42c28fa4d62341cb86502c0e74ab1d6d">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="8968c3375e7e4c3382ec83b99e5e3e95">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="6e86c472252e4e5d9d6024874d1614a8">
+                <param name="configFile" value="../../widget_data/config/6e86c472252e4e5d9d6024874d1614a8.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="65c00e075a8941c98a56ee546db41441">
+            <div class="go-prompt-bottom-bar" data-uuid="f13cbf960f0b42af9555dd6f54e6fd0c">
+                <h5 data-uuid="b38d8ed8b5604d178912cacac15ebfb6">Review the Graphic Organizer</h5>
+                <p data-uuid="4445862b7df04a148d78c8b6038e5f81">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="5edf1aaf0b7b45c1929404c7a4dd0c8b">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="d837819948c84f38ace9f5d71238baad">
+                
+                
+                <param name="configFile" value="../../widget_data/config/d837819948c84f38ace9f5d71238baad.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="84a3345994e34206885a8ebf66163818">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="a3504ab546cd4b748aabe08ef04ff8a5">
+                <param name="configFile" value="../../widget_data/config/79caa22cacf14294a39d7436cd99a079.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="a53d77326757427cb0ba86114d0787a0"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="48ecd5a9cc1c4f9396bacdd87575fcb4">
+            <button data-teacher-view-toggle="true" data-uuid="6a14527a40ab41a784f0181ae70c3d8b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d2fa1f273efb4f1e8ad7fa69dee923e0">
+                <param value="../../widget_data/config/d2fa1f273efb4f1e8ad7fa69dee923e0.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

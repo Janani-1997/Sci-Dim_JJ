@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e458ee6a7e94404db868dc8fecd33388">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="09e624cb382e4546882a1751bb3f5c6c">
+            <p class="lesson-number" data-uuid="cc9572cf19e14c4aa0b2b5d69e612bec">Lesson 4</p>
+            <article class="header-container" data-uuid="85f594ebed6647ba97060b19dad74611">
+                <div class="header-element" data-uuid="c4a3fe3459924e7092715188925d0c19">
+                    <h1 data-uuid="be328c5998b04814bd30ffd6f52ef665">Establishing
+                        Peace</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="fded683f42704fa58a5aa6c469d4b284"></div>
+                    <h2 data-uuid="4b598898deca410887b816f5addf8b17">The Big Idea</h2>
+                    <p data-uuid="4dc093154c074a52be0a5a19c7a80445">The United States and the victorious Allied powers
+                        clashed over postwar plans.</p>
+                </div>
+            </article>
+            <article data-uuid="406d95e940694d9597a43c5bd1ea70d5">
+                <h3 class="if-you-were-there" data-uuid="f4378d15e23844b699dd16117889f51e">If YOU were there...</h3>
+                <p data-uuid="8f0d59c513ed434084f9c69f539e24be">Your older brother was drafted in 1917 and sent to
+                    fight on the western front in Europe. He has written home about the terrible
+                    conditions in the trenches and the horror of seeing men killed in battle. Now
+                    the war is over. You read in the newspaper that a peace treaty is being
+                    negotiated in Paris, France.</p>
+            </article>
+            <section class="reading-check" data-uuid="508dfb86e38c473bbb361ae7997434d1">
+                <section class="question-long-text" data-uuid="ac0c54335b9549248cfad0b00a6d88db">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c518a8d9f62e4fef8726ad124dfb8998">
+                        <param name="configFile" value="../../widget_data/config/c518a8d9f62e4fef8726ad124dfb8998.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4baf9639d3a64bc0adb608ab6a962db9">
+            <button data-teacher-view-toggle="true" data-uuid="7061888378d847a28056482d7b8cf821"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cdbf75b426c54f5daf251a19c4392702">
+                <param name="configFile" value="../../widget_data/config/cdbf75b426c54f5daf251a19c4392702.json" />
+            </object>
+        </section>
+        <p data-uuid="b6c41458349d4fc98143e1a9c324bf55"><br />
+        </p>
+    </body>
+</html>

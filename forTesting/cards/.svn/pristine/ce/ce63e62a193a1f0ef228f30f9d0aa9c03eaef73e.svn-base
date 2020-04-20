@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="79df7e67367f47c29833b9c1b42ebdcc" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Article V: Amending the Constitution</title>
+    </head>
+    <body class="bg-tint">
+        <section class="constitution bg" data-uuid="4c77d7cebd0b4d0f8229eb6132124e75">
+            <div class="yellow-star-yellowgray-bar" data-uuid="b1270e8c73654bd8942d543ae2a930f5"></div>
+            <h3 data-uuid="9e95a850f22c4b45b31d0d94644a96f4">Article V: Amending the Constitution</h3>
+            <p data-uuid="4ed1ce208c2847f7b3f35bfae033a101">The Congress, whenever two thirds of both Houses
+                shall deem it necessary, shall propose Amendments to this Constitution, or, on
+                the Application of the Legislatures of two thirds of the several States, shall
+                call a Convention for proposing Amendments, which, in either Case, shall be
+                valid to all Intents and Purposes, as Part of this Constitution, when ratified
+                by the Legislatures of three fourths of the several States, or by Conventions
+                in three fourths thereof, as the one or the other Mode of Ratification may be
+                proposed by the Congress; Provided <span class="strikethru">that no Amendment which may be made prior
+                to the Year One thousand eight hundred and eight shall in any Manner affect the
+                first and fourth Clauses in the Ninth Section of the first Article; and that no
+                State, without its Consent, shall be deprived of its equal Suffrage in the
+                Senate.</span></p>
+            <section class="extension" data-uuid="57e14490633c41a384eaa07822b6eabf">
+                <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="31e0ae0888674b0ba8206f029141494a">
+                    <param name="configFile" value="../../widget_data/config/31e0ae0888674b0ba8206f029141494a.json" />
+                    <param name="audiopath" value="" />
+                    <param name="widgettype" value="shortplayer" />
+                </object>
+            </section>
+            <section class="question-long-text bg" data-uuid="14343807232a4d7296404794dbbee259">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="ff310aed57f04ec89179ed4e708cdd27">
+                    <param name="configFile" value="../../widget_data/config/ff310aed57f04ec89179ed4e708cdd27.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9848591311f64d4d9175a935e8c6dc73">
+            <button data-teacher-view-toggle="true" data-uuid="21ac8ca29d7a4c179e7f469675409996"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5ff9f700d09048058f9f7345222e7e23">
+                <param name="configFile" value="../../widget_data/config/5ff9f700d09048058f9f7345222e7e23.json" />
+            </object>
+        </section>
+    </body>
+</html>

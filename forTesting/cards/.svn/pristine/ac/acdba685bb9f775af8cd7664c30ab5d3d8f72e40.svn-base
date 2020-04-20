@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="dbb1ab2af7cc468aa68a9ffcf704313d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Education in the Colonies</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="e7ec11fb3d9b4cb6bed3eb5cc31152cf">
+            <article data-uuid="6a000f8c5cd24b5f94ad189979c19648">
+                <h4 data-uuid="c00d699ea86845248fbb5bb2f8eb6b0f">Main Idea</h4>
+                <p class="main-idea" data-uuid="5faac64b1ed34e4483523e01b6fa543e">Education was important in the New England colonies.</p>
+                <h2 data-uuid="8066c4f0f17449ff954870c38ac8e2e5">Education in the Colonies</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="e01cad1e412c49518836cfa5fef0605d"></div>
+            </article>
+        </section>
+        <p data-uuid="9cbccade033745499360429f18512e45">Education was important in colonial New England. Mothers and fathers wanted their children to be able to read the Bible. Massachusetts Bay Colony passed some of the first laws requiring parents to provide instruction for their children.</p>
+        <h3 data-uuid="24a13a42d7624fd28a1ae129b0baf495">Public Education</h3>
+        <p data-uuid="dd74619d3f664c93a9741d9d3563b399">To be sure that future generations would have educated ministers, communities established town schools. In 1647 the General Court of Massachusetts issued an order that a school be founded in every township of 50 families.</p>
+        <p data-uuid="2d5aa9dbb8134a058758cdd0e82604e5">Schoolchildren often used the <i>New England Primer</i>, which had characters and stories from the Bible. They learned to read at the same time that they learned about the community’s religious values.</p>
+        <p data-uuid="40ab5592e23649a99b8274bde3b49e37"> The availability of schooling varied in the colonies. There were more schools in New England than in the other colonies, where most children lived far from towns. These children had to be taught by their parents or by private tutors. Most colonial children stopped their education after the elementary grades. Many went to work, either on their family farm or away from home.</p>
+        <h3 data-uuid="be17361874b149e3a873c0e0f9b3db99">Higher Education</h3>
+        <p data-uuid="53ba63a8868b42dba3e1ab145a7364e1">Higher education was also important to the colonists. In 1636 John Harvard and the General Court founded Harvard College. Harvard taught ministers and met the colony’s need for higher education. The second college founded in the colonies, William and Mary, was established in Virginia in 1693.</p>
+        <p data-uuid="9aceaf649a9247f8a83bc46f8e622c98"> By 1700 about 70 percent of men and 45 percent of women in New England could read and write. These figures were much lower in Virginia, where Jamestown was the only major settlement.</p>
+        <section class="drag-and-drop" data-uuid="3148956e94894f6bb4279758347a8b12">
+            <object type="text/html" data="../../assets/widgets/drag_and_drop_matching/index.html" class="widget" height="1020" data-uuid="ef1c5ba5205b469a839cce45bdb755bb">
+                <param name="configFile" value="../../widget_data/config/ef1c5ba5205b469a839cce45bdb755bb.json" />
+                <param name="header" value="Over time, the English colonies developed into distinct &#10;regions. Virginia became part of the southern colonies and Massachusetts was part of the New England colonies." />
+                <param name="externalwidget" value="true" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="79c49b07e50b43e0bda8ac2731cfd121">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="fc2788f83c2a4324b33113a672c86f4e">
+                <param name="configFile" value="../../widget_data/config/fc2788f83c2a4324b33113a672c86f4e.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="076d53323c814d0890b49bc63ab8a9c8">
+            <div class="go-prompt-bottom-bar" data-uuid="9b41184a97ad482189895b79b9553896">
+                <p data-uuid="48a821c47e274aabab80272834aa1c13">Remember to use the graphic organizer to take notes on the reasons why English colonists came to New England and how their beliefs helped shape the New England colonies.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="28e38791700343a7863e404cf63838e4">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="0ef926c92f0a4652a4a036d4c3ce8239">
+                <param name="configFile" value="../../widget_data/config/79caa22cacf14294a39d7436cd99a079.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="b02dc8f0462a437cabc0696293c537ad"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c01e26d3c78e4b44b7a679d2f1590f9b">
+            <button data-teacher-view-toggle="true" data-uuid="f41321418ef14982a993b51e112ac82d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6b217b914a2d4a319cfb5a7ee65ab3d8">
+                <param value="../../widget_data/config/6b217b914a2d4a319cfb5a7ee65ab3d8.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

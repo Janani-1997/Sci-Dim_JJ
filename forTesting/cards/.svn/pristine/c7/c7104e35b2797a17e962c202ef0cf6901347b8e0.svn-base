@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="cc4854b10e27445387f3619cf66dc895">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Economic Problems</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="013c943e552d4bb5a76522922db11d53">
+            <article data-uuid="dfc967c7b77947b2ba184144da492cc6">
+                <h4 data-uuid="b93d04e8d37446a0be47be0d739b4b3c">Main Idea</h4>
+                <p class="main-idea" data-uuid="b07d01e91481477b9a3190f1e88621f0">Internal economic problems plagued the new nation.</p>
+                <h2 data-uuid="7cf7e47e11c1457391894cada7632e84">Economic Problems</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="cb8b967c73384c82ad66837295cff373"></div>
+            </article>
+        </section>
+        <h3 data-uuid="681b73968b864236908cb173c026c54d">Trade among States</h3>
+        <p data-uuid="56acf555e59e4137a8cbb720eb19d118">In addition to international trade issues, other challenges soon appeared. Trade problems among the states, war debts, and a weak economy plagued the states.</p>
+        <p data-uuid="925ec67a81df4875a3b1ac1762739e84">Because the Confederation Congress had no power to regulate <b><dfn title="interstate commerce">interstate commerce</dfn></b>—trade between two or more states—states followed their own trade interests. As a result, trade laws differed from state to state. This situation made trade difficult for merchants whose businesses crossed state lines.</p>
+        <h3 data-uuid="0dbe21dd2e9f4a89b68447a2af17ee5f">Inflation</h3>
+        <p data-uuid="bc7b83115b1749a08f72792dd80f32f6">After the Revolutionary War, most states had a hard time paying off war debts and struggled to collect overdue taxes. To ease this hardship, some states began printing large amounts of paper money. The result was inflation. This money had little or no real value, because states did not have gold or silver reserves to back it up. <b><dfn title="inflation">Inflation</dfn> </b>occurs when there are increased prices for goods and services combined with the reduced value of money. Because there was no common currency, Congress had no power to stop states from issuing more paper money and thus stop inflation.</p>
+        <h3 data-uuid="afe9b64ed595445988780681089745bb">Weak Economy</h3>
+        <figure class="image-with-caption one-half right top-align" data-uuid="2aa4ed591e394ddabb66f5c64daa7f8f">
+            <img alt="This photo is of a five-shilling note, or paper money, issued by Rhode Island in 1786. It has an elaborate border and many decorative elements. It states that the note is equal to five shillings in lawful silver money, and contains language stating that it is lawful legal tender throughout the state. It is signed by two state officials. " data-uuid="3ec8489e011a4b3c97fb4cc7505e69b5" src="../../img/module_5_lesson02/8_snlese454170_134p.jpg" />
+            <div class="figcaption" data-uuid="7b2dd1d5c15e4ee79a25b58e663753bd">
+                <p class="caption" data-uuid="47610740de124d15bb25d3714e2c3af8"> This five-shilling note was issued by Rhode Island. Paper money printed by state governments helped fuel inflation.</p>
+            </div>
+        </figure>
+        <p data-uuid="cd7e255cea4446cfa01df08087aa9edf">In Rhode Island the state legislature printed large amounts of paper money worth very little. This made debtors—people who owe money—quite happy. They could pay back their debts with paper money worth less than the coins they had borrowed. However, creditors—people who lend money—were upset. Hundreds of creditors fled Rhode Island to avoid being paid back with worthless money.</p>
+        <p data-uuid="bd427bd6cf734a17a2313c57a099809c"> The loss of trade with Britain combined with inflation created a <dfn title="depression">depression</dfn>.<b> </b>A depression is a period of low economic activity combined with a rise in unemployment.</p>
+        <section class="reading-check" data-uuid="61fb402be54747fba8016c38467b391a">
+            <section class="question-long-text" data-uuid="183c60d7f23a4db88e3443296000a3bd">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="533b63b4987d4f59ba06d692e7edf516">
+                    <param name="configFile" value="../../widget_data/config/533b63b4987d4f59ba06d692e7edf516.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="67a45f449b204073969719ded495d548">
+            <div class="go-prompt-bottom-bar" data-uuid="aeef349e104f4e2f8929dc1f50fec096">
+                <p data-uuid="62f3e0f3ec6a4089813267923d5459be">Remember to use the graphic organizer to take notes on the causes and effects of economic problems in the United States.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="881b95a8b8094d9bbf76af181220d6cc">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="8af367c98ffb444db26bb9343fa6094d">
+                <param name="configFile" value="../../widget_data/config/7ccb596c34af422788d2d2cc57fdfe86.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="3901948824c144e489d81ea11ff4010e"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2d32438292aa46ffb1fc2f05138b44bf">
+            <button data-teacher-view-toggle="true" data-uuid="b1f6205cce5f4697a80bb2640af5cfa4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b66b8511f8f14430ad1a9853db8b9f71">
+                <param value="../../widget_data/config/b66b8511f8f14430ad1a9853db8b9f71.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

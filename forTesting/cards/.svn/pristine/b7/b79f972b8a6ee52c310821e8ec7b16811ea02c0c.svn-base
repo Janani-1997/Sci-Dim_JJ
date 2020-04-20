@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="84da987e62cb4860af53cf9acd68865b">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="34e56fe0f15240388b5d13a3483b6ae9">
+            <div class="header-element header-container " data-uuid="a0d3c9ab84b248c9872fde79876b3d10">
+                <p class="lesson-number" data-uuid="7b1c4f6252584080bd243656ea8b0db9"><br />
+                </p>
+                <h2 data-uuid="bdbc68f1a098420b9dce3a49d846b21d"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="45d1c2142cb745e7b8a5b41558aed377">In this module you’ve learned about the reform
+                    movements. Now it’s your turn to demonstrate your understanding of the module
+                    content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="3da2eda6072c445da87e38f48ade78c0">How
+                successful were reformers at improving living conditions for Americans in the
+                early 1800s?</h3>
+            <p data-uuid="56ce5b5eacc440c6ac0dda036fbc1818">Write a persuasive essay answering this
+                question. Your essay should include key people, events, and turning points
+                during the time of reform movements. Be sure to cite evidence to support your
+                position and organize your essay into an introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="26f7dbed95aa45b0883a94f2980eef49">
+            <button data-teacher-view-toggle="true" data-uuid="7a483398ab184be68d2c1f174312ffe4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a9bbdcf439cb4bcba1bf7e43f784587c">
+                <param name="configFile" value="../../widget_data/config/a9bbdcf439cb4bcba1bf7e43f784587c.json" />
+            </object>
+        </section>
+        <p data-uuid="574fa1541cc8412dbadbed36a1b21a9c"><br />
+        </p>
+    </body>
+</html>

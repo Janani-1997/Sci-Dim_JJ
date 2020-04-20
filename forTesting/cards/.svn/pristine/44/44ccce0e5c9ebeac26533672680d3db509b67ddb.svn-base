@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="69d05fb4e7ad4e0fbef1362ba0c311a4">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="ad82f9885a554ffdb0393ba40a2b10a8">
+        <div data-uuid="2ee69775a6eb44d8a7f5370db4b3058d">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="0bef00ab34e54fa9a3b8df6024beeeef"/>
+         <div class="header-element" data-uuid="f5b58eff8ea643f38167bcee2507e8f6">
+                        <section class="calendar-container-bottom" data-uuid="50389b988af5463f8b438d629b88bad6">
+                            <div class="yellow-star-yellow-bar" data-uuid="4d5b26702a0f40e985177de90268a6ca"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="d299e11c9992479fbcc4c0fd32f6415e">Searching
+                                for Order</h1>
+                        </section>
+            <section class="eq-container" data-uuid="fbb065cb733d41baa342eca307e2b2e0">
+                <figure class="image" data-uuid="af55d320e71a4ee8b75d46239884c15a">
+                   
+                        <img alt="This photograph shows a colorful float from a bicentennial celebration on July 4, 1976. Many people stand on the float, waving at the crowd. " data-uuid="7a38d3b1cd6d47dcab0254332c3f2d04" src="../../img/module_31opener/ms_snlese454149_725p.jpg" />
+                          </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="369365fc05d74dceaa9e6ea2c5f64a6f">
+                        <p class="caption" data-uuid="a5428831eac94da2b1954457f85136ae">The nation’s 200th birthday was celebrated on July 4, 1976.</p>
+                    </div>
+              
+            <article data-uuid="4a09243be69e4f65acea2ef9cc54b24b">
+                <h3 class="eq" data-uuid="4dd6e728c64d4087a37f8752daa6ddb6">Essential Question</h3>
+                <h3 class="eqt" data-uuid="de74922cd2db4cf6b123a76955f6d78b">Did the United States mainly experience progress
+                    or decline in the late 20th century?</h3>
+                <p data-uuid="b07fe2e87e904f5fa07871e6cb28f3a3">In
+                    this module you will learn about the turbulent times of the late twentieth
+                    century. The Cold War and the spread of communism were major issues early on.
+                    However, by the early 1990s the Soviet Union had broken up, resulting in a
+                    global power shift.</p>
+                <p data-uuid="1a02e811de7a42b49f7da071da47796e">
+                    As you read this module,
+                    look for the effects of the economic and foreign policies of presidents during
+                    this time. Note the key people and decisions that resulted in events such as
+                    the Watergate scandal that led to President Nixon’s resignation. When you are
+                    done, you will write a short essay answering this module’s Essential Question.</p>
+            </article>
+            <section class="video-container " data-uuid="9150f54a9ff3446fade4d46f794e70c0">
+                <article data-uuid="e0ecc9294fd144a4bb11d6cab2e71f2f">
+                    <h3 class="vid" data-uuid="8c14f280dc394150aacb148826d17888">The
+                        Watergate Scandal</h3>
+                    <p class="vid" data-uuid="25c36b940d514148aaa1ea1cac105b0f">While
+                        there had been previous scandals in American history, the Watergate scandal was
+                        the first to be covered on television. The immediacy of Congress’s questioning
+                        forced people to closely examine the president’s actions. Watch the video to
+                        discover what effect Watergate had on the public, the president, and the United
+                        State government.</p>
+                    <section class="video" data-uuid="6930b407dad545f3a6f48f6b011e6be4">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="8e2a9603667949d4a2e8749996b422fb">
+                            <param name="configFile" value="../../widget_data/config/8e2a9603667949d4a2e8749996b422fb.json" />
+                        </object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="34b42ab286ae416591f4c5a79750a521">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c578f85813c14cd88b3e78742845c108">
+                    <param name="configFile" value="../../widget_data/config/c578f85813c14cd88b3e78742845c108.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="2aa8b4bad4bf4e5897f1737a3b9d85f0">
+                <h3 class="mod" data-uuid="8c5453f71b324beeb7128eac3c7fa64f">Searching for Order 1968–2000</h3>
+                <article data-uuid="b55c0e085b284d1aa7558cf1ee2552fc">
+                    <p class="mod" data-uuid="f4c65052cebf4f728fd86c6a463b1e40">After
+                        the protests and disagreements about the Vietnam War, many Americans sought
+                        unity and peace. Richard Nixon promised to end the war, and to calm domestic
+                        conflicts. He appealed to the “Silent Majority,” those he believed supported
+                        his plans.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="16afa143e5ff4154822d4e5e55079ca8">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="667155f4c1c146b68a9384467a885cfd">
+                    <param name="configFile" value="../../widget_data/config/667155f4c1c146b68a9384467a885cfd.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="139f2ba5107f428b804248ca3eaa7cb8">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="7d251f36ce594dc596a685c634cfdf15">
+                <param name="configFile" value="../../widget_data/config/7d251f36ce594dc596a685c634cfdf15.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="743089684c7c4b70a3ba6a7bb40d021a">
+            <button data-teacher-view-toggle="true" data-uuid="7cf93b9768da44e4aac689df8126ac16"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8f5707b151b24574ad1c32989520a3cd">
+                <param name="configFile" value="../../widget_data/config/8f5707b151b24574ad1c32989520a3cd.json" />
+            </object>
+        </section>
+    </body>
+</html>

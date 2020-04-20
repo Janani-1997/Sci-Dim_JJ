@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="a668688283c64d19be9fea85f0e8f528">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="a67344a5496b4fbd8fb3ab52adf17eec">
+            <p class="lesson-number" data-uuid="45f4cdc85e044913a8f17645bd6a3675">Lesson 2</p>
+            <article class="header-container" data-uuid="854239191ec94a689d44d314a8ac5840">
+                <div class="header-element" data-uuid="7808f73cd8e24ab586b22c67be6fed76">
+                    <h1 data-uuid="7358d0d57a954fc597f7c3a45e7be5aa">The Revolution Begins</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="955a2277073b4798900a90a877e33269"></div>
+                    <h2 data-uuid="90ad11e0f6754d32b0286e9244b4aef6">The Big Idea</h2>
+                    <p data-uuid="3d1ef00a5ed249b6b7ba62ed316c5923">The tensions between the colonies and Great Britain
+                        led to armed conflict in 1775.</p>
+                </div>
+            </article>
+            <article data-uuid="7822cbed9a6442b0a910dac7d0df37e6">
+                <h3 class="if-you-were-there" data-uuid="4f32eada9f3d491e9c3d2f5197c2b723">If YOU were there...</h3>
+                <p data-uuid="2c70c71932de4555b8ec4a2cc94c09ec">You are a member of the British Parliament in the 1770s.
+                    Some members say that the Americans are defying the king. Others point out that
+                    the colonists are British citizens who have certain rights. Now the king must
+                    decide to punish the rebellious colonists or listen to their complaints.</p>
+            </article>
+            <section class="question-long-text" data-uuid="4839ee4baa044979b609cdca612601c0">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="04b93e553eb44786998c56fb63c6afd8">
+                    <param name="configFile" value="../../widget_data/config/04b93e553eb44786998c56fb63c6afd8.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="43ecd5fb3e5a4631bcf227d81c17051c">
+            <button data-teacher-view-toggle="true" data-uuid="1438d66c9c5f4e4cb9040ce3855da229"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6322252f4e584fc0a5671938f51a31b7">
+                <param name="configFile" value="../../widget_data/config/6322252f4e584fc0a5671938f51a31b7.json" />
+            </object>
+        </section>
+        <p data-uuid="458db839d753433b97c6bbef96847587"><br />
+        </p>
+    </body>
+</html>

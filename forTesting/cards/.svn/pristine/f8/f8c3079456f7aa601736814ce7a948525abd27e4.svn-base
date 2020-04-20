@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7a2dd3f4322143f1b9017dc9e56c9c32">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="f2b562eb5e9b45ad934f05fb58701ea4">
+            <p class="lesson-number" data-uuid="426d1f1d9161437d8f895775f1288a24">Lesson 3</p>
+            <article class="header-container" data-uuid="43762ac0bcfa4327b142867e822f8ca8">
+                <div class="header-element" data-uuid="ecc564416216408fb005c5d9bcc2cdd8">
+                    <h1 data-uuid="39637ddb997c43afa643aa8010004e7e" class="text-center">Declaring Independence</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="74a9c2bd230449baa37b604d50e8b7e6"></div>
+                    <h2 data-uuid="618edea07d214118b1e8cb757cd5acc5">The Big Idea</h2>
+                    <p data-uuid="24d4dab853f44828b0e03e4cc5619e25">The colonies formally declared their independence
+                        from Great Britain.</p>
+                </div>
+            </article>
+            <article data-uuid="1ca1b9b8d3bd49e7b313c35bba175e46">
+                <h3 class="if-you-were-there" data-uuid="3b9d77b26311436ea73075fea1b89693">If YOU were there...</h3>
+                <p data-uuid="222107619de2482685ed0a890bd84116">You live on a farm in New York in 1776. The
+                    conflicts with the British have torn your family apart. Your father is loyal to
+                    King George and wants to remain British. But your mother is a fierce Patriot,
+                    and your brother wants to join the Continental army. Your father and others who
+                    feel the same way are moving to British-held Canada. Now you must decide what
+                    you will do.</p>
+            </article>
+            <section class="question-long-text" data-uuid="e07462997ccc49e8a919017f0a3194e0">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b71eece95ebe48939924a1dc938fc7d5">
+                    <param name="configFile" value="../../widget_data/config/b71eece95ebe48939924a1dc938fc7d5.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8c5da5b28c944c5282f76321d55e421c">
+            <button data-teacher-view-toggle="true" data-uuid="1312e0b92e1145149c61ac70ef6d3ae8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="800e7ac981804cf58b708527a99c1f6c">
+                <param name="configFile" value="../../widget_data/config/800e7ac981804cf58b708527a99c1f6c.json" />
+            </object>
+        </section>
+        <p data-uuid="338ce4d6eaaa4c4e8225260b87ff4713"><br />
+        </p>
+    </body>
+</html>

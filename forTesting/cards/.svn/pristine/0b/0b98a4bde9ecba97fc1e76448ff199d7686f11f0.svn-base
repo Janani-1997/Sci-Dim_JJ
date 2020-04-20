@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0f914a37c3a64ea3b8b3c5a4027c65dd">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="26e6d415add64fde8879d3e7211f3491">
+            <section class="lesson-review" data-uuid="4d6471f5a9444f7a9b83a3c5165b85b3">
+                <div class="header-element header-container " data-uuid="66363615ab9041b58d22ee8fc42488f4">
+                    <p class="lesson-number" data-uuid="7a54999246f84f59b7b5c683807169eb"> Lesson 4</p>
+                    <h2 data-uuid="f32c33c62f294b6996ca942c9f10b50e">Review</h2>
+                    <p class="white" data-uuid="e61d2e14198a43959b391ac3e3586a27">In this lesson you learned how the outcome of the election of 1860 divided the United States and led many southern states to secede. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="07046a59caf1449183fe3a6bcb964536">Review Key Terms and People</h3>
+                <p data-uuid="03b670ed20094acbb214ac72b47dfc7d">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="999eeeb02c8c444d932a56fe44b986fb">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="f4333adaead7499a8d6e14ea386616be">
+                
+                
+                <param name="configFile" value="../../widget_data/config/f4333adaead7499a8d6e14ea386616be.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="789f752c28e3473fb1c2c822fc8b73d5">
+            <div class="go-prompt-bottom-bar" data-uuid="948e99e9da4b4db0a8c092bdf773fec1">
+                <h5 data-uuid="94422acf1146470ba5a5f0353e028cb4">Review the Graphic Organizer</h5>
+                <p data-uuid="be83b12b893141918016e4fd600a93f6">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="c7aa5db4f7ef49999f8950b75a96e1a2">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="61745961b85e4635b68310d47eb0c32e">
+                
+                
+                <param name="configFile" value="../../widget_data/config/61745961b85e4635b68310d47eb0c32e.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="0aa5e2d6cde6465f896d90e8ed00ca99">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="94356d4fb53b464b83bf56b9cee93b1b">
+                <param name="configFile" value="../../widget_data/config/bb24df7b50ed4c7eb053f1f39583d587.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="49bbc98a3b2e43cb9b6540a29d93d25c"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="bab2be08c09940539fac5a2b946ebc3a">
+            <button data-teacher-view-toggle="true" data-uuid="e3f94ba796b2487680facac34df64c82"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b743dae874cb494a961ca27b0e642e7f">
+                <param value="../../widget_data/config/b743dae874cb494a961ca27b0e642e7f.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

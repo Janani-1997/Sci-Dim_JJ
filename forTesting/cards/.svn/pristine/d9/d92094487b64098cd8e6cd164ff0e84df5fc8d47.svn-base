@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="f8fe437157c145999fa37a235b3ba0a8">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="046e9cb2aec8402ab30a70393e19e5ff">
+            <p class="lesson-number" data-uuid="4fdfc74275d44d4c932b781fec18658e">Lesson 3</p>
+            <article class="header-container" data-uuid="6c5420e5d63c472c99be5eb375c19fdb">
+                <div class="header-element" data-uuid="08c3ef06a9eb4daf864b5fb70f56672e">
+                    <h1 data-uuid="d18751e3f2e940f8a24e5b364ec65d39">The California Gold Rush</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="7892abbb2e584b0299af071dfcb89181"></div>
+                    <h2 data-uuid="8a91c23f78d743759de0c55621dd7480">The Big Idea</h2>
+                    <p data-uuid="3ff509c3a0904f4abe547191296c6dd4">The California gold rush changed the future of
+                        the West.</p>
+                </div>
+            </article>
+            <article data-uuid="8e76e7278a7a43e19da23ed3b864dad5">
+                <h3 class="if-you-were-there" data-uuid="ae4f5119e60541ab953b5fea21c995c8">If YOU were there...</h3>
+                <p data-uuid="65722d7424dd435490475dccf45f8931">You are a low-paid bank clerk in New England in early 1849. Local newspaper headlines are shouting exciting news: “Gold Is Discovered in California! Thousands Are on Their Way West.” You enjoy having a steady job. However, some of your friends are planning to go west, and you are being influenced by their excitement. Your friends are even buying pickaxes and other mining equipment. They urge you to go with them.</p>
+            </article>
+            <section class="question-long-text" data-uuid="41f49960b6244bf1b6f699196e67e3d3">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="bd69faaeb07b4c198cd2fc714158aa5f">
+                    <param name="configFile" value="../../widget_data/config/bd69faaeb07b4c198cd2fc714158aa5f.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ef52880c70b34db181b1654dc8faeeac">
+            <button data-teacher-view-toggle="true" data-uuid="b1da754c0cf54fcda97e4088ed7b5a26"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a679f539c6a3486e8a39b01c2198f1bb">
+                <param name="configFile" value="../../widget_data/config/a679f539c6a3486e8a39b01c2198f1bb.json" />
+            </object>
+        </section>
+    </body>
+</html>

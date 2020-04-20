@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="26b1f7d2aa3341ceba85bc695f50c65d" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>American Beginnings</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="a62f0c65fcdd439295b08e38fed5c065">
+            <article data-uuid="325ecc6c6354420dacfd80b07d02a8f9">
+                <h4 data-uuid="8e1c9c80258e4828ba33088e53e6f271">Main Idea</h4>
+                <p class="main-idea" data-uuid="a79ea8825a1f4bb6964742bc6624d3f0">Christopher Columbus sailed across the Atlantic
+                    Ocean and reached a continent with cultures previously unknown to Europeans.</p>
+                <h2 data-uuid="f239e7bb7590430fbe0cfd7ee0d1d48e">American
+                    Beginnings</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="c6fe06fbd94d4e8abdc02f1096726629"></div>
+            </article>
+        </section>
+        <section class="graphic-organizer-prompt" data-uuid="ad83ebfc3232455db4d20538c3dda0d7">
+            <div class="go-prompt-bottom-bar" data-uuid="3f0277f92408433a8ca41d717e4da8bf">
+                <p data-uuid="41ffcb2380a54b1283db59062820564a">As you read, use the graphic organizer to take
+                    notes on the key people, places, and events that shaped the American colonies.</p>
+            </div>
+        </section>
+        <h3 data-uuid="3c92d54480374cc4a5384617a322b9f6">The
+            Earliest Americans</h3>
+        <p data-uuid="ee8957602656477abc23ff1cc7da4d2c">Many
+            historians agree that <dfn title="Paleo-lndians">Paleo-Indians</dfn>, the first people to live in North America, came from Asia sometime
+            between 38,000 and 10,000 BC. One theory proposes that people walked across a
+            thin strip of land called the Bering Land Bridge that once connected
+            northeastern Asia to present-day Alaska. Another theory suggests that people
+            from East Asia may have traveled to the Americas by boat. As they spread
+            through the Americas, these early Native Americans created many
+            societies—groups that share a culture, or a set of common values and
+            traditions.<br />
+        </p>
+        <section class="interactive-map" data-uuid="3b87914677d54778b3f419fccd2db203">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="e238f6548cc24152becec15323db7d7e">
+                <param name="selected_map" value="8_snlese454170_78m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="d8a1fafe1d1e4a1d9545b5ff726d0347">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="fdb9a9fd2ad740308d0bc451a94b0a10">
+                <param name="configFile" value="../../widget_data/config/fdb9a9fd2ad740308d0bc451a94b0a10.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="6a216a310a2d4a33819e741e439ed8c9">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="a233b0d8b1c84ccba87b1f8e7a0cfea9">
+                <param name="configFile" value="../../widget_data/config/a233b0d8b1c84ccba87b1f8e7a0cfea9.json" />
+            </object>
+        </section>
+        <p data-uuid="62566996452f48909642e668377d51ee">Land
+            and climate had a dramatic impact on these early societies. Some places were
+            good for farming or had a rich supply of wild animals and plants. In these
+            areas large groups of people lived in villages. This was true in the Pacific
+            Coast and parts of the East and Southwest. Other parts of North America had
+            less&#160;game
+            and were too dry and cold for farming. In these regions Native Americans lived
+            in smaller groups and had to move often to find food. Farther south, in
+            modern-day Mexico and Peru, Native Americans called the Aztec, Maya, and the
+            Inca each built powerful empires.</p>
+        <h3 data-uuid="a035a7a9e4dd4edc8f63dfcc21962e8c">European
+            Exploration and Colonies</h3>
+        <p data-uuid="f9248dcdd75047b681c49bf06cb5ae7d">The
+            Atlantic and Pacific Oceans kept the Americas isolated from the rest of the
+            world for many years. By the AD 1400s, however, Europeans were exploring the
+            seas. They wanted to find overseas routes to the valuable Asian silk and spice
+            trade. Portuguese sailors traveled east around the southern tip of Africa to
+            reach Asia. <dfn title="Columbus, Christopher">Christopher Columbus</dfn>, a sailor from Genoa, Italy, convinced the king and queen of Spain to
+            support his search for a western sea route. In 1492 Columbus’s small fleet
+            crossed the Atlantic Ocean. The ships landed not in Asia, as Columbus believed,
+            but on an island in the Bahamas.<br />
+        </p>
+        <section class="video" data-uuid="55494c6be732444b8154a50e5bdd5c2d">
+            <object type="text/html" data="../../assets/widgets/html_video_player/index.html" data-uuid="fed79f4434aa4d4d9314e8fa2cd0d1a0" class="widget">
+                <param name="configFile" value="../../widget_data/config/fed79f4434aa4d4d9314e8fa2cd0d1a0.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="773faf50e4524ff9a153c3c06b3d6c02">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="61575f3d8bbe497da1a215b1a83ea213" class="widget">
+                <param name="configFile" value="../../widget_data/config/61575f3d8bbe497da1a215b1a83ea213.json" />
+            </object>
+        </section>
+        <p data-uuid="158ce21999b249cdbd140ddc93499da2">Other
+            Europeans soon came to the Americas. Spanish soldiers called conquistadors
+            conquered the Aztec and Inca and claimed their lands, encouraging Spain to
+            carve out an empire in the Americas. Spain’s success led countries such as
+            France, the Netherlands, Sweden, and England to form their own colonies in
+            North America.<br />
+        </p>
+        <section class="question-long-text" data-uuid="cb63942efe4c490289d07934bd07e11f">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c1974d794fa84ca7aed37de10fdfae82">
+                <param name="configFile" value="../../widget_data/config/c1974d794fa84ca7aed37de10fdfae82.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt" data-uuid="4654556379dd428186343fa0487f48b7">
+            <div class="go-prompt-bottom-bar" data-uuid="e7594b6fcb5e4334b1ce7b924f330ff2">
+                <p data-uuid="021fab6b10bb49f9abe52bfb41251674">Remember to complete the graphic organizer with
+                    information about the Americas before 1500.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-uuid="34dfc7246fa0421bbfe2715177151cfb">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="1ae1f3525074439996d2e6ba769bf16f">
+                <param name="configFile" value="../../widget_data/config/1ae1f3525074439996d2e6ba769bf16f.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="0671a9efa7344f698efa289c629b2525"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="1eaf929ceedb45a5844da76819a053ae">
+            <button data-teacher-view-toggle="true" data-uuid="88a691ca13114a7dbd0999e8f1613b9b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1edd8409554341388ea5515e6487bb6b">
+                <param name="configFile" value="../../widget_data/config/1edd8409554341388ea5515e6487bb6b.json" />
+            </object>
+        </section>
+        <p data-uuid="ed4c7d8c1326439281dee1fe2c0aa7e5"><br />
+        </p>
+    </body>
+</html>

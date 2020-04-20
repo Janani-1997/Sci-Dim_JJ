@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3fa89b12f92c4fd49651f43c7f98a694">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Dear Home: Letters From World War I</title>
+    </head>
+    <body>
+        <section class="ssna-mmc" data-uuid="77af03f003754e08931c856858ff4145">
+            <object type="text/html" data="../../assets/widgets/mmc/index.html" class="widget" data-uuid="a7686a035de549be99bad6f8d6274cb7">
+                <param name="configFile" value="../../widget_data/config/a7686a035de549be99bad6f8d6274cb7.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="233c2c4296ac4e798e988ad8e5ba5aac">
+            <button data-teacher-view-toggle="true" data-uuid="059c0eba31834008a9bd8f0901903e28"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="77faf8742bdd415a8be0dfc970083061">
+                <param name="configFile" value="../../widget_data/config/77faf8742bdd415a8be0dfc970083061.json" />
+            </object>
+        </section>
+        <p data-uuid="14beb76b9fbb4111bd64281a67191bd5"><br />
+        </p>
+    </body>
+</html>

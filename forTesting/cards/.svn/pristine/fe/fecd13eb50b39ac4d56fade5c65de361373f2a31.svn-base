@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d7aa3bd7d8104898807ca5186a0f38b6">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="2079707e6f2f42dc95289cf6b3424e3b">
+        <div data-uuid="ab7c2092499d48dea1dd3776c42dc97e">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="8839a7cbbe904eafa2b72957e90a37f5"/>
+        <div class="header-element" data-uuid="74d3b70433b240fa92e5a9cc95b45663">
+            <section class="calendar-container " data-uuid="20cb1def48e949deb07de8f1d7a43bd2">
+                <div class="yellow-star-yellow-bar" data-uuid="a91be4fce8904fe6b6e2069df2420ce2"></div>
+                <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                <h1 data-uuid="31f6bad9572b427ea27c1094d8c94c11">The Cold War</h1>
+            </section>
+            <section class="eq-container" data-uuid="884062e2c8df43698505cc702cca4850">
+                <figure class="image " data-uuid="333ca7d4218e4587bca81c45ea7c20e4">
+                    <img alt="This is a photograph showing children ducking under their desks at school in a practice air raid drill." data-uuid="8171697d84f84fbea2f580505fa27500" src="../../img/module_28opener/ms_snlese454149_457p.jpg" />
+                    <div class="image-metadata-container" data-uuid="0d1eb0dc5fe94fb0b087cd7e30617105">
+                        <span class="image-text image-alt"></span>
+                        <span class="image-text image-credit"></span>
+                    </div>
+                </figure>
+            </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="f0cf98e5d8d54c9d9433be17b71b117f">
+    <p class="caption" data-uuid="afd13fa1410e4e87a7ff0cfc59f5692b">After World War II, the United States and the Soviet Union engaged in a nuclear arms race. Here, American students practice a ”duck-and-cover drill,” designed to protect them from a nuclear bomb blast.</p>
+            </div>
+            <article data-uuid="2b384f3d92fb4a2fb62e9434860598e8">
+                <h3 class="eq" data-uuid="95baf19acbbe4e5a8e6cdfa50efd174a">Essential Question</h3>
+                <h3 class="eqt" data-uuid="ec1d070fde9a4ad18264fbb91d8f7e74">How might the Cold War have been prevented?</h3>
+                <p data-uuid="eda77fbe562442f386531058a98576ae">As World War II ended, major differences arose
+                    between the Soviet Union and the United States. The two nations became
+                    adversaries, engaged in a power struggle that came to be called the Cold War.
+                    This struggle was costly and led to conflicts around the world as each tried to
+                    protect its interests. Could this struggle have been prevented?</p>
+                <p data-uuid="556dfa0530744fc59487494d07516681">As you read this module, look for evidence of the political and ideological
+                    differences of the two nations. Note the key people, decisions, circumstances,
+                    and turning points that resulted in Cold War tensions. When you are done,
+                    you will write a short essay answering the Essential Question for this module.</p>
+            </article>
+            <section class="video-container " data-uuid="24e77361fd0c4a10a98668e5889e4fcb">
+                <article data-uuid="affae066f9734804b9a45885ec7818cf">
+                    <h3 class="vid" data-uuid="127de60a4ddb465b8e1d3a5640cab915">The Arms Race</h3>
+                    <p class="vid" data-uuid="2aff7cb90c054a54a22546f9de043eb1"></p>
+                    <p data-uuid="611327017c5a4c039a4c35d401ead504">The postwar struggle for power
+                        between the United States and the Soviet Union led each country to develop more and more powerful
+                        weapons. Only a few years after the United States used the atomic bomb in World War II,
+                        the Soviet Union had also developed an atomic bomb. The arms race had begun.</p>
+                    <section class="video" data-uuid="74908aef3747462a87bbce45848d03ab">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="d553bdf907824484a18222bc40559952"><param name="configFile" value="../../widget_data/config/d553bdf907824484a18222bc40559952.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="732088738619486eb60b9edb05328ec8">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c1d7b7ec718944fda342ba868a815e3b">
+                    <param name="configFile" value="../../widget_data/config/c1d7b7ec718944fda342ba868a815e3b.json" />
+                </object>
+            </section>
+            <section class="timeline-container" data-uuid="a25a4727ef014dc2a174146a9e49a672">
+                <article data-uuid="395ab4d51e174fd5a237152c384744e5">
+                    <h3 class="mod" data-uuid="edc44c503aad4f5ab6c5a3ba9645283e">The Cold War 1945–1960</h3>
+                    <p class="mod" data-uuid="ff63455d32454fc399aef7c3c0cc4f6e">The Allies put aside their differences to fight their
+                        common enemy in World War II, but those differences were not gone. As the war ended, the
+                        division built into what became known as an “iron curtain.” Throughout
+                        the Cold War, the United States and the USSR, engaged in a
+                        contest of action/reaction. Each side tried to stay ahead of the other in
+                        territory, weapons, and even in space.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="b7144cd9344b43478e02f6671da5a547">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="2cb8b38035874ce5a42e90839d9b9304">
+                    <param name="configFile" value="../../widget_data/config/2cb8b38035874ce5a42e90839d9b9304.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="44baa08322fd4e47aef84e52c456b022">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2084231ce843471aab282aa2c756fe62">
+                <param name="configFile" value="../../widget_data/config/2084231ce843471aab282aa2c756fe62.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="eb77c1a0236e43bcbb4ae8ec673e9012">
+            <button data-teacher-view-toggle="true" data-uuid="39941b2ae7cd44e69ead7c59d95cbbe4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="deefeff70daa43879433b814c6ccd1d8">
+                <param name="configFile" value="../../widget_data/config/deefeff70daa43879433b814c6ccd1d8.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="944da470511e4822a9af2b5f0d5347e2">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Improved Farm Equipment</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="1772d48952644c1a816ff48a9b731e14">
+            <article data-uuid="303307b894804d049c2e12db3214e3d4">
+                <h4 data-uuid="09a4463a0b684f9ea41f91c512e563e2">Main Idea</h4>
+                <p class="main-idea" data-uuid="03ebf6bd006640a4a5b712a8be99435b">Improved farm equipment and other labor-saving devices made life easier for many Americans.</p>
+                <h2 data-uuid="5d8715d0d62b4ce489678202d5b79cce">Improved Farm Equipment</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="30a6d7238bf44ea6a5aa516a1dcc09af"></div>
+            </article>
+        </section>
+        <p data-uuid="9c756c9cc9044776984fbd558c9b6b07">During the 1830s technology began transforming the farm as well as the factory. In 1837 blacksmith <b><dfn title="Deere, John">John Deere</dfn></b> saw that friends in Illinois had difficulty plowing thick soil with iron plows. He thought a steel blade might work better. His design for a steel plow was a success. By 1846 Deere was selling 1,000 plows per year.</p>
+        <figure class="image-with-caption text-center main" data-uuid="7de3eb22ea8d4eeca93a6a716b8f9eb8">
+            <img alt="This black and white photo shows a man operating an early steel plow in a field. The plow is being pulled by a mule while the man guides it from behind. " data-uuid="16b213036e304b60b44731bb6406ef5d" src="../../img/module_13_lesson04/ms_snlese454149_339p.jpg" />
+            <div class="figcaption" data-uuid="b749874574ef4053bd40c91884cd6638">
+                <p class="caption" data-uuid="2eca2f40ec7b4a2bbed4f2756d85de64">In 1837 John Deere invented the steel plow that made plowing the tough prairie soil easier.</p>
+            </div>
+        </figure>
+        <p data-uuid="696a37178e8e4b4ba1c4f1e6bd4689b0">In 1831 <b><dfn title="McCormick, Cyrus">Cyrus McCormick</dfn></b> developed a new harvesting machine, the mechanical reaper, which quickly and efficiently cut down wheat. He began mass-producing his reapers in a Chicago factory. McCormick used new methods to encourage sales. His company advertised, gave demonstrations, and provided a repair and spare parts department. He also let customers buy on credit.</p>
+        <p data-uuid="372e90c3d6f246e1b6f080a19da2e9b1">The combination of Deere’s plow and McCormick’s reaper allowed Midwestern farmers to plant and harvest huge crop fields. By 1860 U.S. farmers were producing more than 170 million bushels of wheat and more than 800 million bushels of corn per year.</p>
+        <p data-uuid="99526da1f7fd4fd2b2ebd553fe0fa79c">Improvements in farming technology made farming more efficient, but it also meant fewer laborers were needed to work the land. As a result, many people moved from rural areas to cities to find work.</p>
+        <section class="reading-check" data-uuid="4f60f781ad8046b99aaced45ccb596e4">
+            <section class="question-long-text" data-uuid="fcf4fc346b2a440cb7b951c27ddfdfdb">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="bdb774b2d5e94054ae175eaaf0c55a58">
+                    <param name="configFile" value="../../widget_data/config/bdb774b2d5e94054ae175eaaf0c55a58.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="febac925fcd14d3fb33a2b9408cb8477">
+            <div class="go-prompt-bottom-bar" data-uuid="3bc6ed62b5af481c90a83e7c662ffe52">
+                <p data-uuid="4f8b34a5ea6a47a697ba88955c8be835">Remember to use the graphic organizer to take notes on the improvements in farm equipment in the 1800s.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="6f07f834709b47e4923a354dcb749bfc">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="48452634939d41c3bb92f0bd1d3c9429">
+                <param name="configFile" value="../../widget_data/config/a6e3d61bf54949c2a418107a52055638.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="c8e4b699bf9b40aea414588cf63ab63a"></button>
+        </section>
+        <p data-uuid="19ee2ed16f5d437d8d4f8929f664ad8c"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="0cbcbb7c69c24efe962944c21b7a30ca">
+            <button data-teacher-view-toggle="true" data-uuid="4ce0eeda1fab4a3687fce402692f620f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d7f2ff5841b447798bdbbaafd76f1115">
+                <param value="../../widget_data/config/d7f2ff5841b447798bdbbaafd76f1115.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

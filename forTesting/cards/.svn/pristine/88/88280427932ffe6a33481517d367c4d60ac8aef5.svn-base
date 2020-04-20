@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e88f8ead28f546d59c876b5953f5b5cf" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="b7b4cadbae104f9d9e0985fc0f4ec0fb">
+            <div class="header-element header-container " data-uuid="8764ba4740674baaa7c10eb016ac4b89">
+                <p class="lesson-number" data-uuid="e59f827ab67c4980b0e9d43b99fc9fc8">Lesson 3</p>
+                <h2 data-uuid="7b0360267ef441cc8928fd37c62defc5">Assessment</h2>
+            </div>
+            <h5 data-uuid="5152b58d88054e208b9021ff6dd65888">The California Gold Rush</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="f1939787052e43749532f9c8b86233a4">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="c5e2199513af4d8d90d47ea07818114d">
+                <param name="configFile" value="../../widget_data/config/c5e2199513af4d8d90d47ea07818114d.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="b5fc537b99334a21b1c8ae4437b0da75">
+            <button data-teacher-view-toggle="true" data-uuid="af6b1b787b994b998dc215caa00804aa"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d30afa4232e34ce8ad35151c5de10e0b">
+                <param name="configFile" value="../../widget_data/config/d30afa4232e34ce8ad35151c5de10e0b.json" />
+            </object>
+        </section>
+        <p data-uuid="5220c592ae9c48dd9f8e85ed6abf5d2f"><br />
+        </p>
+    </body>
+</html>

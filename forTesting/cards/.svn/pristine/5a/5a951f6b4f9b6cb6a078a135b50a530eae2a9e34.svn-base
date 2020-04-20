@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6ebd835a204a48d8a634cab523e392f9">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="4744af6b25b140c3a07a466f273e8a61">
+            <div class="header-element header-container " data-uuid="0a2246e7ba884c8c9152aadf8235d6b4">
+                <p class="lesson-number" data-uuid="a2b095f32d474a4ab018dd1ba55bf239"><br />
+                </p>
+                <h2 data-uuid="8f325401350c4db1ae3a260ccb6256cd"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="21c360e486d0452180acd1025b41cdce">Part 2: Write an Analytical Essay</h3>
+            <h6 data-uuid="fb1d6cf359b0405197fd20b99375efa9">Historical Context</h6>
+            <p data-uuid="78a9738f19624eed8048014d51f2af60">In the 1400s Europeans
+                began exploring the world, searching for new lands and new trade routes.
+                Christopher Columbus’s voyages led to new exchanges between Europe, Africa, and
+                the Americas. In the 1500s Spain established a large empire in the Americas.
+                Soon, other European nations competed with Spain by starting colonies in the
+                Americas.</p>
+            <h6 data-uuid="42c763e818954294bb7dd44bd2661922">Task</h6>
+            <p data-uuid="6f7dfe7e4e8e410dbb228a1d4ec945b9">The Columbian Exchange introduced the people of
+                Europe and the Americas to new plants, animals, and ideas. Write an analytical essay in
+                which you discuss how encounters between different peoples changed the world.</p>
+            <section class="module-close-dbi" data-uuid="5b103e04543f433987ef86ba45790379">
+                <p data-uuid="fd435b05f6694155a1910b91d0ee5007">Complete the following steps as you plan and compose your essay.</p>
+                <ol data-uuid="7906cc2565f14ea8bdc4f654abe776ee">
+                    <li data-uuid="f3479396792045c99c403f41dceeb418">
+                        Review your notes and sources before you start writing.
+                    </li>
+                    <li data-uuid="072b7f7a54b84d8db1062ff2ccbe0c5c">
+                        Use at least <i>three</i> of the sources in Part 1, and develop the topic
+                        with relevant, well-chosen text evidence from the documents.
+                    </li>
+                    <li data-uuid="d4346e222f14488593040ad9d0757276">
+                        Cite specific text evidence from each of the sources in your
+                        response.
+                    </li>
+                    <li data-uuid="da0e7be0852c4f719c4c2d5bf3f9da6e">
+                        Plan your essay so that it includes an introduction, several body paragraphs, and a concluding paragraph.</li>
+                    <li data-uuid="06686d05366b4a97b7bd7586fb40c36f">Organize your essay in a clear and logical way, and use relevant details to support your analysis.</li>
+                    <li data-uuid="4fb12a26ee274e6d89e3a3e929c99dd8">Write a conclusion that sums up your ideas&#160;and supports the information you present.<br />
+                    </li>
+                </ol>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="edc7e24b45874350ba88ba5b4089ab74">
+            <button data-teacher-view-toggle="true" data-uuid="33895ed343c940219f5e27cec6e88dc0"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4013387adbfc40d6a7d43415a5f1f880">
+                <param name="configFile" value="../../widget_data/config/4013387adbfc40d6a7d43415a5f1f880.json" />
+            </object>
+        </section>
+        <p data-uuid="85f2bf052b724223a65e7d0cdabc3e2e"><br />
+        </p>
+    </body>
+</html>

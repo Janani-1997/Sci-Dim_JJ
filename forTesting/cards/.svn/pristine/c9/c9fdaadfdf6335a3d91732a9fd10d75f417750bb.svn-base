@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d287ac4d4b134d939b2242cb33ddb935">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="7f2ad588431e4b3d8fda2e93cd31ac26">
+            <p class="lesson-number" data-uuid="bab8b7d2ee054c359a441f5ba12b709e">Lesson 3</p>
+            <article class="header-container" data-uuid="c94b8fc1e1474ef4a4182b66496bcbc2">
+                <div class="header-element" data-uuid="b67691e2b54e4f7ba72b300f05dad758">
+                    <h1 data-uuid="bbc6304b294647668769984631248c2d">The Bill of Rights</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="eb8636034188400d81ba5f3b0e2ee33d"></div>
+                    <h2 data-uuid="7c8d62803f974e7197f22b39153a352c">The Big Idea</h2>
+                    <p data-uuid="8f4476f3c0554c5bb2908c166980d05d">The Bill of Rights was
+                        added to the Constitution to define clearly the rights and freedoms of
+                        citizens.&#160;</p>
+                </div>
+            </article>
+            <article data-uuid="93d582c304dc425ba01116704b436488">
+                <h3 class="if-you-were-there" data-uuid="054fce25d0324982bebe42e1c20b0051">If YOU were there...</h3>
+                <p data-uuid="bb7d736688e4496883ee1051fc86187d">Your father runs a bookshop
+                    in colonial Boston in 1770. Your family lives in a very small brick house. You
+                    and your sisters must share one small room. One day, a red-coated British
+                    officer knocks on your door and strides into the parlor. He says that your
+                    family will have to provide a room and meals for two British soldiers. “We’re
+                    already crowded!” you protest, but he insists.</p>
+            </article>
+            <section class="question-long-text" data-uuid="8f058234da5f4392930556e73a65f57f">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="260f587f7f8f4a2d9b9cda6ea14ecc62">
+                    <param name="configFile" value="../../widget_data/config/260f587f7f8f4a2d9b9cda6ea14ecc62.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2afe43dea7704eae9b16fef86e1513f6">
+            <button data-teacher-view-toggle="true" data-uuid="6affca4bba814e638e6abace7061e65c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="14935c96c2804615a7f0f9a8db7070ff">
+                <param name="configFile" value="../../widget_data/config/14935c96c2804615a7f0f9a8db7070ff.json" />
+            </object>
+        </section>
+    </body>
+</html>

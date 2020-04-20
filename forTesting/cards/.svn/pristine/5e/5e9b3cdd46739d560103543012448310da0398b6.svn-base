@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8c196b951f8b4fa19719c55c977513e6">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="f061aa13819644c29f998360d6567ff9">
+            <div class="header-element header-container " data-uuid="5fd0d17737d0471ab7c24cd0e93c5a38">
+                <p class="lesson-number" data-uuid="ff69c651b14f46a3b5efa6b89dd13492"><br />
+                </p>
+                <h2 data-uuid="2cd1c1ac96024f418779bf4cc5edcaed"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="411e0be0a0ad4f2298adad1cc763526d">In this module, you learned
+                    how immigration and the rapid growth of cities impacted the lives of many
+                    Americans in the late 1800s. Now it’s your turn to demonstrate your understanding
+                    of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="9887d3971e224e008c1f6c58b99baeb6">How did immigration and rapid urban growth shape life in the United States? </h3>
+            <p data-uuid="a6fd0065068a4feaa07ec24594f511da">Write a persuasive essay answering this question. Your essay should include key
+                people, events, and turning points in United States history. Be sure to cite
+                evidence to support your position and organize your essay into an introduction,
+                body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f97d33ae8016443f9510f9b2190120ee">
+            <button data-teacher-view-toggle="true" data-uuid="d621ecedc29c4b53894d47e8eb31d1d4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0b1464faf66b4e14b4aafe6cccfcc3c7">
+                <param name="configFile" value="../../widget_data/config/0b1464faf66b4e14b4aafe6cccfcc3c7.json" />
+            </object>
+        </section>
+        <p data-uuid="0ccfe42b7e6d4f3c8e53f6a71c5408fe"><br />
+        </p>
+    </body>
+</html>

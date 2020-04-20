@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b1093e0263d04fa280ebf4dc3c2356bf">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="eaec6cd22ef0450599f1773b8bfc3cfc">
+            <p class="lesson-number" data-uuid="f7b9a73209744d17a82e86c8305fc67c">Lesson 2</p>
+            <article class="header-container" data-uuid="996d4c06140c4c94a08e97e8c022a682">
+                <div class="header-element" data-uuid="0b91aa58752145a69e884e57ccb2e620">
+                    <h1 data-uuid="c0d3f2d28885488da232cf8eb801457f">Native
+                        American Cultures</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="de83da1a037b4d0a81b8b21ef5aff059"></div>
+                    <h2 data-uuid="79bbc7ddd73e4104834aa0f0df95448c">The Big Idea</h2>
+                    <p data-uuid="da543156f7be49e4833fdd425541d78c">Many diverse Native American cultures developed
+                        across the different geographic regions of North America.</p>
+                </div>
+            </article>
+            <article data-uuid="e3782e3f7aa04f36ad0ee03a95e39f01">
+                <h3 class="if-you-were-there" data-uuid="05113d8c48fa4ae984a0a668c3575775">If YOU were there...</h3>
+                <p data-uuid="9e4a5626782f4822acf8dd33cd2bfd50">You live in the North American Southwest about
+                    1,000&#160;years ago. You’ve been working in the fields for several hours
+                    today. The maize crop looks good this summer, and you are hoping for a
+                    successful harvest. After finishing your work, you walk home. The opening to
+                    your house is in a cliff wall 30 feet above a canyon floor. You must use
+                    ladders to get to the opening.</p>
+            </article>
+            <section class="reading-check" data-uuid="feae497c34944b658a4d77043b208cfe">
+                <section class="question-long-text" data-uuid="4346eb886b734cb7a8baf0857b751399">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="fc06568e381c4378bd0902198098e08a">
+                        <param name="configFile" value="../../widget_data/config/fc06568e381c4378bd0902198098e08a.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="cf57c31c124d445c9fe5405e5d94322c">
+            <button data-teacher-view-toggle="true" data-uuid="b26bd7eab4114baaa5dd5313cd5076cf"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="72bbb051ae5b4f23bf95c2f2e4923235">
+                <param name="configFile" value="../../widget_data/config/72bbb051ae5b4f23bf95c2f2e4923235.json" />
+            </object>
+        </section>
+    </body>
+</html>

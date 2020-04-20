@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="91a819f848534bf0af503bc6ecbdd4e8">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="7785a2fb839c49feb484f62a5f8aab24">
+            <div class="header-element header-container " data-uuid="ad733aad7591441299b308c38b1bc2a2">
+                <p class="lesson-number" data-uuid="813861a56ff84e369f0b07c0ead6a9b5">
+                    Lesson 1</p>
+                <h2 data-uuid="fe1c81435de14872bf021aae8f655f61">Assessment</h2>
+            </div>
+            <h5 data-uuid="7a3a72a49edf4dd6aa63ad45183d71a8">A Growing Nation</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="33626996310f4bc0a30aed328ef12f1a">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="eeee28600c494184a1c0770ab0c6fa51">
+                <param name="configFile" value="../../widget_data/config/eeee28600c494184a1c0770ab0c6fa51.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="5a59b6b97fb8461390fa9246e951fc28">
+            <button data-teacher-view-toggle="true" data-uuid="bf0b40decb5f458e91569a6f37e523e0"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="9638e55fd708499c8a866c6da64536b0">
+                <param name="configFile" value="../../widget_data/config/9638e55fd708499c8a866c6da64536b0.json" />
+            </object>
+        </section>
+    </body>
+</html>

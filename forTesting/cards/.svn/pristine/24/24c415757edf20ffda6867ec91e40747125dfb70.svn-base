@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="7c69a9f6cb13432dbf0348f98c2a19a6" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Changing Cities</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="fdf0d5f4f72349709bb5aa2e73065b3b">
+            <article data-uuid="efa8194b1cba4560a58679e132ea5bac">
+                <h4 data-uuid="dda55bf5f164482b9b55573c213c03b3">Main Idea</h4>
+                <p class="main-idea" data-uuid="3c7c4814cb97406eba1df916a4e9b781">New technology and ideas helped cities change and adapt to rapid population growth.</p>
+                <h2 data-uuid="7cf91e406cac4cb49a3598bc71185d0b">Changing Cities</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="90427546154543c2b750bcd3f9f08b01"></div>
+            </article>
+        </section>
+        <p data-uuid="af9b37aac4974429a59bd101df639acb">American cities such as Chicago were ill prepared for the rapid urban growth of the late 1800s and early 1900s. Where was everyone going to live? How were people going to get from home to work on crowded city streets? Several new technologies helped cities meet these challenges. These technologies forever changed the look and function of U.S. cities.<br />
+        </p>
+        <section class="historical-source nobg" data-uuid="dfbd989089904232ae2b64f9d0d0640d">
+            <article class="box gradient" data-uuid="d9b098183a324256a0ef025ec8ab6d19">
+                <div class="header-element" data-uuid="30551f1f0df745e5afd6dd15de4498f0">
+                    <h2 class="label" data-uuid="48e6d79146a14c69b4ee75e1f5e7e546"><b>Document-Based Investigation</b>   Historical Source</h2>
+                </div>
+                <div class="jonra" data-uuid="17b4b1d232ac4acc8c321bddc7b66570">
+                    <h2 data-uuid="b1458d6e7eb54b04b8b828bcc9a42278">Postcard of Chicago, 1900</h2>
+                    <p class="source" data-uuid="7fb347744c3b459888234df182a8a0ac">Postcards like this one were one way people shared the experience of visiting or living in a big city like Chicago. This scene shows a bustling street corner.</p>
+                </div>
+                <section class="image-with-hotspots" data-uuid="0526aec4bb4c4c29917f49bf1fddd6f2">
+                    <object type="text/html" data="../../assets/widgets/image_hotspot/index.html" class="widget" data-uuid="884af7c1631f41a4b1eb31f1257a0783">
+                        <param name="configFile" value="../../widget_data/config/884af7c1631f41a4b1eb31f1257a0783.json" />
+                        <param name="reference_id" value="ref:V_HC_2749" />
+                        <param name="externalwidget" value="true" />
+                    </object>
+                </section>
+                <section class="skillbuilder" data-uuid="3e43af0b148f4245893b21a9b4bfa511">
+                    <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="36a13b75823c4f329c20a5340db42176">
+                        <param name="configFile" value="../../widget_data/config/36a13b75823c4f329c20a5340db42176.json" />
+                    </object>
+                </section>
+            </article>
+            <section class="question-long-text" data-uuid="74cb83eda88f4732b1070542ce72cf9e">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="99fedeed2c7249ad9b9620b7bb26003e">
+                    <param name="configFile" value="../../widget_data/config/99fedeed2c7249ad9b9620b7bb26003e.json" />
+                </object>
+            </section>
+        </section>
+        <h3 data-uuid="628bf17939c74bd99141d964ed8ba124">Building Skyscrapers</h3>
+        <p data-uuid="17c5560e1b764820838fce73e695aa1d">With so many people moving to urban areas, cities quickly ran out of building space in downtown areas. One solution would be to build taller buildings. Typical city buildings in the mid-1800s were only five stories tall, but taller structures were impossible to construct because the building materials available were either too weak or too heavy.</p>
+        <p data-uuid="aff62e85bae04365aaae683a4b47621e">This changed with the rise of the American steel industry in the late 1800s. Mills began producing tons of strong and inexpensive steel. Soon, architects such as Louis Sullivan of Chicago began designing multistory buildings called skyscrapers. Architects used steel beams to make sturdy frames that could support the weight of tall buildings. This allowed builders to use limited city space more efficiently.</p>
+        <section class="image-with-hotspots" data-uuid="8f7f0931e6ea4673ae03da10343ac5f2">
+            <object type="text/html" data="../../assets/widgets/image_hotspot/index.html" class="widget" data-uuid="1077448202204ebaaad46fd98bc8e7bd">
+                <param name="configFile" value="../../widget_data/config/1077448202204ebaaad46fd98bc8e7bd.json" />
+                <param name="reference_id" value="ref:V_HC_2749" />
+                <param name="externalwidget" value="true" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="6d773d4d167e4e69871e07fcc1bcf747">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="5dc4e00724d0465ab78fca4270791882">
+                <param name="configFile" value="../../widget_data/config/5dc4e00724d0465ab78fca4270791882.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="1db407afce7e44a3b5bfc3bc250d00fa">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="dd2bb7176d9c448a917b0773675063fb">
+                <param name="configFile" value="../../widget_data/config/dd2bb7176d9c448a917b0773675063fb.json" />
+            </object>
+        </section>
+        <p data-uuid="88fedca7aa144b2e857dd14fd37c2476">The safety elevator, patented by Elisha Otis in the 1850s, helped make skyscrapers practical. Previous elevators had been unsafe because they would crash to the ground if the elevator cable snapped. Otis’s safety elevator included a device to hold the elevator in place if the cable broke.</p>
+        <h3 data-uuid="43a675fcd7324f0fa93965d47804021c">Getting Around</h3>
+        <p data-uuid="649ec01972754fc88f87ac3bd605c2e4">Taller buildings made it possible for more people to live and work in city centers. This increased the need for <b><dfn title="mass transit">mass transit</dfn></b>, or &#173;public transportation designed to move many people. By the late 1860s New York City had elevated trains running on tracks above the streets. Chicago followed in the 1890s.</p>
+        <p data-uuid="c86bd207da414c4e99e35c0bb8ffeb6f">Some cities built underground railroads, known as subways. In 1897 the first subway in the United States opened in Boston. In 1904 the first line of the New York City subway system began operation. Cable cars and electric trolleys also became common. These streetcars cheaply and quickly carried people in the cities to and from work.</p>
+        <p data-uuid="9aac0e21fe47428d94d1966a5623714b">Many Americans who could afford it moved to <b><dfn title="suburb">suburbs</dfn></b>, residential neighborhoods outside of downtown areas that had begun springing up before the Civil War. Mass transit networks made such moves possible. People could live in the suburbs and take trolleys, subways, or trains into the cities.</p>
+        <p data-uuid="b808794d87bf408a8a913ebb0f747178"></p>
+        <h3 data-uuid="e1231eb955b04241a076b3f1e427d9df">New Ideas</h3>
+        <p data-uuid="36738db0e0c143d39b403724428bcae8">In the late 1800s the United States also began to develop forms of <b><dfn title="mass culture">mass culture</dfn></b>, or leisure and cultural activities shared by many people. One factor contributing to mass culture was a boom in publishing. The invention of the Linotype, an automatic typesetting machine, greatly reduced the time and cost of printing. In 1850 there were fewer than 300 daily newspapers in the country. Because of the use of Linotype machines, by 1900 there were more than 2,000 newspapers.</p>
+        <p data-uuid="764f067ac41546fbbc7ed078a17d481f"> Big cities often had many newspapers, so publishers had to compete for readers. In 1896 <b><dfn title="Pulitzer, Joseph">Joseph Pulitzer</dfn></b> added a color comic to his <i>New York World </i>newspaper. More people started buying Pulitzer’s paper. <b><dfn title="Hearst, William Randolph">William Randolph Hearst</dfn></b> was publisher of the <i>New York Journal</i>. He saw that comics helped sell newspapers. So he added a color comic strip to his paper. Soon, newspapers across the country were adding comic strips.</p>
+        <section class="biography" data-uuid="d5feb0406d17481c8a559631fc1b0049">
+            <div class="header-element" data-uuid="9cb1901ce9c64271ae059c10969099ed">
+                Biography
+            </div>
+            <p class="name" data-uuid="e0307734c82d44e580438a2558cdf4d3">William Randolph Hearst</p>
+            <p class="date" data-uuid="1793a20426304b148696b449aeedbfef">1863–1951</p>
+            <figure class="image-metadata bio-image" data-uuid="ab3c3d7d76534a678d3c0ed47f240bd5">
+                <img alt="This portrait depicts William Randolph Hearst, a famous American publisher who lived from 1863-1951." src="../../img/module_21_lesson02/8_snlese454170_428p.png" data-uuid="343eef0e25fc4ebc838c15797c6a2fa4" />
+                <div class="images-metadata-container" data-uuid="595ade445ffb454cbbada6b89cdf38ab">
+                    <span class="image-text image-alt"> </span>
+                    <span class="image-text image-credit"> </span>
+                </div>
+            </figure>
+            <p data-uuid="19d8a0b38ba84790868276232d4c8776">Beginning with his career managing the <i>San Francisco Examiner</i>, William Randolph Hearst built a vast publishing empire. At the height of his success, Hearst owned 28 major newspapers and 18 magazines, along with various news services, radio stations, and movie companies. </p>
+            <div class="blue-star-blue-bar" data-uuid="de10c1a3c1a444e4955a77b30655ddf5">
+                <span class="star"></span>
+            </div>
+        </section>
+        <p data-uuid="d5b9a1135c5d43d3b35e4d33a03375f8">Mass culture affected how people shopped as well. Giant retail shops, or <b><dfn title="department store">department stores</dfn></b>, appeared in some cities during the late 1800s. One of the earliest was Marshall Field in Chicago. Field’s offered low prices and large quantities of products. It also was the first department store to offer its customers a restaurant where they could eat while shopping. Newspaper and magazine advertising was used to bring in customers. Advertisers realized that women made most purchasing decisions about household goods, so they targeted their messages to them. The public was also attracted by fancy window displays.</p>
+        <p data-uuid="f5c45965ede8481eaac4cb1b7512451f">Advertisers also tried new approaches to win customers. Food companies often used wholesome farm images to convey a sense of purity. Some companies came up with clever brand names, such as Uneeda Biscuit crackers, to help customers remember their products. </p>
+        <p data-uuid="d16a9d49023940709dd1b82efa53de05">Rural dwellers did not have access to urban department stores. But they could purchase a huge variety of goods from mail-order companies. In 1897 Sears, Roebuck and Company produced a 507-page catalog. It offered everything from slippers to stoves to saddles. Mail-order customers simply made their selections, sent in their payments, and waited for the merchandise they ordered to arrive by rail or post.</p>
+        <p data-uuid="5db73e154e9449bd92a8d99a84a6ae5f">World fairs were another example of mass culture. Fairs brought merchants together, which sometimes resulted in new ideas and products. At the 1904 St. Louis World’s Fair, for example, a Syrian food vendor began making cones for a nearby ice cream vendor who had run out of dishes. Ice cream cones became popular throughout the country.</p>
+        <figure class="image-with-caption main" data-uuid="44244621e7394bd5b0dad2a6347d088a">
+            <img alt="This photograph shows the world’s first Ferris wheel, invented by G.W.G. Ferris and featured at the World’s Columbian Exposition in Chicago in 1893." data-uuid="79b554349ec644b2be02862cb520529f" src="../../img/module_21_lesson02/ms_snlese454149_887ap.jpg" />
+            <div class="figcaption" data-uuid="5cb553a0f52a42609f00190f0e6a5a28">
+                <h5 data-uuid="eb7ca9d46ed748999b49e90babf84129">Debut of the Ferris Wheel</h5>
+                <p class="caption" data-uuid="5951351089c3400f93ca1f16f738ef50">Pittsburgh engineer G.W.G. Ferris invented the Ferris wheel as a landmark for the 1893 World’s Columbian Exposition in Chicago.</p>
+            </div>
+        </figure>
+        <p data-uuid="1855896938a947fe9c1bafbb270ae8ec">The demand for public entertainment also led to the creation of amusement parks, such as New York’s Coney Island. The inexpensive entry tickets made Coney Island a favorite destination for children and families. For a nickel, visitors could ride a new invention called the Switchback Railway—the country’s first roller coaster.</p>
+        <p data-uuid="01372b1cdeee4fb594830b9edeaf83d2"> As cities grew, people became aware of the need for open public space. Landscape architect <b><dfn title="Olmsted, Frederick Law">Frederick Law Olmsted</dfn></b> became nationally famous. He designed Central Park in New York City, as well as many state and national parks. Some of his other well-known projects include Prospect Park in Brooklyn, New York, and the U.S. Capitol grounds, which he worked on between 1874 and 1895.<br />
+        </p>
+        <figure class="image-with-caption feature" data-uuid="22425e2d23f44d649dcb4b4114ead1ef">
+            <img alt="This black-and-white sketch shows the design plan for Central Park in New York City. The park’s layout was designed by Frederick Law Olmsted, a famous American landscape architect. For more information, ask your teacher to describe this image to you. " class="" data-uuid="b06a9c25648d44b085bec260739c5f7a" src="../../img/module_21_lesson02/ms_snlese454149_898p.jpg" />
+            <div class="figcaption" data-uuid="ee4155e268454983b53b6eb88706f812">
+                <h5 data-uuid="204708d8970147d8a064a3fa804de468">Central Park Plan</h5>
+                <p class="caption" data-uuid="885f5fe0af8a4f8c8e529ac148c9e200">Frederick Law Olmsted designed Central Park to serve as a place where New York City residents could relax, exercise, and enjoy nature.</p>
+            </div>
+        </figure>
+        <figure class="image-with-caption one-half right top-align" data-uuid="178fcdba9eb24245b41e97e5dcc3b240">
+            <img alt="This modern photograph shows an aerial view of Central Park in New York today, surrounded by skyscrapers. " data-uuid="ab86fefa07574118b638a89bc45f5ed6" src="../../img/module_21_lesson02/ms_snlese454149_897p.jpg" />
+            <div class="figcaption" data-uuid="6b53d23d13374f1e82fcdf3941ec310b">
+                <h5 data-uuid="41779cdc5ac54bc2a644ff5c01e7d492"><b></b>Central Park</h5>
+                <p class="caption" data-uuid="42e4c06b93d448e0b61c3c6d4060c84f">Today, surrounded by skyscrapers, Central Park still preserves over 843 acres of natural space.</p>
+            </div>
+        </figure>
+        <p data-uuid="02f4ac3e509041a7b2bafcd28fb2ade5">Still, New York City’s Central Park is Olmsted’s best-known work. His plan intentionally placed a pond near busy streets, hoping that it would attract walkers. Olmsted reserved a special area of the park just for children. The Children’s District included a playground, open areas for playing and picnicking, and a dairy. Olmsted also included areas for horseback riding, ice skating, boating, and baseball, as well as a network of trails for roller skaters, walkers, and cyclists.<br />
+        </p>
+        <section class="question-long-text" data-uuid="1fe59e33b8cf4b61bb4cfdc73cd1c77a">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="5f6652cc0e2c4e759f352b0b04915754">
+                <param name="configFile" value="../../widget_data/config/5f6652cc0e2c4e759f352b0b04915754.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="ae294c783c1a4c8aa05fc624ec029612">
+            <div class="go-prompt-bottom-bar" data-uuid="2b439f93a31a496cb0e3c7f878dfe23e">
+                <p data-uuid="b3f07f9a56aa4909ab3766d6bb209de4">Remember to use the graphic organizer to take notes on the causes of the growth of cities.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer full bleed" data-go="v0.1.0" data-csm-hide="true" data-uuid="82ed1be324a64468b47cfe9a8ff30c9b">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="55ea3693fb7e4709ab13cd86a405b389">
+                <param name="configFile" value="../../widget_data/config/3a4dd89ccd5247aba3e514fb94bc31d2.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="7eba0a35f6b7462eba0f4ecf1f984940"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="13f3761639df4077bbc921b949f91738">
+            <button data-teacher-view-toggle="true" data-uuid="15d3d1c2ef974cf79522ae8b0c679526"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d873a9fdaa88456f99e255a7425e1466">
+                <param name="configFile" value="../../widget_data/config/d873a9fdaa88456f99e255a7425e1466.json" />
+            </object>
+        </section>
+    </body>
+</html>

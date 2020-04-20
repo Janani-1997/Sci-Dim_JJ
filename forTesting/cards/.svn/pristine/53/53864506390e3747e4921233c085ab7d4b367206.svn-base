@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="d6d098e9308240fd99793a352154510f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="a6979282ae154feb846974ee663ca6cf">
+            <div class="header-element header-container " data-uuid="accdcc816d9848ef804b78aa5c97da4d">
+                <h2 data-uuid="639c36ad3b90470a87eb1cfbcae02e7e"><br />
+                </h2>
+                <h2 data-uuid="4470099f9cae400a9c06bf20fc6023cc"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="b9709ef4455f4f1bb54783a9d26f39de">In this module you’ve
+                    learned about new inventions and the changes that occurred in the lives of
+                    Americans in the North as a result of rapid industrialization. Now it’s your
+                    turn to demonstrate your understanding of the module content by writing an
+                    essay.</p>
+            </div>
+            <h3 data-uuid="56f2b7748c5e4a7fafb4fe2e595d09bf">How
+                did the Industrial Revolution help shape life in the North?</h3>
+            <p data-uuid="b1e9cc501afd4e2e8a4b6863ea4c619c">Write a persuasive essay
+                answering this question. Your essay should include key people, events, and circumstances
+                of the Industrial Revolution that
+                helped shape life in the North. Be sure to cite evidence to support your
+                position and organize your essay into an introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="90ec5307ce3e4b43959689f7fda7bdc7">
+            <button data-teacher-view-toggle="true" data-uuid="7aa6324e0c62472085f84ded1e7a6d4d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="058324be80d94a52b815e04b774a9ff6">
+                <param name="configFile" value="../../widget_data/config/058324be80d94a52b815e04b774a9ff6.json" />
+            </object>
+        </section>
+        <p data-uuid="43375471505c448895f469e59f6a9706"><br />
+        </p>
+    </body>
+</html>

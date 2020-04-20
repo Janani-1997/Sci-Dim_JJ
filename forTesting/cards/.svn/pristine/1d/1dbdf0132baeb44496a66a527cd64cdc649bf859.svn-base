@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="bf790e917fc44b679a1201df9334403d">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>The Election of 1824</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="6e35d67aadaa4b3e995b7787cd1720a9">
+            <article data-uuid="02efbdffd2694dc381fd0cc3615ecd36">
+                <h4 data-uuid="aade3d9a099146febca4da7a7ec5f73e">Main Idea</h4>
+                <p class="main-idea" data-uuid="5b3524fa6ab94ac9886fa2b6bf41f435">The outcome of the election of 1824 led to controversy.</p>
+                <h2 data-uuid="d32427e0f9964b23b76e9c597720bf38">The Election of 1824</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="1d92d3daf4d24b6d82dee87baf96b919"></div>
+            </article>
+        </section>
+        <p data-uuid="e3f3c342f54b4ceeabe9832a9d4ac7ef">Soon, a presidential election also brought controversy. In the presidential election of 1824, both <b><dfn title="Adams, John Quincy">John Quincy Adams</dfn></b>, Henry Clay, and two other candidates lost the popular vote to Andrew Jackson. However, no candidate had enough electoral votes to win office. According to the Constitution, when this happens, the House of Representatives must choose the winner.</p>
+        <p data-uuid="ed4a0439e76e446c9afbbb1de1276ef2"> Clay, who had come in fourth, threw his support behind Adams. When the House chose Adams as president, Jackson’s supporters claimed that Adams and Clay had made a “corrupt bargain.” These accusations grew after Adams chose Clay to be secretary of state. Adams and Clay denied any wrongdoing, but the suspicions remained.<br />
+        </p>
+        <figure class="image-with-caption right one-half" data-uuid="cedd160b53ae4387886a2d55b4e7c5d3">
+            <img alt="This is an artist's rendering of John Quincy Adams, the sixth president of the United States. " data-uuid="b48c52358c25464bb7d2fa21c42ae797" src="../../img/module_9_lesson02/ms_snlese454149_90ap.png" />
+            <div class="figcaption" data-uuid="6ad13dfe6aba4c46adaa651d25c272a6">
+                <p class="caption" data-uuid="83ea70394cbd473386f000593b4ec457"> From 1825 to 1829, John Quincy Adams, son of John and Abigail Adams, served as the sixth president of the United States.</p>
+            </div>
+        </figure>
+        <p data-uuid="728909cb6e1e436ca150ae29cadff3d0">Adams had enjoyed great success as secretary of state, but the election controversy weakened his support. So, too, did his stern and reserved personality. One observer complained that Adams seemed “hard as a piece of granite and cold as a lump of ice.”</p>
+        <p data-uuid="d3a2dc8fe7294668961dc87734e03858"> As president, Adams faced near constant opposition from Jackson’s supporters in Congress. He proposed strongly nationalist policies. He wanted to build roads and canals, found a national university, and create a standardized system of measures. Unfortunately, Congress defeated most of his proposals.<br />
+        </p>
+        <section class="question-long-text" data-uuid="8c65c026bb0343e4bc1c782f71c88d0f">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c7cff9feb40f4867b8ab824b50a54b12">
+                <param name="configFile" value="../../widget_data/config/c7cff9feb40f4867b8ab824b50a54b12.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="a3abc95f0fb7420a96eff937b12fbd3c">
+            <div class="go-prompt-bottom-bar" data-uuid="b585b448b209436d9c1ee5cff7053f28">
+                <p data-uuid="78d58b6f1ca44b6080d130299bf7c964">Remember to complete the graphic organizer with information on the election of 1824 and how it affected national unity.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="e9c4bc96b8c04dd1b8a9ad4d237f3150">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="ed266fbab1b44116bed0c60299d4d121">
+                <param name="configFile" value="../../widget_data/config/3eab7bb8344841639c649b9d01bab40a.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="7550037b663a4a4c90430f095b4910a6"></button>
+        </section>
+        <p data-uuid="72b70431348b43d09fa14e724954ebfc"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6c7bb7b344d041da9dad94a2d1f2da1e">
+            <button data-teacher-view-toggle="true" data-uuid="30a33261fb4544b4a17213862ecf325e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ecf8a2fff2924901b13067928ab74f9b">
+                <param value="../../widget_data/config/ecf8a2fff2924901b13067928ab74f9b.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

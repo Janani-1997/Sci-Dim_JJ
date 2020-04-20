@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="265a8c4550ee47df8f9e561bc2b229f3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="183fdf91ce704ba8b5693dc28cb07958">
+            <div class="header-element header-container " data-uuid="3be00107e6ac48b2abf1e36236c3798f">
+                <p class="lesson-number" data-uuid="d63b813eab864e278204a00830df110c"><br />
+                </p>
+                <h2 data-uuid="769a44d35e544ba0905cf16d11bd3988"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="be557f728d0444a1b33ef66225cc1096">Part 2: Write an Analytical Essay</h3>
+            <h6 data-uuid="644e2c9e26b2460992caa65ffab4c2fd">Historical Context</h6>
+            <p data-uuid="71dd6e57552d4b44b4716249576c07f5">Certain details of the new republic had not been defined
+                in the Constitution. Therefore, after ratification, many issues surrounding the national government had to be decided quickly. This included questions related to how the government would work, how much power it would have, where its boundaries
+                were, and how foreign relationships would be conducted. It was up to the nation’s first leaders to tackle these issues and lay the the foundation for a strong, united nation.</p>
+            <p data-uuid="992ecc57a552495b98dd725ca5060397">
+                To
+                what extent did the early presidents build a strong nation through their
+                leadership on domestic and foreign policies?</p>
+            <h6 data-uuid="ec80d1f5e15d4caab9c919aac3231dfe" class="">Task</h6>
+            
+            <p data-uuid="00faed3d2cfd4d8ea8cc97baf3dbbd21">Think about
+                each of the presidents you’ve studied in this module. What foreign and
+                domestic issues did he encounter during his term? What actions did he take? How
+                were his actions received? How did his leadership affect the strength of the
+                nation?<br />
+            </p>
+            <p data-uuid="8a06599998cd4733b18ccf92c3fc6ea6">Choose two of
+                the three presidents you have studied in this module and write an analytical
+                essay in which you examine the extent to which early presidential foreign and
+                domestic leadership built a strong nation.</p>
+           
+            <p data-uuid="ad6fe26ea6004f16a887007458b55eb2">Complete the
+                following steps as you plan and compose your essay.</p>
+            <ol data-uuid="e9ddbd49519e42f385e29cf472e9062a">
+                <li data-uuid="8eca3b97ac264a969d015956a292f578">Review your notes and sources before you start writing.<br />
+                </li>
+                <li data-uuid="005237fd474f40e89889468aa7fbf770">Use at least <i>four</i> of the
+                    sources in Part 1, and develop the topic with relevant, well-chosen text
+                    evidence from the documents.<br />
+                </li>
+                <li data-uuid="0fd851c578c64f5db7d4ca3f5d0a0def">Cite specific text evidence from each of the sources in your
+                    response.<br />
+                </li>
+                <li data-uuid="7d04a8e9938047549386b691b5e9d687">Plan your essay so that it includes an introduction, several body paragraphs,
+                    and a concluding paragraph.<br />
+                </li>
+                <li data-uuid="a675d905c549416981333e9cc17c1076">
+                    Organize your essay
+                    in a clear and logical way, and use relevant details to support your
+                    analysis.
+                    <br />
+                </li>
+                <li data-uuid="34c6d7fca80a4b94b01925cb7d1ec1d0">Write a
+                    conclusion that sums up your ideas and supports the information you present.</li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8d8d56f0b3a94e8ca3e70a648c4fc42b">
+            <button data-teacher-view-toggle="true" data-uuid="f7cc77e6aba14371b0b51e5466e82f85"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d5238fe394204df992c6d63b70ad6816">
+                <param name="configFile" value="../../widget_data/config/d5238fe394204df992c6d63b70ad6816.json" />
+            </object>
+        </section>
+        <p data-uuid="bd7b7d6d5b7544b6948dc134aed9cb07"><br />
+        </p>
+    </body>
+</html>

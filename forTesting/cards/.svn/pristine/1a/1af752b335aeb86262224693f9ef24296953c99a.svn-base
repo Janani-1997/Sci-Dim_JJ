@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="20d6bea3b7004ac49b75dd15e4f0c746" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>The American Revolution</title>
+    </head>
+    <body>
+        <section class="ssna-mmc" data-uuid="9c9fbfe8118d45a3803adb920b40f62c">
+            <object type="text/html" data="../../assets/widgets/mmc/index.html" class="widget" data-uuid="486157b8d170495d83335047be3309af">
+                <param name="configFile" value="../../widget_data/config/486157b8d170495d83335047be3309af.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="89bbc93fd43d4470a799c9c3f9c62ab5">
+            <button data-teacher-view-toggle="true" data-uuid="53e201183cdc4e2d8282dc66b9395204"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0ba2047118b74813ad5b74a85e89d818">
+                <param name="configFile" value="../../widget_data/config/0ba2047118b74813ad5b74a85e89d818.json" />
+            </object>
+        </section>
+        <p data-uuid="83b21f5f83b54e978365a74a09f99a5a"><br />
+        </p>
+    </body>
+</html>

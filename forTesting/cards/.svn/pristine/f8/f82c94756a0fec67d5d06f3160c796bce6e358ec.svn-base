@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="4d25b2b3cd4d42868472251dc50fd263">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="b06eb7612a6846de9b998a820d82e9e5">
+            <p class="lesson-number" data-uuid="3c96ba4ab0a14ee0a237ac494fe3b15c">Lesson 1</p>
+            <article class="header-container" data-uuid="74fdd50b09504dd2bd96b4af8bc3c3a6">
+                <div class="header-element" data-uuid="67bc3dac48934f4eb64252cd07ccec54">
+                    <h1 data-uuid="12684834da764c1896414e575664b895">Challenges
+                        for a New Millennium</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="a6f7432a6f5244c6966158d2ae9b52d7"></div>
+                    <h2 data-uuid="67db8df184bd4a57a32eef9d2a121f21">The Big Idea</h2>
+                    <p data-uuid="fa24f364f94546a09bb646392f738f49">George W. Bush and the United States responded to
+                        terrorist attacks and a changing economy.</p>
+                </div>
+            </article>
+            <article data-uuid="ed406802e5a848f7b2ae25d0e445d583">
+                <h3 class="if-you-were-there" data-uuid="ea3f00ca267c477c9210b8c1bbbbf210">If YOU were there...</h3>
+                <p data-uuid="380a888c92874260ad20ddf288cca025">It is the December after the presidential election
+                    between George W. Bush and Al Gore. For weeks, people have been talking about
+                    whether the votes can be recounted by hand. The race was too close to call on
+                    election night, and now the candidates are involved in a court case that will
+                    decide who the next president will be.</p>
+            </article>
+            <section class="reading-check" data-uuid="48b2d84f79fe447bbef898c3878366f8">
+                <section class="question-long-text" data-uuid="35ecbc79c75a49778e2c815edd3b13d4">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="92e500ce5688498c872b026f28c7a958">
+                        <param name="configFile" value="../../widget_data/config/92e500ce5688498c872b026f28c7a958.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="849462fdce714d0b9c99aebb71965570">
+            <button data-teacher-view-toggle="true" data-uuid="39c99f77b6cd4621808c8ab576370cba"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cf38c16a31f74823bce35ed245a478ab">
+                <param name="configFile" value="../../widget_data/config/cf38c16a31f74823bce35ed245a478ab.json" />
+            </object>
+        </section>
+        <p data-uuid="f7fe5ebed0c04f8c9dfc711ce65e8221"><br />
+        </p>
+    </body>
+</html>

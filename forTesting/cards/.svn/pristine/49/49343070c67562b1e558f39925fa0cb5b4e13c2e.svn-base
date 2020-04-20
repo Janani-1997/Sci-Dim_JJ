@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="3a74e5e0f8d94365b196d4f40fd6ce70" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>The Constitution</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="192ed0bd67a54ed7bd7d17f4f5c88543">
+            <article data-uuid="e20fc60f2ab54dcb8502db0cdf4eb8e9">
+                <h4 data-uuid="445b7ba0df014b1290a04f4e1e12cccd">Main Idea</h4>
+                <p class="main-idea" data-uuid="3900737680f94facba3401ec0d6620ad">A new Constitution provided a framework for a stronger national government.</p>
+                <h2 data-uuid="4916bc29f3b74c95b3c493bc343ef07a">The Constitution</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="1fd5d7e2b533442eb50895584645aea4"></div>
+            </article>
+        </section>
+        <p data-uuid="a03f5a4a5f0349ada2453a96b65b3253">The system of government established by the Constitution is called federalism. Under <dfn title="federalism">federalism</dfn> powers are divided between the states and the federal, or national, government. States keep control over many issues, such as local government and local laws. The sharing of power between the national and state governments is one of the strengths of the Constitution.<br />
+        </p>
+        <h3 data-uuid="c653f3d821fa42899611962da5115d76">Separation of Powers</h3>
+        <p data-uuid="50b45a705bb046978bf6e407a35a7a68">The power of the federal government is divided among three branches. The legislative branch, or Congress, passes laws. The executive branch, made up of the president and many departments, makes sure the laws are carried out. The judicial branch, consisting of the national courts, interprets laws and punishes criminals.</p>
+        <section class="cause-effect" data-uuid="33633f1be4f345c8989ea7dcebffe984">
+            <article class="box" data-uuid="b559ac0d209a425eaaa9c8bb9c1831e1">
+                <div class="header-element" data-uuid="f43182612e254e04ab871d57ddbb30f7">
+                </div>
+                <div class="quickfacts" data-uuid="9060c49f396f4237a2213d43883ec4a7">
+                    <h5 data-uuid="ad286dc1fd1d441a9c265ec098d7b635">QUICK FACTS</h5>
+                </div>
+                <h2 data-uuid="a93a7b7622bc4ecda9b83039e672daa8" class="text-left">Separation of Powers</h2>
+            </article>
+        </section>
+        <figure class="image-with-caption main" data-uuid="abde2f1c92464c98b8ae24a105a2cc77">
+            <div class="figcaption" data-uuid="550b172def6241018ce18ca01691d3a0">
+                <h5 data-uuid="8bd32c85213740288d87c4512cf0d5a6" class="text-center"><img alt="" class="" data-uuid="03f7668d062f42c0824ecd6b69143128" src="../../img/module_5_lesson03/ms_snlese454149_us_constitution_t.png" /><br />
+                </h5>
+            </div>
+        </figure>
+        <p data-uuid="7b2c5bbabade4cd39320605e8f5ef959">A system of checks and balances keeps any one branch from becoming too powerful. For example, the president can veto a law passed by Congress. The Constitution also allows the people to ratify amendments that change the document to adjust to changing times. Citizens have not only rights but also responsibilities under federalism. Fulfilling these duties helps the system work fairly and effectively for all Americans.</p>
+        <section class="question-long-text" data-uuid="999a2fff4f194a8aaffc4691c86221d9">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="29627ec847a24ed88321e86a9124e614">
+                <param name="configFile" value="../../widget_data/config/29627ec847a24ed88321e86a9124e614.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt" data-uuid="9123dab6ba4f48bea472dc582a788cb4">
+            <div class="go-prompt-bottom-bar" data-uuid="5232029dbb404cce9ea08a31eac3f335">
+                <p data-uuid="9643be9f03764a61ae5d73c8019982d8">Remember to complete the graphic organizer with information on federalism and the balance of powers.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-uuid="801fd3b7607247e3afdf6d02b9eab0e8">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="0be21079450c4747b09d45fa1ccfb0a5">
+                <param name="configFile" value="../../widget_data/config/45d5f08578d748cdb857e920d01fc3de.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="09397ee00b1f4d70ae933563388cd9db"></button>
+        </section>
+        <p data-uuid="77dfb71d90af425cb03a3a3b9068c023"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="36232bcb9e32421ba26bbd1287586677">
+            <button data-teacher-view-toggle="true" data-uuid="c607b6dede614aa5be46c8d9756dddc8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="55e1f2b5d4734e4aac97982fcedbd3d6">
+                <param name="configFile" value="../../widget_data/config/55e1f2b5d4734e4aac97982fcedbd3d6.json" />
+            </object>
+        </section>
+        <p data-uuid="61088f2ba7244a709e8d829da61a745f"><br />
+        </p>
+    </body>
+</html>

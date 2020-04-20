@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="63c28be6d3584105b0e3e27c7c57b23b" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="3246821418824500ad1a955fb0274edc">
+            <div class="header-element header-container " data-uuid="b2b77e74352a439f94a7627154416249">
+                <p class="lesson-number" data-uuid="5f4dd2b339bf40b88c4c0020f6a53da3"><br />
+                </p>
+                <h2 data-uuid="ffaa6e29bcc447618607513671e6e936"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="dc8f4a3f69a34733922fc11b3881ea1e">In this module, you’ve learned about the battles and victories of the
+                    civil rights movements that took place in the United States during the 1960s
+                    and 1970s. Now it’s your turn to demonstrate your understanding of the module
+                    content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="0071aec5befc463f9bfbad8169ad5df1">How successful was the civil rights movement?</h3>
+            <p data-uuid="00f31d7662f649e4b51fca56fd42e1bb">Write a persuasive essay answering this question. Your essay should
+                include key people, events, and turning points of the civil rights movements.  Be sure to cite evidence to support your
+                position and organize your essay into an introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f87bb6a56eb74086bbcfda06c16b858d">
+            <button data-teacher-view-toggle="true" data-uuid="8a4731c0000f4767bb78752e77092453"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="457f9b362b2d4463a7df16caaaaedcc0">
+                <param name="configFile" value="../../widget_data/config/457f9b362b2d4463a7df16caaaaedcc0.json" />
+            </object>
+        </section>
+        <p data-uuid="34019342fc2745008ffd6334b56a9bb9"><br />
+        </p>
+    </body>
+</html>

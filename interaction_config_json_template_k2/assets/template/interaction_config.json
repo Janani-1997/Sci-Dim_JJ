@@ -1,0 +1,42 @@
+{
+    "hasFeedbackBar": true,
+    "hasInstantFeedbackText": false,
+    "hasFullScreen": true,
+    "hasRefresh": true,
+    "hasTip": true,
+    "hasAudioControls": true,
+    "hasVoiceOver": true,
+    "stamp": {
+        "rootFolder": "/widget_data/stamps",
+        "images": [{
+                "resizable": true,
+                "fileName": "red.svg"
+            }, {
+                "resizable": true,
+                "fileName": "yellow.svg"
+            }, {
+                "resizable": true,
+                "fileName": "blue.svg"
+            }, {
+                "resizable": true,
+                "fileName": "yellow_1.svg"
+            }, {
+                "resizable": true,
+                "fileName": "red_1.svg"
+            }, {
+                "resizable": false,
+                "fileName": "green.svg"
+            }, {
+                "resizable": true,
+                "fileName": "orange.svg"
+            }, {
+                "resizable": true,
+                "fileName": "number_line.svg"
+            }, {
+                "resizable": true,
+                "fileName": "ten.svg"
+            }
+
+        ]
+    }
+}

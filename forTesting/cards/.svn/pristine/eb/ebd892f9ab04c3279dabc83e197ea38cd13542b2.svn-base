@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="17d3f8437def48129cc611f54c568029">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="6894e7609b9940a59791719640d66a99">
+            <p class="lesson-number" data-uuid="9929b2e5731c4305882f2469e034270a">Lesson 3</p>
+            <article class="header-container" data-uuid="701e5ae613d54730a6bb93b5018c7636">
+                <div class="header-element" data-uuid="3ce8b63a4a6847068bb0c8bf68422df3">
+                    <h1 data-uuid="c7192b6951704bd09c92994f77dff184">Indian Removal</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="9783c00a7dbd4abb8b598f3d2447a562"></div>
+                    <h2 data-uuid="8e264914441c4fd292a4a304b4408b72">The Big Idea</h2>
+                    <p data-uuid="1935e48ef7f443249b2a5cffac0e1b60">President Jackson supported
+                        a policy of Indian removal.</p>
+                </div>
+            </article>
+            <article data-uuid="68b1ea12c3084f7d99f7d84268bc8ddd">
+                <h3 class="if-you-were-there" data-uuid="7678efd27c9b41aa82c9313839ee24b0">If YOU were there...</h3>
+                <p data-uuid="60891834e3cc4913a0a13f1f86db8897">You belong to the Cherokee nation. Your family has farmed rich lands in Georgia for as long as anyone can remember. You’ve learned some new ways from white settlers, too. At school you’ve learned to read both &#173;English and Cherokee. But now that doesn’t seem important. The U.S. government is sending you and your people far away to unknown places in the West.</p>
+            </article>
+            <section class="question-long-text" data-uuid="e330a7d4a790428799fe25b552b411ee">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="3f719167354a4e5b81c6d21bb6cd8c68">
+                    <param name="configFile" value="../../widget_data/config/3f719167354a4e5b81c6d21bb6cd8c68.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c341a00c364148f39cc5874a5d6110fd">
+            <button data-teacher-view-toggle="true" data-uuid="63385e47b96c430385732cb4f412d73d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8b7849a207b840dca08bf5704f740d5d">
+                <param name="configFile" value="../../widget_data/config/8b7849a207b840dca08bf5704f740d5d.json" />
+            </object>
+        </section>
+    </body>
+</html>

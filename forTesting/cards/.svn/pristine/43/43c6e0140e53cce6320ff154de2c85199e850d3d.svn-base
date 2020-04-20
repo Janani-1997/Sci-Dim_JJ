@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="746a770de54e4ecdadb6d5ddc9ff0cae">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="b0b7aa21fa3640fb91ce8671c4e5bd6f">
+            <div class="header-element header-container " data-uuid="812c692ddedc40ec8fcb3da1816bbb90">
+                <p class="lesson-number" data-uuid="faf55f911a7e458ba7239c3b1cea12f0"><br />
+                </p>
+                <h2 data-uuid="a98264f8d7c34291904fbd6b048e4419"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="ee65770c5a1c4321b9ab91702e3bd810">In this module you’ve learned about the debates
+                    that swirled around the creation and ratification of the Constitution. You’ve
+                    also learned about the features of the government created under the
+                    Constitution and the rights and responsibilities of U.S. citizens. Now it’s
+                    your turn to demonstrate your understanding of the module content by writing an
+                    essay.</p>
+            </div>
+            <h3 data-uuid="dcaadb110d4544b4a7f483b9755a93ed">Which ideas in the Constitution are most
+                important for preserving freedom?</h3>
+            <p data-uuid="f29c3e8d593f4b76becf829af21e3e9f">Write a persuasive
+                essay answering this question. Your essay should specify where in the
+                Constitution these ideas are expressed and provide relevant background
+                information. Be sure to cite evidence to support your
+                position, and organize your essay into an introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2f81dd6707734292bf31be66ec321895">
+            <button data-teacher-view-toggle="true" data-uuid="cdbf9847a0cd4f349b8af12302a5b71c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ac95a9abd9704a33a26e33e0a25b58c5">
+                <param name="configFile" value="../../widget_data/config/ac95a9abd9704a33a26e33e0a25b58c5.json" />
+            </object>
+        </section>
+        <p data-uuid="06dbfb49b74d47efbee08bd978601154"><br />
+        </p>
+    </body>
+</html>

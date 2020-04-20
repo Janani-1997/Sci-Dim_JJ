@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="303a25f4006c425eb74b7dcf56511f9e" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="1c28f2d5d74445bea7a36567317d096a">
+            <div class="header-element header-container " data-uuid="46421ed132d340c9898921a87d1001da">
+                <p class="lesson-number" data-uuid="5cd1539e89af4b90b4f3a19ec31bc4e6"><br />
+                </p>
+                <h2 data-uuid="1be8b0b044a54c0899b37c665955531a"> Review</h2>
+                <p class="white" data-uuid="d996f6fe744f4a5d87688e18d1b67f4e">In this module you learned about the ideas, issues, and compromises that helped create our constitutional form of government. Now you will review some key terms and people before completing the Module Assessment.</p>
+            </div>
+            <h3 data-uuid="1e62300aacab42c4bda9f30962b4a9ab">Review Key Terms and People</h3>
+<p data-uuid="37cdf5a7b5fb4f9f8d4677e7517fb3d0">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="f2dde9567e9e4a31a678db30af71a2a7">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="5193b64a1ef948bca9d647d81434b97d">
+                    <param name="configFile" value="../../widget_data/config/5193b64a1ef948bca9d647d81434b97d.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="9b6ceac04a6a4725b5ff8d48660d4bcf">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="80e565744246408d89ec4233bfc3d4e1">
+                    <param name="configFile" value="../../widget_data/config/80e565744246408d89ec4233bfc3d4e1.json" />
+                    <param name="audio_description" value="N/A" />
+                    <param name="audio_script" value="N/A" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ab058257a33a43849d4ca55b2c252d8c">
+            <button data-teacher-view-toggle="true" data-uuid="e8600644d5374178862fa18e4256bf12"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cda1133ab39a4a639d8d8e19540c9419">
+                <param name="configFile" value="../../widget_data/config/cda1133ab39a4a639d8d8e19540c9419.json" />
+            </object>
+        </section>
+        <p data-uuid="4f3ddbafd35a48c7af42870f8a254544"><br />
+        </p>
+    </body>
+</html>

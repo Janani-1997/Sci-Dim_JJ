@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="51490ef5214f4252be790b4d8c9e5306">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="7d621c7900f14f4c9d69efecdf326234">
+            <div class="header-element header-container " data-uuid="a71a946870a5486ab76bce904b89b7a7">
+                <p class="lesson-number" data-uuid="c0daae86e41347df86aa06dfe0d36b07"> Lesson 4</p>
+                <h2 data-uuid="4c180dd70cb944a18d3de85567905ba4">Review</h2>
+                <p class="white" data-uuid="47439af7be00466a9a7be18263faa35f">In this lesson, you learned about the reforms of the progressive presidents. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="e9627b5797c2430fac2fd7396cb21df1">Review Key Terms and People</h3>
+            <p data-uuid="b12acc9083474448a7e2142da32adb0b">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="d80c5e77ffc94ea59e787d733622a0da">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="087ce6ad57eb4f4394fb7e62f08b365b">
+                <param name="configFile" value="../../widget_data/config/087ce6ad57eb4f4394fb7e62f08b365b.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="cd4e39520df54524b1e3d73e789be5d4">
+            <div class="go-prompt-bottom-bar" data-uuid="235729a1b8f949d0abbe94dda608d8f0">
+                <h5 data-uuid="61401dc1de9147c8aa9026900dd3eac6">Review the Graphic Organizer</h5>
+                <p data-uuid="2127da8be6f449aaa612f5ed78fa355e">Review your graphic organizer notes and use them
+                    to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="02aa152e62e04986a216e97bcf7501d7">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="5bbd942d7d324586b16fae98ae53afee">
+                <param name="configFile" value="../../widget_data/config/5bbd942d7d324586b16fae98ae53afee.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer full bleed" data-go="v0.1.0" data-csm-hide="true" data-uuid="653ea6d5b4cf40d781183010456ef344">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="112faca557b344e58c95fbaeb5d02f62">
+                <param name="configFile" value="../../widget_data/config/f6a7c6afbd0b490c8d63e44c006e29f1.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="0aa0a5dd6cad43d695a6a554565ccbbf"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="1e2a006fd8144086bd62cc4e2ffee9d0">
+            <button data-teacher-view-toggle="true" data-uuid="63e547c7dd7c4ce780b4a2ebbc1bc593"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="94e5e5cb81ee42a4a1f3cb6eeb827b55">
+                <param value="../../widget_data/config/94e5e5cb81ee42a4a1f3cb6eeb827b55.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

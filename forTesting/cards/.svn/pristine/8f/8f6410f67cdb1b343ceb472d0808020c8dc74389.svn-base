@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="01e24c733faa459286b2cc063c90a511">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="7f25b99b693443028abf0feb69f39d45">
+            <div class="header-element header-container " data-uuid="fabe3027a3114af2bbdb991010f96851">
+                <p class="lesson-number" data-uuid="ce4eb94a3a6f4a249a664c8bf7d1b036"><br />
+                </p>
+                <h2 data-uuid="7990f52471ce41128859ee61c4eee7a9"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="3fc54dad8b8d448b9531e7ebd5b5b200">In this module you’ve learned about international
+                    conflicts that inspired the United States to declare war against Britain and
+                    how the use of war and diplomacy affected expansion and border security in the
+                    early 1800s. Now it’s your turn to demonstrate your understanding of the module
+                    content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="f6908433ceb84c908d0a01c33d98e90e">How should the War of 1812 be remembered?</h3>
+            <p data-uuid="ff0cddf75a5d401fad7c3f965e99a489">Write a persuasive essay answering this
+                question. Your essay should include key people, events, and turning points in
+                the course of battle. Be sure to cite evidence to support your position and
+                organize your essay into an introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="316ad23acca345f69d8e25941f637251">
+            <button data-teacher-view-toggle="true" data-uuid="f0e43a73aed9411cbd87d52f09ca7c80"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b57eb02a251b43e88ba5e439dfe87780">
+                <param name="configFile" value="../../widget_data/config/b57eb02a251b43e88ba5e439dfe87780.json" />
+            </object>
+        </section>
+        <p data-uuid="e9778ffb3e984c47a68150e8fa37f707"><br />
+        </p>
+    </body>
+</html>

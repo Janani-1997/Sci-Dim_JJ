@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="36b7349aae3f4619a84112b413856732" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="3669429f05424a8d9a65a07359be264c">
+            <div class="header-element header-container " data-uuid="c2fbfc1034514478a11b60d48665492e">
+                <p class="lesson-number" data-uuid="56a37eeca5d64c45ba20069cee16dbc0">Lesson 1</p>
+                <h2 data-uuid="92eb2fda4cf34c66bf2a8668191ab991">Assessment</h2>
+            </div>
+            <h5 data-uuid="a89fb714ae9e4eacbda74882c7df7e5f">American Foreign Policy</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="41eba42ea0b74d5fb3984b25c873ee2c">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="e168aad145a44d85a13dc7f42738441d">
+                <param name="configFile" value="../../widget_data/config/e168aad145a44d85a13dc7f42738441d.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="154a353da4cb47aa82fe1b908a391154">
+            <button data-teacher-view-toggle="true" data-uuid="076b6d11a9e3421d80d718a717268c64"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="30776a6735dd406c8330bec3ddf15a61">
+                <param name="configFile" value="../../widget_data/config/30776a6735dd406c8330bec3ddf15a61.json" />
+            </object>
+        </section>
+        <p data-uuid="7e7c80401b4841bc8e7a86e943f34b05"><br />
+        </p>
+    </body>
+</html>

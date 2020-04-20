@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="55349bd66ef1478686240ef3fb88f9e8">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="fe7cf931c06e4cf49dd273a0f0809a59">
+            <div class="header-element header-container " data-uuid="8086a9a8887b4dcdb7a7d9cdab75829c">
+                <p class="lesson-number" data-uuid="03aa7243f4e1400c8a869fb1b110c110"><br />
+                </p>
+                <h2 data-uuid="7e272d280e9b4c6b8e367b617f5c5be5"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="3ed9540ad5704fcebb844850f19eb3c8">In this module, you’ve learned how World War I
+                    impacted the United States and forever transformed Europe. Now it’s your turn
+                    to demonstrate your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="56921498d1784b0c93ae68b2226643e2">How did World War I impact America and
+                transform Europe?</h3>
+            <p data-uuid="d252a3be290a4f639d6791aa7171a0cb">Write a persuasive essay answering this
+                question. Your essay should include key people, events, and turning points during
+                World War I and the resulting peace process. Be sure to cite evidence to
+                support your position and organize your essay into an introduction, body, and
+                conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6cedb9cb4f0946db88b281be98b5b540">
+            <button data-teacher-view-toggle="true" data-uuid="62a4af10c93e45e5a57ec5d5323ad343"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="2d8426f47d104752aa9f42091e9104d5">
+                <param name="configFile" value="../../widget_data/config/2d8426f47d104752aa9f42091e9104d5.json" />
+            </object>
+        </section>
+        <p data-uuid="16b3bb80c7ce4780b80466d3e0507304"><br />
+        </p>
+    </body>
+</html>

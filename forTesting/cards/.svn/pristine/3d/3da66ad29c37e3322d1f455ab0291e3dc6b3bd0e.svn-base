@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="632372044ada4ea08302a62b0073a8a2">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section data-uuid="ebaaa10da05b4a149ff0478a3a171b06" class="module-opener">
+        <div data-uuid="9a30825afbdb4b0ebd25e1b6c345bd0c">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="4c5a5df6432f4acca87f90b419e7f67a"/>
+            <div class="header-element" data-uuid="e784b257ebb24d93a0c8d481956d59e7">
+                <section data-uuid="c0411d4a52374e3aa1899b02318ade46" class="calendar-container ">
+                    <div data-uuid="2cead927acee465dbf4292b1c0b9eb01" class="yellow-star-yellow-bar"></div>
+                    <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                    <h1 data-uuid="dd2ce98d8fbf4584bcb3caeb3b092bc3" class="mod">Westward Expansion</h1>
+                </section>
+                <section data-uuid="b326c5352e164184896e94eef12f1e07" class="eq-container">
+                    <figure data-uuid="e879c33d7aa7469e94f6d0b4923b3c9b" class="image ">
+                        <img alt="This photo shows people using horse-drawn covered wagons to travel across the North American plains. " data-uuid="ecc777fb3dc94eeca8d132944cb9cadb" src="../../img/module_11opener/ms_snlese454149_267p.jpg" />
+                    </figure>
+                </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="0628f75382134b62969f5d580408d752">
+                <p class="caption" data-uuid="c37e04002ca44b9c9f6082bb18bb9323">Wagon trains carried hundreds of thousands of settlers across the Great Plains.</p>
+            </div>
+            <article data-uuid="75a531ff02654bbab8bfef44a22aa0bf">
+                <h3 data-uuid="9b65d824069f47258174234f63280857" class="eq">Essential Question</h3>
+                <h3 data-uuid="35da2e771c86455a9f76b3c936708347" class="eqt">Was the United States truly destined to expand west in the 1800s?</h3>
+                <p data-uuid="349c7fb6666b47b1aaa9c3db2a146ab5">In the 1800s hundreds of thousands of settlers crossed the Great Plains in wagon trains, headed west. They went to explore and claim new lands, start new lives, and establish farms and communities. Over time, some Americans came to believe it was the destiny of the United States to expand west and acquire more land for its growing population. But was it?  </p>
+                <p data-uuid="e806559ae74e4fe28ea1d02e105619b7">As you read this module, look for evidence of key events in the westward expansion of the United States. Note the key people, decisions, circumstances, and turning points that resulted in the expansion of U.S. territory in the west. When you are done, you may be assigned to write a short essay answering the Essential Question for this module.</p>
+            </article>
+            <section data-uuid="de523d85faf54d18ae2c1ae2e09236d8" class="video-container ">
+                <article data-uuid="1cdca65c675b43409e2260349803c977">
+                    <h3 data-uuid="08c41c514e3b4760bad7610d740a595a" class="vid">The Transcontinental Railroad</h3>
+                    <p data-uuid="420607d3d1a9432a9bfc1ec2a7db60e7" class="vid">In the mid-1800s settlers heading west usually traveled by wagon train. But the completion of the first transcontinental railroad in 1869 changed that.&#160;The transcontinental railroad revolutionized America’s transportation and economic systems. For the first time, people and goods could travel from coast to coast in a matter of days.&#160;</p>
+                    <section data-uuid="d5d0c9d0d3ae450e836d92f92414f10d" class="video">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" data-uuid="dbed5cab892f4466a69d7b68442b4d9e" class="widget">
+                            <param name="configFile" value="../../widget_data/config/dbed5cab892f4466a69d7b68442b4d9e.json" />
+                        </object>
+                    </section>
+                </article>
+            </section>
+            <section data-uuid="0c437f7396a84d3fa11f8296354f85ed" class="question-long-text ">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="4ca927f8622344969074b43c5b3977bd" class="widget">
+                    <param name="configFile" value="../../widget_data/config/4ca927f8622344969074b43c5b3977bd.json" />
+                </object>
+            </section>
+            <section data-uuid="f34ec67f39c340c4bf109186d3388c10" class="timeline-container ">
+                <article data-uuid="8e1d4729c9c3449282f9ebf10123f782">
+                    <h3 data-uuid="8138d08effe8485097efd25f320e9479" class="mod">Westward
+                        Expansion, 1800–1900</h3>
+                    <p data-uuid="e15367f630e14b74b1ef0bb529b149c3" class="mod">
+                        In the 1800s the United States acquired vast
+                        new lands in the West. With the addition of the Louisiana Territory, Oregon
+                        Territory, and Mexican Cession, the United States stretched from the Atlantic Ocean to the Pacific Ocean.</p>
+                </article>
+            </section>
+            <section data-uuid="c66042ad6dab4954a7691efa24671d11" class=" timeline">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" height="1020" data-uuid="d36760a0ebae4cf08a7eaa4774bab586" class="widget">
+                    <param name="configFile" value="../../widget_data/config/d36760a0ebae4cf08a7eaa4774bab586.json" />
+                </object>
+            </section>
+        </section>
+        <section data-uuid="e489dda9bfd04e4cab4a77b346f9fb01" class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="09111e47f6d9468c8f8d8f4016201df4" class="widget">
+                <param name="configFile" value="../../widget_data/config/09111e47f6d9468c8f8d8f4016201df4.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="d67688200e904eddbd49eb37e4b85cb0">
+            <button data-teacher-view-toggle="true" data-uuid="79fb608b8bc84cc78b2c40b18f5ec8a6"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="907709d20a5f41e4bad566a0235ff93d">
+                <param name="configFile" value="../../widget_data/config/907709d20a5f41e4bad566a0235ff93d.json" />
+            </object>
+        </section>
+        <p data-uuid="8a94abc1504c4861bbdb3b57ef78acd7"><br />
+        </p>
+    </body>
+</html>

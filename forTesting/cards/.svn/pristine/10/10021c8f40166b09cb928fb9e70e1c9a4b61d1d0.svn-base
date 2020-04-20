@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6c42b04595b84bf8a901d50c0d6c84c5">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="671be8edc02b477e9ef92c676fbfb606">
+        <div data-uuid="968d24b267dc487983e038704ed4a8f4">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="4df431e721964be585b79be6aa8686d6"/>
+         <div class="header-element" data-uuid="b9d27a2a75734b2c945e7a0fec1fd46b">
+                        <section class="calendar-container-bottom" data-uuid="6d5fd665d35941328daa73a339c79dd2">
+                            <div class="yellow-star-yellow-bar" data-uuid="40459d29444d4650b834b6d4ecfd5958"></div>
+                            <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                            <h1 data-uuid="fe0d08dcaf75494993d4293e51303b89">Forming a Government</h1>
+                        </section>
+            <section class="eq-container" data-uuid="e3fef72dbdb3454aa95d38839560063f">
+                <figure class="image " data-uuid="d132430118d746179a09d59faba7c05b">
+                   
+                        <img alt="This is a modern photo showing Speaker of the House Nancy Pelosi swearing in members of the 111th Congress of the United States in 2009. The members are standing and holding up their right hands as they take the oath of office. " class="" data-uuid="0e41c30002e248ba965013765a7b39ad" src="../../img/module_5opener/ms_snlese454149_038p.jpg" />
+                         </figure>
+            </section>
+                    </div>
+                    </div>
+                    <div class="modcaption" data-uuid="ee445b91d66d473e960a372a1aa87bb2">
+                        <p class="caption" data-uuid="4699587a30954a44a3d301fb9eab8621">Speaker of the House Nancy Pelosi swears in the members of the 111th Congress of the United States. Members of Congress stand and hold up their right hands as they take the oath of office.</p>
+                    </div>
+               
+            
+            <article data-uuid="110350579d594ea380244acb7d6b331b">
+                <h3 class="eq" data-uuid="b86373c6ec424a21adfe295531cd7529">Essential Question</h3>
+                <h3 class="eqt" data-uuid="5022a214486d48849402d84eae4d8c82">Did compromise make
+                    the U.S. Constitution stronger or weaker?</h3>
+                <p data-uuid="b2bd3cb7083940f4b3fa451d668e6435">When
+                    the first U.S. government was created in 1777, the former colonies were in the
+                    midst of a desperate fight to preserve their independence from Britain. After
+                    achieving victory in the Revolutionary War, Americans found that the government
+                    was too weak to handle problems that the nation faced. In 1787 delegates from
+                    all thirteen states gathered in Philadelphia to create a new Constitution.
+                    Because interests varied from state to state, the delegates negotiated several
+                    important compromises over issues such as representation in Congress, slavery,
+                    and taxation. Did these compromises weaken the Constitution, or did they lead
+                    to a better government for the United States?&#160;</p>
+                <p data-uuid="a84475bfc86543d2ad9f1dcb2b555bd8">As you read this module, look for
+                    information about the ideas that inspired the Constitution, the issues that
+                    divided Americans, and the effect each compromise had on our form of
+                    government. When you are done, you will write a short essay answering the
+                    Essential Question for this module.</p>
+            </article>
+            <section class="video-container " data-uuid="a984b948812848548cb6b02b01897287">
+                <article data-uuid="46dfe2611cad44b59035720f162890f6">
+                    <h3 class="vid" data-uuid="57c10080a8314d568bb3be749e2dc552">America
+                        Gets a Constitution</h3>
+                    <p class="vid" data-uuid="2a60f31cfbe2406db670a7f2669cf28a">Soon after the Revolutionary War ended, many Americans began to feel that the government they set up under the Articles of Confederation was not strong enough. In 1787 delegates from all 13 states drafted a new Constitution to “form a more perfect Union.”<br />
+                    </p>
+                    <section class="video" data-uuid="a4d409b9c11049928b08dad4ba7fad81">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="8b297f176b94486fbb0b713d1347bdb0"><param name="configFile" value="../../widget_data/config/8b297f176b94486fbb0b713d1347bdb0.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="f6ae759edd7f4bba8318855b6bca68ea">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="63ce1ad081194a928e86e2b05f12381f">
+                    <param name="configFile" value="../../widget_data/config/63ce1ad081194a928e86e2b05f12381f.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="6c880e5de6fc4deeb3abc96a1060b21f">
+                <article data-uuid="ca137d9be4a2489991b99edf9dad1976">
+                    <h3 class="mod" data-uuid="cd77cc3bcc3e4c3a8441088339b22e3b">Forming a Government, 1775–1791</h3>
+                    <p class="mod" data-uuid="96839e4b1d424ec5a7e754206945e5a8">The United States developed rapidly in its first
+                        25 years as a nation. The colonies organized a government, discovered the
+                        weaknesses of that government, and compromised to peacefully create a new government.
+                        The United States also began to interact as an equal with foreign nations.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="ee93023904254a3da9e6399987c3b78d">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="8cf39007f2114d7681d52a15b5d59ae6">
+                    <param name="configFile" value="../../widget_data/config/8cf39007f2114d7681d52a15b5d59ae6.json" />
+                    <param name="audio_description" value="na" />
+                    <param name="audio_script" value="na" />
+                </object>
+                <section class="question-long-text" data-uuid="b107950834744934bf7fdb52930a0ba5">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="8358e102e677405d8de656bdb440cf1a">
+                        
+                        
+                        <param name="configFile" value="../../widget_data/config/8358e102e677405d8de656bdb440cf1a.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ab72c3cc0c414d858a996dbef6e3d97a">
+            <button data-teacher-view-toggle="true" data-uuid="fb2a3afb2ed645d7a9432cd08f0431cd"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1a3d358df4974b1884dc3f01ddaee667">
+                <param name="configFile" value="../../widget_data/config/1a3d358df4974b1884dc3f01ddaee667.json" />
+            </object>
+        </section>
+        <p data-uuid="d74b1dff96194299b49bde7b8fbf0d32"><br />
+        </p>
+    </body>
+</html>

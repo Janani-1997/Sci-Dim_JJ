@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0e08d66f630449679ca6cab13500e6a9">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="d9d1e5c7a80d41dda65c716cc8f8d80d">
+            <p class="lesson-number" data-uuid="b9f76877a6544de3993bcee597c1157e">Lesson 1</p>
+            <article class="header-container" data-uuid="636b37ad3df84236bc9f1b2a5ce71608">
+                <div class="header-element" data-uuid="42cf05c2568943258bfbc1883a7b2c3a">
+                    <h1 data-uuid="7742a91ec1c040b881b2f5864d04fd29">The End of Prosperity</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="4106622e1efb4135b3a3c63324003c0c"></div>
+                    <h2 data-uuid="367870bc82fa41c994114df9b582fd5d">The Big Idea</h2>
+                    <p data-uuid="920797493b1941d189d31836e952e9ee">The collapse of the stock
+                        market in 1929 helped lead to the start of the Great Depression.</p>
+                </div>
+            </article>
+            <article data-uuid="dfedb3a7955444ba8fb759ed7cb1e4fb">
+                <h3 class="if-you-were-there" data-uuid="bc150c81149843ceaf89d8dcbc2f15a6">If YOU were there...</h3>
+                <p data-uuid="83555f424f8c4295a604d555a0d1f1aa">For almost a year you’ve been working part-time at a neighborhood store.
+                    You earn money for your family and still have time to go to school. But when
+                    you arrive at work today, your boss says business has been so bad that he can’t
+                    afford to pay you anymore. With your father out of work, your family had been
+                    counting on your income from this job.</p>
+            </article>
+            <section class="reading-check" data-uuid="b5f07366eaa040a38f178e8fede033a6">
+                <section class="question-long-text" data-uuid="d8c4fe6be011438ab2daa71c7f46d400">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="de0f88e7068545f98b46ba6fcf5c5687">
+                        <param name="configFile" value="../../widget_data/config/de0f88e7068545f98b46ba6fcf5c5687.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="96fd409c37a7490ab0995258376206d6">
+            <button data-teacher-view-toggle="true" data-uuid="3b541afcccee447a80781f0592b9b180"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d27f268828da4e89970b3e5dca23687d">
+                <param name="configFile" value="../../widget_data/config/d27f268828da4e89970b3e5dca23687d.json" />
+            </object>
+        </section>
+    </body>
+</html>

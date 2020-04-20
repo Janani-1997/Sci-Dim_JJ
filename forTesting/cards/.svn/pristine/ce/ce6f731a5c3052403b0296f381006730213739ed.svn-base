@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e4d4263bdaae49ed878a83c017c78b1a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="f6a4107789274572ac15f81b6f8fee77">
+            <div class="header-element header-container " data-uuid="258b70ad25b44539a716fbe79cb569ac">
+                <p class="lesson-number" data-uuid="6f3b6ec3b88047879ac2f000f5dfedd2"> Lesson 3</p>
+                <h2 data-uuid="24249fbe938f403591d299da994ec8da">Review</h2>
+                <p class="white" data-uuid="06d81fb3ffaa4b4a8c6e6a450b57cc11">In this lesson you learned about the slave system. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="1267c4ae0ba34ac5ab0ba2b30fad8261">Review Key Terms and People</h3>
+            <p data-uuid="e7d3d17dfaa14c3ca6fa5e6a002596a7">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="lesson-close-header" data-uuid="d1afc2468b9946709001560ff830e67f">
+        </section>
+        <section class="flipcard" data-uuid="43f23c66e5c945168895524ec4150768">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="eb6c298db45e4333ade4486d2cfe11c7">
+                <param name="configFile" value="../../widget_data/config/eb6c298db45e4333ade4486d2cfe11c7.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="011d544413424738918479a7a8902aca">
+            <div class="go-prompt-bottom-bar" data-uuid="7cb787acbe584ad0a3c37927fe708713">
+                <h5 data-uuid="411875c6532a489f8a0c2554e2d3f9a7">Review the Graphic Organizer</h5>
+                <p data-uuid="bf584253cbd44199be14afa2f0fbad20">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="01d0462c5f6c4e8c8ed1e961cde8d403">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="082dde2a36ce4c629511a86e75361418">
+                <param name="configFile" value="../../widget_data/config/082dde2a36ce4c629511a86e75361418.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="2c9d4da681d540c0b38c71c1a46d8f41">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="24d222611535431e973b4da22c60bc55">
+                <param name="configFile" value="../../widget_data/config/d30c5aa0ba2a4325bdd49dfd8abd66fd.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="0d98dfbfa8294d558e7350b602d2612b"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="81ccbfd0c5b74665b6a58e74eb4a186d">
+            <button data-teacher-view-toggle="true" data-uuid="b88e074804e74b5bb1049c50c74cbddd"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8893833b388f4f558fc02623ccbbffb7">
+                <param value="../../widget_data/config/8893833b388f4f558fc02623ccbbffb7.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c1fb4a2cbbfb46f088e6f16e00c63fcb">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="b9158df1b5bf4a418465eb45dbc5c86c">
+            <div class="header-element header-container " data-uuid="c1016b755ad44bf2b5d4a557938e3c25">
+                <p class="lesson-number" data-uuid="25c42eb442a243dba5e45939e0977293"><br />
+                </p>
+                <h2 data-uuid="82f21cf873524b6c8f4cdc5a3c45ed0b"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="6f9a3ef1ad9d4578b540d01d2cac20ac">In this module you’ve learned about what changes occurred in the American West during the 19th century. Now it’s your turn to demonstrate your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="873c90478da84189ba1e36c8a614e748">Was the United States truly destined to expand west in the 1800s? </h3>
+            <p data-uuid="38eeca7b8a4d48b08101177e5cba7408">Write a persuasive essay answering this question. Your essay should include key people, events, and turning points in the westward expansion of the country. Be sure to cite evidence to support your position and organize your essay into an introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="426b5e561cb84048aea13b7f8aab6d03">
+            <button data-teacher-view-toggle="true" data-uuid="56a39581cf8848d2bca6f48dc2d65773"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="0f91188f82884d68abd272210f610d57">
+                <param name="configFile" value="../../widget_data/config/0f91188f82884d68abd272210f610d57.json" />
+            </object>
+        </section>
+        <p data-uuid="2675e97b6a5e4cfd8fcfaedde89eb028"><br />
+        </p>
+    </body>
+</html>

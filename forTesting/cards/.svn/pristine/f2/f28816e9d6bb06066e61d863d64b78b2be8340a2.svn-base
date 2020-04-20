@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="39ed3f534b6b4310bb4b3f0ce8c1b85b" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="" data-uuid="d27d92d7af344c62bdf833e388db4467">
+            <section class="module-close-review" data-uuid="fd00ae1339cd4d9aad09f16ef801acee">
+                <div class="header-element header-container " data-uuid="99110ecad2754297815dcde595fd4a6a">
+                    <p class="lesson-number" data-uuid="756825fd60434f5aa69d43a490ddd8ed"><br />
+                    </p>
+                    <h2 data-uuid="3381eb6161744508a642d248aa139590"> Review</h2>
+                    <p class="white" data-uuid="9d2cc1433ea94dfc9820b65e13be66b9">In this module you learned about the people and civilizations of the Americas, Africa, and Europe before 1500. Now you will review some key terms and people before completing the Module Assessment.</p>
+                </div>
+                <h3 data-uuid="9781f297a8f34e4e8bcc4e5d18155c8b">Review Key Terms and People</h3>
+<p data-uuid="f7e81e2bef1d43388de6d83e00a65898">Define each term or person shown on the card. Flip the card to check your answer.</p>
+                <section class="flipcard" data-uuid="1ca1951f74da4bac8e07d71ba3996ee2">
+                    <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="9cd8144d51c742db931cb8a77c44dfad">
+                        
+                        
+                        <param name="configFile" value="../../widget_data/config/9cd8144d51c742db931cb8a77c44dfad.json" />
+                    </object>
+                </section>
+                <section class="sequence_timeline  " data-uuid="bdf501c1ac0744639a65a233c7ada7ef">
+                    <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="2d801ebfc6154860bd1182f271140312">
+                        <param name="configFile" value="../../widget_data/config/2d801ebfc6154860bd1182f271140312.json" />
+                        
+                        
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="33a4f0f6a56948729ec884fe3309b3b2">
+            <button data-teacher-view-toggle="true" data-uuid="4128e73bf06b4cb58b7cd960eae9c437"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="51bfedeecec5405c9dd0008bbd29e76e">
+                <param name="configFile" value="../../widget_data/config/51bfedeecec5405c9dd0008bbd29e76e.json" />
+            </object>
+        </section>
+        <p data-uuid="9eea189409cf430097a1c83143eed77b"><br />
+        </p>
+    </body>
+</html>

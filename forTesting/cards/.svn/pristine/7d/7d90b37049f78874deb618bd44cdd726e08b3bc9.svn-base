@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="cd857dd6d1a4437db8bb720ee032328b">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="3c18cab87e60420a9a9b6b89bc099ef8">
+            <div class="header-element header-container " data-uuid="7885e8f3f2794e71a092f8ca935daffe">
+                <p class="lesson-number" data-uuid="536c5d4a994e40598bf5531f2c086f2a"> Lesson 2</p>
+                <h2 data-uuid="3f7ae246478b4e05aa91648c1a9f5db1">Review</h2>
+                <p class="white" data-uuid="7075a894bdd44c52a222fc35ce6d8fc4">In this lesson you learned about how American cities experienced dramatic expansion and change in the late 1800s. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="5dd1eaf3902a488e8e90a97ad986779d">Review Key Terms and People</h3>
+            <p data-uuid="0c24d1d2acba4f5c9f025b735e84f391">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="2b9efd54c0784c029fc6edd88b817510">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="d46f9ba262fc4bab977619d54ca47148">
+                <param name="configFile" value="../../widget_data/config/d46f9ba262fc4bab977619d54ca47148.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="cadda52b2c884a0b8207f0be18c89758">
+            <div class="go-prompt-bottom-bar" data-uuid="bc239ed33eb74651bf332973645c0c65">
+                <h5 data-uuid="ac8611de79064a0197e1448624d05acf">Review the Graphic Organizer</h5>
+                <p data-uuid="4a1021ea7c3740949331dfb1c79e64a0">Review your graphic organizer notes and use them
+                    to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="013f38962cb34eadbd963c14594e77db">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c5b7358a952546b99a8e3ca4ae904883">
+                <param name="configFile" value="../../widget_data/config/c5b7358a952546b99a8e3ca4ae904883.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="ae2fdeb32a404d4192069364d76841fc">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="8eaaabad838f499a95a1acc4d1ea6625">
+                <param name="configFile" value="../../widget_data/config/3a4dd89ccd5247aba3e514fb94bc31d2.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="91d21cf3884049629c8665ff35295e54"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="60a3582a83a941a7a7823e2b71f34740">
+            <button data-teacher-view-toggle="true" data-uuid="1057df3e97184b75b6975242c49a3a54"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c547c9e5e7b5430fa8c169dca5af2f7a">
+                <param value="../../widget_data/config/c547c9e5e7b5430fa8c169dca5af2f7a.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

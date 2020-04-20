@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0dceaac4ec1640cdab6d82ded3926d39">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="bb3a22cffca74def8e5591cae802cadf">
+            <div class="header-element header-container " data-uuid="072188a308ee472a93beaa0fc06b8cf6">
+                <p class="lesson-number" data-uuid="72c7059cd25147529ff6f89391f27f5c"><br />
+                </p>
+                <h2 data-uuid="f0b136ca5e0b4236aa9a2a9e62c5f05a"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="2bfe8748390b42ae91f31f49acaf6728">Part 2: Write an Analytical Essay</h3>
+            <h6 data-uuid="cc32c1ea22eb4b88941192d2db56e8ab">Historical Context</h6>
+            <p data-uuid="cc41a83b67d9471a81f8627037863c17">Inequality and corruption were facts of life during the Gilded Age. The Progressive movement was the result of reform-minded individuals joining together to expand rights, improve working conditions, uncover corruption, fight discrimination, and reform the political system.</p>
+            <h6 data-uuid="822cbe40ae2745ed96d2ca4649728817">Task</h6>
+            <p data-uuid="1466d59955f244dea25cdb1bcc02bf60">The Gilded Age was a time of great injustice in American society. Write
+                an essay that explains at least three of the major societal issues in need of
+                reform.</p>
+            <p data-uuid="662b11ab9f2446f1ab40035d144b41d1">Complete the following steps as you plan and compose your essay.</p>
+        </section>
+        <ol data-uuid="48ae2a5d0b674396b577aeac8c9ef3f9">
+            <li data-uuid="a03228e588504669aa77de350eb5f78e">Review your notes and sources before you start writing.</li>
+            <li data-uuid="72cd2208eb2b4c48bdaa069d2dd8d286">Use at least <i>three</i> of the sources in Part 1, and develop the topic with relevant, well-chosen text or visual evidence from the documents.</li>
+            <li data-uuid="00366e9b0cef439b94a3ac19ad310bad">Cite specific text or visual evidence from each of the sources in your response.</li>
+            <li data-uuid="6e6ff7d3c1b0437188da8f44d5f406ce">Plan your essay so that it includes an introduction, several body paragraphs, and a concluding paragraph.</li>
+            <li data-uuid="9b47e9bc678d4d1faad71862aaac3268">Organize your essay in a clear and logical way that links evidence and important details to your main topic.</li>
+            <li data-uuid="28f60bdd84a6470f96fd684f217336c7">Write a conclusion that sums up your ideas and supports the information you present.</li>
+        </ol>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="5881c80bb80a4b39a0f8101dbe04cacc">
+            <button data-teacher-view-toggle="true" data-uuid="fb015ffbc8fa48588cb02586b21e0397"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="fcbe72c74e304e0bbafb4b25c2cff355">
+                <param name="configFile" value="../../widget_data/config/fcbe72c74e304e0bbafb4b25c2cff355.json" />
+            </object>
+        </section>
+        <p data-uuid="9c2e62393e8d4c4a80d53b91a06aa25b"><br />
+        </p>
+    </body>
+</html>

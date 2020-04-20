@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8d7c52887caa4c748832a6c4336e3065">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="1a6c2da3b22647b4bdfa11610f3328e2">
+            <div class="header-element header-container " data-uuid="d6449fe3b7e74e589a5afed06d3b2497">
+                <p class="lesson-number" data-uuid="b0711d0b31684076bd5536c7cd275fdf"><br />
+                </p>
+                <h2 data-uuid="8b546fb5d28545ce93c87b3469d37642"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="f79747e304b542158612a8d7a054f58b">Part 2: Write an
+                Explanatory Essay</h3>
+            <h6 data-uuid="d50409a7590e4fe9af5577812a2ef01a">Historical Context</h6>
+            <p data-uuid="19d97b6375bd49768dc0f1d5cac94827">The nation heaved a collective sigh of relief with news of the armistice
+                that brought peace at the end of “the war to end all wars” in 1918. Americans
+                looked forward to peace and prosperity, and the country embarked on a frenzied
+                era of progress, plenty, and social change known as the Roaring Twenties. </p>
+            <h6 data-uuid="ca97c8b5962d47719ca14e99b7be4ee5">Task</h6>
+            <p data-uuid="71fa1ad2925144d9b2a2f90d23af0410">The 1920s heralded a period of unprecedented and swift social
+                change in American society. It also was a period of economic prosperity. Write
+                an essay in which you explain what factors contributed to the social and
+                cultural changes that altered the American way of life in the Roaring Twenties.
+            </p>
+            <p data-uuid="2006ea55ba3c44c7b576d17135df08fd">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="d6c9e8ce8dec4ba381ae2b1404576003">
+                <li data-uuid="7e7cd76e27e348f59ce8acdd8315086b">Review your notes and sources before you
+                    start writing.<br />
+                </li>
+                <li data-uuid="d0eefce195a14bb28e90fc719b844dce">Use at least <i>two</i> of the sources in Part 1,
+                    and develop the topic with relevant, well-chosen text or visual evidence from
+                    the documents.<br />
+                </li>
+                <li data-uuid="f4471d9dc62b4f33be604d8ce8aeb072">Cite specific text or visual evidence from
+                    each of the sources in your response.<br />
+                </li>
+                <li data-uuid="747f283183964149a35153546540e6fb">Plan your essay so that it includes an
+                    introduction, several body paragraphs, and a concluding paragraph.<br />
+                </li>
+                <li data-uuid="4025a1aba1c84683b9fd0b2b221c9ef5">Organize your essay in a clear and logical
+                    way that focuses on the topic and supports it with explanations and facts.</li>
+                <li data-uuid="cffdac34a15e4f788e1354dbb35986ad">Write a conclusion that sums up your ideas and
+                    supports the information you present.</li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="16649babe6cc4c459ce7a935f940e91a">
+            <button data-teacher-view-toggle="true" data-uuid="546a4992fb384d1ea0cd999978ee9762"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a4e0b6e3c3e5499981b44321a1f4d5ab">
+                <param name="configFile" value="../../widget_data/config/a4e0b6e3c3e5499981b44321a1f4d5ab.json" />
+            </object>
+        </section>
+        <p data-uuid="15e2764ff77e4b86abf81a5470db0180"><br />
+        </p>
+    </body>
+</html>

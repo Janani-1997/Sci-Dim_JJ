@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="add1c9ff85d944ddb4471617bcf4952f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Reconstruction in the North</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="5f0e4227410542dfb4dbf5b9abdd4a9d">
+            <article data-uuid="72770f8276d1439b94bfe76bfa41a279">
+                <h4 data-uuid="870d1a0848554a67bf5796f3558238fd">Main Idea</h4>
+                <p class="main-idea" data-uuid="e53da3cca3544f5d8f158606e6a27950">Northern focus shifted away from the Reconstruction effort.</p>
+                <h2 data-uuid="096c0b56743d4628953a157602d41198">Reconstruction in the North <br />
+                </h2>
+                <div class="yellow-star-yellow-bar" data-uuid="35f67da311d342fa9dd7b69b58025530"></div>
+            </article>
+        </section>
+        <p data-uuid="a17ffbd6571145aba3a15efef32fb571">Although most federal Reconstruction policies were designed to reform the South, they affected groups in the North as well. There were many groups that worked to advance their own rights and interests during this time.</p>
+        <h3 data-uuid="319a5d3c41c74e36bac6d534467370d9">Women and Northern African Americans</h3>
+        <p data-uuid="e6ea5641408c47458dda85713b21c068">The Radical Republicans passed many federal laws that required southern states to allow African American men to vote. They based their cause on the ideal of equality found in the Declaration of Independence and the Constitution. </p>
+        <p data-uuid="634907fa5cae48229004e681998a1a3f"> Women’s suffragists began using these same arguments to support their own suffrage. Wyoming and Utah granted women the vote in 1869, but their motivations were not just to ensure equal rights for women. Wyoming leaders hoped to attract more women residents, while Utahans hoped to counteract the rising number of non-Mormon voters. <br />
+        </p>
+        <section class="extension" data-uuid="a3b83a1625bb44acb2afd7f52ecf584b">
+            <object type="text/html" data="../../assets/widgets/extension/index.html" class="widget" width="900" data-uuid="fcb99edbfe52465c85d4bad74937d56d">
+                <param name="configFile" value="../../widget_data/config/fcb99edbfe52465c85d4bad74937d56d.json" />
+                <param name="audiopath" value="" />
+                <param name="widgettype" value="shortplayer" />
+            </object>
+        </section>
+        <p data-uuid="48ec219d60dd424784c15cab93a12017">African Americans in the North faced less social discrimination than they did in the South, but still faced racism and segregation. In response, some state governments passed laws that made segregation illegal. Some integrated their school systems. Still, most states upheld the principle of separate-but-equal facilities.</p>
+        <h3 data-uuid="c623628de9c64a749848bc405b4f190e">A Changing Economy</h3>
+        <p data-uuid="0cf52b70a5c84af7965ef076dae69076">During the war and Reconstruction, the economy of the North and the West grew rapidly. Manufacturing, commerce, and rail transportation generated tremendous fortunes. Large companies grew by buying smaller companies, and railroads made huge profits transporting goods and people. Tax revenue increased as well, and governments were able to provide more services and make more investments.</p>
+        <p data-uuid="ce69740549264d2fb963b098c59950ca"> Between 1865 and 1873, more than 2 million immigrants arrived in the United States. They provided a new pool of labor for the growing industrial economy. <br />
+        </p>
+        <p data-uuid="21da3a30a45d40839cecc93a4bc27392">The number of labor unions increased, and they began to push for policies that protected workers. Reformers pressed for eight-hour-workday and fair-pay laws. In addition, the increase in commercial and trading businesses led to a shift in the makeup of the working class. It now included a majority of professionals and white-collar workers.</p>
+        <p data-uuid="baf4c8b2d0ae4fb3a19471878316047e"> Eventually the focus of the Republican Party began to move away from civil rights for African Americans and toward reducing government corruption. The acceptance of the Compromise of 1877 signaled the end of the Republican focus on reforming racial politics in the South. </p>
+        <section class="true_false_game type-who-am-i" data-uuid="4801272a77594d0f842d07b30c401f37">
+            <object type="text/html" data="../../assets/widgets/true_false_game/index.html" class="widget" data-uuid="5ee32eac46084302afd6c79048c3ed48">
+                <param name="configFile" value="../../widget_data/config/5ee32eac46084302afd6c79048c3ed48.json" />
+            </object>
+        </section>
+        <section class="question-long-text" data-uuid="342d25079ea34bcebeae95b008d26841">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="389b20197da447028b1f5cb9d04e1a33">
+                <param name="configFile" value="../../widget_data/config/389b20197da447028b1f5cb9d04e1a33.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="5226be55a1764d40b1f91807c386e00e">
+            <div class="go-prompt-bottom-bar" data-uuid="6e408a7bb8de468299831f6a74334b63">
+                <p data-uuid="7a0a1612aa534103b39b7ef20e7fbe4b">Remember to use the graphic organizer to take notes on Reconstruction in the North.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="3c91ec8ee0ec47b98e014a8c7370a48b">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="b538c100a3064fbc91fbeb3ce1255ac2">
+                <param name="configFile" value="../../widget_data/config/e29a0db8bc684c7c9b8a7236f1393d24.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="764ca8c89802477190e7098af306f582"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="e135ea4b5a3e4518af124dfb101cc4ee">
+            <button data-teacher-view-toggle="true" data-uuid="d878c3fea4f8425a84a18515998e2dc8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ccb0236f3d8a4978acd6b9833fa29704">
+                <param value="../../widget_data/config/ccb0236f3d8a4978acd6b9833fa29704.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

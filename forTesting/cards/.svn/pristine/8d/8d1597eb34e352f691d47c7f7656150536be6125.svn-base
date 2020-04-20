@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="28c833a971ea4656a94a419a48bf4cc7">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="8e9d609035094e8599c8c2dd5f2f343e">
+            <div class="header-element header-container " data-uuid="f203f1cc71bd41bd89a0cee6d2502e0f">
+                <p class="lesson-number" data-uuid="b618149d505846f1a8d3a9b44b15103a"><br />
+                </p>
+                <h2 data-uuid="6aa4b92149ee4f2a9c722cd7d661a542"> Review</h2>
+                <p class="white" data-uuid="0e80b9f47c70416698426d6012834195">In this module, you’ve learned about the transition of
+                    U.S. foreign policy from isolationism to imperial expansionism and its
+                    resulting effect on the nation’s growth as a world power. Now you will review
+                    some key terms and people before completing the Module Assessment.</p>
+            </div>
+            <h3 data-uuid="4f59c135d21c474697dac800a96878d6">Review Key Terms and People</h3>
+            <p data-uuid="056015fb6f9544e18315d7336472ae27">Define each term or person
+                shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="152ba11317a54e5f90d560499d561fe3">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget" data-uuid="97f59a1f9799493bba293b581c6afbcb">
+                    <param name="configFile" value="../../widget_data/config/97f59a1f9799493bba293b581c6afbcb.json" />
+                    
+                    
+                </object>
+            </section>
+            <section class="sequence_timeline  " data-uuid="827f6ccc6ff04020b41d76ebc47fcb98">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="7faac4cf21b041f79e63924da1bf0136">
+                    <param name="configFile" value="../../widget_data/config/7faac4cf21b041f79e63924da1bf0136.json" />
+                    
+                    
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a5b600111fcd4eecaac825c6372a8dd6">
+            <button data-teacher-view-toggle="true" data-uuid="c963dd26cb704c8c92289ea0d21fffea"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8ccddca0d503400f99ed5b05066a5d6d">
+                <param name="configFile" value="../../widget_data/config/8ccddca0d503400f99ed5b05066a5d6d.json" />
+            </object>
+        </section>
+        <p data-uuid="89b51896ff1948e5a71b6004ad1b2f7b"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="0cc6a64ae78444eb9cbfe4fa67be17fa">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="a465b77b0e414defb75211d37b191127">
+            <div class="header-element header-container " data-uuid="b897b10f371c4a9ca97b5c68edd69699">
+                <p class="lesson-number" data-uuid="b80efdbe33f24ec0a7c499522c9f2294"><br />
+                </p>
+                <h2 data-uuid="c184ac8c240048a08dd2c1ab35e8336b"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="6f3a23e2ad314fa4931829cdeddcb2b2">Part 2: Write an Analytical Essay</h3>
+            <h6 data-uuid="d7458262a6c949aa80e98b48f45c4ec2">Historical Context</h6>
+            <p data-uuid="f7c7e8f5b0d8467db2e541c5726505c0">Following the French and Indian War, there was
+                an increasing dissatisfaction between the colonists and Great Britain. In the
+                1770s some colonial leaders became convinced that they could not avoid war with
+                Britain. In 1776 the colonists declared their independence, but they would have
+                to win a war against the British army to achieve their goal. The Patriots faced
+                many hardships as the war raged on. Key American victories brought about turning points in the war. Americans won their independence from Great Britain
+                in 1783 with the signing of the Treaty of Paris.</p>
+            <h6 data-uuid="0d7c2b0228804a78b23b3cfff2f11739">Task</h6>
+            <p data-uuid="bf785b7edea34f779c354299e6b63844">The American Revolution affected the colonists
+                in different ways. The writings from the time show many different points of
+                view. Write an analytical essay in which you discuss how Patriots from different
+                backgrounds demonstrated their support for independence from Britain.</p>
+            <p data-uuid="cc20ab5bfeec49ff95bfea9c6e97a953">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="51482b874d6141afb807f38d7fe8692c">
+                <li data-uuid="5cb2990621c0408ebe443e85a921a0a0">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="090f252a84c446b08ab9e4e7b4823348">
+                    Use at least <i>four</i> of the sources in Part 1, and develop the topic
+                    with relevant, well-chosen text evidence from the documents.
+                </li>
+                <li data-uuid="4cd495d3c428419bb68a3c0ce760838e">
+                    Cite specific text evidence from each of the sources in your
+                    response.
+                </li>
+                <li data-uuid="ff7a86afb4cb4915adca97108e9c901a">
+                    Plan your essay so that it includes an introduction,
+                    several body paragraphs, and a concluding paragraph.</li>
+                <li data-uuid="e7dc0bbd4c61471f89f1f961d92fd297">Organize your essay in a clear and logical way, and use relevant details to support your analysis.<br />
+                </li>
+                <li data-uuid="412ccf86830a4acda383f0412df045aa">Write a conclusion that sums up your ideas&#160;and supports the information you present.
+                    <br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="e14f939031f94a5d94779c14ac6ae8f6">
+            <button data-teacher-view-toggle="true" data-uuid="30a486919b6047478b4d387bf92484b9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="facc6d1552ee4852ab639930e99b1a95">
+                <param name="configFile" value="../../widget_data/config/facc6d1552ee4852ab639930e99b1a95.json" />
+            </object>
+        </section>
+        <p data-uuid="70628b16e9254391be093dcfbea3bffa"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="00cb8beff46249208826bc48e0477358">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="4696a3194b3347d0884517932555765c">
+            <p class="lesson-number" data-uuid="6163ff2418724774913d1313e4337c9d">Lesson 4</p>
+            <article class="header-container" data-uuid="dee24d06a63346c2a18520ca9098daf0">
+                <div class="header-element" data-uuid="8be9285c1cbe423a8ca4a609a7713866">
+                    <h1 data-uuid="2a26c993471340d39b09a60b6a086c59">Rights and Responsibilities of Citizenship</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="9d7654a6e5bb4575952bfd6e69d44d4b"></div>
+                    <h2 data-uuid="cb647ab5c4124a3db927fc51b419cefd">The Big Idea</h2>
+                    <p data-uuid="f2fc793f53a4440c8788db10a340d425">American citizenship involves great privileges
+                        and serious responsibilities.</p>
+                </div>
+            </article>
+            <article data-uuid="dc5ce7981adc4338a2882d65014cbd89">
+                <h3 class="if-you-were-there" data-uuid="afabcf7c4d35459d8e15b5379ec8e5cc">If YOU were there...</h3>
+                <p data-uuid="edc797fd83a949ffa9fb72bea244e6f4">Your older brother and his friends have just
+                    turned 18. That means they must register with selective service. But it also
+                    means that they are old enough to vote in national elections. You are
+                    interested in the upcoming elections and think it would be exciting to have a
+                    real voice in politics. But your brother and his friends don't even plan to
+                    register to vote.</p>
+            </article>
+            <section class="question-long-text" data-uuid="20fa7be670884d8ca977ea10f415ab29">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="6a2c012c82aa43599a4fedd4d5ff880f">
+                    <param name="configFile" value="../../widget_data/config/6a2c012c82aa43599a4fedd4d5ff880f.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f21bbc3e975a44ec9d851082b313fd96">
+            <button data-teacher-view-toggle="true" data-uuid="db04d0d81fcd441abb61e5afb00cbb3a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7ebc8696c6ef4dfa8e717ff6da4b7dd0">
+                <param name="configFile" value="../../widget_data/config/7ebc8696c6ef4dfa8e717ff6da4b7dd0.json" />
+            </object>
+        </section>
+        <p data-uuid="ad7ac785f3b441f4953cd97632554784"><br />
+        </p>
+    </body>
+</html>

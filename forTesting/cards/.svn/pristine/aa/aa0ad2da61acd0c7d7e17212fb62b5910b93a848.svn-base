@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3517af336b174a4fa75d866cb51aa71d" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="d4ad9d6dc6814c398f99d3961e402a0e">
+            <div class="header-element header-container " data-uuid="f1786a820ed54671b961493d80635b41">
+                <p class="lesson-number" data-uuid="93ce5a526cbe40e7b7edc6a057cdafb6"><br />
+                </p>
+                <h2 data-uuid="ad870ba6f39f4b61a5a91984e4212941"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="f9b443227b86428c97496466dd4b24f1">Part 2: Write
+                an Analytical Essay</h3>
+            <h6 data-uuid="d39c0e5537484666899b48c8eec3ff7e">Historical Context</h6>
+            <p data-uuid="ff8e293b46a041c4a38b0c7f56d64936">As Europeans colonized the Americas in the 1500s
+                and 1600s, they developed economies that required a lot of labor, mostly for
+                work in mines and on plantations. To meet the need for labor, colonists imported
+                Africans, whom they forced to work on their plantations. Slavery was accepted
+                throughout the early English colonies of North America. By the early 1800s,
+                however, slavery disappeared in the northern United States, even as the
+                institution strengthened in the South. By the middle of the century, the nation
+                was deeply divided over the issue of slavery.</p>
+            <h6 data-uuid="bf553c28c208422789ef4790f1d12670">Task</h6>
+            <p data-uuid="46aeb38a1c2d44379af92ee832f811e9"></p>
+            <p data-uuid="ece1dddc8e2642e7bee486af6575dcc7">What was it like to live in and resist the slave system? How
+                did different groups of people resist slavery? Write an analytical essay in
+                which you examine the slave system, the reasons people resisted it, and the forms
+                of resistance that people used.</p>
+            <p data-uuid="facfd618cb104b0f987ba1921f55ae01">Complete the following steps as you plan and compose
+                your analytical essay.</p>
+            <ol data-uuid="a784ce6d8d88410295368c5f9050d9d0">
+                <li data-uuid="1ac12174ff544366acb702590b4c4102">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="ca204596703a4a738190621438dadcf5">Use at least <i>three</i> of the
+                    sources in Part 1, and develop the topic with relevant, well-chosen text
+                    evidence from the documents.<br />
+                </li>
+                <li data-uuid="4a2c363928784c9f8acca5c5d617bf96">
+                    Cite specific text evidence from each of the sources in your response.</li>
+                <li data-uuid="96195895f1c74aceb113178bc6fea2c2">
+                    Plan your analytical essay so that it includes an
+                    introduction, body paragraphs with supporting details, and a concluding
+                    paragraph.</li>
+                <li data-uuid="246bc2d03c2a407aaec1ea7987711314">Organize your essay in a clear and logical way that
+                    links your details to the topic.<br />
+                </li>
+                <li data-uuid="a3d5c1fc05314986b1088a22f34b599f">Write a conclusion that sums up your ideas and
+                    supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="1bf68aef70da458db04d39ff60b3099a">
+            <button data-teacher-view-toggle="true" data-uuid="59e5351e9dfe44478847922090e1f6d0"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="fc5e1914a18a45e09ad794909d186c10">
+                <param name="configFile" value="../../widget_data/config/fc5e1914a18a45e09ad794909d186c10.json" />
+            </object>
+        </section>
+        <p data-uuid="2191062c3fab40cd8265de3f583ebbd1"><br />
+        </p>
+    </body>
+</html>

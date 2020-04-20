@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2171cee0d0874cda848b1113d8d9ae8e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="ea9c286911c94a638caa7d8556d80e7c">
+            <p class="lesson-number" data-uuid="5c9a50c226be47b2bfd2a522b3199ee1">Lesson 2</p>
+            <article class="header-container" data-uuid="ddc1b8dd0ba647bc8a62ac4172bd25a9">
+                <div class="header-element" data-uuid="8c0913c3d65d44d4a97e2e79c9656ae2">
+                    <h1 data-uuid="fb1a8b995c504d6f811ab507637c2abc">America
+                        in the 1970s</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="7d982040f69241b89603b10adc05e01f"></div>
+                    <h2 data-uuid="5e554d318f754f1b8aa74692521c9286">The Big Idea</h2>
+                    <p data-uuid="a8984be1b1f14559b81c11aa612472fc">Americans faced major challenges both at home
+                        and around the world in the 1970s.</p>
+                </div>
+            </article>
+            <article data-uuid="54e2761aaf2d42499af93c8e06213109">
+                <h3 class="if-you-were-there" data-uuid="dbc212c4abb24ca8b03d99958cac27ad">If YOU were there...</h3>
+                <p data-uuid="c46df4004a2245eab0385f2cc8424a6a">It is July 4, 1976. Today, the entire nation is
+                    celebrating the 200th anniversary of the signing of the Declaration of
+                    Independence. As you sit with your family watching a spectacular fireworks
+                    show, you think about the challenges this country has faced throughout its
+                    history. You think about the economic and foreign policy challenges facing
+                    Americans right now.</p>
+            </article>
+            <section class="reading-check" data-uuid="d31b714938c44d238abaeeb54962da23">
+                <section class="question-long-text" data-uuid="aa9712f98b274920afc01d62b506915b">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="d0c884584c12419cb806ad3c3a6e9ecb">
+                        <param name="configFile" value="../../widget_data/config/d0c884584c12419cb806ad3c3a6e9ecb.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="b931d10f4e814557bb0ca7970d191cfa">
+            <button data-teacher-view-toggle="true" data-uuid="850de7aa939b422bb539543c146a74fa"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="df8d8b5fa6d64e91b006147d1cf95164">
+                <param name="configFile" value="../../widget_data/config/df8d8b5fa6d64e91b006147d1cf95164.json" />
+            </object>
+        </section>
+        <p data-uuid="e2e5d5064f254f2e97ec479a22b052e1"><br />
+        </p>
+    </body>
+</html>

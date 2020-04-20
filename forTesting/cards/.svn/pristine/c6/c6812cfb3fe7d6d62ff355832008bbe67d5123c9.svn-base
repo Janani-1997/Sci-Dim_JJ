@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="eb96d246a4ad4e0aba49b7f30fcc1bd9">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="fae482628e9c4a31bb96e301262081de">
+            <p class="lesson-number" data-uuid="cfdb87bbaffe4c14a6063a60baea1435">Lesson 1</p>
+            <article class="header-container" data-uuid="1e626198f5f54c268943981e92f1dce7">
+                <div class="header-element" data-uuid="24dbe35dff97457a81ac8660d85a9f30">
+                    <h1 data-uuid="35f7fc0d7eca4e18b816a2b6268d1f8a">The Articles of
+                        Confederation</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="334104e665034c6b9e46c05e86f0fb43"></div>
+                    <h2 data-uuid="8a024ec4fa304c56aa5414f61ba9601b">The Big Idea</h2>
+                    <p data-uuid="ecc92aca3db84ef5b77e95cf04d53e8a">The Articles of
+                        Confederation provided a framework for a national government.</p>
+                </div>
+            </article>
+            <article data-uuid="a415cff4357541aeb7b29b9198ed7098">
+                <h3 class="if-you-were-there" data-uuid="f25a3d7bf9784623b6888b41e1f2bea8">If YOU were there...</h3>
+                <p data-uuid="0410ad603aff4399bd4e896bab2a95ea">You live in a town in New
+                    England during the 1770s. In the town meeting, people are hotly debating about
+                    who will have the right to vote. Most think that only men who own property
+                    should be able to vote. Some think that all property owners—men and
+                    women—should have that right. A few others want all free men to have the vote.
+                    Now it is time for the meeting to decide.</p>
+            </article>
+            <section class="question-long-text" data-uuid="1c663088d66341479f4a217e3d1b7fc3">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="38191d3fa15846cb8a51163aa540f890">
+                    <param name="configFile" value="../../widget_data/config/38191d3fa15846cb8a51163aa540f890.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="52a6581996be4cd3a756bb98f2b0ca80">
+            <button data-teacher-view-toggle="true" data-uuid="386c69f35a6942d6b5d723fa1891f29b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e1a035f2e06745c3abfb5553472233fd">
+                <param name="configFile" value="../../widget_data/config/e1a035f2e06745c3abfb5553472233fd.json" />
+            </object>
+        </section>
+        <p data-uuid="efbd4a7ff9af4600ac5760941aeac72a"><br />
+        </p>
+    </body>
+</html>

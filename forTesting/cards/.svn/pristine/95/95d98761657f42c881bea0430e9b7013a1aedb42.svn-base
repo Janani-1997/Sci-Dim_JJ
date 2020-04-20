@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="c784ac98420e4727b47f3feac8f6897d" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>The Age of Jackson</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="a2ab70395a544b5c93146833fb281a92">
+            <article data-uuid="eae6e3327dcc4b47af0b5f5562d2deb3">
+                <h4 data-uuid="905a5eda1afd457aae1c85684dddb7f0">Main Idea</h4>
+                <p class="main-idea" data-uuid="2707abb0402543f1ab9b93b4ab24926c">Jacksonian democracy was marked by an expansion of voting rights and a strong executive branch.</p>
+                <h2 data-uuid="46f2610338204cd78d7839ac8baf8ec3">The Age of Jackson</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="38f210721ec74126a87ef1df49d210ef"></div>
+            </article>
+        </section>
+        <p data-uuid="814b78703be8444baff2c94a17ae5a1a">By 1828 many states had passed laws increasing suffrage for white men. This led to an era of a rise in popular politics, which became known as <dfn title="Jacksonian Democracy">Jacksonian Democracy</dfn>, after politician Andrew Jackson. Jackson’s defeat in 1824 led his supporters to create the Democratic Party. Many saw his victory in the 1828 presidential election as a win for the common people.<br />
+        </p>
+        <section class="biography" data-uuid="dd74cbba600f465b9ac32e91ad76b681">
+            <div class="header-element" data-uuid="84e4818011e34be694f8323ca94f2d43">
+                Biography
+            </div>
+            <p class="name" data-uuid="c4a77c802a23453dbec75c9a25471c4f">Andrew Jackson</p>
+            <p class="date" data-uuid="2435fae8948f4a14a8a4e9bbfae4b1cc">1767–1845</p>
+            <figure class="image-metadata bio-image" data-uuid="e514d70432034c368fd88fb54525efed">
+                <img alt="This is an artist's rendering of Andrew Jackson." src="../../img/module_10_lesson01/ms_snlese454149_121aa.png" data-uuid="d58ba73ef1bf4ccb87a12aff0dcb647c" />
+                <div class="images-metadata-container" data-uuid="1e8beb8c4ce54bbfa02ffa3dd7364110">
+                    <span class="image-text image-alt"> </span>
+                    <span class="image-text image-credit"> </span>
+                </div>
+            </figure>
+            <p data-uuid="84227826cc8843fb99472af6c186884b">Jackson was born in Waxhaws, a region along the border of the North and South Carolina colonies. In 1788 he moved to Nashville, Tennessee, which was still a part of North Carolina. There he built a mansion called the Hermitage. He lived in Washington as president and then retired to the Hermitage, where he died. </p>
+            <p data-uuid="e6d3ce8daf7d492eb1bd2ad2c8d791a5">Jackson had no formal education, but he taught himself law and became a successful lawyer. He became Tennessee’s first representative to the U.S. Congress and also served in the Senate. Jackson became a national hero when his forces defeated the Creek and Seminole Indians. He went on to battle the British in the Battle of New Orleans during the War of 1812. Jackson was elected as the nation’s seventh president in 1828 and served until 1837.</p>
+            <p data-uuid="a66986e81fb1410c9c339c8d96bcbfe2"> The presidency became more powerful during Jackson’s tenure. His belief in a strong presidency made him both loved and hated. He vetoed as many bills as the six previous presidents together. Jackson also believed in a strong Union. When South Carolina tried to nullify, or reject, a federal tariff, he threatened to send troops into the state to force it to obey.</p>
+            <div class="blue-star-blue-bar" data-uuid="78f7eb209cf84624a1411794abca1830">
+                <span class="star"></span>
+            </div>
+        </section>
+        <p data-uuid="0e474b2ed2e140e7b25b364ee18173ca">Jackson faced a major crisis when South Carolina threatened to leave the Union if Congress did not lower taxes on imports. Jackson opposed the view that states could reject, or nullify, laws of Congress and the crisis ended. </p>
+        <p data-uuid="ac22fdf36d11425298d1f488d282b1e1"> Jackson did not always support federal authority, however. He opposed the Second Bank of the United States because he felt it favored the rich. The Supreme Court had declared the Bank to be constitutional in <i>McCulloch </i>v. <i>Maryland</i>. Still, Jackson was able to kill public support for the Bank. After he left office, the loss of the Bank helped cause the economic depression called the Panic of 1837. This crisis hurt the Democratic Party and helped the Whig Party win the presidential election of 1840.</p>
+        <section class="question-long-text" data-uuid="24986221d208472caa5c527b3db6119e">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4fd22210ddb3479bad40cfe177932ff4">
+                <param name="configFile" value="../../widget_data/config/4fd22210ddb3479bad40cfe177932ff4.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt" data-uuid="95d1f3cb14bf488bb3d0a2fe89114b05">
+            <div class="go-prompt-bottom-bar" data-uuid="7cd878e9c05843d298fb7b98164ab794">
+                <p data-uuid="49b850350ebf47fd8bec4deb57c14156">Remember to complete the graphic organizer with information on the Age of Jackson.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-uuid="a3de31e8f4c94060bd72964605e7e472">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="0f723e156dba4b47a34ac0aeec1bdaf3">
+                <param name="configFile" value="../../widget_data/config/c82c6b6cc8f44d479d5c99b3fb9f3b02.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="797079a046ee45c583f4dbca537c9866"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="30b82a3dd7224b5c84b57d4ce87273f7">
+            <button data-teacher-view-toggle="true" data-uuid="fe718c569dfd4cd8b151a6c530d95b86"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ea58103a17144a1ca8a15142de661e40">
+                <param name="configFile" value="../../widget_data/config/ea58103a17144a1ca8a15142de661e40.json" />
+            </object>
+        </section>
+        <p data-uuid="1c688c37162546c19f9e42b1c9ff73cc"><br />
+        </p>
+    </body>
+</html>

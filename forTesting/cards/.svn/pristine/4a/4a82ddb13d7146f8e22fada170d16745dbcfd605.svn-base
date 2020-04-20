@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="70f4de08648f44ffb480be63fd8d9e34" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="37069e02e5bf4cb49ed5c598edd5bdc4">
+            <div class="header-element header-container " data-uuid="b743fce991804d5790ce3c7e2f1a0f78">
+                <p class="lesson-number" data-uuid="10ff19fc15854d83a454bd203f900ac0"><br />
+                </p>
+                <h2 data-uuid="8bd83f2046a74b0aa02b0d8a3769c02d"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="cf0e34d876b242a7b55eb2bcae7cd358">Part 2: Write a Compare and Contrast Essay</h3>
+            <h6 data-uuid="6794fb3f141a441da6be6367ed58d0be">Historical Context</h6>
+            <p data-uuid="951a578699e24d21a0fbcdc61314663c">Beginning in the 1820s, the Mexican government invited
+                Americans to settle in the sparsely populated territories along Mexico’s
+                northern frontier. In return for land, Americans agreed to abide by Mexican
+                laws and respect Mexican culture and religion. In time, the Mexicans and
+                Americans living in these territories wanted independence and a bigger voice in
+                their government. When revolts began in Texas and California, they
+                were the result of Mexicans and Americans working together to gain greater
+                freedom. After the wars ended and treaties were signed, gold was discovered in
+                California, ushering in a new wave of migration from all over the world.</p>
+            <h6 data-uuid="97cbce38c1174417bf9e9b5ae9f11281">Task</h6>
+            <p data-uuid="27e5d92963fe4307a1e4384dacf409e0">From Texas to California, settlers moved to
+                unknown lands in search of a better life. Upon their arrival, settlers met with
+                varying challenges and successes. They would also forever change the regions
+                they moved into. Review the document-based investigation materials in Part 1. Write
+                an essay in which you compare and contrast the challenges and opportunities for
+                Mexicans, Americans, Chinese, and Native Americans in the Southwest during the
+                1840s and 1850s.</p>
+            <p data-uuid="77bf620cf681443c8f5f0de80037ef27">Complete the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="dc9454a62f1142a4b536628d552d8b7d">
+                <li data-uuid="c4a6e49c53e94ba8bee97f9b23b65e50">
+                    Review your notes and sources before you start writing.
+                </li>
+                <li data-uuid="e7da4b9ac8a7422899b9b180e4803aaa">
+                    Use at least <i>two</i> of the sources in Part 1, and develop the topic
+                    with relevant, well-chosen text evidence from the documents.
+                </li>
+                <li data-uuid="62dec5fb30c64ddf9ea1ccae15c1c6ba">
+                    Cite specific text evidence from each of the sources in your
+                    response.
+                </li>
+                <li data-uuid="511425aa4b424afaab0191d7f743c50d">
+                    Plan your essay so that it includes an introduction, several body paragraphs, and a conclusion.</li>
+                <li data-uuid="6c8a2e4d727a4a01b22eb778d370dad0">Organize your essay in a clear and logical way that highlights
+                    comparisons and contrasts.<br />
+                </li>
+                <li data-uuid="9f245f150be6410e94f3e6a487e2e5a3">Write a conclusion that sums up your ideas and supports the information you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="fa75514af9af49ee805a13b8ee2d3daf">
+            <button data-teacher-view-toggle="true" data-uuid="08bb58628fb742628b5dc80fc88aed2e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="2c5d525c5cec4159bafa115fac4d0a5b">
+                <param name="configFile" value="../../widget_data/config/2c5d525c5cec4159bafa115fac4d0a5b.json" />
+            </object>
+        </section>
+        <p data-uuid="defe5b2d3d8949ec83173594b853c683"><br />
+        </p>
+    </body>
+</html>

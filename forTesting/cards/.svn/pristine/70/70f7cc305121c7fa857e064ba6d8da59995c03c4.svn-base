@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="773cea4eb98a4ac98d2d02cf17bdbaa4">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="449528f6ea1744dd8b5a33b249b5b099">
+            <div class="header-element header-container " data-uuid="aa692a9335d84daa900a1da634cd1781">
+                <p class="lesson-number" data-uuid="e0a9ef73b1a0466aa393ab71c1841677">Lesson 1</p>
+                <h2 data-uuid="cdc7e22ad96149cd89927547cb96233c">Assessment</h2>
+            </div>
+            <h5 data-uuid="5951ff7f22ea4e528aa76a1d95b26252" class="text-center">The Earliest Americans</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="63e705e5b16141b391e7441d8824cee4">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="a3692eca499d4aa5ad59ac1a8fb48bbd">
+                <param name="configFile" value="../../widget_data/config/a3692eca499d4aa5ad59ac1a8fb48bbd.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6c83341952dd4030b2ebe8ac3d9e2768">
+            <button data-teacher-view-toggle="true" data-uuid="9e83e820446e4180a66637825cb7ea0c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d3cc4a8622a6424a83ba1a51a98b3bf4">
+                <param name="configFile" value="../../widget_data/config/d3cc4a8622a6424a83ba1a51a98b3bf4.json" />
+            </object>
+        </section>
+    </body>
+</html>

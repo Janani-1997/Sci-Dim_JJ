@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="274448656f884ff695285710f3cf5243">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Opposing Abolition</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="ce1d8c8c643342a1b790fc2202317be1">
+            <article data-uuid="331eda7449b94f048c1d641d478049a3">
+                <h4 data-uuid="7f305ae2aafc4822b8f5cf13cb5237c0">Main Idea</h4>
+                <p class="main-idea" data-uuid="8fc56f989d124f0992c43726eadda4d1">Even as the movement grew, many Americans remained opposed to ending slavery.</p>
+                <h2 data-uuid="905b260abf8b49f6825990616856293d">Opposing Abolition</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="d58c500d94e1435d8e04bf38988b4f10"></div>
+            </article>
+        </section>
+        <p data-uuid="c5f8dbc8758d44b3a14155754bf4f1a7">The majority of white southerners did not own slaves. To those who were slaveholders, the abolition movement was an outrage. They viewed the movement as an attack on their livelihood, their way of life, and even their religion.</p>
+        <p data-uuid="85f12b659e4642d68125f50ae36258fb"> Southern ministers built arguments attempting to justify slavery in biblical terms. Slaveholders and politicians argued that slavery was essential to the production of cotton and the health of the economy. Even in the North, to many this was a powerful argument.</p>
+        <p data-uuid="925f0c3c82504978b224954cdb698e9c"> In fact, there was support for, and toleration of, slavery in the North. To northern workers, freedom for slaves meant more competition for jobs. Even Congress obstructed the efforts of abolitionists by establishing a gag rule that forbade members of Congress from discussing antislavery petitions. Still, the pressure to abolish slavery was undeniable. Frederick Douglass said the issue of slavery was the most important issue of his time. This proved all too true, as the tensions regarding slavery soon would rip the nation apart.<br />
+        </p>
+        <section class="pullquote_wrapper" data-uuid="18e52c59f8e64c39a6152bd5b605e1a2">
+            <p class="pullquote hang" data-uuid="adffbcd585e84b2583d16825465cf994">“the great, paramount, imperative, and all-commanding question for this age and nation to solve”</p>
+            <div class="pullquote_attribution_wrapper" data-uuid="78113dbfbab249af9dc4f50a2c5dc936">
+                <p class="pullquote_address" data-uuid="bf786c81ddc84c37b3b60829bd7748d3">—Frederick Douglass<br />
+                </p>
+                <p class="p_source" data-uuid="dd71ea76b4c341cb84d29525f43f3aa5">quoted in <i>African-American Social and Political Thought: 1850–1920</i></p>
+                
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="ca0c97b0831c41ad9dcd19ee3aaa1092">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e9b9fc46e65c4bcf88fc20cb6bca9d01">
+                <param name="configFile" value="../../widget_data/config/e9b9fc46e65c4bcf88fc20cb6bca9d01.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="25b99f7bab8e4f4d90a8ea4d1b36b7dc">
+            <div class="go-prompt-bottom-bar" data-uuid="f31be548b20d4b0d95ce1d488f26615c">
+                <p data-uuid="51c02569563441ba9860d9866ce53de0">Remember to use the graphic organizer to take notes on why some Americans remained opposed to ending slavery.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="96f7e552977f49b28a606ddfaf4690d0">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="40a5235ac92a4837a5bcac12ec68d6e4">
+                <param name="configFile" value="../../widget_data/config/a18d2ca7b0064a36b81f72a7b4bea4af.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="8046a909a2f74899968f934817c8ae9f"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="7c33a7b459ff41d4aae7de8c936f598b">
+            <button data-teacher-view-toggle="true" data-uuid="c94ef1af886a48e089d0e43f42d5925e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="133b1f613ab34349898d93275b52aa07">
+                <param value="../../widget_data/config/133b1f613ab34349898d93275b52aa07.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

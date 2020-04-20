@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="a0219d3a49e84c6c8871fa997e75faca" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 &#160;Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="1b3367732b2748e8a29336478e55d6f1">
+            <div class="header-element header-container " data-uuid="d19a8a29138c46e19c259c53627b3e77">
+                <p class="lesson-number" data-uuid="220d9586cab74bce8cb68e543cebe55b">Lesson 4</p>
+                <h2 data-uuid="bdcf474996f74d79865841bee2557e91">Assessment</h2>
+            </div>
+            <h5 data-uuid="c97d2d60b6414e808d3df7a123041629">The Politics of Slavery</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="8bbada44b9584b1592f524fa25fdf5c3">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="27214636bf114519b1600434eb0f26f5">
+                <param name="configFile" value="../../widget_data/config/27214636bf114519b1600434eb0f26f5.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="9c37fd835571427984a8512f3a49ec6d">
+            <button data-teacher-view-toggle="true" data-uuid="db4a755dfbec45c394b8d7a6e14eb2ed"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d573c3489dba423bb2a314676be508a0">
+                <param name="configFile" value="../../widget_data/config/d573c3489dba423bb2a314676be508a0.json" />
+            </object>
+        </section>
+        <p data-uuid="1e54a52661e84940aea0b5ff3918c460"><br />
+        </p>
+    </body>
+</html>

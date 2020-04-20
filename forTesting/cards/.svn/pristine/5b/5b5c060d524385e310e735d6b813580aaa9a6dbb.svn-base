@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="381ffc92e3a845a09142a116deb0ce40">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="3af2b6dea1f441ffa8e3a79cb2d2dc94">
+            <p class="lesson-number" data-uuid="cf3746f0bf0c44469a3cb62c07d10f69">Lesson 3</p>
+            <article class="header-container" data-uuid="132fbc69bb3542cd9065e9a114d14de5">
+                <div class="header-element" data-uuid="51dcff63ed20403292373f1b692dfe54">
+                    <h1 data-uuid="c8464dd05cea44ed899fa802d35ded16">Slavery in the South</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="c0a25f4bf2ea47c590877facba4ee23b"></div>
+                    <h2 data-uuid="7729d192d13d44fca474a60ad1154c9d">The Big Idea</h2>
+                    <p data-uuid="17b7a5aa03d04a65bba789cdddc85a81">Enslaved people faced cruel treatment and difficult
+                        lives, which led them to resist the slave system and sometimes rebel.</p>
+                </div>
+            </article>
+            <article data-uuid="c0f96234e0cf44c09390e07c4f918b21">
+                <h3 class="if-you-were-there" data-uuid="a45cc56560b84513b63d68be2ec0074c">If YOU were there...</h3>
+                <p data-uuid="6e66758840874fb9911cb06d7f8c6d29">You are an enslaved person living on a large cotton
+                    plantation in the South in the 1850s. You work in the hot sun all day long
+                    picking cotton. After working in the fields, your body aches from bending over,
+                    your hands hurt from picking the cotton, and you’re hungry from having little
+                    to eat. To take your mind off of your harsh life and to bring you comfort, you
+                    make up stories and poems. Your family and friends love to gather round to hear
+                    you tell these stories. </p>
+            </article>
+            <section class="question-long-text" data-uuid="15a8cdc3f97848fa8c0562661ddb5691">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="206cfff99e9d4da1974676abaea0ecd2">
+                    <param name="configFile" value="../../widget_data/config/206cfff99e9d4da1974676abaea0ecd2.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="19902d99b976489e9ed3641e87e1bc08">
+            <button data-teacher-view-toggle="true" data-uuid="fc97d00b0c9c4e67b2ee48f3833aefdb"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a0e7663d92c84f1c82654f365469aa21">
+                <param name="configFile" value="../../widget_data/config/a0e7663d92c84f1c82654f365469aa21.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8dac635cd19b4fbf89e0528d3a49a738">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="b7dc8dc509704e0ca7c13488fb5cb205">
+            <p class="lesson-number" data-uuid="eadca18261c848e0a2f35e39dff4873c">Lesson 1</p>
+            <article class="header-container" data-uuid="fc4513a3e8b04f8f9943dc632e2dfb30">
+                <div class="header-element" data-uuid="e157a2d4622e49f8aae6d0e21eca6eee">
+                    <h1 data-uuid="890f252b2c9d4a7cad9d9add9a3fbdb0">The
+                        United States Gains Overseas Territories</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="447da3288f7c4a288edd4a62281a3388"></div>
+                    <h2 data-uuid="d120baa5874a404ca614085a4fc415ea">The Big Idea</h2>
+                    <p data-uuid="829a65077393448b91569c5e9562665c">In the
+                        last half of the 1800s, the United States joined the race for control of
+                        overseas territories.</p>
+                </div>
+            </article>
+            <article data-uuid="ec0e0cf9548740928fdf2e733919d4a9">
+                <h3 class="if-you-were-there" data-uuid="340c38ba4fc54f5192191a2005c5b2c1">If YOU were there...</h3>
+                <p data-uuid="6cf5a3672dca4645b87f0ec0c4f3ec45">You
+                    are a Hawaiian living on Maui, one of the Hawaiian Islands, in 1890. Your
+                    parents work in a sugar mill owned by American planters. Although the mill
+                    supplies jobs, you don’t trust the sugar planters. They have already made your
+                    king sign a treaty that gives them a lot of power in the islands. You are
+                    afraid they will take over the government.</p>
+            </article>
+            <section class="reading-check" data-uuid="415d9219109d47b08b426e5a99199076">
+                <section class="question-long-text" data-uuid="c5983fda34fc496fa629666a664e2550">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="8190d8984b9f4f3bb2c9f71eebc649fd">
+                        <param name="configFile" value="../../widget_data/config/8190d8984b9f4f3bb2c9f71eebc649fd.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ffe15d6e2aa64afdbc0bf8b6d5bb6d5c">
+            <button data-teacher-view-toggle="true" data-uuid="6b275dc5ca5d4364ad26b19deba665db"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="41fd828a2a7943f7837d3ebd942a7574">
+                <param name="configFile" value="../../widget_data/config/41fd828a2a7943f7837d3ebd942a7574.json" />
+            </object>
+        </section>
+        <p data-uuid="e2c1e17a6be84c83a6aa08cbf1d799dc"><br />
+        </p>
+    </body>
+</html>

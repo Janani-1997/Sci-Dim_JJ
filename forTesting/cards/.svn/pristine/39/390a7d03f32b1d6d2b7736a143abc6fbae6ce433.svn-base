@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="227ff04346d64f86971f5b2ffbd773be" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener" data-uuid="470e3571737a46c5b3facfb8a155f0f7">
+            <p class="lesson-number" data-uuid="a352ce13255c4bad9dc075cb3b59c62f">Lesson 4</p>
+            <article class="header-container" data-uuid="4355c5a1d50a439d96435975d84d22d7">
+                <div class="header-element" data-uuid="5a0c85d4f4aa4fceb778dcd07ecdb251">
+                    <h1 data-uuid="764f84e7283d4afab0cae6f00947b76f">The
+                        Nation Expands</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="0218dc25f488494d9a845bb883c17cbb"></div>
+                    <h2 data-uuid="a6fb30aa180b4c9d918140fc7a7de07b">The Big Idea</h2>
+                    <p data-uuid="d2e3bb2a641d4609ae896179fc54e2cb">As
+                        Americans settled in the West, the nation expanded.</p>
+                </div>
+            </article>
+            <article data-uuid="6764ea03ef9e467a9cfcf7d339f0b028">
+                <h3 class="if-you-were-there" data-uuid="76ebebbc808c4026bb4b0f9f8a791b66">If YOU were there...</h3>
+                <p data-uuid="617e9635a83248fb8234fd06f0c7d1f0">You
+                    are a cowboy in Texas in 1875. You love life on the open range, the quiet
+                    nights, and the freedom. You even like the hard work of the long cattle drives
+                    to Kansas. But you know that times are changing. Homesteaders are moving in and
+                    fencing off their lands. Some of the older cowboys say it's time to settle down
+                    and buy a small ranch. You hope that they’re not right.</p>
+            </article>
+            <section class="reading-check" data-uuid="17e3903ffba3430abda02d1809209297">
+                <section class="question-long-text" data-uuid="f516285a1ff044a693d4e49abefdedb4">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4c88615f22bb46909d955ca596172ef8">
+                        <param name="configFile" value="../../widget_data/config/4c88615f22bb46909d955ca596172ef8.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="14853f3f990c4c1aaaa9e469ace5d2c8">
+            <button data-teacher-view-toggle="true" data-uuid="752a15af0ceb4750bcf4e16c18675d8c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d2c899d80c48417a84bc36867a51f7ed">
+                <param name="configFile" value="../../widget_data/config/d2c899d80c48417a84bc36867a51f7ed.json" />
+            </object>
+        </section>
+        <p data-uuid="3d52a10573614399b771429398d43013"><br />
+        </p>
+    </body>
+</html>

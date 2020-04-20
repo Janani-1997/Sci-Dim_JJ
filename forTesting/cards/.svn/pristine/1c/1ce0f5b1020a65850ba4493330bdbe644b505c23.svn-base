@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="30a76ca0f88b4206bb3cf98236336d22">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>“Shot Heard ’round the World”</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="71276b0dbde94ca7ac92808215c8becb">
+            <article data-uuid="e45b58fb863e40df81820f319d3d7a3a">
+                <h4 data-uuid="8595209feeff471b9611d0aa907066f7">Main Idea</h4>
+                <p class="main-idea" data-uuid="e960da2edebc40d7820935d6e577528c">Armed conflict between British soldiers and colonists broke out with the “shot heard ‘round the world.”</p>
+                <h2 data-uuid="758a8b252b894970ae3d028d15fce9ab">“Shot Heard ’round the World”</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="5e1ca793db034c78a5f557de33663501"></div>
+            </article>
+        </section>
+        <p data-uuid="39db085db8754eb78794647ab9b52a86">The Continental Congress planned to meet again in 1775. Before it could, the situation in the colonies had changed—for the worse.</p>
+        <h3 data-uuid="5cb01f61f2ee4216a50ea030c7a1bd37">The Ride of Paul Revere</h3>
+        <p data-uuid="f9a005952ac146ee800640671d048fce">British military leaders in the colonies grew uneasy when local militias seemed to be preparing for action. The governor of Massachusetts, Thomas Gage, learned that a stockpile of weapons was stored in Concord, about 20 miles from Boston. He also heard that colonial leaders Samuel Adams and John Hancock were meeting in nearby Lexington. In April 1775 he decided to seize the supplies and arrest the two leaders.</p>
+        <p data-uuid="5d70acf5172d4cafb4b22dea1b57c4fc">Gage thought he had kept his plan a secret. However, Boston was full of spies for the Patriot cause. They noticed the British were preparing for action and quickly informed the Patriots. Unsure of how the British would strike, Sons of Liberty member Paul Revere enlisted the aid of Robert Newman. Newman was to climb into the steeple of the Old North Church and watch for British soldiers. If they advanced across land, Newman would display one lantern from the steeple. If they rowed across the Charles River, Newman would display two lanterns.</p>
+        <p data-uuid="cba2b61b0c6546bfb15b40158aeb88b7"> When Revere and fellow Patriot William Dawes saw two lights shine, they set off on horseback. Using two different routes out of Boston, they sounded the alert. As the riders advanced, drums and church bells called out the local militia, or <dfn title="minutemen">minutemen</dfn>—who got their name because they were ready to fight at a minute’s notice. Many minutemen were rural farmers. Others were craftsmen who lived in towns and cities.</p>
+        <section class="static-map" data-uuid="2df7318d3ec342d2a778dba22af148f1">
+            <article class="title-bar" data-uuid="3a47c0b7b50b4af6a12b477658980098">
+                <h3 data-uuid="7b6344f2deb84fff8f41b577414d9a13">Paul Revere’s Ride</h3>
+            </article>
+            <figure class="image" data-uuid="a068e19aecc045c3b9c569ea4251f3a5">
+                <img alt="This map shows the route of Paul Revere's famous ride through Massachusetts. For more information, ask your teacher to describe this map to you." data-uuid="9d14907bcaa84855b43466e6381a59bc" src="../../img/module_4_lesson02/ms_snlese454149_796m.png" />
+            </figure>
+            <section class="skillbuilder" data-uuid="9e9b78f163314d30a333a63b5e32c2fd">
+                <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="1b19552b10c14fedbaaa3001396141df">
+                    <param name="configFile" value="../../widget_data/config/1b19552b10c14fedbaaa3001396141df.json" />
+                </object>
+            </section>
+            <section class="question-multiple-choice" data-uuid="05b2fcd0a3d24501a3f2110dcb290078">
+                <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="d22f2348aadc4830968ae209d6f00adf">
+                    <param name="configFile" value="../../widget_data/config/d22f2348aadc4830968ae209d6f00adf.json" />
+                </object>
+            </section>
+        </section>
+        <h3 data-uuid="f06dbae6381f4dc9835e6987a6b2d84a">Battles at Lexington and Concord</h3>
+        <p data-uuid="69b0fff7c2da4d80a1c619eb5fd22d36">At dawn on April 19, the British troops arrived at the town of Lexington, near Concord, where 70 armed minutemen waited. Patriot captain John Parker yelled to his troops, “Don’t fire unless fired upon.” Suddenly a shot rang out. To this day, no one knows who fired this “shot heard ‘round the world.”</p>
+        <p data-uuid="848604f29e02430ab5227f08b3765ad0"> The battle at Lexington ended in minutes, with only a few volleys fired. When the smoke cleared, eight of the badly outnumbered minutemen lay dead, and ten were wounded. The British, with only one soldier wounded, marched on to Concord.<br />
+        </p>
+        <figure class="image-with-caption main" data-uuid="77b9d13cde7f4de0a5c27a7dcbe459ec">
+            <img alt="This illustration depicts the Battle of Lexington. British soldiers are on horseback, while colonists are on foot. They fire weapons at one another in a field in front several homes." data-uuid="bdaf7e5373594772aa01d03f366facc7" src="../../img/module_4_lesson02/ms_snlese454149_795p.jpg" />
+            <div class="figcaption" data-uuid="3216abc2bf7545f09fbc5af07fa7968d">
+                <p class="caption" data-uuid="ceecf91a053b4f1ea80c840a6f86ecfb"> The Battle of Lexington was the first battle of the Revolutionary War. </p>
+            </div>
+        </figure>
+        <p data-uuid="462b9f5d9b684ad18e35f8b024fa4b8b">Although Revere had been arrested, the citizens of Concord were warned by another rider, Samuel Prescott. Most of the weapons in Concord had already been hidden, but the few that were left were now concealed. Some of the British troops, frustrated because the stockpile had disappeared, set fire to a few buildings. In reaction the minutemen charged forward.</p>
+        <p data-uuid="d15aa0919c284d39948ee6aff291c793"> For the skilled colonial marksmen of Concord, the British soldiers made an easy target. They were wearing the British military uniform with its bright red jacket. For some time the colonists had called the British soldiers <b><dfn title="Redcoats">Redcoats</dfn></b> because of these jackets. The British were forced to retreat to Boston, suffering many casualties along the way.<br />
+        </p>
+        <section class="reading-check" data-uuid="4a80b3e319084c648c1b7882146d056a">
+            <section class="question-long-text" data-uuid="4590e02f131d4d5cb93e1960fa15bf42">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4a73f8692a8a44ee8108c075be9c3181">
+                    <param name="configFile" value="../../widget_data/config/4a73f8692a8a44ee8108c075be9c3181.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="f0cf5d09ee3c45b6b6e7091ad44a492d">
+            <div class="go-prompt-bottom-bar" data-uuid="f0f71d5f083a4386a7f75f92b161e40d">
+                <p data-uuid="c2b4ba37e91d4d00ae99ec35966e9193">Remember to complete the graphic organizer with information on the key events of the early days of the Revolution.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="131e9f00231541dc800d09e3e7cb6888">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="08c1df074a61468f80281da4e32161d0">
+                <param name="configFile" value="../../widget_data/config/0734c1af54c14002971aee69e196ff84.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="cd888dc7fcd642b28687441165ecc561"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="8963a19be3b34f1d8708e04eecc9d7bb">
+            <button data-teacher-view-toggle="true" data-uuid="d1775a66d24e4a5b8b7ca11037fdd8df"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6c7e1c17fc444e6181c1363077e4230d">
+                <param value="../../widget_data/config/6c7e1c17fc444e6181c1363077e4230d.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

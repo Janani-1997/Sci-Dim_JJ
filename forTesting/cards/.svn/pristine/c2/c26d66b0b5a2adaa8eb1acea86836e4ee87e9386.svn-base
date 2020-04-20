@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="40f3610c66134685848c4bd705b50ce3" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="eb3837c064e5432bb19b72463fd22c12">
+            <div class="header-element header-container " data-uuid="6f7de286dd18407d80229132707419a0">
+                <p class="lesson-number" data-uuid="b683472f6c9e41b09de3c15996d343b9">Lesson 4</p>
+                <h2 data-uuid="92671cf40cca4c2ca0326240f6f0e411">Assessment</h2>
+            </div>
+            <h5 data-uuid="be9e827a6d3b4334bd2be1acb270a5d5">The End of the Twentieth Century</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="5ef99768c7d24ee5ade41d591362aeee">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="b029a5b8810e446aaafd5c9ed988b6a8">
+                <param name="configFile" value="../../widget_data/config/b029a5b8810e446aaafd5c9ed988b6a8.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="bb27529b2f154f00bbd1db85a5056d70">
+            <button data-teacher-view-toggle="true" data-uuid="e445c70861394dfc8cdb410dd75c89ac"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4f4037f87d994874b2a847c5e18f276d">
+                <param name="configFile" value="../../widget_data/config/4f4037f87d994874b2a847c5e18f276d.json" />
+            </object>
+        </section>
+        <p data-uuid="188878bc043b45a4a2eb31e8bde5f1d3"><br />
+        </p>
+    </body>
+</html>

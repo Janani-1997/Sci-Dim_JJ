@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="188336850d8a4f25a8db7ba9cbcc1b53">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="1e01552a5c2e45f6be8d5b1bcff87a71">
+            <p class="lesson-number" data-uuid="fee5fa0295c849638a28fd3f45e960fd">Lesson 5</p>
+            <article class="header-container" data-uuid="c09b1ff46af54b9a8c69618730ad158f">
+                <div class="header-element" data-uuid="d7e74303ca924dfa96e1540b9e06547d">
+                    <h1 data-uuid="d439e7240f5e4d9e9c03b4535c715188">Victory and Consequences</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="017069f26483484ebb71ea9d8f20d3cc"></div>
+                    <h2 data-uuid="64f1e18cbca04e1a91baaa29d7c20bec">The Big Idea</h2>
+                    <p data-uuid="1ce19342381d4c65ab68c0be15f4445d">The Allies won World War II,
+                        the most devastating war in world history.</p>
+                </div>
+            </article>
+            <article data-uuid="ac5c7a842d7d4e31a084dc4505b22879">
+                <h3 class="if-you-were-there" data-uuid="3c7f6efa325645348e7dba4769a89791">If YOU were there...</h3>
+                <p data-uuid="b5a8be3ea3a4412595f3c7f750171915">
+                    It is August 1944. You are an American soldier in
+                    France. You have seen the horrors of battle up close, but today is a day to
+                    rejoice. You and other Allied soldiers are marching through the streets of
+                    Paris, celebrating its liberation from Nazi control. It seems as if the whole
+                    city has come out to greet the Americans. People rush up to shake your hand.
+                    Children cheer and hand you flowers.&#160;</p>
+            </article>
+            <section class="reading-check" data-uuid="8d13d2c0b42d44de926d3ec91193f52f">
+                <section class="question-long-text" data-uuid="662391e1e08e42dd9df3cac459eb6c43">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="9d60836e0bc84a43b4549725647d5ce1">
+                        <param name="configFile" value="../../widget_data/config/9d60836e0bc84a43b4549725647d5ce1.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="3163342277b54c128395eee4c55b2e24">
+            <button data-teacher-view-toggle="true" data-uuid="ee9b5c95a55049fba61faf006648bc1a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1fcc7f655a7b4494908a79c177128e94">
+                <param name="configFile" value="../../widget_data/config/1fcc7f655a7b4494908a79c177128e94.json" />
+            </object>
+        </section>
+        <p data-uuid="b1324c29536f42c6a402198f2a7659d4"><br />
+        </p>
+    </body>
+</html>

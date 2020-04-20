@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b1588c13155947049bb22c9de93bb586">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="e2dbad2998054815b2f9381913cc1942">
+            <p class="lesson-number" data-uuid="241f8f86e141499dbe28acb2c4afdef1">Lesson 2</p>
+            <article class="header-container" data-uuid="da28649a67214343a3f9d434ab2eb0ed">
+                <div class="header-element" data-uuid="0efb5ba1cf0b4e74b0753ac07bc49544">
+                    <h1 data-uuid="7f32ed6866664685a20e0b6807c26f59">Nationalism and Sectionalism</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="163cee566bad4fa88d91235c638f75f6"></div>
+                    <h2 data-uuid="3fead3e3ae034b73a44971ceea84eb69">The Big Idea</h2>
+                    <p data-uuid="9a1641ed49b949fbb6a12c239b7de01d">A rising sense of national
+                        unity allowed some regional differences to be set aside and national interests
+                        to be served.&#160;</p>
+                </div>
+            </article>
+            <article data-uuid="8d707c1d9b934d1ca68024811e1e5ea6">
+                <h3 class="if-you-were-there" data-uuid="7e39fcc5cefe4342af3198da8297ab06">If YOU were there...</h3>
+                <p data-uuid="1fcd5017a3b34098b2a2b2946a7a1734">You live near the western end of the newly
+                    completed Erie Canal in New York State in 1831. In fact, your older brothers
+                    helped build the canal. Every day you watch as mules pull the canal boats along
+                    the still water of the canal. Sometimes the boats carry passengers traveling
+                    from city to city. You have never been far from your home, and you are curious
+                    about their journey.&#160;</p>
+            </article>
+            <section class="question-long-text" data-uuid="59d8ca0f17124283adaa03ceeb0ea146">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="8a8c6362b65647ffae6ff481698b0e20">
+                    <param name="configFile" value="../../widget_data/config/8a8c6362b65647ffae6ff481698b0e20.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="1b844065b1c54685988ac30eff0dd208">
+            <button data-teacher-view-toggle="true" data-uuid="82dba15158d54b2eb632a4981040b185"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7d1d27588a364f4ca10f4a3d7689052c">
+                <param name="configFile" value="../../widget_data/config/7d1d27588a364f4ca10f4a3d7689052c.json" />
+            </object>
+        </section>
+        <p data-uuid="f906f0a58fc0471585214542329b2e39"><br />
+        </p>
+    </body>
+</html>

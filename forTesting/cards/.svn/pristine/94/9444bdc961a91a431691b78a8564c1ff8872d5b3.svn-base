@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="55bf8a2c819842d6acab0593ff344759">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="88af7ed6ecbe40db9aaacd098d7d0a70">
+            <p class="lesson-number" data-uuid="30fe85637685430c9455d00d9e64cfcc">Lesson 3</p>
+            <article class="header-container" data-uuid="1bbd471de46c4237b9cc9891a0bd343f">
+                <div class="header-element" data-uuid="9e29cd03529f45b3a5d56cabb3b02448">
+                    <h1 data-uuid="f65100fdeea344b7b5c4b95f87be631b">Industrial Workers</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="8b35aae39cc94187967a573d7127c243"></div>
+                    <h2 data-uuid="c3fe648145344f68899fe80e34aa9535">The Big Idea</h2>
+                    <p data-uuid="e87309dcc1d74ecca48611e85b752748">Changes in the workplace led to a rise in labor
+                        unions and workers’ strikes.</p>
+                </div>
+            </article>
+            <article data-uuid="f7046f52a9bf48118880309ae4fb859b">
+                <h3 class="if-you-were-there" data-uuid="91182a30f97c4cb6b294985418a99c24">If YOU were there...</h3>
+                <p data-uuid="0086ec4e82344b70a92c453d9e5ffc14">You run a button machine in a clothing factory in the 1890s.
+                    You work from 7:00 in the morning until 6:00 at night, every day except Sunday.
+                    Your only break is 15 minutes for lunch. Now you hear about a movement to start
+                    a workers’ union to bargain with your employer. Union members will ask for an
+                    eight-hour workday. But you think your employer might fire you if you join.</p>
+            </article>
+            <section class="reading-check" data-uuid="be2b2c76d9a74361b5d9be888b9f7e3c">
+                <section class="question-long-text" data-uuid="18905301c04e4712b7c0dfb1f13e84d7">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="5b6c7cc3ae5a4a81b71c83b68153ee20">
+                        <param name="configFile" value="../../widget_data/config/5b6c7cc3ae5a4a81b71c83b68153ee20.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4e2cc0ec39a54fe6ba36524236251c1c">
+            <button data-teacher-view-toggle="true" data-uuid="67f24a249d764fe6bed9ee17d111682e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3dadd7976604448fba862bfc0a5c16f8">
+                <param name="configFile" value="../../widget_data/config/3dadd7976604448fba862bfc0a5c16f8.json" />
+            </object>
+        </section>
+        <p data-uuid="b9e4c2668adc41a4a402203a3a48bb77"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8c5715aa16ef4f6f8dda3b247d554ff3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="3d2b61605afa4369844cdce7cbf51a0f">
+            <p class="lesson-number" data-uuid="9d3b959c76a14d66b977a152dc323b60">Lesson 5</p>
+            <article class="header-container" data-uuid="fef97a84f3914e4c96178e5c8e1b3ccd">
+                <div class="header-element" data-uuid="5dd0fe84205d460882f68c6f6bc91361">
+                    <h1 data-uuid="6befc8c42b8b49639e9b5575c4890c52">Jefferson Becomes President</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="e261f1d18bef49908f4aeb1f32e34728"></div>
+                    <h2 data-uuid="2995c608c8a04e9b908fb5629b9f0e84">The Big Idea</h2>
+                    <p data-uuid="c0b85f3a73d142a3bf4bd1e3fa5a09c9">Thomas Jefferson’s election began a new era in
+                        American government.</p>
+                </div>
+            </article>
+            <article data-uuid="c195f0c3cbd445e5b116599c84c46944">
+                <h3 class="if-you-were-there" data-uuid="2f60af10747b442a87709475ae3488a6">If YOU were there...</h3>
+                <p data-uuid="1c2dbadf76854e5792cdfdcdea61d084">You are a Maryland voter from a frontier
+                    district—and you are tired! For days, you and your friends have been wrangling
+                    over the presidential election. Who shall it be—John Adams or Thomas Jefferson?
+                    Your vote depends on your personal judgment.</p>
+            </article>
+            <section class="question-long-text" data-uuid="6aed22d65d734fdca12795a96d005188">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="792c5fb4594a4fa6bb551faedc02415a">
+                    <param name="configFile" value="../../widget_data/config/792c5fb4594a4fa6bb551faedc02415a.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="b5a2c3890b7d4f77a169504e30796fdd">
+            <button data-teacher-view-toggle="true" data-uuid="244672c5ba9345bb9edccab9f2f9746a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d7005ec5eb624192ad7b169cad1b1a9d">
+                <param name="configFile" value="../../widget_data/config/d7005ec5eb624192ad7b169cad1b1a9d.json" />
+            </object>
+        </section>
+        <p data-uuid="ede5e46b87f8484a86fafb5357adbc6a"><br />
+        </p>
+    </body>
+</html>

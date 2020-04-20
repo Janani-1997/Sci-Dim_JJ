@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8404edc018614cd2ac5879297e8e10f4">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Escape to the North</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="13625d83896745d2aa2245bfb05885ff">
+            <article data-uuid="bedfe0dc2cce4b4f802e252a6fa2a0e1">
+                <h4 data-uuid="dbb08a010f8e47bea58ed4618f0e2804">Main Idea</h4>
+                <p class="main-idea" data-uuid="1acecb8e560d45dba37649036aabcc8a">The Underground Railroad was an informal network that helped enslaved African Americans escape to freedom.</p>
+                <h2 data-uuid="1a8d097ad5ce47faad1567c32fc51853">Escape to the North</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="f10b3119bc434f00bfd0575b19aa8959"></div>
+            </article>
+        </section>
+        <p data-uuid="177884a7e9e94214999c7135c723cf03">In their attempt to escape their enslavement, many enslaved people tried to reach the free states of the North or get as far as Canada or Mexico, where slavery was illegal. Over the years an informal, constantly changing network of escape routes developed. By the 1830s a loosely organized group had begun helping slaves escape from the South. Known as the <b><dfn title="Underground Railroad">Underground Railroad</dfn></b>, the organization was not an actual railroad but a network of people who arranged transportation and hiding places for fugitives, or escaped slaves.</p>
+        <figure class="image-with-caption one-half right top-align" data-uuid="edd7af8b973745e5ba5288725e8e2a47">
+            <img alt="This is a photograph of Harriet Tubman." data-uuid="ed47c697e9a9403ea6d4fb3ec2abf0a5" src="../../img/module_16_lesson04/ms_snlese454149_197p.jpg" />
+            <div class="figcaption" data-uuid="4c000de9e7d44b459fc614f5f14161b6">
+                <p class="caption" data-uuid="125934dad600415dac589b019ef5144d"> Harriet Tubman was a courageous conductor on the Underground Railroad.</p>
+            </div>
+        </figure>
+        <p data-uuid="91e1b8ef3f3d434f83edc35db43edcc6"> Sympathetic white people and free blacks provided escapees with food, hiding places, and directions to their next destination, closer to free territory. Despite the lack of any real structure, the Underground Railroad managed to achieve dramatic results. The most famous conductor on the Underground Railroad was <b><dfn title="Tubman, Harriet">Harriet Tubman</dfn></b>. Tubman had escaped slavery herself, and she helped many others on their journey to freedom. She returned to the South nearly 20 times, successfully leading her family and more than 300 other slaves to freedom.<br />
+        </p>
+        <section class="question-long-text" data-uuid="74064228ab7444e3ba41f8757ce74ab6">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="81e30a981c744806912984985e4ed432">
+                <param name="configFile" value="../../widget_data/config/81e30a981c744806912984985e4ed432.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="856629dfc0d6448292c995fa0c7e8147">
+            <div class="go-prompt-bottom-bar" data-uuid="79ad5098de10462dbc70642e3d47bca1">
+                <p data-uuid="a71d00e953ed4f78ba9a06f4577c6803">Remember to use the graphic organizer to take notes on how the Underground Railroad helped enslaved African Americans escape to freedom.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="bf609c62b37e45d3a4516dd46c3001d7">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="54ef0ce6adee47c19cb2f91c11e3996e">
+                <param name="configFile" value="../../widget_data/config/a18d2ca7b0064a36b81f72a7b4bea4af.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="f7e95c39c9e74ab3a822c4e1277d38a1"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="3e6769fbeeee465f9ef4c1c97d6bb7c3">
+            <button data-teacher-view-toggle="true" data-uuid="d2d2818fedcb4f38a8f43778e5ba966d"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="9a7ebbe55dd042f0a0d61dd57676633e">
+                <param value="../../widget_data/config/9a7ebbe55dd042f0a0d61dd57676633e.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

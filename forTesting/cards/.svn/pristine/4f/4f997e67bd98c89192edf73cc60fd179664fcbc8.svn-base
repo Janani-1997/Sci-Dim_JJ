@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7fda6b9e92b54c08af2e4005cb294550">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>The Underground Railroad</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="eaba8dcb5284472ebdf6843cee5118ed">
+            <article data-uuid="c64b3c3005e44979a3e66f468c0be251">
+                <h4 data-uuid="4ea423caeb9d4b8d9f440152bcedce47">Main Idea</h4>
+                <p class="main-idea" data-uuid="cba52a25b3b84dbcbed36913b509ec11">Abolitionists organized the Underground Railroad to help enslaved Africans escape.</p>
+                <h2 data-uuid="cc3a96a9adc448b8a3871aa6ba3c0e38">The Underground Railroad</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="a3d397dd4d0f46398d43afd33ef65c8f"></div>
+            </article>
+        </section>
+        <p data-uuid="6bdcae4d4e79439fb85b727d0c9ff7a5">By the 1830s a loosely organized group had begun helping slaves escape from the South. Free African Americans, former slaves, and a few white abolitionists worked together. They created what became known as the <b><dfn title="Underground Railroad">Underground Railroad</dfn></b>. The organization was not an actual railroad but was a network of people who arranged transportation and hiding places for fugitives, or escaped slaves.</p>
+        <p data-uuid="e65a338be7c9459c9d87b4f2b17ce2f5"> Fugitives would travel along “freedom trails” that led them to northern states or sometimes into Canada. At no time did the Railroad have a central leadership. No one person, or group of people, was ever officially in charge. Despite the lack of any real structure, the Underground Railroad managed to achieve dramatic results.<br />
+        </p>
+        <section class="interactive-map" data-uuid="0c00e01b676047ba8094ea4b10eb2f09">
+            <object type="text/html" data="../../assets/widgets/map/index.html" class="widget" data-uuid="0429d9280cb34cc697c701b1c4b8870e">
+                <param name="selected_map" value="8_snlese454170_166m" />
+            </object>
+        </section>
+        <section class="skillbuilder" data-uuid="75c058eafb2f4ecbab0fa8c7b3535c4f">
+            <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="db9f16f73a0b4ce691482aded00fe18c">
+                <param name="configFile" value="../../widget_data/config/db9f16f73a0b4ce691482aded00fe18c.json" />
+            </object>
+        </section>
+        <section class="question-multiple-choice" data-uuid="64ee168eba154b34971fe17283207f17">
+            <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="8d2c4457667a44dfb367a02faae46106">
+                <param name="configFile" value="../../widget_data/config/8d2c4457667a44dfb367a02faae46106.json" />
+            </object>
+        </section>
+        <p data-uuid="8530a612ca2645beaddb50ef068c0f2e">Often wearing disguises, fugitives moved along the “railroad” at night, led by people known as conductors. Many times, the fugitives had no other guideposts but the stars. They stopped to rest during the day at “stations,” often barns, attics, or other places on property owned by abolitionists known as stationmasters. The stationmasters hid and fed the fugitives.</p>
+        <p data-uuid="abfb3d0211814c7abf17b05aac127e4f"> The most famous and daring conductor on the Underground Railroad was <b><dfn title="Tubman, Harriet">Harriet Tubman</dfn></b>. When Tubman escaped slavery in 1849, she left behind her family. She swore that she would return and lead her whole family to freedom in the North. Tubman returned to the South 19 times, successfully leading her family and more than 300 other slaves to freedom. At one time, the reward for Tubman’s capture reportedly climbed to $40,000, a huge amount of money at that time.<br />
+        </p>
+        <section class="reading-check" data-uuid="0ea80097a54f45a9a159c138c33314d2">
+            <section class="question-long-text" data-uuid="53888ac9fff3450daee63e7d913dce60">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4fb2ec7e793b4a348c95d92f3716f398">
+                    <param name="configFile" value="../../widget_data/config/4fb2ec7e793b4a348c95d92f3716f398.json" />
+                </object>
+            </section>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="2e97ec24d4bd49eebb80f2e7226307f8">
+            <div class="go-prompt-bottom-bar" data-uuid="14a83a0787b6432fb04bd473171211e6">
+                <p data-uuid="4915f4e70fb3412c8a8dd4aa426e3d4f">Remember to use the graphic organizer to take notes on the people of the abolition movements, the groups they were part of, and the methods that they used.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="1d516f32aee640a59834f6a533f42731">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="c80c6baad06b468fadb8b3b898cde0b7">
+                <param name="configFile" value="../../widget_data/config/16588edbd5d64de59feea23f92f1f087.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="1256ceda84be4e579b94981150441a39"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="cf0b43d823ab46e9bd097a813d8debf2">
+            <button data-teacher-view-toggle="true" data-uuid="ad21d86dd45244dda73b7c667458de08"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="29a0d3838c194d5488dc6cb7c949d375">
+                <param value="../../widget_data/config/29a0d3838c194d5488dc6cb7c949d375.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

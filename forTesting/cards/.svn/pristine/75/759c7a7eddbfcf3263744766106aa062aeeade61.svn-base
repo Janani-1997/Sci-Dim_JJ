@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6f14ef25366143d694188d4d49b2947a">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="5f70d82d7d8e4073864da51fe69bcd5f">
+            <p class="lesson-number" data-uuid="36f6bf225b5b46e69ac07464f4c3d800">Lesson 2</p>
+            <article class="header-container" data-uuid="3257da3735e6477080505f055e487548">
+                <div class="header-element" data-uuid="b5c202c24c2945f6a4841b10ea27eeca">
+                    <h1 data-uuid="5806f524e4be47e6875b005e276090c3">Kennedy,
+                        Johnson, and Civil Rights</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="16e84c3fa48946229f5d6d4ac4664098"></div>
+                    <h2 data-uuid="e71715bc57b5489e83d31a95374eb649">The Big Idea</h2>
+                    <p data-uuid="6b67286f682d494cb014013502bc5ba0">The civil rights movement made major advances
+                        during the presidencies of John F. Kennedy and Lyndon B. Johnson.</p>
+                </div>
+            </article>
+            <article data-uuid="3754f4b4b4b34bbab7644630d074a751">
+                <h3 class="if-you-were-there" data-uuid="08b56ba37d1d4908bfc478925514b872">If YOU were there...</h3>
+                <p data-uuid="04b69851ebe44cbfa2479d80fbf3939e">You are a civil rights activist living and working
+                    in the South. It is 1960, a presidential election year. The battle for fair
+                    treatment has been difficult, and you hope that the next president will support
+                    civil rights. Both major presidential candidates will be visiting your area
+                    soon. You might have a chance to meet them and ask some questions.</p>
+            </article>
+            <section class="reading-check" data-uuid="432aa85c96f74fe19130f05030284a33">
+                <section class="question-long-text" data-uuid="1f14ae79f9bb47648ff2612d9e2bde21">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="69c83aff780d4d14a58e4068633e94c5">
+                        <param name="configFile" value="../../widget_data/config/69c83aff780d4d14a58e4068633e94c5.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="5116da4fb9fb457ca9d2e928791f23dd">
+            <button data-teacher-view-toggle="true" data-uuid="80be9f3f49c14052b7f3b05177c9d6ef"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="08c736b5d5f54555a56311b88e0848c1">
+                <param name="configFile" value="../../widget_data/config/08c736b5d5f54555a56311b88e0848c1.json" />
+            </object>
+        </section>
+        <p data-uuid="2b0e47e7a6054984a1b272b77015ff52"><br />
+        </p>
+    </body>
+</html>

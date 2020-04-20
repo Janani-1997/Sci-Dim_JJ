@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="295f443b3b3f47819a58ad6db651b8de">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="191a9e788f554792a7f09842c8bdd506">
+            <section class="lesson-review" data-uuid="37bcc02403b0436d8ccce33203786a5e">
+                <div class="header-element header-container " data-uuid="96378eca617d4cc287d7ece58983e945">
+                    <p class="lesson-number" data-uuid="37616102c93a4749a1e5e5f76f7ee02d">
+                        Lesson 2</p>
+                    <h2 data-uuid="44b437fbdcce4faa8d8fe7a4e2120da3">Review</h2>
+                    <p class="white" data-uuid="e59e615e0b6842508a96ff98a23b472f">In this lesson you learned how a growing sense of nationalism helped advance U.S. national
+                        interests, as well as how sectional differences divided the nation. Now you will review some key terms before completing the Lesson Assessment.</p>
+                </div>
+            </section>
+        </section>
+        <h3 data-uuid="1f78670f1a314e61ad708f8acb695664">Review Key Terms and People</h3>
+        <p data-uuid="8bdb7b68500e4d3e88581a2436aca94c">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        <section class="flipcard" data-uuid="50e19f3db63c4b74ab9b89716e5cb074">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="6aee8535eb324cb4af1883576e0c204e">
+                <param name="configFile" value="../../widget_data/config/6aee8535eb324cb4af1883576e0c204e.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev " data-uuid="3185ea6c1d834af6a581eeab40b3839d">
+            <div class="go-prompt-bottom-bar" data-uuid="8f43fe0924824eccae5a47ccc156422f">
+                <h5 data-uuid="8601a22394464d389056783cdfde026c">Review the Graphic Organizer</h5>
+                <p data-uuid="0ee6f71f243d4c7f9ce9f2b0e26fc951">Review your graphic organizer notes and use them
+                    to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="28a0d822e29441079945f0c626c07775">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="25521a28411441a384460bb4b5a4505b">
+                
+                
+                <param name="configFile" value="../../widget_data/config/25521a28411441a384460bb4b5a4505b.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="08677cc817bb4738a10874ab6725b1bf">
+    <div class="go-prompt-bottom-bar" data-uuid="5ef99b38c3ff4711b14385a43978f29b">
+        <p data-uuid="01338e2fe4da41ec9110a561346507fc">Remember to complete the graphic organizer with information on the election of 1824 and how it affected national unity.</p>
+    </div>
+</section>
+<section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="a320aa3df3b44bc383f046a76ab98a5c">
+    <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="9fd8d8d20aca48e795dc135cfea5d806">
+        <param name="configFile" value="../../widget_data/config/9fd8d8d20aca48e795dc135cfea5d806.json" />
+    </object>
+    <button class="go-close-btn" data-go-toggle="true" data-uuid="96a84d33e4754912973f8047a47c1e74"></button>
+</section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="aba29c82d42d43d391d5d7060ac99ba9">
+            <button data-teacher-view-toggle="true" data-uuid="bda90637275046008aa190170cd45978"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="02d7aeedf11a441799c8aeee8f664549">
+                <param name="configFile" value="../../widget_data/config/02d7aeedf11a441799c8aeee8f664549.json" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="8f16d8080fda49ea8fd61dd2c74f47be" enumeration="" designation="" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="cc407a94cfbf4480be395834111f9bfd">
+            <div class="header-element header-container " data-uuid="6b1fd0e2e85c4416bff5f10baeb253ad">
+                <p class="lesson-number" data-uuid="3e763f62de034409af88e26d867c2e5f"><br />
+                </p>
+                <h2 data-uuid="f0f00c0e3fcc436585396ea6528358d7"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="ad3dd697a7e140b4bf8810ede062f2d4">Part
+                2: Write an Explanatory Essay</h3>
+            <h6 data-uuid="24993f8f047a418eb9d9d693c4106ed5">Historical Context</h6>
+            <p data-uuid="dd028a79195c4d4285c34b3281ab5e60">The
+                United States faced many new challenges as the 21st century began. A
+                contested race for president in 2000, terrorist attacks, and the War on Terror
+                dominated the beginning years. In 2008 the United States and the world plunged
+                into what became known as the Great Recession, as a crisis in housing loans
+                sparked panic and increased unemployment. It was also the year that American
+                voters made history by electing the first African American president. At the
+                same time, rapid technological and demographic changes were transforming the
+                lives of all Americans.</p>
+            <h6 data-uuid="8c0aa3a9f4754bcd82c12aacbb221ec1">Task</h6>
+            <p data-uuid="6b9cde26f83d46009bbbb2d904f66492">The
+                early 21st century heralded a period of instability in the world after
+                terrorists attacked the United States on September 11, 2001, and the United
+                States responded by leading a coalition of nations in a War on Terror. It also
+                was a period of economic and technological change as the world endured an
+                economic slowdown and  developments in
+                computing, medicine, and the environment transformed how people lived and
+                worked. Write an essay in which you explain what factors contributed to the
+                changes that altered the American way of life in the early 21st century.
+            </p>
+            <p data-uuid="9fb67ebbb4cf4194b53d320dd81926e9">Complete
+                the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="a7d7e86e8e434847b3212ac27372104e">
+                <li data-uuid="9c0eda86454e40b6b0f4a011c5992dbf">Review your notes and sources before you start writing.</li>
+                <li data-uuid="3a7b04ded927428d8ef6335830eb1837">Use at least <i>two</i> of the sources in Part 1, and develop the topic
+                    with relevant, well-chosen text or visual evidence from the documents.</li>
+                <li data-uuid="4386e12f7f6b4c9c8bc93dada35710e6">Cite specific text or visual evidence from each of the sources in
+                    your response.</li>
+                <li data-uuid="875424aa08f747798ae35ff82fbb2f2d">Plan your essay so that it includes an introduction, several body
+                    paragraphs, and a concluding paragraph.</li>
+                <li data-uuid="bbe58c6a93ed4b4bb2cbf2de7336ea49">Establish a formal tone and use transitions to improve the flow of your writing, connect ideas, and clarify meaning.</li>
+                <li data-uuid="25c3bf99d5fd4356af7fc5ff3150a389">Organize your essay in a clear way that focuses on the topic and supports it with well-chosen facts, details, and examples.</li>
+                <li data-uuid="8564f4bb7fe046e981961bae200cb8cd">Write a conclusion that sums
+                    up your ideas and supports the information you present.</li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="84dcb83afddc4d7693fb7ed5602bac79">
+            <button data-teacher-view-toggle="true" data-uuid="ca126a5b58604488ae332901cd92e8da"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="80ef3ec238f54a6f9fea62b6ae613f8c">
+                <param name="configFile" value="../../widget_data/config/80ef3ec238f54a6f9fea62b6ae613f8c.json" />
+            </object>
+        </section>
+        <p data-uuid="2b90ba4c09f34cf0abe24abbbb854236"><br />
+        </p>
+    </body>
+</html>

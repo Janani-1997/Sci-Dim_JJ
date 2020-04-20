@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="bb53043575da4d98bb99ae449e6c9d85">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 4 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="331b4120723d436b8a2ae9d9627e4cda">
+            <div class="header-element header-container " data-uuid="99a8cf56460e4980a58c157baf35a3a0">
+                <p class="lesson-number" data-uuid="befcebc9bb2840eeba92feac527a2877">Lesson 4</p>
+                <h2 data-uuid="521cb18802094f63b91fc962035fc869">Assessment</h2>
+            </div>
+            <h5 data-uuid="63691441cbcc4b84adf862773255cbf9">Europe before 1500</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="d1dd4fd2192f4888928b8cdf071a2a1e">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="693f3b613a9a4faf81bb944372a7e66e">
+                <param name="configFile" value="../../widget_data/config/693f3b613a9a4faf81bb944372a7e66e.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="826c36d068ff4782bbbc669f09c8ae23">
+            <button data-teacher-view-toggle="true" data-uuid="3c8fa51fe7864c1291020f2564138871"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d9d6536f483d4592936ccbbff80efdc2">
+                <param name="configFile" value="../../widget_data/config/d9d6536f483d4592936ccbbff80efdc2.json" />
+            </object>
+        </section>
+        <p data-uuid="04514abe13c9410696a75bead75bef40"><br />
+        </p>
+    </body>
+</html>

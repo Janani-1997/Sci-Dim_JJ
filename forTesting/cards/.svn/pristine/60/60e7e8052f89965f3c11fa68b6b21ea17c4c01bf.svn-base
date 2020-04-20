@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="86bb0f0f1f6b49ab9d324ee9f89763d0">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="169956f1db0a49fc9e4bcde17a49d3f1">
+            <p class="lesson-number" data-uuid="681a160e2a5948beb3d3ab208fd3c318">Lesson 4</p>
+            <article class="header-container" data-uuid="5c938f01cb394ee893423451647ab634">
+                <div class="header-element" data-uuid="2f62bc1e09f241259246942f9ec48e94">
+                    <h1 data-uuid="a159ad082718427fb08523f16190413e">The Progressive Presidents</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="e78d099274cb4135920d4e49bc7d1c15"></div>
+                    <h2 data-uuid="ac998d71cb124e969998b3d757cbb332">The Big Idea</h2>
+                    <p data-uuid="15d8431796274b149fe555a48bd61c1e">American presidents in the early 1900s did a great deal to promote
+                        progressive reforms.</p>
+                </div>
+            </article>
+            <article data-uuid="368d55b410c849d7a15426f2ffb02d8d">
+                <h3 class="if-you-were-there" data-uuid="f70dc3614f334a93bbc6ce407c2f26ac">If YOU were there...</h3>
+                <p data-uuid="19cb6f69991c40778a61f302457266cd">It is 1912 and you’re voting in your first presidential election. This
+                    election is unusual—there are three major candidates. One is the popular former
+                    president Theodore Roosevelt, who is running as a third-party candidate. He
+                    thinks the Republican candidate will not make enough progressive reforms. But
+                    the Democratic candidate is a Progressive reformer, too.</p>
+            </article>
+            <section class="reading-check" data-uuid="8cd78722135946ffa62d0af6b6913be2">
+                <section class="question-long-text" data-uuid="a0c1cbd49ce94330ae88a66d61518837">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0ee3413c3d5f4fff98c6afbc1b8ae5e0">
+                        <param name="configFile" value="../../widget_data/config/0ee3413c3d5f4fff98c6afbc1b8ae5e0.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6e423bfef551447896cf5a988601a2eb">
+            <button data-teacher-view-toggle="true" data-uuid="b895b1650aeb41afa8f2d8e7550770c8"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="af183a2e11ca4ad296e69b15427f053c">
+                <param name="configFile" value="../../widget_data/config/af183a2e11ca4ad296e69b15427f053c.json" />
+            </object>
+        </section>
+        <p data-uuid="a19591bedebe41cb8d2e89879a4021ef"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="2ea734eafe5241b9bbbf3b8ed16b7d9b">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="5f66c5f287524c7dba96b5c1dcbb1a7f">
+            <div class="header-element header-container " data-uuid="f7f4efcf449f43edba9cc0a3395577b3">
+                <p class="lesson-number" data-uuid="239142fb007341fba142af9dd17c301a"> Lesson 1</p>
+                <h2 data-uuid="bb789b9aa1b745b0843dd8b91094c4a0">Review</h2>
+                <p class="white" data-uuid="a40d8a68451d4efe9e67ad4091d62c64">In this lesson you learned about the creation and ratification of the Constitution. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="274645df659f400cb24677d72b80f0c4">Review Key Terms and People</h3>
+            <p data-uuid="0da2fe12ba394d748f96e77d70a4d7d2">Define each term or person shown on the card. Flip the card to check your answer. </p>
+        </section>
+        <section class="flipcard" data-uuid="588c2abb28ab43eea6b013e543b1d90e">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="80cba6b71f034dfd8696f21a26bfcf40">
+                
+                
+                <param name="configFile" value="../../widget_data/config/80cba6b71f034dfd8696f21a26bfcf40.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="55e68a211ca049f4b1cff90a28042605">
+            <div class="go-prompt-bottom-bar" data-uuid="3a326cd5a6894cffacacc549989ad02d">
+                <h5 data-uuid="e03f4103650a43619d86ad6ed4f3a580">Review the Graphic Organizer</h5>
+                <p data-uuid="71f47e0104cc46b59dccb1dd71f536d1">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="f5251dbdf7d04f6cb0a233ab3f61be95">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="774bf70c3ca1448fa961cdd29fa34cc6">
+                <param name="configFile" value="../../widget_data/config/774bf70c3ca1448fa961cdd29fa34cc6.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="e0ce5cbbf7fd457a92c3913cb9cdb965">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="1aa63df088f44ba7928e03cb7582b323">
+                <param name="configFile" value="../../widget_data/config/8b2171e8bbb344439d109ee2331a7687.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="b849b194cdb246d7b242badb28ce272b"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="b616c3feed164aa4aadf60d7b8b66dcd">
+            <button data-teacher-view-toggle="true" data-uuid="3135186e44d049b09232907c68cc41dd"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="1738e55d90ea469096d698551bf4af4d">
+                <param value="../../widget_data/config/1738e55d90ea469096d698551bf4af4d.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

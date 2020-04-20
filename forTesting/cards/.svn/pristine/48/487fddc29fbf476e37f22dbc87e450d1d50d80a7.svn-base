@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="88cd40a0ceda432f909302795c518c56" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="cad3211b745f4bf6b0f53423add07914">
+            <div class="header-element header-container " data-uuid="664523104c174d88bd0acd95ea4b8331">
+                <p class="lesson-number" data-uuid="1b507a2509544d76a674fd9c649bb934"><br />
+                </p>
+                <h2 data-uuid="470d594ca85f4d3c8882b62798f18101"> Review</h2>
+                <p class="white" data-uuid="0a9d39c7dd554cbf927a4d254129e352">In this lesson you learned why the 13 English colonies were founded and how important developments in government, trade, and religion affected the people who settled there. Now you will review some key terms and people before completing the Module Assessment.</p>
+            </div>
+            <h3 data-uuid="8b36b51b86b4437f821099764e12ffe2">Review Key Terms and People</h3>
+<p data-uuid="a851796a6a114a6ba97d7e65a8a4c0a2">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="ab697e1642be4a389881e8d89e542ea2">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="cd5ee0f03c4641aa9960895a1020a913">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/cd5ee0f03c4641aa9960895a1020a913.json" />
+                </object>
+            </section>
+            <section class="sequence_timeline" data-uuid="ab188edbec7d4d42a9ff24414f25d4fe">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="d0cf25795cae41e1bf785bcd873c04ac">
+                    <param name="configFile" value="../../widget_data/config/d0cf25795cae41e1bf785bcd873c04ac.json" />
+                    <param name="audio_description" value="NA" />
+                    <param name="audio_script" value="NA" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="af9c7b2ac4824746adbead3fc422e49e">
+            <button data-teacher-view-toggle="true" data-uuid="c1128af16274478a82605b20dbd75a92"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="f52f6257f6414116bd106aac41e8e076">
+                <param name="configFile" value="../../widget_data/config/f52f6257f6414116bd106aac41e8e076.json" />
+            </object>
+        </section>
+        <p data-uuid="62ccd865d7c4448f84e4b690aa40879c"><br />
+        </p>
+    </body>
+</html>

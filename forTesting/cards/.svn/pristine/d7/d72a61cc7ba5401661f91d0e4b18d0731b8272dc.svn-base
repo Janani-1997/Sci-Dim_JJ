@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="8edc5b7f723b44caa5e0684ba50dd53e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="0ecc2964c9b84541add83d97765716bf">
+            <div class="header-element header-container" data-uuid="6a39fac400364cd69f6e77d9b1883e3c">
+                <p class="lesson-number" data-uuid="49253b7fdff9436787b42ede4f331f91"><br />
+                </p>
+                <h2 data-uuid="21f330fe586049a2b058758e7f5b730d"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="be5ca766ab794d37af0b64d49a78682f">In this module, you’ve learned about the
+                    beginnings of the Cold War and the postwar boom. Now it’s your turn to
+                    demonstrate your understanding of the module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="bebcb2ab2874460980acc09e579c3a9d">How might the Cold War have
+                been prevented?</h3>
+            <p data-uuid="225fe7e0174a4c2d8f576ae4ace66ae4">Write a persuasive essay answering this
+                question. Your essay should clearly state your ideas. Support your argument
+                with evidence from the text and other sources in the module, and be sure to
+                include an introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a5f7faeccd35477581009968f7250857">
+            <button data-teacher-view-toggle="true" data-uuid="4833b18dec2a49f1bcf97ef13aa5de94"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="a13c3ee8e0634231b7c36d078ebbfb62">
+                <param name="configFile" value="../../widget_data/config/a13c3ee8e0634231b7c36d078ebbfb62.json" />
+            </object>
+        </section>
+        <p data-uuid="bf25dd8af2414150b356a6f56f5941c8"><br />
+        </p>
+    </body>
+</html>

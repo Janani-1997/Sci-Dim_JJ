@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="a1463547f10847feaa9ab507eff5fffd">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="43236f41c0264190ab5375a574009765">
+            <div class="header-element header-container " data-uuid="a93fa41738e346a8b7a34ec48673e93a">
+                <p class="lesson-number" data-uuid="058946c1e344433aad07331af7dda195"> Lesson 2</p>
+                <h2 data-uuid="f23df8912feb400bb6952b6c841bf441">Review</h2>
+                <p class="white" data-uuid="447ff00c79384bf0a871c16055d6a5f2">In this lesson you learned about the structure of the U.S. government. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="fb28456530ca4c249cafc4fdcd45e4ad">Review Key Terms and People</h3>
+            <p data-uuid="4adbe7d9cd53444db3a22192def643a8">Define each term or person shown on the card. Flip the card to check your answer. </p>
+        </section>
+        <section class="flipcard" data-uuid="39321a8d6aad44098290b616dc2d16f0">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="b4677ea033e046b7bb214108985eb62a">
+                <param name="configFile" value="../../widget_data/config/b4677ea033e046b7bb214108985eb62a.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="b4ac808c183746c9862e9d2c8af316a1">
+            <div class="go-prompt-bottom-bar" data-uuid="1c601e3ffef345978c3e81761777a8e3">
+                <h5 data-uuid="e0b0bef421364a1787b6b6a738885568">Review the Graphic Organizer</h5>
+                <p data-uuid="e77c8db14e094e22a973209bb2885a00">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="29508a78a4ba4b6eb1c50ae1e3bccca3">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="8d1cc61688014ace81e085b1f48b15ca">
+                
+                
+                <param name="configFile" value="../../widget_data/config/8d1cc61688014ace81e085b1f48b15ca.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="0f8ef307e46746ba80d356731c6e868a">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="cb155b3bfaa445e6addf853a86e0e5b1">
+                <param name="configFile" value="../../widget_data/config/7478a3643b7144ab839ebc17fddad506.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="f64463f2a7dc49898832a64e19ce9138"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="be081c4092cf4994ad0d16edc3bf0144">
+            <button data-teacher-view-toggle="true" data-uuid="ce1d96eaa8de41f59f4d1f55c783563f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="50ac3e741888441f949091792ed13771">
+                <param value="../../widget_data/config/50ac3e741888441f949091792ed13771.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

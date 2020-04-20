@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="36d3f97cd7f94c12a65e0ec60ef9f054" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Module Review</title>
+    </head>
+    <body>
+        <section class="module-close-review" data-uuid="3683f8f3268c433cb4c1125a0f48842a">
+            <div class="header-element header-container " data-uuid="30ed525a4f54445099004af5d9697487">
+                <p class="lesson-number" data-uuid="db39aecc0cb04d479d82d8b9c1b1fef6"><br />
+                </p>
+                <h2 data-uuid="e4e427ec265a44229afd19de326eba5c"> Review</h2>
+                <p class="white" data-uuid="55d452dfeaf54f83a9f3a3ef0128c392">In this module you learned about the many changes that the nation underwent during the Age of Jackson as well as how growing sectionalism was affecting the United States.</p>
+            </div>
+            <h3 data-uuid="bb538da7fd6948b49b0d29b04c619697">Review Key Terms and People</h3>
+<p data-uuid="e33224ad80874662a6834cfd81714840">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            <section class="flipcard" data-uuid="9590403adc894b118c6d8c5accad3fee">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="80e7b55c36584a30894628bfc2a055c7">
+                    <param name="configFile" value="../../widget_data/config/80e7b55c36584a30894628bfc2a055c7.json" />
+                    
+                    
+                </object>
+                <p data-uuid="e01d60c53532429da24b3388464080ef"><br />
+                </p>
+            </section>
+            <section class="sequence_timeline  " data-uuid="2e357c351a4d4945b39f209a843523e8">
+                <object type="text/html" data="../../assets/widgets/sequence_timeline/index.html" class="widget" data-uuid="b07c67a65a5a4820ae20a522c88c8947">
+                    <param name="configFile" value="../../widget_data/config/b07c67a65a5a4820ae20a522c88c8947.json" />
+                    <param name="audio_description" value="na" />
+                    <param name="audio_script" value="na" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="54660b2841814e8e87f73bbbf62fb104">
+            <button data-teacher-view-toggle="true" data-uuid="9c124ae114d44b949f294d2ffaca8260"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c42d74a89c5a444ea5e27ed7b8b5d995">
+                <param name="configFile" value="../../widget_data/config/c42d74a89c5a444ea5e27ed7b8b5d995.json" />
+            </object>
+        </section>
+        <p data-uuid="31469d81878644f08818ec3211957009"><br />
+        </p>
+    </body>
+</html>

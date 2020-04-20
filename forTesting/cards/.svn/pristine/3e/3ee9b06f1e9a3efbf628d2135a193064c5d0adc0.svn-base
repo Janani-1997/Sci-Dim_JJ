@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="492594efac8549a090b2021e81d4db7b" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="f7f4040016914feaa04ef0d9136fb1e8">
+        <div data-uuid="7443fc61fdfb419f8fd156aaff07202a">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="04818ca02f594413a8aed54fdb5bf6f8"/>
+            <div class="header-element" data-uuid="9cef80972bc8481baaf96625bb852aa0">
+                <section class="calendar-container-bottom" data-uuid="f2c2aac4eca94229b46afe166528fbd5">
+                    <div class="yellow-star-yellow-bar" data-uuid="b8a0813ddcf74b1291fe6f3c5f1cd4b0"></div>
+                    <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                    <h1 data-uuid="a748bb264c994231a2bcc5170e8fa01a">U.S. History to 1860</h1>
+                </section>
+                <section class="eq-container" data-uuid="c473868e45cb4582a84a67af7e82b581">
+                    <figure class="image" data-uuid="b035234de04d4a648c950c45cfb8dbc6">
+                        <img alt="This is an artist's depiction of the signing of the Declaration of Independence. Many men are seated in the meeting hall, while other stand around a desk." data-uuid="827cab652b914118b371e3d26d9e914d" src="../../img/module_4_lesson03/ms_snlese454149_804p.jpg" />
+                    </figure>
+                </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="f75f89e2af0849fe90a583ae375b910a">
+                <p class="caption" data-uuid="451a22122c954560beeca5517d2aa141">On July 4, 1776, the American colonial leaders approved the Declaration of Independence, breaking all ties to Great Britain.</p>
+            </div>
+            <article data-uuid="a5b170f9dc074a3f97134e5d7b2c3937">
+                <h3 class="eq" data-uuid="4304d499098d402695edd60cf346b9fe">Essential Question</h3>
+                <h3 class="eqt" data-uuid="b4e1af41826c4c20a0c5d5344dab2c93">What historical forces were most important in shaping the United States before 1860?</h3>
+                <p data-uuid="aadb1ad25c2248f3a14c6cf08bafc36c">As you read this module, look for evidence about the important events that shaped the United States in its early days. Note the key
+                    people, decisions, circumstances, and turning points that united and divided the nation before 1860. When you are done,
+                    you will write a short essay answering the Essential Question for this module.&#160;</p>
+            </article>
+            <section class="video-container" data-uuid="8cebac77fd4a4bc5a0b8a809fafb306a">
+                <article data-uuid="88c749c327ff437a8a6f93cea7deb704">
+                    <h3 class="vid" data-uuid="c6ec55e4e44e40b988c0c6e3b35c280c">American Revolution: One Word</h3>
+                    <p class="vid" data-uuid="15f282235ecc4a58924e9fd91359f586">The American Revolution was a
+                        significant event in the history of the United States and the world. At the
+                        time, however, the outcome of the Revolution was uncertain. Defeating Great Britain, one of the world's most powerful
+                        nations, was doubtful and extremely dangerous.</p>
+                    <section class="video" data-uuid="e809959fb36b4c4fb3c6ab44674223b6">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" data-uuid="c2bf5f3c346c47ab9b9246aba32dfec8" class="widget">
+                            <param name="configFile" value="../../widget_data/config/c2bf5f3c346c47ab9b9246aba32dfec8.json" />
+                        </object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="35d4acbf0c7f44de97d9b56dea1afb13">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="692e662680bc4686b8787bd3bd12a094" class="widget">
+                    <param name="configFile" value="../../widget_data/config/692e662680bc4686b8787bd3bd12a094.json" />
+                </object>
+            </section>
+            <section class="timeline-container" data-uuid="f8c4bc10295649d7ba3b182ef810f04e">
+                <article data-uuid="7ded493bc4db4cd1a0986866226dab8f">
+                    <h3 class="mod" data-uuid="0168b88acde24f21a1ef66a22ec6b2bc">Beginnings of the United States</h3>
+                    <p class="mod" data-uuid="c75feb13f49b4dc2b23a23f860ebe39f">The first settlers in the Americas, the ancestors of Native Americans, came in small
+                        groups from Asia over the course of thousands of years. They developed rich and varied cultures. Much later, European explorers and colonists arrived, as did Africans, who were forcibly brought to the Americas for slave labor. The collision of these three cultures in North America gave rise to new societies and, eventually,
+                        new nations, including the United States. As the United States developed, it expanded from small settlements along the Atlantic coast westward across the continent. Throughout the nation's development, slavery became an increasingly divisive issue.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="d2613c2159f342b0abd2b682692e9020">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="d8a02ed2dda544bd94f6a1aa68e67057">
+                    <param name="configFile" value="../../widget_data/config/d8a02ed2dda544bd94f6a1aa68e67057.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="c793a0a5306746a393cc29d25d77308a">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="d70569f91bef413c9248e1142464f98b">
+                <param name="configFile" value="../../widget_data/config/d70569f91bef413c9248e1142464f98b.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="890c9fdf5b9d43a1b3b384baecf8cec0">
+            <button data-teacher-view-toggle="true" data-uuid="d3d78ddc21eb4092b5c647c0bc2d2a1e"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="028c03439e9143b0a45512704385db57">
+                <param name="configFile" value="../../widget_data/config/028c03439e9143b0a45512704385db57.json" />
+            </object>
+        </section>
+        <p data-uuid="2096db944ebb4a87a81eda1636d634c4"><br />
+        </p>
+    </body>
+</html>

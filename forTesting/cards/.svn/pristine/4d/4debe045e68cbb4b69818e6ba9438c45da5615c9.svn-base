@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="865441ce90124db19d79713eb2bc5b5f">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="cade5ec2fbcf4920b5d49e2a6ba79753">
+            <div class="header-element header-container " data-uuid="a8ddbd49221d4ea79add3dffb8560596">
+                <p class="lesson-number" data-uuid="11b3260f034743a9bc7123ea383af885"> Lesson 3</p>
+                <h2 data-uuid="400a8090c3d84352a9b7b6dbc255f7ad">Review</h2>
+                <p class="white" data-uuid="9c53546c59bf4f0eb2c8e74579dfdf06">In this lesson, you’ve learned about the Dust Bowl and the hard times Americans faced during the Great Depression. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="52601320d1174cc4b0b2a1f9b45b3357">Review Key Terms and People</h3>
+            <p data-uuid="7470761767a74f5584a7cbf940e26507">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="24fa3e4195b74af5978c67885cfbd97d">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="43b5159af24b43cb8684ee66b9e445a3">
+                <param name="configFile" value="../../widget_data/config/43b5159af24b43cb8684ee66b9e445a3.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="6223583a7dcb4773b1744d52c91289e3">
+            <div class="go-prompt-bottom-bar" data-uuid="7cd369717d244e988d2baca3fb0e9003">
+                <h5 data-uuid="1dad90198ffb433b9240f204d84140da">Review the Graphic Organizer</h5>
+                <p data-uuid="b3380c6bfac842459fbd6d1715b7b91a">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="877fa18ca0fc4f8d8fcde8fb3389410f">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f278dc0b19424cf0beae0b60c693724e">
+                <param name="configFile" value="../../widget_data/config/f278dc0b19424cf0beae0b60c693724e.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="b48840b3bb5c402cb298be241b580c7d">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="3d0e413889ed46c08d57e66440565e51">
+                <param name="configFile" value="../../widget_data/config/920f1cf57a1c4ce5a3c36cd51c37bebf.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="c768138251b2433d8fcb0707354b8489"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2d1b7512b6d5461f9aaff6368c7bdb95">
+            <button data-teacher-view-toggle="true" data-uuid="28e7a9543b2b4a278c50fde02f7644f4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="55b6d1157e324bf8b309d4709d126b9a">
+                <param value="../../widget_data/config/55b6d1157e324bf8b309d4709d126b9a.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3d2cd2fd14a448bc9062e1ef80301821">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Review</title>
+    </head>
+    <body>
+        <section data-uuid="c3ef092b4f984d799965ba3206eaf59c" class="lesson-review">
+            <div data-uuid="ebccc8b11e254bd3968a2551d4b93d48" class="header-element header-container ">
+                <p data-uuid="343e274d05e040c7855aa887c0ec82bb" class="lesson-number"> Lesson 2</p>
+                <h2 data-uuid="1139d5852b774b78a7794dd2d23afc76">Review</h2>
+                <p data-uuid="6e2a05a9345741409f31400db78ba27b" class="white"></p>
+                <p data-uuid="dfd62b13904449a6974c86070519fd0d" class="white"> In this lesson you learned about how people began to question the development of big business and its effect on the political institutions of the United States. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="67e5f94f77db4e1a96d0ec63bf903e0e">Review Key Terms and People</h3>
+            <p data-uuid="a0dfa7401a994f48837a133ade9b3d6c">Define each term or person shown on the card. Flip the card to check your answer. </p>
+        </section>
+        <section data-uuid="de837079bc164775ae8325f8867a64c0" class="flipcard">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" data-uuid="a7f6006ac1a6400ca5708bdf398dbe96" class="widget widget-flashcard">
+                <param name="configFile" value="../../widget_data/config/a7f6006ac1a6400ca5708bdf398dbe96.json" />
+                
+                
+            </object>
+        </section>
+        <section data-uuid="ae2c9d4dec4a42bea88e4cbc79cab110" class="graphic-organizer-prompt-less-rev">
+            <div data-uuid="59e15fccf9b149bb96ff1b0fbc76a404" class="go-prompt-bottom-bar">
+                <h5 data-uuid="9a7c7a0162064053be73e411c8bb273f">Review the Graphic Organizer</h5>
+                <p data-uuid="d1ada913901f4c289992c5409c075be4">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section data-uuid="81b98eae05814f49b1f882a43b7b4bd0" class="question-long-text">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" data-uuid="ea86443e591c4b189e96d8677fb90630" class="widget">
+                <param name="configFile" value="../../widget_data/config/ea86443e591c4b189e96d8677fb90630.json" />
+            </object>
+        </section>
+        <section data-go="v0.1.0" data-csm-hide="true" data-uuid="2e6f134656644dfe911316fa7774fad7" class="graphic-organizer full bleed">
+            <object type="text/html" data="../../assets/widgets/go/index.html" data-go-content="true" data-uuid="5443ef56595e43fe8b4399263097940b" class="widget">
+                <param name="configFile" value="../../widget_data/config/34ca4901804c4bb583d202111f67fe5f.json" />
+            </object>
+            <button data-go-toggle="true" data-uuid="48c81de00e734823b4f89388036b0cda" class="go-close-btn"></button>
+        </section>
+        <section data-teacher-view="v0.1.0" data-uuid="17cda3ddcb6d4dcab807ad7f645469b4" class="teacher-view">
+            <button data-teacher-view-toggle="true" data-uuid="3e424b8a34544fe9a35027d0b7436f3c"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" data-uuid="69f6170e580c4e5e81d6c60a8217b27d" class="widget">
+                <param value="../../widget_data/config/69f6170e580c4e5e81d6c60a8217b27d.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

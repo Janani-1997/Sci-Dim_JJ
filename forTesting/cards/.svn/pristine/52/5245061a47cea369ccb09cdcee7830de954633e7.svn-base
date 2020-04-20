@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="dbd181e18cc4488287e9ee41d0c7796e">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="97043ef0333b4869905dfd29ff3a3e72">
+            <p class="lesson-number" data-uuid="b616dd14e09643449bd75c2e52befe9b">Lesson 4</p>
+            <article class="header-container" data-uuid="9b5f091e35ad4b318fa5680f3ea6c0e2">
+                <div class="header-element" data-uuid="9a57c6d663ab41daa695f4f2ff02cd81">
+                    <h1 data-uuid="26da51afa6004111819a752d60c551c9">More Technological Advances</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="e9a78b89749c44ae9ef4a466713b9b78"></div>
+                    <h2 data-uuid="064de0fac614463c9f6f679572789bf3">The Big Idea</h2>
+                    <p data-uuid="303c85db89a24dec966455fec91f0c35">Advances in technology led to new inventions that
+                        continued to change daily life and work.</p>
+                </div>
+            </article>
+            <article data-uuid="6bea416783de47648834affd083a077a">
+                <h3 class="if-you-were-there" data-uuid="fd63a15d4f3a42b7a430abdbeb9e64cb">If YOU were there...</h3>
+                <p data-uuid="e5e1ae1ffa22488db3a1f975699ab225">You own a small shop in Chicago, Illinois, in the
+                    1850s. You sell ladies’ hats and gowns. When you need more hats, you send a
+                    letter to the manufacturer in New York. Sometimes it takes weeks for the letter
+                    to get there. One day, the owner of the shop next door tells you about a
+                    wonderful new machine. It can send orders from Chicago to New York in just
+                    minutes!</p>
+            </article>
+            <section class="question-long-text" data-uuid="e9a85e7c251a43f9bb8dd2ca6c72a4f6">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="0bfd6e9e84864958944526e958609f1d">
+                    <param name="configFile" value="../../widget_data/config/0bfd6e9e84864958944526e958609f1d.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="5c762a0fdbe349159a594cd30845bb54">
+            <button data-teacher-view-toggle="true" data-uuid="d43e8df759cb45ea9d2b2e8bd83d7867"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="2659463b45fd4d98a5d67afcbb3fdb35">
+                <param name="configFile" value="../../widget_data/config/2659463b45fd4d98a5d67afcbb3fdb35.json" />
+            </object>
+        </section>
+        <p data-uuid="81373ef1ca244708b5266925f6efa914"><br />
+        </p>
+    </body>
+</html>

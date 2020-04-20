@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="95b66b0a1be442bab447e16ee54a5068">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Election of 1852</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="faa3df64dd044e07bbcad7c0ffb11ca7">
+            <article data-uuid="d05e9fa974494c56a2f9b7a6070b1ebc">
+                <h4 data-uuid="ef444ead24224f9e8dda7f7c80d0de28">Main Idea</h4>
+                <p class="main-idea" data-uuid="7da8731af22e4dfd8d1f06340672abf0">The debate over the expansion of slavery influenced the election
+                    of 1852.</p>
+                <h2 data-uuid="f2a87745f67648e39b4b32c79ab7c465">Election of 1852</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="7bb2c55fb9a840a297e4c5a50b5ba71f"></div>
+            </article>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="719130ad1ac34849ae772406d814e21d">
+            <div class="go-prompt-bottom-bar" data-uuid="0d01521d10e047f9b010a607f8b3e62a">
+                <p data-uuid="f71baecee903407b94ec6ca52206e9b1">As you read, use the
+                    graphic organizer to take notes on the election of 1852.&#160;</p>
+            </div>
+        </section>
+        <p data-uuid="76e3182f2c7140d7a94d92725a50b35d">Four leading candidates for the Democratic
+            presidential nomination emerged in 1852. It became clear that none of them
+            would win a majority of votes. Frustrated delegates at the Democratic National
+            Convention turned to <b><dfn title="Pierce, Franklin">Franklin Pierce</dfn></b>,
+            a little-known politician from New Hampshire. Pierce promised to honor the
+            Compromise of 1850 and the Fugitive Slave Act. Therefore, southerners trusted
+            Pierce on the issue of slavery.</p>
+        <section class="image-carousel" data-uuid="e3beb5abccd14bce86df93dcb7f5f8f6">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html" data-uuid="c963ef8af119411194506e3811cd43af">
+                <param name="credit" value="[null,null]" />
+                <param name="configFile" value="../../widget_data/config/c963ef8af119411194506e3811cd43af.json" />
+            </object>
+        </section>
+        <p data-uuid="e41a575106ba433fa7cb32db53ca21b9">The opposing Whigs also held their convention in 1852.
+            In other presidential elections, they had nominated well-known former generals
+            such as William Henry Harrison and Zachary Taylor. This had been a good
+            strategy, as both men had won. The Whigs decided to choose another war hero.
+            They passed over the current president, Millard Fillmore, because they believed
+            that his strict enforcement of the Fugitive Slave Act would cost votes.
+            Instead, they chose Winfield Scott, a Mexican-American War hero. Southerners
+            did not trust Scott, however, because he had not fully supported
+            the&#160;Compromise of 1850.</p>
+        <section class="graph-pattern" data-uuid="43e824fe80194ad58bd1a28babddbd92">
+            <div class="header-element rule-only" data-uuid="e1a258e22c4d4cc6a161c825efd07ed9">
+                <a title="Click or tap on parts of the graphic to learn more." class="tooltip"></a>
+            </div>
+        </section>
+        <section class="graph-pattern" data-uuid="f82c439381ec4eeeaf6eeca8cfd2b7bb">
+            <section class="graphs" data-uuid="d2dfd3dbbea746ed887b05b63617b201">
+                <object type="text/html" data="../../assets/widgets/graphs/index.html" class="widget" data-uuid="c1c9fa97e4d343a68153a644bcc7d29c">
+                    <param name="configFile" value="../../widget_data/config/c1c9fa97e4d343a68153a644bcc7d29c.json" />
+                </object>
+            </section>
+        </section>
+        <p data-uuid="3a5520f0bedc4e2495caf40ed88f4606">
+            Pierce won the election in a landslide. At age 47, he was
+            the youngest person to be elected president at that point. Many Whigs viewed
+            the election as a painful defeat not just for their candidate but also for
+            their party.</p>
+        <section class="question-long-text" data-uuid="0311fb8cfce44478a997ea636159f537">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="fc340540a5764357920a91f001aaf3a3">
+                <param name="configFile" value="../../widget_data/config/fc340540a5764357920a91f001aaf3a3.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="db670572b3964fe2b6e384e1242766f9">
+            <div class="go-prompt-bottom-bar" data-uuid="227261b5ac1e48c8bd026c7bb7a5ff88">
+                <p data-uuid="45c2cce0c6c44ed1831643c0b9f4a6d8">Remember to use the
+                    graphic organizer to take notes on the election of 1852.&#160;</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="feee9a453cbb4dc6af3b12f94fb9d98d">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="0cb63cb8ccf446a8ba5fda2c72e46e85">
+                <param name="configFile" value="../../widget_data/config/0cb63cb8ccf446a8ba5fda2c72e46e85.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="d6f7f2b8abd14c0ea9b3ea273bdb5017"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="03b4d89b4d784680b06476910e880246">
+            <button data-teacher-view-toggle="true" data-uuid="03aa8afee23d4b7ca46959d43eaa2234"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d0d5898752d34cabbe733598d9951985">
+                <param value="../../widget_data/config/d0d5898752d34cabbe733598d9951985.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

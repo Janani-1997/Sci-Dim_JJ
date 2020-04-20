@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="6088e3cdca7d4bb78169a83ede2060d8">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="efd9cc6ab7114ca6b52562982d696bf8">
+            <p class="lesson-number" data-uuid="01292263c0a74f6ca16c7413b337faea">Lesson 1</p>
+            <article class="header-container" data-uuid="a46ddc5a70bc4c24978e4ce7a278b346">
+                <div class="header-element" data-uuid="f80dc4f2f1c246c2b60b06506b71d76e">
+                    <h1 data-uuid="7960a48155a84ece9cb9170df8cb4663">Beginnings of Slavery in the Americas</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="1a6ba1ab8f0346d2b561a128297073ee"></div>
+                    <h2 data-uuid="36855f7e6f4e4c0bba2c24d8c40548d1">The Big Idea</h2>
+                    <p data-uuid="c26713640ea84ed3b447df3a1f16dbc9">Europeans
+                        forced millions of African slaves to work in their colonies.</p>
+                </div>
+            </article>
+            <article data-uuid="68dd30066e454ef8b8c9b7a4624b706f">
+                <h3 class="if-you-were-there" data-uuid="018e4609e1d34b8d8eb83fbb331016c5">If YOU were there...</h3>
+                <p data-uuid="0c6bf0ffe586493c898546709bea1fa0">You are an enslaved African living in North America.
+                    Your family is all that you have. You help each other, and your family provides
+                    some relief from the forced labor and harsh life on the plantation. Still, you long
+                    for your freedom. A fellow slave has told you of a plan to escape.</p>
+            </article>
+            <section class="question-long-text" data-uuid="6e4f5bf61fe146f2a6d322685917818e">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="6745b807bfc2436a87edcee5c1e89f2c">
+                    <param name="configFile" value="../../widget_data/config/6745b807bfc2436a87edcee5c1e89f2c.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="3cd840e37b914ad08950a3c743eaa8ea">
+            <button data-teacher-view-toggle="true" data-uuid="dc49bde47e834b0b895d1c7978de594a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="55f7ebe426ff402cafb21fa53df66eef">
+                <param name="configFile" value="../../widget_data/config/55f7ebe426ff402cafb21fa53df66eef.json" />
+            </object>
+        </section>
+    </body>
+</html>

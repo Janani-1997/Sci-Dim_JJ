@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="53f39d73f6e84d838dc57e72cd2017f6" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="1e1b93bba0964d24a7d94195522826bb">
+            <div class="header-element header-container" data-uuid="2413e69aa91c499287a6def04bc2e77c">
+                <p class="lesson-number" data-uuid="53865f472e5f4376bc2ade63eca97d81"><br />
+                </p>
+                <h2 data-uuid="9e729cb316974a44a3712787110e84fa"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="8c5c11ad9ef9449c90b186809d5495a8">In
+                    this module you’ve learned about the growth of the United States before the
+                    Civil War.
+                    Now it’s your turn to demonstrate your understanding of the module content by
+                    writing an essay.</p>
+            </div>
+            <h3 data-uuid="f7125d71fc884ca4a18d8a9ee9a94cd5">What historical forces were most important in shaping the United States before 1860?</h3>
+            <p data-uuid="0bd46d43c46c4b02b08dcddc45ae6424">Write
+                a persuasive essay answering this question. In your essay, discuss the
+                democratic ideals that inspired American independence and our nation’s founding
+                documents. Also, consider the nation’s growth, the factors that united the
+                nation and divided it, as well as the experiences of its people. Be sure to cite
+                evidence to support your position, and organize your essay into an
+                introduction, body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="cd7cda0da4414f90aa0d648c0ecee712">
+            <button data-teacher-view-toggle="true" data-uuid="eb5e42ab13a74124a99513241d59d61a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8dcc53af40cb4aaf850aa0d80d47bf96">
+                <param name="configFile" value="../../widget_data/config/8dcc53af40cb4aaf850aa0d80d47bf96.json" />
+            </object>
+        </section>
+    </body>
+</html>

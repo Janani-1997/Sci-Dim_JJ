@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="1e1a163be8ff46ad8db8382ad3a10791">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 3 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="17f9a50ee47c4119acc0cf59286322d0">
+            <section class="lesson-review" data-uuid="53c414b382184995b62c9c042f01b21a">
+                <div class="header-element header-container " data-uuid="ccc48dc5b6a143a98efc66588be64043">
+                    <p class="lesson-number" data-uuid="247963029df34be18af1ba0d700dc7b5">Lesson 3</p>
+                    <h2 data-uuid="fbbfdc0b558a4ed6b40070acbdc4179d">Review</h2>
+                    <p class="white" data-uuid="9df7c97e3c374ef29a958cdb2c0659e5">In this lesson you learned how Spain built a vast empire in the Americas in the 1500s. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="335961cbdfdb44efad2e6e23c99894db">Review Key Terms and People</h3>
+                <p data-uuid="686aca71301d4eeaabd962f83abaee67">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+            <section class="flipcard" data-uuid="b0b2a1ed41df4ca7bca603718e58d2f6">
+                <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="05839431d7064b2a9817b39bdbef35fd">
+                    
+                    
+                    <param name="configFile" value="../../widget_data/config/05839431d7064b2a9817b39bdbef35fd.json" />
+                </object>
+            </section>
+            <section class="graphic-organizer-prompt-less-rev" data-uuid="faf1b5ce0d60492cb18209dcec4d207b">
+                <div class="go-prompt-bottom-bar" data-uuid="50aa3e9266204990b78eea84e3c2c6bb">
+                    <h5 data-uuid="9b8e8069ef144857b566e176f2211d51">Review the Graphic Organizer</h5>
+                    <p data-uuid="3de22d5aad6a4fefb702ea4fea5e5ea1">Review your graphic organizer notes and use them to answer the following question.</p>
+                </div>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="d5da86138feb45cc820dcf75d7f0fe97">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="bba474f5f39243c6bfefc5889df41d72">
+                <param name="configFile" value="../../widget_data/config/bba474f5f39243c6bfefc5889df41d72.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="c2e176242dd14a059fa574667597d183">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="e70dd166ddb542d8a5a56281f28a11e1">
+                <param name="configFile" value="../../widget_data/config/e3c576e73b194d41946c4aad3179590f.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="25df550bc44d4b4fb1efb79b1b5d71bf"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2f87e9fdcab64652877073d4614b9d82">
+            <button data-teacher-view-toggle="true" data-uuid="5116a6346acd4133b4c5e8add1fe291b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="4bd9560da94648a1ba0a95f35f882a5e">
+                <param value="../../widget_data/config/4bd9560da94648a1ba0a95f35f882a5e.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

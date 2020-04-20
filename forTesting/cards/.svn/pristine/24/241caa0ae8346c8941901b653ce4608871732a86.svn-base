@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="e2c9ef5ed6f04d97868538f86072a3e1">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Penn’s Colony</title>
+    </head>
+    <body>
+        <section class="main-idea segment-opener" data-uuid="82e64f4ed29a4b9babf4cd9ddd852f82">
+            <article data-uuid="babe79564fab449592ab9ef50e808c5b">
+                <h4 data-uuid="545a6d7ce23d4307baddfc9d940a3acd">Main Idea</h4>
+                <p class="main-idea" data-uuid="9e373ab410ce4c188f01de6efc736bb2">William Penn established the colony of Pennsylvania.</p>
+                <h2 data-uuid="b4196ae5db264932838bc36191cfbe8b">Penn’s Colony</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="1d78b7477fa446daac16b850ff6e3df1"></div>
+            </article>
+        </section>
+        <p data-uuid="60a2771f2a7449ea84b84788a8d85ad3">The Society of Friends, or the <b><dfn title="Quakers">Quakers</dfn></b>, made up one of the largest religious groups in New Jersey. Quakers did not follow formal religious practices and dressed plainly. They believed in the equality of men and women before God. They also supported nonviolence and religious tolerance for all people. At the time, many Quaker beliefs and practices shocked most Christians. As a result, Quakers were persecuted in both England and America.</p>
+        <p data-uuid="3a98606e9250492abc88b7fcc63f6a9b"> One proprietor of the New Jersey colony was a Quaker named <b><dfn title="Penn, William">William Penn</dfn></b>. Penn wished to found a larger colony under his own control that would provide a safe home for Quakers. In 1681 King Charles II agreed to grant Penn a charter to begin a colony west of New Jersey. </p>
+        <section class="section-a  biography" data-uuid="04ae85769edd48ee9cdaed2d8f58a8b2">
+            <div class="header-element" data-uuid="78109f6671ba480fb79087411dc3cd5a">
+                Biography
+            </div>
+            <p class="name" data-uuid="f949029081e84b7ca36b28b22dba229a">William Penn</p>
+            <p class="date" data-uuid="fd339adb57a64e17adbf65bc97f958f6">(1644 –1718)</p>
+            <figure class="bio-image" data-uuid="11d4d9dc46584710b5ac188f264a0231">
+                <img alt="This is an artist's rendering of William Penn, founder of the Pennsylvania colony." src="../../img/module_3_lesson03/ms_snlese454149_528aa.png" data-uuid="5ec15e5a113c4bc48b1a966e1bd682fa" />
+            </figure>
+            <p data-uuid="e5d194a9bc2b4060986cc47c8a4f88a6">William Penn was born in London as the son of a wealthy admiral. Penn joined the Quakers in 1666 and became an active preacher and writer of religious works. He supported toleration of dissenters.</p>
+            <p data-uuid="3c3db9fb458d47d9a9b4932e77de998b"> In 1681 he received a charter to establish a new colony called Pennsylvania. There, Penn put his beliefs into practice. He insisted on fair dealings with local Native Americans, welcomed immigrants, and promised religious toleration.</p>
+            <div class="blue-star-blue-bar" data-uuid="31742000c8af417aa9017c89fb8e3a3b">
+                <span class="star"></span>
+            </div>
+        </section>
+        <p data-uuid="3010aafdc1b0486886d1e0eb52127fd5">Penn’s colony, known as Pennsylvania, grew rapidly. Penn limited his own power and established an elected assembly. He also promised religious freedom to all Christians. His work made Pennsylvania an important example of representative self-government—a government that reflects its citizens’ will—in the colonies. <br />
+        </p>
+        <section class="static-map" data-uuid="5a05044777cd4e6aba9fa3944e695bad">
+            <article class="title-bar" data-uuid="7490e9318b694b51a1a961c7b11193f9">
+                <h3 data-uuid="2312f0a44f0344e7b43ad8eb5e7b8a43">The Middle Colonies</h3>
+            </article>
+            <figure class="image" data-uuid="92e8e72c64ff4d328db8f59fdd598920">
+                <img alt="This map shows the location and major ports and cities of the early Middle Colonies, including New York, Pennsylvania, New Jersey, and Delaware. " data-uuid="884d36108e8b469a93647b99d8d01df1" src="../../img/module_3_lesson02/8_snlese454170_347m.png" />
+            </figure>
+            <section class="skillbuilder" data-uuid="5287e517d4f5413eb96b0d99e28909bc">
+                <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="99a79e12421148a3a7c3b57c02faf3e3">
+                    <param name="configFile" value="../../widget_data/config/99a79e12421148a3a7c3b57c02faf3e3.json" />
+                </object>
+            </section>
+            <section class="question-multiple-choice" data-uuid="6b966e9984af4eac910bae46a68dd687">
+                <object type="text/html" data="../../assets/widgets/multiple_choice_question/index.html" class="widget" data-uuid="a5a24688c1c44a47b510ba0e8a6239fc">
+                    <param name="configFile" value="../../widget_data/config/a5a24688c1c44a47b510ba0e8a6239fc.json" />
+                </object>
+            </section>
+        </section>
+        <p data-uuid="e44ab167e9c14265917c1d61ff1b458b">Penn named the capital of his colony Philadelphia, which means “the city of brotherly love.” In 1682 the Duke of York sold Penn a region to the south of Pennsylvania. This area, called Delaware, remained part of Pennsylvania until 1776.</p>
+        <section class="question-long-text" data-uuid="b9fe38886994483aac7f9fcbd07e45a5">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="fd733576aba04b37b40f647ab16e2983">
+                <param name="configFile" value="../../widget_data/config/fd733576aba04b37b40f647ab16e2983.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="513fe4c86d8e4441bb51ee0cab53b7e0">
+            <div class="go-prompt-bottom-bar" data-uuid="b6fff95c2c054cc38f2798e5d9bcb8b0">
+                <p data-uuid="c0c1a46868b64609a633f02aba935f6e">Remember to use the graphic organizer to take notes about important events that happened in the middle colonies.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="b4787d095db1433bbeb42d5e2216e789">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="cccad27e68e44ecea1295b452cd164f9">
+                <param name="configFile" value="../../widget_data/config/01eb916a9d3b406f823431f647d52a72.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="3eaa8211323149cd8f3ddf423b235648"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="170647fbf91541a8ade07022b63496fa">
+            <button data-teacher-view-toggle="true" data-uuid="47e31b1f7fa74c4caade32f4c039c4a4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="b9a45f48a00b4e708b14442c4a4fad15">
+                <param value="../../widget_data/config/b9a45f48a00b4e708b14442c4a4fad15.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

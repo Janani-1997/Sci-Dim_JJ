@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="43af672a61bc42b28efac217f8890aa7">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="40150763311d4deea00fabc35f713b89">
+            <div class="header-element header-container " data-uuid="b2655e5e40364b358fc5104f64069229">
+                <p class="lesson-number" data-uuid="50bd8130ba18432482cfe725604f3eb0"><br />
+                </p>
+                <h2 data-uuid="ff3d288751d442a4963b9cc8716304da"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="88d329e3c71b4d5caf74200e99522be0">In this module you’ve
+                    learned how the United States acquired new lands in the Southwest. Now it’s
+                    your turn to demonstrate you understanding of the module content by writing an
+                    essay.</p>
+            </div>
+            <h3 data-uuid="24eaeecbdc8a4390be13f4e41548992f">What
+                was gained and lost as Americans expanded into the Southwest?</h3>
+            <p data-uuid="8d2df6a4668e4b00bc833ac369c67c6e">Write a persuasive argument
+                that answers this question. Your essay should include key people, events, and turning
+                points during the Americans’ expansion into the Southwest. Be sure to tell how different people and countries benefited from or suffered because of the expansion. Cite
+                evidence to support your position and organize your essay into an introduction,
+                body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="80265be0e8fe41cb93c91ed688e335fa">
+            <button data-teacher-view-toggle="true" data-uuid="f13007e950424e2e8be9d7c9f4230a37"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="7efd2c9ff8fb43f59d670a3c07de0e19">
+                <param name="configFile" value="../../widget_data/config/7efd2c9ff8fb43f59d670a3c07de0e19.json" />
+            </object>
+        </section>
+        <p data-uuid="0a298b8f2c8b4a1e8bff56497acd9f73"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7cd1a9d14e694a32957679a83e5c4035" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 5 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="12f081acdb054de6a54376aa3971d6ce">
+            <div class="header-element header-container " data-uuid="3beaadc5d139448189d2877979967ca4">
+                <p class="lesson-number" data-uuid="8545dc5b4b6f4308be5606d6e272ca81">Lesson 5</p>
+                <h2 data-uuid="a1a83562027f4eaab7365905fdd9ac04">Assessment</h2>
+            </div>
+            <h5 data-uuid="69da65b04b1e4d019b617f63cb95c39f">The Tide of War Turns</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="6fd8fdb1e070420aa6f916e8a6e52629">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="8dadfdecb6854d5c8a63a71ab690b46d">
+                <param name="configFile" value="../../widget_data/config/8dadfdecb6854d5c8a63a71ab690b46d.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="22fda507886146fcb4bd44400c178531">
+            <button data-teacher-view-toggle="true" data-uuid="7e77b5acb5b64b7b89906fd50ed757e6"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cfde788e179f4ab9a673dc02e7890527">
+                <param name="configFile" value="../../widget_data/config/cfde788e179f4ab9a673dc02e7890527.json" />
+            </object>
+        </section>
+        <p data-uuid="15948ccec7f64ea69fa85d2f2ce8e35a"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="5a836a3b38d2413bace8968872ff2ca1">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>New Deal Critics</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="e1d9be96c72c4fdfb11648b6648b1f3a">
+            <article data-uuid="6b454363cc7a474581083a4b40e83d94">
+                <h4 data-uuid="0b832b195e4d471cb13f2a5f4c691167">Main Idea</h4>
+                <p class="main-idea" data-uuid="3935310498c3468d84f38cd641d5f057">Critics expressed concerns about the New Deal.</p>
+                <h2 data-uuid="c72408347dbf45e19c8893f190d31572">New Deal Critics</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="498052cea2e8442192115bf334c3601b"></div>
+            </article>
+        </section>
+        <p data-uuid="6a88b7b061b44288ac9d859f76684d99">While many Americans approved of the New Deal, others criticized President Roosevelt’s programs. New Deal critics fell into two main groups—those who believed the New Deal went too far, and those who believed it did not go far enough. </p>
+        <p data-uuid="e06e2e6e27324dab8b56930bbaf951b1">Those who felt the New Deal went too far criticized the enormous expansion of the federal government. For example, the American Liberty League, which drew members from both parties, charged that New Deal laws gave the president too much authority. Many business leaders were concerned that the high cost of new government programs would lead to new taxes, particularly on businesses. </p>
+        <figure class="image-with-caption one-half right top-align" data-uuid="1206f1e3924b49148f1075d80fba3326">
+            <img alt="This is a photograph of Huey Long making an enthusiastic speech with several man standing in the background, listening." data-uuid="ea703d8f48a741e49b46586b66d5b5c9" src="../../img/module_26_lesson02/8_snlese454170_1431p.jpg" />
+            <div class="figcaption" data-uuid="7f4eb43dba384e5082f935bfc7b2f80f">
+                <p class="caption" data-uuid="ffc0efe5eb7447d6bb2868679c2504f0">Ambitious and charismatic, Louisiana political boss Huey Long seemed poised to make a run at the White House until an assassin ended his life in 1935.</p>
+            </div>
+        </figure>
+        <p data-uuid="4df1fb62da8b490199f46aa21b188465"> One critic who thought the New Deal did not go far enough was Huey Long, a U.S. senator from Louisiana. Long proposed a program called Share Our Wealth, which would tax rich Americans and use the money to help the poor. Every family would receive $5,000 to buy a home, plus a guaranteed annual income of $2,500. Long’s ideas, represented in the slogan “Every Man a King,” proved very popular. As Long prepared to challenge Roosevelt in the 1936 presidential election, he announced his goal “to break up the swollen fortunes of America and to spread the wealth among all our people.” Long’s White House dreams ended when an assassin shot him in 1935.<br />
+        </p>
+        <p data-uuid="2e6cb7036daf4485ae159044ddf1d109">Another fierce critic of Roosevelt’s New Deal was Father Charles Edward Coughlin. Coughlin was a Roman Catholic priest in Detroit who developed a large following by broadcasting sermons over the radio. At the peak of Coughlin’s popularity, one-third of the nation tuned into the weekly broadcasts of the “radio priest.” Although he initially supported Roosevelt and his programs, Coughlin eventually decided that the New Deal helped only business interests. Coughlin wanted the government to nationalize, or take over, all of the country’s wealth and natural resources. </p>
+        <p data-uuid="2fc2e211423e417bb578626eaf44b6a7"> Dr. Francis Townsend criticized the New Deal for not doing enough for older Americans. He proposed a plan providing for a monthly pension for people over the age of 60. Like Long and Coughlin, Townsend attracted many followers. Some of his ideas later would shape Roosevelt’s thinking and policies.<br />
+        </p>
+        <section class="question-long-text" data-uuid="77443ed8df5c4dcd9911a196236889de">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b503019eabb34dd0827a04af88b02f56">
+                <param name="configFile" value="../../widget_data/config/b503019eabb34dd0827a04af88b02f56.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt " data-uuid="f554834a5f254ebba92ee416f4266dd4">
+            <div class="go-prompt-bottom-bar" data-uuid="55552b689cde4866914eb5533b78a002">
+                <p data-uuid="f09dc037c65f45cc93b3a2aaa56336f5">Remember to use the graphic organizer to take notes on the critics of the New Deal.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="8075834be9874ffa99b95381d96e1d62">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="3aaeb81622144a048f0e10741f68249d">
+                <param name="configFile" value="../../widget_data/config/3b743981d43d45fb93ea894e294b147f.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="61c21d3f725f4377a40c7ab5c4d88f79"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c49e1f65f8684e5488d8e5d2ac0270c6">
+            <button data-teacher-view-toggle="true" data-uuid="c07ecd5449d242239d3264a52333fcb7"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="2223722be21148409de5c724460f7f4f">
+                <param name="configFile" value="../../widget_data/config/2223722be21148409de5c724460f7f4f.json" />
+            </object>
+        </section>
+    </body>
+</html>

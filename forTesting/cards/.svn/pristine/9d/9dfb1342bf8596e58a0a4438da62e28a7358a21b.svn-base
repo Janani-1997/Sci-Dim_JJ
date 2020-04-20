@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7510f961dc6747dd931d8c41476209d5" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="e53dec8109ea408298393cf64d3dc0f5">
+            <div class="header-element header-container " data-uuid="1a1c6a154ee44b46921b1be4b546c6dd">
+                <p class="lesson-number" data-uuid="23295cf2ed664e54812faa8823666981">Lesson 1</p>
+                <h2 data-uuid="42fec74c060e4c3f9e5c7f212e87bb48">Assessment</h2>
+            </div>
+            <h5 data-uuid="26eafefa07df4be7b0cfd43140a20381">The &#160;Gilded Age and the Progressive Movement</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="927573760ae343a1bcb113bc7b45ea6a">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="c519e1c2283b411e950ac8cc693bb424">
+                <param name="configFile" value="../../widget_data/config/c519e1c2283b411e950ac8cc693bb424.json" />
+            </object>
+        </section>
+        <p data-uuid="0b08203c6bea402da01f4b05c7108dbd"><br />
+        </p>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="a1164ea9db764a9da8c51303caace8dc">
+            <button data-teacher-view-toggle="true" data-uuid="7e6e12035f9e4e25bab5607cd61249c9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="974ffb773ec6449997464d167f2dab15">
+                <param name="configFile" value="../../widget_data/config/974ffb773ec6449997464d167f2dab15.json" />
+            </object>
+        </section>
+        <p data-uuid="2a461b4a93a846feba783deb9a7877b2"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="827caf50a3134cceb3d71c866aeed1a3">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="30854ccf3f084dea9281c4da70b56e1d">
+            <p class="lesson-number" data-uuid="caaf4a8ff7574d7ca946633308ea0cd3">Lesson 3</p>
+            <article class="header-container" data-uuid="9171e04de4ed47d894af34c7655ae03c">
+                <div class="header-element" data-uuid="35a99bd72309417d90388b37155ad307">
+                    <h1 data-uuid="a671d03d9d0b4d4990394f07117637d8">The Middle Colonies </h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="6ce11f8d8e6f463e97ee856a982f4d84"></div>
+                    <h2 data-uuid="a3e1e4f301eb41098354858cd15a6ae4">The Big Idea</h2>
+                    <p data-uuid="7bc0e99daa7b456e9254c31631fbe66f">People from many nations settled
+                        in the middle colonies.</p>
+                </div>
+            </article>
+            <article data-uuid="ac6dc8b492a84f11ba9d5a86c3921ded">
+                <h3 class="if-you-were-there" data-uuid="f7bc9f4334874254a888d15ea39529fa">If YOU were there...</h3>
+                <p data-uuid="c575c40c334f4726aea573995faa32a5">You are a farmer in southern
+                    Germany in 1730. Religious wars have torn your country apart for many years.
+                    Now you hear stories about a place in America where people of all religions are
+                    welcome. But the leaders of the colony—and many of its people—are English. You
+                    would not know their language or customs. Still, you would be free to live and
+                    worship as you like.&#160;</p>
+            </article>
+            <section class="question-long-text" data-uuid="0bdefe88009f40b79d03494781e4e065">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="911dd3684e9d4ff2a73f3a5fcf71b53c">
+                    <param name="configFile" value="../../widget_data/config/911dd3684e9d4ff2a73f3a5fcf71b53c.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ab2a5f4d8f2246f3bfb8f48c951071ef">
+            <button data-teacher-view-toggle="true" data-uuid="95b2276503c44c089c9195a0051e3fa3"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="17e96e45c8c5418a910ef6da907ffee1">
+                <param name="configFile" value="../../widget_data/config/17e96e45c8c5418a910ef6da907ffee1.json" />
+            </object>
+        </section>
+        <p data-uuid="a507be629cc64726bdcf1842e5130451"><br />
+        </p>
+    </body>
+</html>

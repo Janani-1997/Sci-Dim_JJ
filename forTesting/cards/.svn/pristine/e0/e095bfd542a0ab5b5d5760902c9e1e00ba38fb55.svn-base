@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="822a69535d584043a697ef52601d7909">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-close-header" data-uuid="986dc4f460f94538bfe64d7589e55f2c">
+            <section class="lesson-review" data-uuid="811cac8e73c349e8968e87af5521db00">
+                <div class="header-element header-container " data-uuid="2fbce1144efe46bcb0ecec9c9283f1bf">
+                    <p class="lesson-number" data-uuid="05f3e13227c44bc2bdba37138ba00145"> Lesson 1</p>
+                    <h2 data-uuid="9450406fc90947279ffaaae4585ff76d">Review</h2>
+                    <p class="white" data-uuid="dcbf5edc27a84eb1932cb03654aac2fc">In this lesson you learned how Andrew Jackson became president and how he helped expand democracy during his time in office. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+                </div>
+                <h3 data-uuid="28b7a1deb8674c198283b13cd51ec3a7">Review Key Terms and People</h3>
+                <p data-uuid="5da074a1679a47309383fa1002aeb3d7">Define each term or person shown on the card. Flip the card to check your answer.</p>
+            </section>
+        </section>
+        <section class="flipcard" data-uuid="ccf03f91d59249b0bd7678d9d553c914">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="2dc3be14fd0b48a5a76a9a2b2575c346">
+                
+                
+                <param name="configFile" value="../../widget_data/config/2dc3be14fd0b48a5a76a9a2b2575c346.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev " data-uuid="f9ad355b4db74e4e8199a82475fd978c">
+            <div class="go-prompt-bottom-bar" data-uuid="01d0fbb6211a498f8b8a11a5e6ac8c60">
+                <h5 data-uuid="1aefdfe23273439490e2e4552ca7ae31">Review the Graphic Organizer</h5>
+                <p data-uuid="f78d9d23a970464aa28b304ac1a5ec5b">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="130e5b660b764a75a9ec46e5c95f9322">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="c22403e7d582402a8eaf7140cee1b12d">
+                
+                
+                <param name="configFile" value="../../widget_data/config/c22403e7d582402a8eaf7140cee1b12d.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="ca9cd35071fc49cca51af2ff04d2c4ab">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="7a44a8c7305e4d4c9e1353b140d71237">
+                <param name="configFile" value="../../widget_data/config/61ca0d9b6a8a47a8b2d68b9e35716ff8.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="c0d59fd5b3aa414db7898b43cd9bcbb5"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f7a20671ecb149aa8a91a4acc5e03efd">
+            <button data-teacher-view-toggle="true" data-uuid="2d9e8e6bcd7c44f484b3464088e1c0d1"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="40dc638112244cacb964aca3601b7590">
+                <param value="../../widget_data/config/40dc638112244cacb964aca3601b7590.json" name="configFile" />
+            </object>
+        </section>
+    </body>
+</html>

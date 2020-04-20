@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="18485314c0af434da6e1cdc9be423678">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="2f6aa03d65b4414780bc10b12f5b5558">
+            <div class="header-element header-container " data-uuid="30d8096ea5dd429ba2ad2febfb36205d">
+                <p class="lesson-number" data-uuid="fdf17b90019a47bab923fa872253866b"> Lesson 1</p>
+                <h2 data-uuid="f8b23f406f5c451fb5f4e4faf2b45223">Review</h2>
+                <p class="white" data-uuid="abb45089071e4f288d5aaa2a0885dfe1">In this lesson, you’ve learned how President Kennedy confronted Communist threats around the world. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="a421cee64ded46d4aff29fbfe820c821">Review Key Terms and People</h3>
+            <p data-uuid="9e305d81472d414c83911465c69324dd">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="210d10cac78d435d9c2af1a7f221f83b">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="404a90544a96452ea07851f13866b396">
+                <param name="configFile" value="../../widget_data/config/404a90544a96452ea07851f13866b396.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="673e7717d7ca496ab28d1a9be711a758">
+            <div class="go-prompt-bottom-bar" data-uuid="e8ebe2a4e6e84b26b128e2350a75bd1d">
+                <h5 data-uuid="358a068fb1824f1fa2b51e55d5e0f6cf">Review the Graphic Organizer</h5>
+                <p data-uuid="48fc849a5e544a6d845eea249d23989a">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="127416e6ee244a438d27054c3b9d5471">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="afc5ebb46e1149f8a197357fb27e4f2f">
+                <param name="configFile" value="../../widget_data/config/afc5ebb46e1149f8a197357fb27e4f2f.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="588e620540a64bc28d706d8d398ac0fe">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="2f3f6ed1cbfd4b1d9f30490411d04f95">
+                <param name="configFile" value="../../widget_data/config/ad5748b547ab46048cfc1ed4e99e6727.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="11949430f67f4c409eeacb7db9c1335f"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="e49ed690c2f74af7900d0a1312dd1cc2">
+            <button data-teacher-view-toggle="true" data-uuid="d4cf6d75cdda4c4eb44e4c43ad8b849b"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="e01954cab9f54ed282d193120b38768a">
+                <param name="configFile" value="../../widget_data/config/e01954cab9f54ed282d193120b38768a.json" />
+            </object>
+        </section>
+        <p data-uuid="5cb184bb355a4bc1bdc03f14a1a5a0a7"><br />
+        </p>
+    </body>
+</html>

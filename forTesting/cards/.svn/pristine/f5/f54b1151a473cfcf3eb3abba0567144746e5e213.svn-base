@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ecebfec1d2074f4ab4c8c1f3f9185756">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 5 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="70cc0cb018394e86b03bf3e8f457b487">
+            <div class="header-element header-container " data-uuid="0fccfb1461944ee6a2e476d90d827bc3">
+                <p class="lesson-number" data-uuid="bc2835d94f3447beb117543f60901364"> Lesson 5</p>
+                <h2 data-uuid="772938cdd31140bc819efc323d37ad40">Review</h2>
+                <p class="white" data-uuid="86dbf3526c79432a853964cc17f70b17">In this lesson, you learned about victory for the Allies in World War II. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="c9246f8bab314fe891ee832218f10264">Review Key Terms and People</h3>
+            <p data-uuid="6a3a15d1b24e43b6b04fada971fb44b7">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="8ec6d1f24e5f4e22ac9861d35ca13c67">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="e1d56f428ca243caa0395a69ff3192c9">
+                <param name="configFile" value="../../widget_data/config/e1d56f428ca243caa0395a69ff3192c9.json" />
+                
+                
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="d9e4eee57b5f42b3a2291145697fe8c8">
+            <div class="go-prompt-bottom-bar" data-uuid="11a247f0bb454a5bb0e5cfd757da4c1a">
+                <h5 data-uuid="d3b3d88e66f54c32a4ecb36e5e33a1d7">Review the Graphic Organizer</h5>
+                <p data-uuid="922e1e02e0f3499a8370eedf0470d8ce">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="6614752faae24ab9a746a8560d5be62b">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="183d52889a5845119c695041ce7e9789">
+                <param name="configFile" value="../../widget_data/config/183d52889a5845119c695041ce7e9789.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-csm-hide="true" data-uuid="523b1f0d193d4fa2b46ca33091f8745d">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="1ce6d55646474dfab753de5cfa6efe90">
+                <param name="configFile" value="../../widget_data/config/54709b6f4f9449a5b26645288d0f1dc3.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="b465bf1e8e8c47fca6c4e8c4727295d3"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c072966663084e0086187dce2c999938">
+            <button data-teacher-view-toggle="true" data-uuid="f9bbac3375204ec0899c34a280811f0a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="8a9f7fe561c6492aa0fb79b958e352ff">
+                <param name="configFile" value="../../widget_data/config/8a9f7fe561c6492aa0fb79b958e352ff.json" />
+            </object>
+        </section>
+        <p data-uuid="a480cc530d8345c78973bc57cb56897b"><br />
+        </p>
+    </body>
+</html>

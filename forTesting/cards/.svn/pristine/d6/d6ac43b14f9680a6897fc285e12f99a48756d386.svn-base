@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="c5556facb12c4f658ab34d3d5528c738" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="28368ec374464a0b8db58016b41195b0">
+            <div class="header-element header-container " data-uuid="65738ef694554e6da153dff31d153f8b">
+                <p class="lesson-number" data-uuid="c881fc7c8f19436bb61ed0373ebe5e00">Lesson 2</p>
+                <h2 data-uuid="be577e09c8d84495b3f59c9269dc626c">Assessment</h2>
+            </div>
+            <h5 data-uuid="b2db13e9745047fda240f4c908be679d">Hamilton and National Finances</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="54b6ea209bdd4039b9ca1f949f7790be">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="c3e23ef298aa4c9083899bc24e5a02cf">
+                <param name="configFile" value="../../widget_data/config/c3e23ef298aa4c9083899bc24e5a02cf.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="5e8d31bec1084d9eb502f095bc8d7d37">
+            <button data-teacher-view-toggle="true" data-uuid="370c287035e4468ab7af4af9136f6666"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ef8fdc3eae284ae8951926988ff4f7ae">
+                <param name="configFile" value="../../widget_data/config/ef8fdc3eae284ae8951926988ff4f7ae.json" />
+            </object>
+        </section>
+    </body>
+</html>

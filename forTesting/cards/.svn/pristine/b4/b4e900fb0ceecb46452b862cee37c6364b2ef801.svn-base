@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="7ea3c5677c52410fb476575314bb0708">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="5b82e0f97a9649239f628849b97fb4f5">
+        <div data-uuid="30fd6d2bb3aa46f9ba5af8ecb4a6b04e">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="0a3c0ce3f6f8409e983b92a43d57b371"/>
+        <div class="header-element" data-uuid="b98398eda45c449696fe7991ce69a968">
+            <section class="calendar-container " data-uuid="7975502078bc4ab99af2e69585c87842">
+                <div class="yellow-star-yellow-bar" data-uuid="0cbf7ea8c75647fb8afcaf3a3a377be2"></div>
+                <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                <h1 data-uuid="3bf9f841ee4241d593e7bb6522be2a18">The Industrial Age</h1>
+            </section>
+            <section class="eq-container" data-uuid="c6bd599181544b30802cdf7c76f9e6b1">
+                <figure class="image " data-uuid="8445113e89dc41608548965d093560cf">
+                    <img alt="This illustration shows a busy American city in the late 19th century." data-uuid="fe73b7a7fb4e468c8f5501597259c58f" src="../../img/module_20opener/ms_snlese454149_386p.jpg" />
+                </figure>
+            </section>
+            </div>
+            </div>
+            <div class="modcaption" data-uuid="d27523d2e839414c875b1af5bed68d18">
+    <p class="caption" data-uuid="bc6deebf5b084071964215b09b4616c3">Technological advances changed city life in the United States.</p>
+            </div>
+            <article data-uuid="6ce48e817d83478aa094b17233644111">
+                <h3 class="eq" data-uuid="cedb5cb507b546eebbd5d35bb0af6362">Essential Question</h3>
+                <h3 class="eqt" data-uuid="fe966c373a26491793cf4583bde0ca12">How revolutionary was the Second Industrial
+                    Revolution?</h3>
+                <p data-uuid="52547a6db08d437c9505a6d31fa3ba12">The decades following the Civil War saw major
+                    growth in new inventions. These innovations made it easier to communicate and to
+                    transport goods and services across the vast country. Powerful new businesses emerged
+                    that focused on making profits and reducing costs. Inventions like the
+                    telephone, the electric light bulb, and the automobile began to improve the
+                    everyday life of Americans. But these new conveniences sometimes came with an
+                    unexpected cost.</p>
+                <p data-uuid="5d1ddbf8aead4180ac2c547765b0c8ee">As you read this module, look for evidence of
+                    key events and trends of the Second Industrial Revolution which occurred
+                    between 1870 and 1900. Note the key people, decisions, circumstances, and
+                    turning points that resulted in the making of modern America. When you are
+                    done, you will write a short essay answering the Essential Question for this
+                    module.</p>
+            </article>
+            <section class="video-container " data-uuid="22f3da21f8db469f93e1af5cbc1d0205">
+                <article data-uuid="2182be1bf0bf4d75bd7be839244ae9fd">
+                    <h3 class="vid" data-uuid="c9a7ec527e76432fbc60021d40ab019d">Skyscrapers</h3>
+                    <p class="vid" data-uuid="7bf6a762dd5347c99bb4ae40bc4730e9">In the late 1800s, engineering innovations laid
+                        the foundation for modern American life. By the turn of the 20th century,
+                        due to increasing numbers of industrial jobs, 40 percent of Americans lived in
+                        cities. Land was expensive. One solution to create more urban space was to
+                        build toward the sky.</p>
+                    <section class="video" data-uuid="e7e7f147c3af476b9d9bb66776ba95eb">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="35cb546af87146b2a41f785c371abeef"><param name="configFile" value="../../widget_data/config/35cb546af87146b2a41f785c371abeef.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="3b8f84f27de14c678af085908d650375">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e7cd9745c59a4b6b98444693e4f63b7b">
+                    <param name="configFile" value="../../widget_data/config/e7cd9745c59a4b6b98444693e4f63b7b.json" />
+                </object>
+            </section>
+            <section class="timeline-container" data-uuid="f7385bec620b49758caca00a24a26fb5">
+                <article data-uuid="1d5ef758057a4a85a894ed8bbbf5ae37">
+                    <h3 class="mod" data-uuid="ab7a4fa99a3449dab2d20ac4228e7ab1">The Industrial Age</h3>
+                    <p class="mod" data-uuid="79820c2ea6f44c869f6129c2c8f5ada7">The last three decades of the 1800s brought
+                        inventions and discoveries which changed how people lived, communicated, and
+                        traveled. These changes lasted far beyond the 1800s. During this Second
+                        Industrial Revolution, labor movements began to grow as workers tried to gain
+                        better working conditions and hours, and the government became involved in
+                        battles between business and labor.</p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="bc468203502d43d1975ae408a301ab91">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="7ad9931b51644d8797095a8fd611cd5a">
+                    <param name="configFile" value="../../widget_data/config/7ad9931b51644d8797095a8fd611cd5a.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="5bff27f3c91447509490f80d6cc00286">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="563a639a7e8e4d8495c174d3b29f0e8b">
+                <param name="configFile" value="../../widget_data/config/563a639a7e8e4d8495c174d3b29f0e8b.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="ace81c4c160e4a67a1907715238330ca">
+            <button data-teacher-view-toggle="true" data-uuid="169dd5cd9629411ca214bfd271a248fd"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="2c135571fb4c43948b64701ead096e42">
+                <param name="configFile" value="../../widget_data/config/2c135571fb4c43948b64701ead096e42.json" />
+            </object>
+        </section>
+        <p data-uuid="bb4e63fc6d174e62a95b82646546b330"><br />
+        </p>
+    </body>
+</html>

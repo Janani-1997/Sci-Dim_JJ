@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="28f14b08d0554266a6600def1878df97">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-opener" data-uuid="df873962a2c04cceb9eb859aadfab30e">
+        <div data-uuid="8ec006a985d74d518073b64138d47354">
+        <input type="checkbox" id="mod-opener-checkbox" data-uuid="1dad39b5f2ba4a1e96da6aa14adc4bd1"/>
+        <div class="header-element" data-uuid="0fe3431abb1a42e0aa72171874bf9aa6">
+            <section class="calendar-container " data-uuid="2e239fdb19804b8394e6391c6f797418">
+                <div class="yellow-star-yellow-bar" data-uuid="ef022c2af0a740c7b6cca8f4ea8b53ad"></div>
+                <label for="mod-opener-checkbox"><i></i><span class="ripple"></span></label>
+                <h1 data-uuid="e1bb052ed7874099b156eed5ad69a1f0">The Vietnam War Years</h1>
+            </section>
+            <section class="eq-container" data-uuid="dfaea513214b43afb31b5ec9bdd76caa">
+                <figure class="image " data-uuid="718e059dc83548a8b526e207f1a64307">
+                    <img alt="This photo shows three U.S. soldiers on the ground in Vietnam during the Iron Triangle assault. Two helicopters hover in the air above them. " data-uuid="14223e7e01d34d3994c49bb5b00c430a" src="../../img/module_29opener/ms_snlese454149_689p.jpg" />
+                    <div class="image-metadata-container" data-uuid="51be9ed9f6df498dbf6211e762abf78d">
+                        <span class="image-text image-alt"></span>
+                        <span class="image-text image-credit"></span>
+                    </div>
+                </figure>
+            </section>
+            </div>
+            </div>
+    <div class="modcaption" data-uuid="7eb4736733c34adfa9558d738972677a">
+    <p class="caption" data-uuid="b729642e5bff4493aaafc5ea9b2f7c46">Soldiers from the U.S. 173rd
+        Airborne Brigade take part in the Iron Triangle assault.</p>
+            </div>
+            <article data-uuid="bd640dda394642ad937c955a78a50668">
+                <h3 class="eq" data-uuid="24a267c4508f41f0b628eeef06ef7864">Essential Question</h3>
+                <h3 class="eqt" data-uuid="18ff98fa44d241a29d1316f523bf24d1">Why did some Americans oppose
+                    the Vietnam War?</h3>
+            </article>
+        </section>
+        <p data-uuid="ed51624e1f4b4a45b2a5fccd08cb9341">As you read this module, look for evidence of how
+            the Vietnam War affected soldiers and their families, students, and
+            politicians. Note the key people, decisions, circumstances, and turning points
+            that resulted in opposition to the war. When you are done, you will write a
+            short essay answering the Essential Question for this module.</p>
+        <section class="module-opener" data-uuid="73adc69ec75b4bd598e439f1b00b0732">
+            <section class="video-container " data-uuid="13e1ce874cb4405196aa801f4b9ed1d3">
+                <article data-uuid="280d4d4768e840dd815f5fdfd91099f9">
+                    <h3 class="vid" data-uuid="d91293e91fa740cd82e6e3b118e89ede">Causes of the Vietnam War</h3>
+                    <p class="vid" data-uuid="37b97f42ac8b446799e9bff728407d74">The people of Vietnam did not want to be a French
+                        colony; they wanted to be independent. Their desire for independence drew the
+                        United States into a conflict.</p>
+                    <section class="video" data-uuid="7854ecb62c524cb39edc62f237ebb465">
+                        <object type="text/html" data="../../assets/widgets/html_video_player/index.html" class="widget" data-uuid="b9aaa462212848e596beb5c8ad392838"><param name="configFile" value="../../widget_data/config/b9aaa462212848e596beb5c8ad392838.json" /></object>
+                    </section>
+                </article>
+            </section>
+            <section class="question-long-text" data-uuid="60d2c238848b4c71bdb93d24257d3f8a">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="54743d41e30b4d27b7885024552df2f3">
+                    <param name="configFile" value="../../widget_data/config/54743d41e30b4d27b7885024552df2f3.json" />
+                </object>
+            </section>
+            <section class="timeline-container " data-uuid="62366e3854bc4f8887ecd9b605338a5a">
+                <article data-uuid="a6dac005c4ee4952b47c5f7843cccc93">
+                    <h3 class="mod" data-uuid="c76e334237b64efe9be5ec42b33995d2">The Vietnam War Years&#160;</h3>
+                    <p class="mod" data-uuid="630fbca5d172497bb151299c6ce19cbf">To stop the spread of Communism in Southeast Asia,
+                        the United States used its military to support Vietnam. As the conflict raged on, Americans disagreed
+                        on whether the U.S. should continue to be involved. At the same time, there
+                        were significant successes—and significant sorrows—for the American people.<br />
+                    </p>
+                </article>
+            </section>
+            <section class="timeline" data-uuid="c2a7149a9c84427786e99123f00f123a">
+                <object type="text/html" data="../../assets/widgets/hmh_timeline/index.html" class="widget" data-uuid="9daf43fb8edb4d3fb2f799de1629b6be">
+                    <param name="configFile" value="../../widget_data/config/9daf43fb8edb4d3fb2f799de1629b6be.json" />
+                </object>
+            </section>
+        </section>
+        <section class="question-long-text" data-uuid="ac0f41cf5c624455b51e55fdc383b31e">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f50f2977418d41abb77e549e5d5d6898">
+                <param name="configFile" value="../../widget_data/config/f50f2977418d41abb77e549e5d5d6898.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f44481e21c494faba405265124c7c445">
+            <button data-teacher-view-toggle="true" data-uuid="a5134f58cef04ef9bc11d972450e81e4"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="ce59436aac084961accae8958ec135c1">
+                <param name="configFile" value="../../widget_data/config/ce59436aac084961accae8958ec135c1.json" />
+            </object>
+        </section>
+        <p data-uuid="f14c943020df49838fcd6921b8ae0f2b"><br />
+        </p>
+    </body>
+</html>

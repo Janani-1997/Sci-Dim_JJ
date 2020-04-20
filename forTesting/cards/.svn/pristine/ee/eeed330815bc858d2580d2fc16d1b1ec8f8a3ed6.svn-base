@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="11b15f7dc2cd46d9be5110305c35223b" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Washington's Presidency</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="e6659c3a573a4535b6f294f57b925080">
+            <article data-uuid="f236a320868a498d936a5d38c82faf15">
+                <h4 data-uuid="b2b27507e75c4862a48ba070940df583">Main Idea</h4>
+                <p class="main-idea" data-uuid="35aae43ddca44799be6b167ebd06e8fe">George Washington and members of Congress established a new national government.</p>
+                <h2 data-uuid="7b58bdfc043d419d8e0f6dd54e0950ff">Washington’s Presidency</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="54f51fa5151744c9a05ad2fc2f5f1b6e"></div>
+            </article>
+        </section>
+        <figure class="image-with-caption right one-third top-align" data-uuid="33ab55da385e42ffb2bbd054e4ca091f">
+            <img alt="This is an artist's rendering of George Washington." data-uuid="04ad5fe96a5a46b7a2a90fab28251b0e" src="../../img/module_7opener/ms_snlese454149_832p.jpg" />
+            <div class="figcaption" data-uuid="7bd0b37a56d3435aa97a66caa6a363f4">
+                <p class="caption" data-uuid="e39d373844c14840a7055f3231c16fbb">George Washington</p>
+            </div>
+        </figure>
+        <p data-uuid="0c8f2fa6a15f4e07906a2cbe8a8fe6d5">Americans believed in <dfn title="Washington, George">George Washington</dfn>. They saw him as an honest leader and hero of the Revolution. In 1789, Washington was elected as the first U.S. president. The First Congress created departments in the executive branch for different areas of national policy. Washington met with the department heads, or cabinet members, who advised him.<br />
+        </p>
+        <p data-uuid="4d73ab2d41204fd7939fa4826362ec94">Secretary of State Thomas Jefferson and Secretary of the Treasury Alexander Hamilton disagreed on many important issues, including the size and purpose of government, financing the government, and interpreting the Constitution. Their disagreements helped shape the young nation.<br />
+        </p>
+        <section class="historical-source nobg" data-uuid="2cb9511832b6464cbd799849f730cdfe">
+            <article class="box gradient" data-uuid="221f9ffd427a48dbb2f42b0786a3fe52">
+                <div class="header-element" data-uuid="501bfa7d4f264b0d9338a991decd1cfc">
+                    <h2 class="label" data-uuid="9be3b0fccb9f4f6ba0c5b82bc269ee8b"><span class="subhead">Historical Source</span></h2>
+                </div>
+                <div class="jonra" data-uuid="03f2f7506c23478494db178c31e6c743">
+                    <h2 data-uuid="705f5d5175d440ebb082e79229d5aadf">The First Cabinet</h2>
+                    <p class="source" data-uuid="2e171b57ddc9401cb452272d4947cce8">Washington’s cabinet members kept him informed on political matters and debated important issues with one another. Each of the men chosen had experience that made him a wise choice to advise the nation’s first president. By 1792 cabinet meetings were a common practice.</p>
+                </div>
+                <section class="image-with-hotspots " data-uuid="d04ed30007734f649e63fef4d9a18cf7">
+                    <object type="text/html" data="../../assets/widgets/image_hotspot/index.html" class="widget" data-uuid="0fdf162df236487e86e7ce8d4312cb6b">
+                        <param name="configFile" value="../../widget_data/config/0fdf162df236487e86e7ce8d4312cb6b.json" />
+                        <param name="reference_id" value="ref:V_HC_2749" />
+                        <param name="externalwidget" value="true" />
+                    </object>
+                </section>
+                <section class="skillbuilder" data-uuid="b463274cb34044babeb8423ddbd2ea2b">
+                    <object type="text/html" data="../../assets/widgets/skillbuilder/index.html" class="widget" data-uuid="c6e9ecc5e0d04a9d8e75a67bc4365b41">
+                        <param name="configFile" value="../../widget_data/config/c6e9ecc5e0d04a9d8e75a67bc4365b41.json" />
+                    </object>
+                </section>
+            </article>
+            <section class="question-long-text" data-uuid="4ae215a25fac4a62a4c8955b789d1ad4">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="2815d2a2a9ea43bf8f962843c1548cdb">
+                    <param name="configFile" value="../../widget_data/config/2815d2a2a9ea43bf8f962843c1548cdb.json" />
+                </object>
+            </section>
+        </section>
+        <p data-uuid="6063d8c655014edab5d7854710d25669">Foreign and domestic conflicts disrupted the peace during Washington’s administration. The United States tried to remain neutral in European conflicts, but the U.S. Army did go to war with Native American forces in the Northwest Territory. The government faced angry farmers when Congress passed a tax on American whiskey. Washington led an army to end the so-called Whiskey Rebellion.</p>
+        <p data-uuid="2203d910f16347afa381b230303a69e7"> Washington decided not to run for reelection in 1796 after two terms in office. In his Farewell Address, Washington advised future leaders to maintain U.S. neutrality in foreign affairs and to avoid the dangers of political parties. Political divisions between followers of Jefferson and Hamilton contributed to the growth of political parties, however.</p>
+        <section class="question-long-text" data-uuid="5cf832d7df844d46a128b33b755af83b">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="4360658ce8ff47be91d4c72e7669890e">
+                <param name="configFile" value="../../widget_data/config/4360658ce8ff47be91d4c72e7669890e.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt" data-uuid="5895b28e6ff847cd88236aa2c69e99ee">
+            <div class="go-prompt-bottom-bar" data-uuid="fe73ed7cce404cd3b3f70edfeca7afc1">
+                <p data-uuid="e45b0241ed0b428daf9a173864d52853">Remember to complete the graphic organizer with information on Washington’s presidency.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-uuid="35f52abeb48b4336bfb88293b5f6288d">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="500ec172d7c84ba0adc5bcdc66170d82">
+                <param name="configFile" value="../../widget_data/config/45d5f08578d748cdb857e920d01fc3de.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="18ff3d36b1544720930aeb87497b1a3a"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="eda1d4d5f3a74a0aaac092a85fa2428f">
+            <button data-teacher-view-toggle="true" data-uuid="b5eca1aa028c468ea0f14ec1fc2db285"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cc4fc46ec9024f7ebd13bcd53fe34403">
+                <param name="configFile" value="../../widget_data/config/cc4fc46ec9024f7ebd13bcd53fe34403.json" />
+            </object>
+        </section>
+        <p data-uuid="7ef3b8c3e27d4993b6f1a6f44355e292"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="46e59b09ee0e4371bbe5bffde95708df">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="27407dffc67e43578a7c2959a50f51ba">
+            <p class="lesson-number" data-uuid="aaa9649c727e460489aa92e35c65b882">Lesson 2</p>
+            <article class="header-container" data-uuid="3a6dbfca53c04dcfba73d280df944b39">
+                <div class="header-element" data-uuid="4b3ddb05d6264d81a954cfe691589edb">
+                    <h1 data-uuid="678fde88216e466faba4fb99873e39d8">The Home Front</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="2d86c508922c4c83867ede717d3bf053"></div>
+                    <h2 data-uuid="a4b401c39a6e48f1ba4d3ee5a0596cdc">The Big Idea</h2>
+                    <p data-uuid="01be4e7218c6424292ad54de6ad6e816">American involvement in World
+                        War II helped the U.S. economy and changed the lives of many Americans.</p>
+                </div>
+            </article>
+            <article data-uuid="4e3c83226911461c9841d2c9343ec7b3">
+                <h3 class="if-you-were-there" data-uuid="cd3cba2484134940935ba5cfc2159466">If YOU were there...</h3>
+                <p data-uuid="42bd47fdcb29417b93047bdee3d6929d">
+                    Shopping for food has become a whole new experience
+                    since the United States entered World War II. When your mother sends you to the
+                    grocery store these days, she gives you government-issued ration stamps. These
+                    stamps limit the amount of sugar, butter, and meat each family can buy. The
+                    sacrifice is difficult, but you know it will help the soldiers fighting
+                    overseas.</p>
+            </article>
+            <section class="reading-check" data-uuid="e85bc90b2a5841929f25505d427e66a1">
+                <section class="question-long-text" data-uuid="0849a2535f184a55b086a8f99281d2c1">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="b3d7b2c2f00940d594568cf34a054359">
+                        <param name="configFile" value="../../widget_data/config/b3d7b2c2f00940d594568cf34a054359.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="911c12f44285450b8e99ca7458fb6ee2">
+            <button data-teacher-view-toggle="true" data-uuid="fc48ca6276094047b3d9693b2475b656"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="06fd39cc050545e799d23aace03e3a0e">
+                <param name="configFile" value="../../widget_data/config/06fd39cc050545e799d23aace03e3a0e.json" />
+            </object>
+        </section>
+        <p data-uuid="bb0603d6c59647ca81eb13e97b862415"><br />
+        </p>
+    </body>
+</html>

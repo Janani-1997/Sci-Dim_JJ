@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="cf676568d11d4b6ebe562ebe8189b682" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 2 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="8f202bde89d742189e602313841a1666">
+            <div class="header-element header-container " data-uuid="3d07b7db1b78475e92d8ff5a08ae3cff">
+                <p class="lesson-number" data-uuid="eb2c88fb0ac342fbb04def955dafff6a">Lesson 2</p>
+                <h2 data-uuid="85d8f581482544d098a889790ad70379">Assessment</h2>
+            </div>
+            <h5 data-uuid="94971f1023d847ab81206d9d5e20cae1">Structure of the Government</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="9fe3636354724e9db045cd73af0e9655">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="a52846f054224549a01af2d9959771ff">
+                <param name="configFile" value="../../widget_data/config/a52846f054224549a01af2d9959771ff.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="2775a2567e0e40faa14d6b088fbeee7f">
+            <button data-teacher-view-toggle="true" data-uuid="7f35846a752d4681bc668fb4b2f14c4f"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="3baf5e95824343599aeb1fab16b6bb52">
+                <param name="configFile" value="../../widget_data/config/3baf5e95824343599aeb1fab16b6bb52.json" />
+            </object>
+        </section>
+        <p data-uuid="cab8ec76b3ad46b7aad6b22c876ef2aa"><br />
+        </p>
+    </body>
+</html>

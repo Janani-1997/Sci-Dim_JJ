@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="4d45f22fe7274e80887af54769eb2a07" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>The Industrial North</title>
+    </head>
+    <body>
+        <section class="segment-opener" data-uuid="f08f7f8d0c67455ca7e2123cc7c764f3">
+            <article data-uuid="ad6fc79f2e674bd68e8ea7457f4f68db">
+                <h4 data-uuid="6b02cf022b404164a5c10cc011065c4c">Main Idea</h4>
+                <p class="main-idea" data-uuid="3497db01a3ac4b5c9ffc87d195e36078">The Industrial Revolution transformed life in the northern states.</p>
+                <h2 data-uuid="46c11ad58014402782f7fe704fb25618">The Industrial North</h2>
+                <div class="yellow-star-yellow-bar" data-uuid="f83a31ed79e447e5a956f64c5acef654"></div>
+            </article>
+        </section>
+        <p data-uuid="6a4e5d15fd11490fad91a9f079f6dd8e">As pioneers headed west, new industries grew in the Northeast. The first American factories used water-powered machines to make cloth. Inventor <dfn title="Whitney, Eli">Eli Whitney</dfn> later came up with the idea of interchangeable parts, which helped make mass production and less expensive goods possible.<br />
+        </p>
+        <section class="image-carousel" data-uuid="705800ce9d4a4688aba42122f3c89b5d">
+            <object type="text/html" data="../../assets/widgets/image_carousel/index.html" data-uuid="e12c4da2c8b94187a9ceb0a5172217e5">
+                <param name="credit" value="[null,null,null,null]" />
+                <param name="configFile" value="../../widget_data/config/f188a8b56ece4594b188397bd7cf62a4.json" />
+            </object>
+        </section>
+        <p data-uuid="aca6c05b28274ee2a2686c5e90fd5dcc">Factories employed men, women, and children to run the machinery. Workers toiled long hours in difficult conditions, often for little pay. Labor reform efforts had little success. Some workers formed unions and used strikes to demand better treatment.</p>
+        <h3 data-uuid="1a6745fb474c41b2a153abe1ffd0e744">The Transportation Revolution</h3>
+        <p data-uuid="2f1e331167734cc9801eac732dd0cb6e">Steamboats and steam-powered trains made transportation faster and cheaper than ever before. By 1860 the United States had more than 400 steamboats in operation and nearly 30,000 miles of railroad tracks.<br />
+        </p>
+        <figure class="image-with-caption feature" data-uuid="20720e7d451f49b88cc3ded058e3fc54">
+            <img alt="This black and white photo shows two large steamboats on the Mississippi River. Deckhands are using large ramps to load goods onto the boats. " class="" data-uuid="cb1bc08d956144f6b598d528bb84730b" src="../../img/module_13_lesson03/ms_snlese454149_333p.jpg" />
+            <div class="figcaption" data-uuid="d0f37142b35f4bc08f02ba264ca99daf">
+                <h5 data-uuid="14ae7058db824bdb87f754d0e6200752">Mississippi River Steamboats</h5>
+                <p class="caption" data-uuid="bf7ed1154c454108bf9de3b1cc55daf7"> Deckhands load a Mississippi River steamboat in Memphis, Tennessee. By the mid-1800s, hundreds of steamboats were traveling up and down American rivers.</p>
+            </div>
+        </figure>
+        <p data-uuid="29585c1fb73549279344d72cb78bae20">Communication also improved with the invention of the telegraph, which carried messages across wires. These changes helped fuel economic growth.</p>
+        <h3 data-uuid="ba3b4057bea04afa997c1252b396f84e">Immigration and City Life</h3>
+        <p data-uuid="06f337ed70094eeb8a6790f278ab3b73">Steam power also allowed factories to move from the countryside to the cities. City populations boomed, thanks to new jobs and the arrival of several million immigrants. Most of these people came from Ireland and Germany, fleeing famine or political troubles. Many immigrants faced prejudice from other Americans. Industry and city growth helped create a new middle class of managers and skilled workers. The downsides of city growth were overcrowding, crime, disease, and the threat of fires.<br />
+        </p>
+        <section class="question-long-text" data-uuid="7c4fae772e764733b065c98eec1de998">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="e3821a0759524324a98511660534a7ae">
+                <param name="configFile" value="../../widget_data/config/e3821a0759524324a98511660534a7ae.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt" data-uuid="37e6bb10b2b9455781fc58865572b13c">
+            <div class="go-prompt-bottom-bar" data-uuid="90bfb19b1ca542c895d688cade2901c4">
+                <p data-uuid="50377090c22f47aeae699fabb5022f62">Remember to complete the graphic organizer with information on the industrial North.</p>
+            </div>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-uuid="90ad0f2793014ac698aa35982cb461be">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="07367e81c2d8423ea90facd2e23b3d36">
+                <param name="configFile" value="../../widget_data/config/1b1122c05a4547c3bd8c7ac11aaf4bc6.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="b85a5e49d6804d36a3e90d965b6f8555"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="4be345ad89b0442fab4184d0758ed96b">
+            <button data-teacher-view-toggle="true" data-uuid="9bdaf2fd232d41e6832efd2dcc0cdcc5"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="d40a461632874a49bb0151202426c241">
+                <param name="configFile" value="../../widget_data/config/d40a461632874a49bb0151202426c241.json" />
+            </object>
+        </section>
+        <p data-uuid="501fff5626b5439cbad049965777b3a6"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="54e613d6aa7b47d6a16454d5d53f38bd">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="779bab24c3304a4b9c0c3f01f40d486f">
+            <p class="lesson-number" data-uuid="af37e5c1d1df43f3a0664e054c76031b">Lesson 4</p>
+            <article class="header-container" data-uuid="4e05f2d5e8ed49fc9a58d39ba114d221">
+                <div class="header-element" data-uuid="1a0d398934ee4c65856eac1c3fc84d47">
+                    <h1 data-uuid="f1d213d6b78b42ba854e4f0a7951d8c6">John Adams’s Presidency</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="f504202110d6482e985ff86e4a69059f"></div>
+                    <h2 data-uuid="f85882e7cfdb459f8dd3f43f572816d7">The Big Idea</h2>
+                    <p data-uuid="c856e270a499421cadcdb74c7c9530c8">The development of political parties in the United
+                        States contributed to differing ideas about the role of the federal government.</p>
+                </div>
+            </article>
+            <article data-uuid="823c3fa447554542b8890432433826f1">
+                <h3 class="if-you-were-there" data-uuid="ab8c6866ed35403e8a6221b26ab8f8e9">If YOU were there...</h3>
+                <p data-uuid="66b25c4284a0485d862f40ea5851266b">You are a newspaper editor in Virginia in 1798.
+                    You’ve joined Jefferson’s political party, which opposes the new president. In
+                    fact, your paper has printed many articles that criticize him, calling him
+                    greedy and foolish. You believe that’s your right in a free country. But now
+                    Congress has passed a law that makes it illegal to criticize the government.
+                    You could be arrested for your articles!</p>
+            </article>
+            <section class="reading-check" data-uuid="6b15b00f51324bd28e4f809b54909fce">
+                <section class="question-long-text" data-uuid="6d7f440065154d1390020ad9313ea5a0">
+                    <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="79d72916bfa247db9feb5037b1f6d486">
+                        <param name="configFile" value="../../widget_data/config/79d72916bfa247db9feb5037b1f6d486.json" />
+                    </object>
+                </section>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="6cf036bbb8654c48993a3a53310131a1">
+            <button data-teacher-view-toggle="true" data-uuid="dc05a45c3626404da841252e34db2f85"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="cca45f04d42a4d73b5b425f903249b3e">
+                <param name="configFile" value="../../widget_data/config/cca45f04d42a4d73b5b425f903249b3e.json" />
+            </object>
+        </section>
+        <p data-uuid="fe70e331ce694e05aeffc3787a631e0c"><br />
+        </p>
+    </body>
+</html>

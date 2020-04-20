@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b02e91d4356c4f2a8c2750c130ec99a2">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson Opener</title>
+    </head>
+    <body>
+        <section class="lesson-opener " data-uuid="a264071eb51941dcbc702ce0ed56f3dd">
+            <p class="lesson-number" data-uuid="61a96bd75d2348a1a051d3963253dd68">Lesson 3</p>
+            <article class="header-container" data-uuid="52e09ecbc670449593398465dd527746">
+                <div class="header-element" data-uuid="448838d8f0f04d538e7987702ede8c50">
+                    <h1 data-uuid="f49cb5824f3845dcace4dfee0ac53e82">Spain Builds an Empire</h1>
+                    <div class="yellow-star-yellow-bar" data-uuid="10fcf83c015b4217a79551ad49ba463b"></div>
+                    <h2 data-uuid="35faf4ed124e4b0bbddefbd5a37b0863">The Big Idea</h2>
+                    <p data-uuid="c4990f050dc543f28aa64bacbb0ff2dc">Spain established a large empire in the
+                        Americas.</p>
+                </div>
+            </article>
+            <article data-uuid="99f2f3c12ff245b7a47f8d80114d83e0">
+                <h3 class="if-you-were-there" data-uuid="7ae2c4d1e1e04bbba6142a2f370cf89d">If YOU were there...</h3>
+                <p data-uuid="ea6a42ce7d3f41ae9179e844f282f8b6">You
+                    are an Aztec warrior living in central Mexico in the 1500s. You are proud to
+                    serve your ruler, Moctezuma&#160;II. One day several hundred foreigners arrive
+                    on your shores. They are pale, bearded men, and&#160;they have strange animals
+                    and equipment.</p>
+            </article>
+            <section class="question-long-text" data-uuid="543b239dc6dc426d96fc4bb404767cc3">
+                <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="f2741ca2c8664ebe990c99ada1717219">
+                    <param name="configFile" value="../../widget_data/config/f2741ca2c8664ebe990c99ada1717219.json" />
+                </object>
+            </section>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="18dad465c10f4c3eb23ad49aeaa76033">
+            <button data-teacher-view-toggle="true" data-uuid="d2407adb9705466f8d2121ebb0e9c8fc"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="5f6854216a464920a27e26f58161ed64">
+                <param name="configFile" value="../../widget_data/config/5f6854216a464920a27e26f58161ed64.json" />
+            </object>
+        </section>
+        <p data-uuid="2d88543779574932be221da66b3dfb8a"><br />
+        </p>
+    </body>
+</html>

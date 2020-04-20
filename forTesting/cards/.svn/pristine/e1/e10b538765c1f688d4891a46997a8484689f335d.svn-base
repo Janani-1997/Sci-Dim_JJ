@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-uuid="f771c1b250e548b8bdf609732a457657" enumeration="" designation="">
+    <head>
+        <meta charset="utf-8" />
+        <link href="../../assets/css/fonts/fonts.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/core.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/main.css" title="default" rel="stylesheet" type="text/css" />
+        <link href="../../assets/css/custom.css" title="default" rel="stylesheet" type="text/css" />
+        <title>Lesson 1 Review</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="f85f838ac01d487db0ca9970f08d7661">
+            <div class="header-element header-container" data-uuid="56f51cc1bd1a4a37bf5ba3c956168284">
+                <p class="lesson-number" data-uuid="d650f586c6f04488ae037f7489f2b17b"> Lesson 1</p>
+                <h2 data-uuid="b1019c4e2ed54e0eac5445e6277610ff">Review</h2>
+                <p class="white" data-uuid="ee81f99a164142718b8d14c4469d2d8d">In this lesson you learned about people, events, and forces that shaped U.S. history before the American Revolution. Now you will review some key terms and people before completing the Lesson Assessment.</p>
+            </div>
+            <h3 data-uuid="8d49bd6c671d4f4ab3d919706e4c2188">Review Key Terms and People</h3>
+            <p data-uuid="6681ae93757e4aeba9b89b5e479f923b">Define each term or person shown on the card. Flip the card to check your answer.</p>
+        </section>
+        <section class="flipcard" data-uuid="f43bc4a34cef4e3eb9619a8bf142b5df">
+            <object type="text/html" data="../../assets/widgets/flashcard/index.html" class="widget widget-flashcard" data-uuid="8a530412a083401d9b6542358bcaec97">
+                <param name="configFile" value="../../widget_data/config/8a530412a083401d9b6542358bcaec97.json" />
+                <param name="audio_description" value="" />
+                <param name="audio_script" value="" />
+            </object>
+        </section>
+        <section class="graphic-organizer-prompt-less-rev" data-uuid="bbce9d913e714d3d952d7417b6348d88">
+            <div class="go-prompt-bottom-bar" data-uuid="a7fec97e9b384aa48b8b9263982629fe">
+                <h5 data-uuid="143887d9741b4c3ba872ac0878c59915">Review the Graphic Organizer</h5>
+                <p data-uuid="9d1e7cc675914f6c98db31c6da875eec">Review your graphic organizer notes and use them to answer the following question.</p>
+            </div>
+        </section>
+        <section class="question-long-text" data-uuid="552b1697c3f94128a5a479e39be485f8">
+            <object type="text/html" data="../../assets/widgets/long_text_question/index.html" class="widget" data-uuid="3d4414ac32624550bb183edae89a11b4">
+                <param name="configFile" value="../../widget_data/config/3d4414ac32624550bb183edae89a11b4.json" />
+            </object>
+        </section>
+        <section class="graphic-organizer" data-go="v0.1.0" data-uuid="0e5467fabb2347dd9123cca1a7d8a58b">
+            <object type="text/html" data="../../assets/widgets/go/index.html" class="widget" data-go-content="true" data-uuid="ec7ee4550c514da691e817c8bb97a4d3">
+                <param name="configFile" value="../../widget_data/config/1ae1f3525074439996d2e6ba769bf16f.json" />
+            </object>
+            <button class="go-close-btn" data-go-toggle="true" data-uuid="36592275b31144cfb7701bfe6dc8a5f2"></button>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="f9de5fe3baa14c2983a6f7f274babf68">
+            <button data-teacher-view-toggle="true" data-uuid="17980ea85a3440f99a612bbcc4eb52a9"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="40c74d3980524ce89b55efa62d9a79c5">
+                <param name="configFile" value="../../widget_data/config/40c74d3980524ce89b55efa62d9a79c5.json" />
+            </object>
+        </section>
+        <p data-uuid="a82cd0d2d29f424c8aac2607bc3b1cbc"><br />
+        </p>
+    </body>
+</html>

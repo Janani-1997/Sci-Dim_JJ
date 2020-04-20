@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="ee0ed347bad548fca8c0902e5feac8dc" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Document-Based Investigation: Part 2</title>
+    </head>
+    <body>
+        <section class="module-close-dbi" data-uuid="dc9cb4d2ddfc4692b4d4a62606575608">
+            <div class="header-element header-container" data-uuid="f113f50634d844d4a89c230e9ff689c1">
+                <p class="lesson-number" data-uuid="0b87a73d87e448238755decb277de4b0"><br />
+                </p>
+                <h2 data-uuid="2c8bee30f2d3430eaf25f6668ad4d358"> Document-Based Investigation</h2>
+            </div>
+            <h3 data-uuid="7a727b12edc84d8e9511489819a400a4">Part 2: Write an Analytical Essay</h3>
+            <h6 data-uuid="b47a4fcdf57a44529a5efe3517571797">Historical Context</h6>
+            <p data-uuid="ec876fa2affa43338d059336ba0fc5ad">The postwar years brought prosperity to millions
+                of Americans. Communications technologies, such as television, radio, and
+                newspapers, enabled the development of mass popular culture, and more Americans
+                than ever enjoyed easy travel by car on interstate highways. During the same
+                period, however, the fear of communism led to tense political standoffs at home
+                and global Cold War conflicts with the Soviet Union.</p>
+            <h6 data-uuid="3e6600eb4c14421c976b05237da50b30">Task</h6>
+            <p data-uuid="504fd01380874a4599b6fe36b57da136">As American incomes grew, more people gained
+                access to mass communications, such as television. Journalists and politicians
+                used these communications both to inform the public and to give their opinion
+                of events. Did use of mass communications unnecessarily worsen citizens’ fear
+                of communism? Write an analytical essay in which you respond to this question.</p>
+            <p data-uuid="04d48440e9d94f2cb17fdd73fe7230dc">Complete
+                the following steps as you plan and compose your essay.</p>
+            <ol data-uuid="1fbc560573ea47f681854c90d0d8c2a3">
+                <li data-uuid="e2f63d0ef97f4ddca3806e7238fa8e30">
+                    <p data-uuid="9f367d994588428ca53ef9c4a35ef58b">Review
+                        your notes and sources before you start writing.</p>
+                </li>
+                <li data-uuid="9a85d9a788e5473ca63dc3b579e9bcf8">
+                    <p data-uuid="b73689fa38fe40fc9510d46c9b5f8b8a">Use
+                        at least two of the sources in Part 1, and develop the topic with relevant,
+                        well-chosen text or visual evidence from the documents.<br />
+                    </p>
+                </li>
+                <li data-uuid="8fa7813c3a394a39aebaba9eee76823b">
+                    Cite
+                    specific text or visual evidence from each of the sources in your response.
+                </li>
+                <li data-uuid="6c3b2ddf4eff4eb6952dc6c7aa9e38ae">
+                    Plan
+                    your essay so that it includes an introduction, several body paragraphs, and a
+                    concluding paragraph.
+                </li>
+                <li data-uuid="6dfb1a2660754f528f6e94b6e5db598a">
+                    Organize
+                    your essay in a clear and logical way that expresses a firm standpoint about
+                    the topic.
+                </li>
+                <li data-uuid="aae356965a64448c88984993e69448d7">Write a conclusion that sums up your ideas and supports the information
+                    you present.<br />
+                </li>
+            </ol>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="815b588433184cf0ac0dfe7744ecb76a">
+            <button data-teacher-view-toggle="true" data-uuid="c305f58e2bde4cd5a91fac9bdb2cc96a"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="c3a025946ea04ae781f626c1518c27bc">
+                <param name="configFile" value="../../widget_data/config/c3a025946ea04ae781f626c1518c27bc.json" />
+            </object>
+        </section>
+        <p data-uuid="6504cf3fe836417d804d764755fe1de6"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="b36009398e04456babc97ef24eb8d098">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Essential Question</title>
+    </head>
+    <body>
+        <section class="module-close-essential-question" data-uuid="ebf9ea443e1747e09dd1cf07bb31f18b">
+            <div class="header-element header-container " data-uuid="1397baa7a53e4d979b562dfe702e0aec">
+                <p class="lesson-number" data-uuid="b244b2caa84a40bba1d4a02638b4f947"><br />
+                </p>
+                <h2 data-uuid="2ee8c4d3d1e841f6ade8f8f5610f2fb5"> Essential Question–Writing</h2>
+                <p class="white" data-uuid="1655476af14e49a4a61d3c96cb5d93d4">In this module, you’ve
+                    learned how new inventions of the late 1800s changed American lives and
+                    business practices. Now it’s your turn to demonstrate your understanding of the
+                    module content by writing an essay.</p>
+            </div>
+            <h3 data-uuid="4c57f01330454de7aa50846395509737">How
+                revolutionary was the Second Industrial Revolution?</h3>
+            <p data-uuid="8faae6008a6d48c6b5f8fa1733c6ed51">Write a persuasive argument
+                that answers this question. Your essay should include key people, events, and turning
+                points that changed American society during the late 1800s. Be sure to cite
+                evidence to support your position and organize your essay into an introduction,
+                body, and conclusion.</p>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="97c652ac7852423b81ca1bfc1787fa2b">
+            <button data-teacher-view-toggle="true" data-uuid="e2fa93d32fb64bbca5f9ccce22dea713"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="667eb6fbe40e44c9958001edeb1c7027">
+                <param name="configFile" value="../../widget_data/config/667eb6fbe40e44c9958001edeb1c7027.json" />
+            </object>
+        </section>
+        <p data-uuid="9d8baeb30c57462c8c24acbf2fbb1503"><br />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" designation="" enumeration="" data-uuid="3e4243b4fe4648e983c4bcae1371c825" class="">
+    <head>
+        <meta charset="utf-8" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/fonts/fonts.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/core.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/main.css" />
+        <link type="text/css" rel="stylesheet" title="default" href="../../assets/css/custom.css" />
+        <title>Lesson 1 Assessment</title>
+    </head>
+    <body>
+        <section class="lesson-review" data-uuid="b1031babceb44123acff27f7a4b8f6d4">
+            <div class="header-element header-container " data-uuid="350b8369cef541aa8d72a3395b280895">
+                <p class="lesson-number" data-uuid="6498a35306e24f609e3ae81d4fbfb44e">Lesson 1</p>
+                <h2 data-uuid="4b683af9329348f69746829f97f60a86">Assessment</h2>
+            </div>
+            <h5 data-uuid="2399e695d6db4a80b847108ad8c7f3df">The End of Prosperity</h5>
+        </section>
+        <section class="learnosity-questions" data-uuid="b7df5deb196d48dd9f70e063e8f3c459">
+            <object type="text/html" data="../../assets/widgets/learnosity-items/items.html" class="widget" data-uuid="32e26a2fc3ef4d908cc1d49544163cad">
+                <param name="configFile" value="../../widget_data/config/32e26a2fc3ef4d908cc1d49544163cad.json" />
+            </object>
+        </section>
+        <section class="teacher-view" data-teacher-view="v0.1.0" data-uuid="c1bafb49d2fb4748bd6c1cfa6a048f9f">
+            <button data-teacher-view-toggle="true" data-uuid="3773789cc4964981a96c8b4716aa4f90"></button>
+            <object data-teacher-view-iframe="true" type="text/html" data="../../assets/widgets/hmh_teacher_view/index.html" class="widget" data-uuid="6094b8e3a68542f699f2a631f2fee1f5">
+                <param name="configFile" value="../../widget_data/config/6094b8e3a68542f699f2a631f2fee1f5.json" />
+            </object>
+        </section>
+        <p data-uuid="6613bc8ee0ab455f822bc9e881e004b5"><br />
+        </p>
+    </body>
+</html>
