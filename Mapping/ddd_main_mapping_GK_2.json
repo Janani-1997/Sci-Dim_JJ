@@ -1,0 +1,259 @@
+{
+  "assets_config": {
+    "image_path": "../../../../../img/cards/",
+    "audio_path": "",
+    "video_path": ""
+  },
+  "mapping_data": [
+    {
+      "source_key_name": "imageBased",
+      "target_key_name": "answerType",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "optiontype"
+    },
+    {
+      "source_key_name": "title",
+      "target_key_name": "ActivityTitle",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "stem",
+      "target_key_name": "QuestionStem",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "voiceOver",
+      "target_key_name": "VOIntro",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "tipText",
+      "target_key_name": "Tip",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "image",
+      "target_key_name": "image",
+      "source_parent_name": "configuration.options",
+      "target_parent_name": "draggables",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "image"
+    },
+    {
+      "source_key_name": "id",
+      "target_key_name": "id",
+      "source_parent_name": "configuration.options",
+      "target_parent_name": "draggables",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "imageAlt",
+      "target_key_name": "imageAlt",
+      "source_parent_name": "configuration.options",
+      "target_parent_name": "draggables",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "text",
+      "target_key_name": "text",
+      "source_parent_name": "configuration.options",
+      "target_parent_name": "draggables",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "title",
+      "target_key_name": "text",
+      "source_parent_name": "configuration.titles",
+      "target_parent_name": "headers",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "image",
+      "target_key_name": "",
+      "source_parent_name": "configuration.rows",
+      "target_parent_name": "options.cells",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": ""
+    },
+    {
+      "source_key_name": "type",
+      "target_key_name": "type",
+      "source_parent_name": "configuration.rows.columns",
+      "target_parent_name": "options.cells",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "column",
+      "target_key_name": "position",
+      "source_parent_name": "configuration.rows.columns",
+      "target_parent_name": "options.cells",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "correctAnswer",
+      "target_key_name": "correctOption",
+      "source_parent_name": "configuration.rows.columns",
+      "target_parent_name": "options.cells",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "text",
+      "target_key_name": "label",
+      "source_parent_name": "configuration.rows.columns",
+      "target_parent_name": "options.cells",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "image",
+      "target_key_name": "image",
+      "source_parent_name": "configuration.rows.columns",
+      "target_parent_name": "options.cells",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "image"
+    },
+    {
+      "source_key_name": "teacherAnswer",
+      "target_key_name": "teacherAnswer",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "instantFeedback",
+      "target_key_name": "instantFeedback",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "downloadLink",
+      "target_key_name": "downloadLink",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "attempts",
+      "target_key_name": "MaxAttempts",
+      "source_parent_name": "configuration.feedBack",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "number"
+    },
+    {
+      "source_key_name": "firstWrongHint",
+      "target_key_name": "PartiallyCorrectVOFeedback",
+      "source_parent_name": "configuration.feedBack",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "firstWrongHint",
+      "target_key_name": "IncorrectVOFeedback",
+      "source_parent_name": "configuration.feedBack",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "finalWrongHint",
+      "target_key_name": "FinalIncorrectVOFeedback",
+      "source_parent_name": "configuration.feedBack",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "correctHint",
+      "target_key_name": "CorrectVOFeedback",
+      "source_parent_name": "configuration.feedBack",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name":"instantFeedback",
+      "target_key_name":"hasInstantFeedback",
+      "source_parent_name":"configuration",
+      "target_parent_name":"",
+      "iterative": "no",
+      "para_tag":"no",
+      "difference_in_index": "0",
+      "data_type":"text"
+    }
+  ]
+}

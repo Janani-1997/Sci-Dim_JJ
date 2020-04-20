@@ -1,0 +1,190 @@
+{
+  "assets_config": {
+    "image_path": "../../../../../img/cards/",
+    "audio_path": "../../../../captions/audio/",
+    "video_path": ""
+  },
+  "mapping_data": [
+    {
+      "source_key_name": "",
+      "target_key_name": "audioFile",
+      "source_parent_name": "",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "audio"
+    },
+    {
+      "source_key_name": "paragraph",
+      "target_key_name": "PreQuestion",
+      "source_parent_name": "configuration",
+      "target_parent_name": "options",
+      "iterative": "yes",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "split_previous_fiq"
+    },
+    {
+      "source_key_name": "paragraph",
+      "target_key_name": "PostQuestion",
+      "source_parent_name": "configuration",
+      "target_parent_name": "options",
+      "iterative": "yes",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "split_post_fiq"
+    },
+    {
+      "source_key_name": "unitText",
+      "target_key_name": "PostQuestion",
+      "source_parent_name": "configuration.options",
+      "target_parent_name": "options",
+      "iterative": "yes",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "split_post_fiq_unit"
+    },
+    {
+      "source_key_name": "title",
+      "target_key_name": "ActivityTitle",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "stem",
+      "target_key_name": "QuestionStem",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "stemImage",
+      "target_key_name": "src",
+      "source_parent_name": "configuration",
+      "target_parent_name": "Stimulus.image",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "image"
+    },
+    {
+      "source_key_name": "stemImageAlt",
+      "target_key_name": "altText",
+      "source_parent_name": "configuration",
+      "target_parent_name": "Stimulus.image",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "tipText",
+      "target_key_name": "Tip",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "voiceOver",
+      "target_key_name": "VOIntro",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "value",
+      "target_key_name": "value",
+      "source_parent_name": "configuration.options",
+      "target_parent_name": "options",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "correctOption",
+      "target_key_name": "Answers",
+      "source_parent_name": "configuration.options",
+      "target_parent_name": "options",
+      "iterative": "yes",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+
+    {
+      "source_key_name": "attempts",
+      "target_key_name": "MaxAttempts",
+      "source_parent_name": "configuration.feedBack",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "number"
+    },
+    {
+      "source_key_name": "firstWrongHint",
+      "target_key_name": "IncorrectFeedback",
+      "source_parent_name": "configuration.feedBack",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "firstWrongHint",
+      "target_key_name": "PartiallyCorrectFeedback",
+      "source_parent_name": "configuration.feedBack",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "finalWrongHint",
+      "target_key_name": "CorrectFeedback",
+      "source_parent_name": "configuration.feedBack",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "finalWrongHint",
+      "target_key_name": "FinalIncorrectFeedback",
+      "source_parent_name": "configuration.feedBack",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "yes",
+      "difference_in_index": "0",
+      "data_type": "text"
+    },
+    {
+      "source_key_name": "instantFeedback",
+      "target_key_name": "hasInstantFeedback",
+      "source_parent_name": "configuration",
+      "target_parent_name": "",
+      "iterative": "no",
+      "para_tag": "no",
+      "difference_in_index": "0",
+      "data_type": "text"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{"assets_config":{
+  "image_path":"../../../../../img/cards/",
+  "audio_path":"",
+  "video_path":""
+},
+
+  "mapping_data":[
+        {
+        "source_key_name":"title",
+        "target_key_name":"ActivityTitle",
+        "source_parent_name":"configuration",
+        "target_parent_name":"",
+        "iterative": "no",
+        "para_tag":"yes",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+      {
+        "source_key_name":"stem",
+        "target_key_name":"QuestionStem",
+        "source_parent_name":"configuration",
+        "target_parent_name":"",
+        "iterative": "no",
+        "para_tag":"yes",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+
+      {
+        "source_key_name":"tipText",
+        "target_key_name":"Tip",
+        "source_parent_name":"configuration",
+        "target_parent_name":"",
+        "iterative": "no",
+        "para_tag":"yes",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+
+      {
+        "source_key_name":"voiceOver",
+        "target_key_name":"VOIntro",
+        "source_parent_name":"configuration",
+        "target_parent_name":"",
+        "iterative": "no",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+      {
+      "source_key_name":"title",
+      "target_key_name":"imageCaption",
+      "source_parent_name":"configuration.options",
+      "target_parent_name":"content.panels",
+      "iterative": "yes",
+      "para_tag":"no",
+      "difference_in_index": "0",
+      "data_type":"text"
+      },
+      {
+        "source_key_name":"description",
+        "target_key_name":"description",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"content.panels",
+        "iterative": "yes",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+      {
+        "source_key_name":"image",
+        "target_key_name":"image",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"content.panels",
+        "iterative": "yes",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"image"
+
+
+      },
+      {
+        "source_key_name":"imageAlt",
+        "target_key_name":"imageAlt",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"content.panels",
+        "iterative": "yes",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+      {
+        "source_key_name":"left",
+        "target_key_name":"left",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"content.spots",
+        "iterative": "yes",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+      {
+        "source_key_name":"top",
+        "target_key_name":"top",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"content.spots",
+        "iterative": "yes",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+      {
+        "source_key_name":"direction",
+        "target_key_name":"direction",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"content.spots",
+        "iterative": "yes",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"direction"
+      },
+      {
+        "source_key_name":"voiceOver",
+        "target_key_name":"vo",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"content.spots",
+        "iterative": "yes",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+      {
+        "source_key_name":"image",
+        "target_key_name":"image",
+        "source_parent_name":"configuration",
+        "target_parent_name":"content",
+        "iterative": "no",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"image"
+      },
+      {
+        "source_key_name":"imageAlt",
+        "target_key_name":"imageAlt",
+        "source_parent_name":"configuration",
+        "target_parent_name":"content",
+        "iterative": "no",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+      {
+        "source_key_name":"hotspotType",
+        "target_key_name":"spotLabel",
+        "source_parent_name":"configuration",
+        "target_parent_name":"content",
+        "iterative": "no",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"hotspot"
+      }
+
+
+      ]
+    }

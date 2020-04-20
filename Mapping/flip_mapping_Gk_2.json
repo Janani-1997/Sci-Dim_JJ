@@ -1,0 +1,82 @@
+{"assets_config":{
+  "image_path":"../../../../../img/cards/",
+  "audio_path":"",
+  "video_path":""
+},
+
+  "mapping_data":[
+
+      {
+        "source_key_name":"tipText",
+        "target_key_name":"Tip",
+        "source_parent_name":"configuration",
+        "target_parent_name":"",
+        "iterative": "no",
+        "para_tag":"yes",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+
+      {
+        "source_key_name":"voiceOver",
+        "target_key_name":"VOIntro",
+        "source_parent_name":"configuration",
+        "target_parent_name":"",
+        "iterative": "no",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+
+      {
+        "source_key_name":"imageAlt",
+        "target_key_name":"imageAlt",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"options",
+        "iterative": "yes",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+      {
+        "source_key_name":"definition",
+        "target_key_name":"definition",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"options",
+        "iterative": "yes",
+        "para_tag":"yes",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+      {
+        "source_key_name":"image",
+        "target_key_name":"image",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"options",
+        "iterative": "yes",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"image"
+      },
+      {
+        "source_key_name":"vocabulary",
+        "target_key_name":"vocabulary",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"options",
+        "iterative": "yes",
+        "para_tag":"yes",
+        "difference_in_index": "0",
+        "data_type":"text"
+      },
+      {
+        "source_key_name":"voiceOver",
+        "target_key_name":"voiceOver",
+        "source_parent_name":"configuration.options",
+        "target_parent_name":"options",
+        "iterative": "yes",
+        "para_tag":"no",
+        "difference_in_index": "0",
+        "data_type":"text"
+      }
+      ]
+    }
