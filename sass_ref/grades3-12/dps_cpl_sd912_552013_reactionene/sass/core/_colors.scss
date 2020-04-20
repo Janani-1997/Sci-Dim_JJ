@@ -1,0 +1,146 @@
+// Science Dimensions Colours
+
+$white:					#ffffff;
+$black:					#000000;
+
+// Orange
+$orange:				#fb6400;
+
+// Turquoise
+$turquoise-l1: 			#54c0aa;
+$turquoise-l6:      #d9efea;
+
+$turquoise-d1:      #00ab89;
+$turquoise-d2: 			#017654;
+$turquoise-d3:      #018865;
+$turquoise-d4:      #017654;
+$turquoise-d6:      #025330;
+
+// Aqua
+$aqua:					#00a3c0;
+$aqua-l5:				#B7E5ED;
+$aqua-l6: 				#d5eff3;
+$aqua-d2:				#018bab;
+$aqua-d4:				#006888;
+
+// Purple
+$purple-d2:				#8a5da5;
+
+// Golden
+$golden:				#f0a91e;
+
+// Text
+$dark-gray-d1:			#4c4e50;
+$light-gray-d1:			#7f8282;
+$light-gray-l1:			#a7a9aa;
+
+// Background
+$light-gray-l8:			#f8f8f9;
+
+// Panels
+$stone-3:				#efe9e4;
+$stone-5:				#ded3cc;
+
+// Interactive Interface
+$light-gray-d3:			#595d5c;
+$light-gray-l6:			#e5e6e7;
+
+// Feedback
+$green:					#4fa80c;
+$red:					#ff261f;
+
+// Additional UI Components
+$dark-gray:				#55595b;
+
+$light-gray-l8:			#f8f8f9;
+$light-gray-l7:			#f1f2f3;
+$light-gray-l4:			#cccecf;
+
+$light-gray:			#949797;
+$light-gray-d1:			#7f8281;
+
+
+// Colour classnames - foregrounds & backgrounds
+
+// Orange
+.orange {color: $orange;}
+.bg-orange {background-color: $orange;}
+
+// Turquoise
+.turquoise-l1 {color: $turquoise-l1;}
+.bg-turquoise-l1 {background-color: $turquoise-l1;}
+
+.turquoise-d2 {color: $turquoise-d2;}
+.bg-turquoise-d2 {background-color: $turquoise-d2;}
+
+
+// Aqua
+.aqua {color: $aqua;}
+.bg-aqua {background-color: $aqua;}
+
+.aqua-l5 {color: $aqua-l5;}
+.bg-aqua-l5 {background-color: $aqua-l5;}
+
+.aqua-l6 {color: $aqua-l6;}
+.bg-aqua-l6 {background-color: $aqua-l6;}
+
+.aqua-d2 {color: $aqua-d2;}
+.bg-aqua-d2 {background-color: $aqua-d2;}
+.border-aqua-d2 {border-color: $aqua-d2;}
+
+.aqua-d4 {color: $aqua-d4;}
+.bg-aqua-d4 {background-color: $aqua-d4;}
+
+
+// Purple
+.purple-d2 {color: $purple-d2;}
+.bg-purple-d2 {background-color: $purple-d2;}
+
+// Golden
+.golden {color: $golden;}
+.bg-golden {background-color: $golden;}
+
+// Stone
+.stone-3 {color: $stone-3;}
+.bg-stone-3 {background-color: $stone-3;}
+
+.stone-5 {color: $stone-5;}
+.bg-stone-5 {background-color: $stone-5;}
+
+
+// Dark Gray
+.dark-gray-d1 {color: $dark-gray-d1;}
+.bg-dark-gray-d1 {background-color: $dark-gray-d1;}
+
+// Light Gray
+.light-gray-d1 {color: $light-gray-d1;}
+.bg-ligh-gray-d1 {background-color: $light-gray-d1;}
+
+.light-gray-l1 {color: $light-gray-l1;}
+.bg-light-gray-l1 {background-color: $light-gray-l1;}
+
+.light-gray-l6 {color: $light-gray-l6;}
+.bg-light-gray-l6 {background-color: $light-gray-l6;}
+.border-light-gray-l6 {border-color: $light-gray-l6;}
+
+.light-gray-l8 {color: $light-gray-l8;}
+.bg-light-gray-l8 {background-color: $light-gray-l8;}
+
+// Greens
+.green {color: $green;}
+.bg-green {background-color: $green;}
+
+// Red
+.red {color: $red;}
+.bg-red {background-color: $red;}
+
+// Border Stroke Light Gray l4
+.border-gray-l4 {border: 2px solid $light-gray-l4;}
+
+// White
+.white {color: $white;}
+.bg-white {background-color: $white;}
+
+// Black
+.black {color: $black;}
+.bg-black {background-color: $black;}

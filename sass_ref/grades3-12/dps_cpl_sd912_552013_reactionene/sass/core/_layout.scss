@@ -1,0 +1,489 @@
+//--------------------------------------------------------------------
+// Media Queries
+//
+// Sass shorthand mixins for defining media queries.
+//--------------------------------------------------------------------
+// Respond shorthand, assumes min-width
+@mixin respond($value) {
+    @media (min-width: #{$value}) {
+        @content
+    }
+}
+
+// Responds to mobile devices, assumes max-width
+@mixin respond-mobile {
+    @media only screen and (max-width: ($bp-medium - 1)) {
+        @content;
+    }
+}
+
+// Responds to any specified max-width value in px.
+@mixin respond-max-width($max-width) {
+    @media only screen and (max-width: #{$max-width}) {
+        @content;
+    }
+}
+
+// Responds to any specified min-width value in px
+@mixin respond-min-width($min-width) {
+    @media only screen and (min-width: #{$min-width}) {
+        @content;
+    }
+}
+
+// Responds between two values in px
+@mixin respond-between($min-width, $max-width) {
+    @media screen and (min-width: #{$min-width}) and (max-width: #{$max-width}) {
+        @content;
+    }
+}
+
+//--------------------------------------------------------------------
+// Full Bleed
+//
+// Bleed the content into the margins.
+//--------------------------------------------------------------------
+// Extends the element width to the edge of the page, including margins.
+@mixin bleed($side: false) {
+    @if($side == 'left' or $side == false) {
+      margin-left: -#{$content-margin-small};
+    }
+
+    @if($side == 'right' or $side == false) {
+      margin-right: -#{$content-margin-small};
+    }
+
+    @if($side == 'top') {
+        margin-top: -#{$top-margin-small};
+    }
+
+    @if($side == 'bottom') {
+        margin-bottom: -#{$bottom-margin-small} !important;
+    }
+
+    @include respond($bp-medium) {
+        @if($side == 'left' or $side == false) {
+          margin-left: -#{$content-margin-medium};
+        }
+
+        @if($side == 'right' or $side == false) {
+          margin-right: -#{$content-margin-medium};
+        }
+
+        @if($side == 'top') {
+            margin-top: -#{$top-margin-medium};
+        }
+
+         @if($side == 'bottom') {
+            margin-bottom: -#{$bottom-margin-medium} !important;
+        }
+    }
+    @include respond($bp-large) {
+        @if($side == 'left' or $side == false) {
+          margin-left: -#{$content-margin-large};
+        }
+
+        @if($side == 'right' or $side == false) {
+          margin-right: -#{$content-margin-large};
+        }
+    }
+}
+
+//--------------------------------------------------------------------
+// Restore Padding
+//
+// Restore padding on one or both sides of a bleeding element.
+//--------------------------------------------------------------------
+// Add padding equal to the margins (see full-bleed-padding).
+@mixin restore-padding($side: false) {
+    @if($side == 'left' or $side == false) {
+      padding-left: $content-margin-small !important;
+    }
+
+    @if($side == 'right' or $side == false) {
+      padding-right: $content-margin-small !important;
+    }
+
+    @if($side == 'top') {
+      padding-top: $top-margin-small !important;
+    }
+
+    @if($side == 'bottom') {
+        padding-bottom: $bottom-margin-small !important;
+      }
+
+    @include respond($bp-medium) {
+      @if($side == 'left' or $side == false) {
+        padding-left: $content-margin-medium !important;
+      }
+
+      @if($side == 'right' or $side == false) {
+        padding-right: $content-margin-medium !important;
+      }
+
+      @if($side == 'top') {
+        padding-top: $top-margin-medium !important;
+      }
+
+      @if($side == 'bottom') {
+        padding-bottom: $bottom-margin-medium !important;
+      }
+
+    }
+
+    @include respond($bp-large) {
+      @if($side == 'left' or $side == false) {
+        padding-left: $content-margin-large !important;
+      }
+
+      @if($side == 'right' or $side == false) {
+        padding-right: $content-margin-large !important;
+      }
+
+      @if($side == 'top') {
+        padding-top: $top-margin-large !important;
+      }
+
+      @if($side == 'bottom') {
+        padding-bottom: $bottom-margin-large !important;
+      }
+
+    }
+}
+
+// Extend the element width to the edge of the page, including margins
+// and restore the appears of margins using padding.
+@mixin bleed-padding($side: false) {
+    @include bleed($side);
+    @include restore-padding($side);
+}
+
+//--------------------------------------------------------------------
+// Push and Pull
+//
+// Align the content to the inner or outer guides.
+//--------------------------------------------------------------------
+
+$pushpull-width: $padding-width*2;
+
+// Pull the content into the margins
+@mixin pull($side: false, $context: $base-font-size) {
+  @if($side == 'left' or $side == false) {
+    @include bleed(left);
+  }
+
+  @if($side == 'right' or $side == false) {
+    @include bleed(right);
+  }
+
+  @include respond($bp-medium) {
+    @if($side == 'left' or $side == false) {
+      margin-left: em(-$pushpull-width, $context);
+    }
+
+    @if($side == 'right' or $side == false) {
+      margin-right: em(-$pushpull-width, $context);
+    }
+  }
+
+  @include respond($bp-large) {
+    @if($side == 'left' or $side == false) {
+      margin-left: em(-$pushpull-width*2, $context);
+    }
+
+    @if($side == 'right' or $side == false) {
+      margin-right: em(-$pushpull-width*2, $context);
+    }
+  }
+
+}
+
+@mixin pull-padding($side: false, $context: $base-font-size) {
+  @if($side == 'left' or $side == false) {
+    @include restore-padding(left);
+  }
+
+  @if($side == 'right' or $side == false) {
+    @include restore-padding(right);
+  }
+
+  @include respond($bp-medium) {
+    @if($side == 'left' or $side == false) {
+      padding-left: em($pushpull-width, $context);
+    }
+
+    @if($side == 'right' or $side == false) {
+      padding-right: em($pushpull-width, $context);
+    }
+  }
+
+  @include respond($bp-large) {
+    @if($side == 'left' or $side == false) {
+      padding-left: em($pushpull-width*2, $context);
+    }
+
+    @if($side == 'right' or $side == false) {
+        padding-right: em($pushpull-width*2, $context);
+    }
+  }
+}
+
+// Push the margins in towards the center
+@mixin push($side: false, $context: $base-font-size) {
+  @if($side == 'left' or $side == false) {
+    margin-left: 0;
+  }
+
+  @if($side == 'right' or $side == false) {
+    margin-right: 0;
+  }
+
+  @include respond($bp-medium) {
+    @if($side == 'left' or $side == false) {
+      margin-left: em($pushpull-width, $context);
+    }
+
+    @if($side == 'right' or $side == false) {
+      margin-right: em($pushpull-width, $context);
+    }
+  }
+
+  @include respond($bp-large) {
+    @if($side == 'left' or $side == false) {
+      margin-left: em($pushpull-width*2, $context);
+    }
+
+    @if($side == 'right' or $side == false) {
+      margin-right: em($pushpull-width*2, $context);
+    }
+  }
+}
+
+//--------------------------------------------------------------------
+// Alignment
+//
+// Inling alignment for figures and other elements.
+//--------------------------------------------------------------------
+@mixin right {
+    float: right !important;
+    clear: right !important;
+    display: block;
+    margin-left:0;
+    margin-left: 3.1%;
+    // If a left-floating element is followed by a right-floating
+    // element, collapse the margin;
+
+    .one-half.left + & {
+        margin-left: 0;
+    }
+}
+
+@mixin left {
+    float: left !important;
+    clear: left !important;
+    display: block;
+    margin-left: 0;
+    margin-right: 3.1%;
+
+    // If a right-floating element is followed by a left-floating
+    // element, collapse the margin;
+    .one-half.right + & {
+        margin-right: 0;
+    }
+}
+
+@mixin center {
+    float:none;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+//--------------------------------------------------------------------
+// Grid
+//
+// Containers used in the Baseline
+//--------------------------------------------------------------------
+
+
+[class^="col-"], [class*=" col-"] {
+    @include respond-max-width($bp-medium) {
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+.flush [class^="col-"]:nth-of-type(1),
+[class*=" col-"]:nth-of-type(1) {
+    @include respond-min-width($bp-small) {
+        padding-right: 0;
+        margin-right: 0;
+    }
+}
+
+
+.flush [class^="col-"]:nth-of-type(2),
+[class*=" col-"]:nth-of-type(1) {
+    @include respond-min-width($bp-small) {
+        padding-left: 0;
+        margin-left: 0;
+    }
+}
+
+// Grid Layouts - Large (.wide), Medium (.feature), Small (.main), Fill (.fill)
+
+.row {
+    width: 96%;
+    max-width: none;
+    margin: 0 auto;
+
+    @include respond-between($bp-small, $bp-medium) {
+        width: 85%;
+    }
+
+    @include respond-min-width($bp-medium) {
+        width: 88%;
+    }
+}
+
+.row.fluid-fill.wide {
+    width: 100%;
+    max-width: 100%;
+    [class^="col-"],
+    [class*=" col-"] {
+        padding: 0;
+    }
+     @include respond-min-width($bp-xlarge) {
+        width: 88%;
+        max-width: 1300px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+}
+
+.main {
+    max-width: 650px;
+}
+
+.feature {
+    max-width: 650px;
+    @include respond-between($bp-large, $bp-xlarge) {
+        max-width: 1300px;
+    }
+    @include respond-min-width($bp-xlarge) {
+        max-width: 975px;
+
+    }
+}
+
+.wide {
+    max-width: 650px;
+    @include respond-min-width($bp-large) {
+       max-width: 1300px;
+    }
+}
+
+.row.fill {
+    width: 100%;
+    > [class^="col-"],
+    > [class*=" col-"] {
+        padding: 0;
+    }
+}
+
+/* Right Aside and Offset */
+
+.noflex { //remove from flexbox
+    width: 100%;
+    .col-xl-4, .col-lg-5, .col-md-6, .col-xs-12 {
+        padding-top: 0;
+        padding-bottom: 0;
+        flex-basis: auto; /*for fixing issue in Safari and Firefox*/
+    }
+
+    @include respond-max-width($bp-medium) {
+        display: flex;
+        order: 0;
+        flex-direction: column-reverse;
+    }
+    .indent-right {
+        float: right;
+        margin-left: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .indent-left {
+        float: left;
+        margin-right: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .indent-right, .indent-left {
+        @include respond-max-width($bp-medium) {
+        //    flex-shrink: 1000; /* for proper display in Firefox */
+            margin: 0;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    }
+    .aside-right {
+        float: right;
+        margin-left: 15px;
+        padding-right: 15px;
+        padding-left: 15px;
+        @include respond-max-width($bp-large) {
+            margin-right: 0;
+        }
+    }
+
+    .aside-left {
+        float: left;
+        margin-right: 15px;
+        padding-right: 15px;
+        padding-left: 15px;
+       @include respond-max-width($bp-large) {
+            margin-left: 0;
+        }
+    }
+
+    .aside-right, .aside-left {
+        width: 310px;
+        @include respond-max-width($bp-medium) {
+            width: 100%;
+            margin: 0;
+            float: none;
+            padding: 0 10px;
+        }
+    }
+
+}
+
+.main-fix{
+   p, h2, h3, h4, h5, h6 {
+        padding-left: 15px; /* to add the extra padding when we have flex container */
+        padding-right: 15px;
+        float: none;
+        @include respond-max-width($bp-medium) {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    }
+}
+
+
+/* Text Panel */
+
+.panel-text {
+    margin: 21px 0 13px 0;
+    padding: 1px 20px 8px 20px;
+    h5 {
+        font-weight: 600;
+    }
+    @include respond-min-width($bp-large) {
+        margin: 26px 0 17px;
+        padding: 5px 30px 16px 30px;
+    }
+}

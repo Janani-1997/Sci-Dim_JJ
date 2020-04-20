@@ -1,0 +1,28 @@
+[data-ink-edition-labels="teacher"] {
+        display: none;
+        height: 0px;
+        width: 0px;
+}
+
+
+.s9-in-editor {
+    .PageContainer {
+        position: relative !important;
+    }    
+
+
+    [data-ink-edition-labels="teacher"] {
+            background:  white;
+            display: block;
+            height: 100%;
+            width: 100%;
+            
+    }
+}
+
+.fetch-result-card-wrapper {   
+    .PageContainer {
+        position: relative !important;
+    }
+}
+

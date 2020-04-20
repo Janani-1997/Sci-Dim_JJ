@@ -1,0 +1,14 @@
+/* Only include this on the opening page containing parallax */
+html {
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  -webkit-perspective: 1px;
+  perspective: 1px;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}

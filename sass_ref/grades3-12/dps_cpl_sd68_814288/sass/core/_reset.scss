@@ -1,0 +1,30 @@
+/*--------------------------------------------------------------------
+ * Reset
+ *
+ * Remove any browser-defined defaults that might affect layout.
+ *------------------------------------------------------------------*/
+/* The DIV element is not included in the reset as a requirement of 
+the Habitat platform. */
+
+/* [EPUB] The universal selector (*) has not been used because it throws 
+an EPUB check warning.*/
+
+a, abbr, acronym, address, applet, article, aside, audio, 
+b, big, blockquote, body,  canvas, caption, center, cite, 
+code, dd, del, details, dfn, dl, dt, em, embed, fieldset, 
+figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, 
+header, hgroup, html,  i, iframe, img, ins, input, kbd, label, 
+legend, li, mark, menu, nav, object,  ol, output, p, pre, 
+q, ruby, s, samp, section, small, span, strike, strong, sub, 
+summary, sup, table, tbody, td, textarea, tfoot, th, thead, time, 
+tr, tt, u, ul, var, video, :before, :after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+
+    // Use the border-box sizing model for more intuitive padding and widths.
+    @include prefix(box-sizing, border-box);
+}

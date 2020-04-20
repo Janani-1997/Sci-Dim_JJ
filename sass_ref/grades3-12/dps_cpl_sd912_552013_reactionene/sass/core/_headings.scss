@@ -1,0 +1,229 @@
+/*------------------------------------------------------------------
+ * Headings
+ *----------------------------------------------------------------*/
+
+
+ h1, h2, h3, h4{
+  font-family: $font-serif;
+}
+
+h5, h6, h6.headerl7, h6.headerl8, h6.headerl9 {
+    font-family: $font-sans;
+}
+
+h4{
+  font-weight: bold;
+}
+
+@include respond-max-width($bp-large) {
+
+
+    h1, h2, h3, h4, h5, h6, .h7, .h8, h6.headerl7, h6.headerl8, h6.headerl9 {
+        /*margin-left: -3px;*/
+    }
+
+
+    h1.no-spacing, h2.no-spacing, h3.no-spacing, h4.no-spacing, h5.no-spacing, h6.no-spacing, .h7.no-spacing, .h8.no-spacing, h6.headerl7.no-spacing, h6.headerl8.no-spacing, h6.headerl9.no-spacing {
+        margin: 9px 0 0 0px;
+    }
+
+    html, body{
+
+    }
+
+    h1 {
+        font-size: 1.8rem;
+        line-height: 1.2;
+        padding: 0px 0px 2px 0px;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+        line-height: 1.3;
+        padding: 3px 0px 3px 0px;
+    }
+
+    h3, blockquote {
+        font-size: 1.2rem;
+        line-height: 1.35;
+        padding: 4px 0px 4px 0px;
+    }
+
+    h4, .intro-text {
+        font-size: 1.1rem;
+        line-height: 1.5;
+        padding: 5px 0px 5px 0px;
+    }
+
+    h5 {
+        font-size: 1rem;
+        line-height: 1.5;
+        padding: 6px 0px 6px 0px;
+    }
+
+    h6 {
+        font-size: 0.9rem;
+        line-height: 1.5;
+        padding: 7px 0px 7px 0px;
+    }
+
+    h6.headerl7 {
+        font-size: 0.8rem;
+        line-height: 1.5;
+        padding: 8px 0px 8px 0px;
+    }
+
+    h6.headerl8 {
+        font-size: 0.7rem;
+        line-height: 1.5;
+        padding: 9px 0px 9px 0px;
+    }
+
+    h6.headerl9 {
+        font-size: 0.6rem;
+        line-height: 1.5;
+        padding: 10px 0px 10px 0px;
+    }
+
+    p {
+        line-height: 1.5;
+        font-size: 1rem;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        padding: 6px 0px 6px 0px;
+    }
+}
+
+
+
+@include respond-min-width($bp-large) {
+
+    // h1, h2, h3, h4, h5, h6, .h7, .h8{
+        //     margin-left:-4px;
+        // }
+
+        h1.no-spacing, h2.no-spacing, h3.no-spacing, h4.no-spacing, h5.no-spacing, h6.no-spacing, .h7.no-spacing, .h8.no-spacing, h6.headerl7.no-spacing, h6.headerl8.no-spacing, h6.headerl9.no-spacing{
+            margin: 9px 0 0 -4px;
+        }
+
+        h1 {
+            font-size: 2.6rem;
+            line-height: 1.2;
+            padding: 0px 0px 2px 0px;
+        }
+
+        h2 {
+            font-size: 1.9rem;
+            line-height: 1.3;
+            padding: 3px 0px 3px 0px;
+        }
+
+        h3{
+            font-size: 1.5rem;
+            line-height: 1.35;
+            padding: 4px 0px 4px 0px;
+        }
+
+        h4{
+            font-size: 1.1rem;
+            line-height: 1.5;
+            padding: 5px 0px 5px 0px;
+        }
+
+        h5 {
+            font-size: 1rem;
+            line-height: 1.5;
+            padding: 6px 0px 6px 0px;
+        }
+
+        h6 {
+            font-size: 0.9rem;
+            line-height: 1.5;
+            padding: 7px 0px 7px 0px;
+        }
+
+        h6.headerl7 {
+            font-size: 0.8rem;
+            line-height: 1.5;
+            padding: 8px 0px 8px 0px;
+        }
+
+        h6.headerl8 {
+            font-size: 0.7rem;
+            line-height: 1.5;
+            padding: 9px 0px 9px 0px;
+        }
+
+        h6.headerl9 {
+            font-size: 0.6rem;
+            line-height: 1.5;
+            padding: 10px 0px 10px 0px;
+        }
+
+        p {
+            line-height: 1.5;
+            font-size: 1rem;
+            margin-top: 0px;
+            margin-right: 0px;
+            margin-bottom: 0px;
+            margin-left: 0px;
+            padding: 6px 0px 6px 0px;
+        }
+    }
+
+    .intro{
+        h4{
+          color: $blue-d6;
+      }
+
+      &.two-cols{
+          h4{
+            padding-top: 0;
+            margin-top: -0.3rem;
+        }
+        .col-xs-6{
+            p:nth-of-type(1){
+              margin-top: 0;
+          }
+      }
+  }
+}
+
+@include respond-max-width($bp-medium) {
+    .intro{
+      img{
+        margin-top: 19px;
+    }
+
+    &.two-cols{
+        .row {
+          flex-direction: column-reverse;
+      }
+  }
+}
+}
+
+.two-cols-with-image{
+  &.two-cols{
+      p{
+        padding-top: 0;
+        margin-top: -0.3rem;
+    }
+}
+}
+
+@include respond-max-width($bp-medium) {
+    .two-cols-with-image{
+      img{
+        margin-top: 19px;
+    }
+
+    &.two-cols{
+        .row {
+          flex-direction: column-reverse;
+      }
+  }
+}
+}

@@ -1,0 +1,18 @@
+$explib-theme-gradients: 
+    "linear-one" "linear-gradient(to right, #bfeb77 0%, #2d6e03 100%)" "linear-gradient(45deg, #982156 0%, #ef75a7 19%, #ff4c48 42%, #fd7b24 70%, #d3ba4f 100%)",
+    "transparent" "transparent;color:#e25a00" ""
+                        ;
+@each $explib-theme-gradient in $explib-theme-gradients {
+    explib-interaction-anatomy .theme-#{nth($explib-theme-gradient, 1)} {
+        .anatomy-title {
+            background: #{nth($explib-theme-gradient, 2))};
+//            border-top-left-radius : $border-top-left-radius;
+//            border-top-right-radius : $border-top-right-radius;
+//            border-bottom-left-radius : $border-bottom-left-radius;
+//            border-bottom-right-radius : $border-bottom-right-radius;            
+        }
+        .anatomy-stem {
+            background-color: #{nth($explib-theme-gradient, 3))};
+        }          
+    }
+}

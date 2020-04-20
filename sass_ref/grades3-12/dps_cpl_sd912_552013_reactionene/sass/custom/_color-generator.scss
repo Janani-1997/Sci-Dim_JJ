@@ -1,0 +1,15 @@
+
+//--------------------------------------------------------------------
+// DSS Color Function
+// class names used in Habitat
+//--------------------------------------------------------------------
+
+@each $dss-color in $dss-colors {
+  .#{nth($dss-color, 1)} {
+    color: #{nth($dss-color, 2)} !important;
+  }
+
+  .bg-#{nth($dss-color, 1)} {
+    background-color: #{nth($dss-color, 2)} !important;
+  }
+}

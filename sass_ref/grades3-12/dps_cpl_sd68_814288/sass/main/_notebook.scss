@@ -1,0 +1,50 @@
+div.evidence-notebook {
+  .wrapper {
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 12px;
+    h6 {
+      margin: 0;
+      color: white;
+      padding: 0 15px 0 85px;
+      position: relative;
+      border-top-left-radius: 2px;
+      border-top-right-radius: 2px;
+      border-bottom-right-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    h6 span {
+      content: "";
+      background-image: url(images/evidence_notebook_solo.svg);
+      background-position: 6px center;
+      background-repeat: no-repeat;
+      background-size: 38px;
+      width: 55px;
+      height: 55px;
+      display: block;
+      border: 2px solid white;
+      border-radius: 55px;
+      position: absolute;
+      left: 15px;
+      top: -15px;
+    }
+    .content {
+      padding: 22px 30px 22px 30px;
+      background: $light-gray-l8;
+      border-bottom-right-radius: 5px;
+      border-bottom-left-radius: 5px;
+
+      > p{
+        margin: 0;
+        padding: 0;
+      }
+    }
+  }
+
+  &.collaborate{
+    h6{
+      padding-left: 30px;
+    }
+  }
+}

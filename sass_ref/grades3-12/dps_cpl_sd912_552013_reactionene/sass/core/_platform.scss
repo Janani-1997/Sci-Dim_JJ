@@ -1,0 +1,270 @@
+/*------------------------------------------------------------------
+ * Platform
+ *
+ * Platform-specific CSS for links and terms.
+ *----------------------------------------------------------------*/
+ /* Inline Links */
+.link-inline {
+    color: $link_color;
+    text-decoration: none;
+    margin-right: 0.2em;
+    padding: 0.1em 1.2em 0.1em 0;
+    background: url("images/icon-link-blue.svg") right center no-repeat;
+    background-size: 1em auto;
+
+    &[href*="[chapter"],
+    &[href*="[Chapter"],
+    &[rel="chapter"],
+    &[rel="jump"] {
+        padding-right: 1em;
+        background: url("images/icon-link-jump-blue.svg") right center no-repeat;
+        background-size: 1em auto;
+    }
+}
+
+/* Definitions */
+dfn {
+    font-weight: 700;
+    font-style: normal;
+    color: #f38030; /* DSS Orange */
+    margin-right: 0.2em;
+    padding-right: 1.1em;
+    background: url("images/icon-definition-blue.svg") right center no-repeat;
+    background-size: 1em auto;
+    > em {
+        font-weight: 400;
+        // font-style: normal;
+    }
+}
+
+/* Remarks */
+[href*="[remark"],
+[rel="remark"] {
+    color: $link_color;
+    text-decoration: none;
+
+    a {
+        font-size: normal;
+    }
+
+    &.remark-large {
+        font-size: inherit;
+        vertical-align: inherit;
+    }
+}
+
+a[href*="[remark"],
+a[rel="remark"] {
+    vertical-align: super;
+    font-size: $font_size-small;
+    line-height: 0.9em; /* fixes line-height bug */
+}
+
+/*--------------------------------------------------------------------
+ * Scrollable
+ *
+ * Provides a way to scroll content that is too wide for the content
+ * window. When the page loads, reader.js determines if the content
+ * needs to scroll. If so, it will add `.s9-is-scrollable` class to
+ * the surrounding div.
+ * Note: This requires `<div class="s9-scrollable">` to surround the
+ * content you want to scroll.
+ *------------------------------------------------------------------*/
+.s9-scrollable {
+    display: block;
+    width: 100%;
+    overflow-y: auto;
+    text-align: center;
+    clear: both;
+    figure > img.equation,
+    .equation-key > img.equation {
+        padding: 0 10px;
+        box-sizing: content-box;
+    }
+    img {
+        max-width: none;
+    }
+    > table {
+        /* For scrollable HTML tables */
+        text-align: left;
+        width: 100%;
+    }
+    &.s9-is-scrollable {
+        box-shadow: inset 1px 0px 5px #CCC;
+        margin-top: .7em;
+        margin-bottom: .7em;
+        > table {
+            /* For scrollable HTML tables */
+            min-width: 620px;
+        }
+    }
+}
+
+/* Fixes a scrolling bug in iOS */
+.s9-scrollable table {
+    -webkit-transform: none !important;
+}
+
+body > .s9-scrollable {
+    @include bleed-padding;
+}
+
+/*--------------------------------------------------------------------
+ * Audio Button
+ *
+ * Styling for inline audio player button. Change this only if
+ * absolutely necessary.
+ *------------------------------------------------------------------*/
+.s9-audio-button-custom {
+    margin-top: 23px;
+    display: inline-block;
+    padding: 6px 10px 6px 40px;
+    color: #fff;
+    text-decoration: none;
+    text-indent: 0;
+    text-align: left;
+    text-transform: none;
+    font-family: $body-font-family;
+    font-size: .8em;
+    font-weight: 600;
+    line-height: 1.1em;
+    @include unselectable;
+    border-radius: 5px;
+    background: $light-gray url(images/white/icon-audio.svg) no-repeat 10px center;
+    background-size: 20% auto;
+    &.s9-active {
+        opacity: .5;
+    }
+}
+
+/*------------------------------------------------------------------
+* Habitat Tweaks
+*
+* Required for Habitat App
+*----------------------------------------------------------------*/
+figure {
+    > a,
+    > img,
+    .figure-image {
+        /* Required for tap highlight */
+        display: block;
+    }
+}
+
+/*--------------------------------------------------------------------
+ * Key Terms
+ *
+ * Uses floated list items to create the holders for the data.
+ * `.no-link` is used for page numbers that do not have links in Key
+ * Terms Cloud Extended.
+ * See [Key Term](/pattern-library/core-patterns/lists/key-term/)
+ * for example HMTL.
+ *------------------------------------------------------------------*/
+.key-term {
+    padding-left: 0;
+    overflow: hidden;
+    li {
+        float: left;
+        display: table;
+        list-style: none;
+        margin: 0 0.6em 0.6em 0;
+        border: 1px solid #A9ABAE;
+        border-right: none;
+        background: #fff;
+        position: relative;
+        > dfn, > .term-only, > .nolink {
+            font-family: $body-font-family;
+            font-size: 1em;
+            font-weight: 600;
+            line-height: 1.4em;
+            font-style: normal;
+            color: #000;
+            background: none;
+            display: table-cell;
+            padding: 0.5em;
+            border-right: 1px solid #A9ABAE;
+            height: 1.5em;
+            &:after {
+                width: 1em;
+                height: 1em;
+                display: inline-block;
+                padding-left: .2em;
+                content: "";
+                background: url("images/icon-definition-blue.svg") 100% .2em no-repeat;
+                background-size: .9em auto;
+                top: 2px;
+                position: relative;
+            }
+        }
+        > .term-only, > .nolink {
+            &:after {
+                content: none;
+            }
+        }
+    }
+    a {
+        font-family: $body-font-family;
+        font-weight: 600;
+        color: black;
+        padding: 0.1em 1.1em 0.1em .5em;
+        margin-right: .5em;
+        background: url("images/icon-link-blue.svg") 100% .2em no-repeat;
+        background-size: .9em auto;
+        &:after {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            border-right: 1px solid #A9ABAE;
+        }
+    }
+}
+
+/*--------------------------------------------------------------------
+ * Key Term Extended
+ *------------------------------------------------------------------*/
+// Key terms are defined inline with a page reference.
+
+// See [Key Term Extended](pattern-library/core-patterns/lists/key-term-extended/)
+// for HTML example.
+.key-term-extended {
+    font-family: $body-font-family;
+    font-size: $base-font-size;
+    font-weight: 400;
+    line-height: 1.4em;
+    list-style: none;
+    padding: 0;
+    li {
+        margin: .5em 0;
+    }
+}
+
+/*------------------------------------------------------------------
+ * S9 Video
+ *----------------------------------------------------------------*/
+// Set native videos to always be scaled to their container. We use !important here as many videos
+// that get imported will set a width or height on the element themselves, which has higher
+// specificicty, so we use !important to ensure they scale correctly.
+video {
+    width: 100% !important;
+    height: auto !important;
+}
+
+// Enable videos in iframes to scale responsively. We are presetting to a 16:9 aspect ratio with
+// the padding in a wrapper trick. To understand more about how this hack works and why it is
+// necessary, see here: http://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
+.s9-video {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+
+    iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+}

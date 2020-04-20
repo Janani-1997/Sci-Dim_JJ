@@ -1,0 +1,26 @@
+/*--------------------------------------------------------------------
+ * Links
+ *
+ * Text and button links.
+ *------------------------------------------------------------------*/
+a {
+    color: $link_color;
+    font-weight: 600;
+    text-decoration: none;
+    @include force-wrap;
+    border-bottom: 1px solid $link_color;
+}
+
+.button {
+    @include button-base;
+    background: orange;
+    color: $white;
+    border: 1px solid orange;
+}
+
+.button-outline {
+    @include button-base;
+    background: transparent;
+    border: 1px solid orange;
+    color: orange;
+}

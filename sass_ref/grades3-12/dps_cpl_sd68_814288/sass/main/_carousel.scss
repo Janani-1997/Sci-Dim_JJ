@@ -1,0 +1,55 @@
+.car {
+	height: 660px;
+	.slide {
+		position:absolute;
+		left: 15px;
+	}
+	.window { 
+		width: 98%; height: 660px;
+		position:relative; overflow:hidden;  
+	}
+	.slide img { 
+		display:inline-block; 
+		width:620px; height: 620px; 
+		margin: 0 auto; cursor:pointer; transition:.5s; 
+	}
+	.slide img:focus {  
+		position:relative; z-index:1; 
+		opacity:1; outline:0;
+	}
+	.slide .p1:focus ~ img.lli-1.jpg {z-index: 2;}
+	.slide .p2:focus ~ img.lli-2.jpg {z-index: 3;}
+	.slide .p3:focus ~ img.lli-3.jpg {z-index: 4;}
+	.slide .p4:focus ~ img.lli-4.jpg {z-index: 5;} 
+
+	/* Labels for fake buttons */
+	.labels { 
+		position: absolute;
+		height: 1.5em; 
+		z-index: 6;
+		bottom: 2.5em;
+		left: 60px;
+	}
+	.labels ul {
+		list-style-type: none;
+		margin-left: 0;
+	}
+	.labels ul li {
+		display: inline-block;
+		float: left;
+		width: 6.7em;
+		font-size: 0.9em;
+		margin-right: 0.85em; 
+		height: 2em;
+		line-height: 1.8;
+		color: #fb6400;
+		padding: 0;
+		text-align: center;
+		border: 2px solid #fb6400;
+	}
+
+	.labels ul li:last-child {margin-right: 0;}
+
+	.labels ul>li:before {content: "";left: 0;margin-top: 0;}
+
+}

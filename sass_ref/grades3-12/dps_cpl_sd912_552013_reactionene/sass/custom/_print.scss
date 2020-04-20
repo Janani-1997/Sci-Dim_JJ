@@ -1,0 +1,157 @@
+/*--------------------------------------------------------------------
+// Print-specific
+//
+// When an PDF build is created, a link to Print.css is added to
+// each card. This can be useful for creating CSS that only appears
+// in the PDF builds.
+//------------------------------------------------------------------*/
+@page {
+  /* auto is the initial value */
+  size: auto;
+  /* this affects the margin in the printer settings. MM or CM recommended */
+  margin: 25mm 25mm 25mm 25mm;
+  /*Create page counters set to bottom-left*/
+  @bottom-left {
+    counter-increment: page;
+    content: counter(page);
+  }
+}
+@media print {
+  body {
+    /* this affects the margin on the content before sending to printer */
+    margin: 0px;
+  }
+
+  /*------------------------------------------------------------------
+   * Pagination
+   *----------------------------------------------------------------*/
+  aside, blockquote, figure, header, iframe,
+  nav, object, pre, section, table {
+    page-break-inside: avoid;
+  }
+
+  h1, h2 {
+    page-break-after: avoid;
+  }
+
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /*------------------------------------------------------------------
+   * Images
+   *----------------------------------------------------------------*/
+  img {
+    max-width: 100% !important;
+  }
+
+  /*------------------------------------------------------------------
+   * Unit, Part, Chapter Banner Section 
+   *----------------------------------------------------------------*/
+  /* Currently unsupported*/
+  section, aside, div, header {
+    -webkit-print-color-adjust: exact;
+  }
+
+  /* Fallback CSS */
+  section, aside.sidenote-important, aside.sidenote-tip, aside.sidenote-question,
+  div, .sidenote-title {
+    background-color: transparent !important;
+  }
+
+  /* remove border */
+  section {
+    border: none !important;
+  }
+
+  /* Specify Special Sidenote Title color*/
+  aside.sidenote-important .sidenote-title, aside.sidenote-tip .sidenote-title, aside.sidenote-question .sidenote-title {
+    color: #faae19 !important;
+  }
+
+  /* Specify unit text color*/
+  .unit-info {
+    color: #00577f !important;
+  }
+
+  /*------------------------------------------------------------------
+   * Animation
+   *----------------------------------------------------------------*/
+  .animate {
+    opacity: 1 !important;
+  }
+
+  /*------------------------------------------------------------------
+   * MathML
+   *----------------------------------------------------------------*/
+  /*limiting the width of block MathML equations in PDF */
+  .figure-equation {
+    max-width: 33%;
+  }
+
+  /*------------------------------------------------------------------
+   * Width & Alignment Fixes (HACK)
+   *----------------------------------------------------------------*/
+  body {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .bleed,
+  .full-bleed {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+
+  figure .bleed,
+  figure .full-bleed {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .bleed-right {
+    margin-right: 0 !important;
+    padding-right: 20px;
+  }
+
+  .bleed-left {
+    margin-left: 0 !important;
+    padding-left: 20px;
+  }
+
+  /* fixing grid display*/
+  .grid {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    clear: both !important;
+    width: 100% !important;
+    display: block !important;
+    /* re-setting width */
+  }
+
+  .grid .one-half {
+    width: 48% !important;
+  }
+
+  .grid .one-third {
+    width: 30% !important;
+  }
+
+  .grid .one-fourth {
+    width: 22% !important;
+  }
+
+  .grid-padding .item {
+    padding: .5mm !important;
+  }
+
+  /* Specify Special Sidenote Title margin*/
+  aside.sidenote-important .sidenote-title, aside.sidenote-important blockquote, aside.sidenote-tip .sidenote-title, aside.sidenote-tip blockquote, aside.sidenote-question .sidenote-title, aside.sidenote-question blockquote {
+    margin-top: 1cm !important;
+  }
+}

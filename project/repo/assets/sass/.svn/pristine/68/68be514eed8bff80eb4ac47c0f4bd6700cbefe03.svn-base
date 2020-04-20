@@ -1,0 +1,60 @@
+/*--------------------------------------------------------------------
+ * Fractions
+ *
+ * Use with with the HTML slash entity
+ *------------------------------------------------------------------*/
+.fraction {
+    position: relative;
+    top: .25em;
+    left: -.2em;
+    margin-left: .25em;
+    + sub {
+        position: relative;
+        top: -0.2em;
+        margin-left: .1em;
+        margin-right: .2em;
+    }
+}
+
+var {
+  font-style: italic;
+  font-family: $font_serif;
+}
+
+/*--------------------------------------------------------------------
+ * Equations
+ *------------------------------------------------------------------*/
+/* Block Image Equations */
+figure > img.equation,
+.equation-key > img.equation {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: initial;
+}
+
+/* Inline Image Equations */
+p > img.equation,
+li > img.equation,
+figcaption img.equation {
+    height: auto;
+    display: inline-block;
+    vertical-align: -0.1em;
+}
+
+/* HTML Equations  */
+/* Both inline and block. */
+div.equation {
+    text-align: center;
+    margin: 1em auto;
+    display: inline-block;
+    padding: 0 10px;
+    white-space: nowrap;
+}
+
+span.equation {
+    white-space: nowrap;
+    @include respond-mobile {
+        white-space: normal;
+    }
+}

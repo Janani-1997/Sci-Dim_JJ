@@ -1,0 +1,15 @@
+/*------------------------------------------------------------------
+ * Base
+ *
+ * Base CSS for page color, typogrpahy and margins.
+ * WARNING: Editing these styles may cause unintended effects.
+ *----------------------------------------------------------------*/
+
+// Set the base properties
+body {
+    @include clearfix;
+    @include clearboth;
+    display: block;
+    background: $white; 
+    color: $text-color;
+}

@@ -1,0 +1,214 @@
+/* Inkling Fonts
+ * 2014-09-23
+ * Font-face declarations required for Inkling CSS.
+ */
+
+@font-face {
+    /* Font family name as it appears in the CSS */
+    font-family: 'Source Sans Pro';
+
+    /* Specified weight, style and stretch */
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+
+    /* Source locations, in order of loading attempts:
+        1. Locally installed font using postscript font name
+        2. Locally installed font using font family name
+        3. WOFF file in this directory - IE9+, FF3.6+, GC5+1, S5.1+
+        4. TTF file in this directory - Android 2.3
+    */
+    src: local('SourceSansPro-Light'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-light.otf.woff') format('woff'),
+         url('sourcesanspro-light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-LightIt'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-lightit.otf.woff') format('woff'),
+         url('sourcesanspro-lightit.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    src: local('SourceSansPro-Regular'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-regular.otf.woff') format('woff'),
+         url('sourcesanspro-regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-It'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-it.otf.woff') format('woff'),
+         url('sourcesanspro-it.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    src: local('SourceSansPro-Semibold'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-semibold.otf.woff') format('woff'),
+         url('sourcesanspro-semibold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-SemiboldIt'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-semiboldIt.otf.woff') format('woff'),
+         url('sourcesanspro-semiboldIt.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    src: local('SourceSansPro-Bold'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-bold.otf.woff') format('woff'),
+         url('sourcesanspro-bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-BoldIt'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-boldIt.otf.woff') format('woff'),
+         url('sourcesanspro-boldIt.ttf') format('truetype');
+}
+
+/* Tinos - 4 styles */
+@font-face {
+    font-family: 'Tinos';
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    src: local('Tinos-Regular'),
+         local('Tinos'),
+         url('tinos-regular.woff') format('woff'),
+         url('tinos-regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Tinos';
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('Tinos-Italic'),
+         local('Tinos'),
+         url('tinos-italic.woff') format('woff'),
+         url('tinos-italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Tinos';
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    src: local('Tinos-Bold'),
+         local('Tinos'),
+         url('tinos-bold.woff') format('woff'),
+         url('tinos-bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Tinos';
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('Tinos-BoldItalic'),
+         local('Tinos'),
+         url('tinos-bolditalic.woff') format('woff'),
+         url('tinos-bolditalic.ttf') format('truetype');
+}
+
+
+@font-face{
+	/* font-family:"Serifa w01_45 Light788315"; */
+	font-family:"Serifa w01";
+	font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+	src:url("w01/8a261be0-67b0-4281-b1bf-59158330a8e8.eot?#iefix");
+	src:url("w01/58356123-ed4a-4811-9750-616ce4e42a42.woff") format("woff"),
+		url("w01/6874f506-2772-443a-b9d2-d1f8d75d57eb.ttf") format("truetype");
+}
+
+@font-face{
+	/* font-family:"Serifaw01-46 LightItalic"; */
+	font-family:"Serifa w01";
+	font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+	src:url("w01/0d474523-ca54-4ff8-a870-93696be64958.eot?#iefix");
+	src:url("w01/92f5572d-0a60-4254-b1c1-54e8906906a0.woff") format("woff"),
+		url("w01/49388ca4-3f31-4736-aa28-e225a7b887f5.ttf") format("truetype");
+}
+
+@font-face{
+	/* font-family:"Serifa w01_55 Roman788321"; */
+	font-family:"Serifa w01";
+	font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+	src:url("w01/ea7ab949-b653-4551-9457-3a4ccc00d16a.eot?#iefix");
+	src:url("w01/675fde2f-8573-4f91-bea3-266fb7ab1888.woff") format("woff"),
+		url("w01/ebee6742-993a-4386-b7c3-d51f3ab65784.ttf") format("truetype");
+}
+
+@font-face{
+	/* font-family:"Serifa w01_56 Italic788324"; */
+	font-family:"Serifa w01";
+	font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+	src:url("w01/90d3f851-5b71-4798-bf21-967b1ae3d2a4.eot?#iefix");
+	src:url("w01/f462ceb7-496b-4b9b-8086-e2d4567760a0.woff") format("woff"),
+		url("w01/af929f71-930d-4c92-be14-2178df19535e.ttf") format("truetype");
+}
+
+@font-face{
+	/* font-family:"Serifa w01_65 Bold788327"; */
+	font-family:"Serifa w01";
+	font-weight: 700;
+    font-style: bold;
+    font-stretch: normal;
+	src:url("w01/3fe1de3f-807a-4ce9-be53-a76c5e6b01a8.eot?#iefix");
+	src:url("w01/f58e03bf-c3ee-42a7-ba0b-db370f93fc7c.woff") format("woff"),
+		url("w01/be4557e5-a18f-4e6b-b2f0-c34181460c2d.ttf") format("truetype");
+}
+
+@font-face{
+	/* font-family:"Serifa w01_75 Black788330"; */
+	font-family:"Serifa w01";
+	font-weight: 900;
+    font-style: black;
+    font-stretch: normal;
+	src:url("w01/83d004cc-3743-452c-8151-106a7cfb2279.eot?#iefix");
+	src:url("w01/00bcd36f-1618-4d59-8f25-2ee3e96330c9.woff") format("woff"),
+		url("w01/1a986065-8a65-479a-82c4-966522efd86d.ttf") format("truetype");
+}

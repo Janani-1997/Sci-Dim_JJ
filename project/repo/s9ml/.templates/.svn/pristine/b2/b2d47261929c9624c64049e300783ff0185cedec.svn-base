@@ -1,0 +1,3216 @@
+<!-- Col Head / 3 x 3 Main Container -->
+<script type="application/inkling+patternsnippet" id="rtablemain33" data-label="Col Head / 3 x 3 Main Container" data-category="Tables">
+<div class="static boxed-content-no-topspace">
+        <div class="spacer regular"></div>
+        <div class="row main rtable">
+            <div class="col-xs-12">
+                <table class="colhead">
+                    <caption>Table Title (2–5 columns)</caption>
+                    <thead>
+                        <tr>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Col Head / 6 x 6 Feature Container -->
+<script type="application/inkling+patternsnippet" id="rtablefeature66" data-label="Col Head / 6 x 6 Feature Container" data-category="Tables">
+<div class="static boxed-content-no-topspace">
+        <div class="spacer regular"></div>
+        <div class="row feature rtable">
+            <div class="col-xs-12">
+                <table class="colhead">
+                    <caption>Table Title (6–9 columns)</caption>
+                    <thead>
+                        <tr>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Col Head / 12 x 12 Wide Container -->
+<script type="application/inkling+patternsnippet" id="rtablewide1212" data-label="Col Head / 12 x 12 Wide Container" data-category="Tables">
+<div class="static boxed-content-no-topspace">
+        <div class="spacer regular"></div>
+        <div class="row wide rtable">
+            <div class="col-xs-12">
+                <table class="colhead">
+                    <caption>Table Title (10–12 columns)</caption>
+                    <thead>
+                        <tr>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                            <th>Head</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Row Head / 3 x 3 Main Container -->
+<script type="application/inkling+patternsnippet" id="rtablerowheadmain33" data-label="Row Head / 3 x 3 Main Container" data-category="Tables">
+<div class="static boxed-content-no-topspace">
+        <div class="spacer regular"></div>
+        <div class="row main rtable">
+            <div class="col-xs-12">
+                <table class="rowhead">
+                    <caption>Table Title (2–5 columns)</caption>
+                    <thead>
+                        <tr>
+                            <th scope="col"></th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Row Head / 6 x 6 Feature Container -->
+<script type="application/inkling+patternsnippet" id="rtablerowheadfeature66" data-label="Row Head / 6 x 6 Feature Container" data-category="Tables">
+<div class="static boxed-content-no-topspace">
+        <div class="spacer regular"></div>
+        <div class="row feature rtable">
+            <div class="col-xs-12">
+                <table class="rowhead">
+                    <caption>Table Title (6–9 columns)</caption>
+                    <thead>
+                        <tr>
+                            <th scope="col"></th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Row Head / 12 x 12 Wide Container -->
+<script type="application/inkling+patternsnippet" id="rtablerowheadwide1212" data-label="Row Head / 12 x 12 Wide Container" data-category="Tables">
+<div class="static boxed-content-no-topspace">
+        <div class="spacer regular"></div>
+        <div class="row wide rtable">
+            <div class="col-xs-12">
+                <table class="rowhead">
+                    <caption>Table Title (10–12 columns)</caption>
+                    <thead>
+                        <tr>
+                            <th scope="col"></th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                            <th scope="col">Head</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Head</th>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Subhead Example -->
+<script type="application/inkling+patternsnippet" id="rtablesubheadexample" data-label="Subhead Example" data-category="Tables">
+<div class="static boxed-content-no-topspace">
+        <div class="spacer regular"></div>
+        <div class="row feature rtable">
+            <div class="col-xs-12">
+                <table class="colhead">
+                    <caption>Electron Configurations of Atoms of Third-period Elements</caption>
+                    <thead>
+                        <tr>
+                            <th rowspan="2">Name</th>
+                            <th rowspan="2">Symbol</th>
+                            <th rowspan="2">Atomic Number</th>
+                            <th colspan="5" class="splitcellheader">Number of electrons in sublevels</th>
+                            <th rowspan="2">Noble-gas notation</th>
+                        </tr>
+                        <tr>
+                            <th>1s</th>
+                            <th>2s</th>
+                            <th>2p</th>
+                            <th>3s</th>
+                            <th>3p</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Sodium</td>
+                            <td>Na</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Magnesium</td>
+                            <td>Mg</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Aluminium</td>
+                            <td>Al</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Silicon</td>
+                            <td>Si</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Phosphorus</td>
+                            <td>P</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Sulfur</td>
+                            <td>S</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Chlorine</td>
+                            <td>Cl</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                        <tr>
+                            <td>Argon</td>
+                            <td>Ar</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                            <td>Text</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Table Caption -->
+<script type="application/inkling+patternsnippet" id="rtablecaption" data-label="Table Caption" data-category="Tables">
+<div class="image-caption boxed-content-no-topspace">
+        <article class="thecaption row main">
+            <section class="col-xs-12">
+                <p class="caption light-gray-d1"><strong>Table Caption</strong> | Table caption text goes here. Delete pattern if not required.</p>
+            </section>
+        </article>
+    </div>
+</script>
+
+<!-- Image within a Table Cell -->
+<script type="application/inkling+patternsnippet" id="rtableimage" data-label="Image within a Table Cell" data-category="Tables">
+<figure><img alt="" /></figure>
+</script>
+
+<!-- Accordion -->
+<script type="application/inkling+patternsnippet" id="accordion" data-label="Accordion" data-category="Accordions">
+<div class="static">
+
+        <form>
+            <div class="spacer regular"></div>
+            <div class="anatomy-container">
+                <div class="row main">
+                    <div class="col-xs-12 title-panel">
+                        <h5>Activity Title</h5></div>
+                    <div class="col-xs-12 stem-panel">
+                        <p>Replace this content with your meaningful content.</p>
+                    </div>
+                    <div class="col-xs-12 interactive-panel">
+                        <!-- Start of Accordion -->
+                        <div class="accordion">
+                            <section class="ac-container">
+                                <div>
+                                    <input type="radio" checked="" name="accordion" />
+                                    <label class="flex">1. Image Only</label>
+                                    <article class="ac-small">
+                                        <figure class="box-topspace-none box-bottomspace-none">
+                                            <img alt="" src="../../img/placeholder/image-hero.svg" />
+                                        </figure>
+                                        <p class="caption l7 light-gray-d1">Image Caption</p>
+                                    </article>
+                                </div>
+                                <div>
+                                    <input type="radio" name="accordion" />
+                                    <label class="flex">2. Title / Image / Paragraph</label>
+                                    <article class="ac-xlarge">
+                                        <figure class="box-topspace-none box-bottomspace-none">
+                                            <img alt="" src="../../img/placeholder/image-hero.svg" />
+                                        </figure>
+                                        <p class="caption l7">Image Caption</p>
+                                        <p>
+                                            Description text - H6, 400 characters max. Placeholder text ignisquia nonsequ iatio. Nam qui conseribusae volupta tiberem ipsapietum sed eatem utem rernat dolupti nvenim. Iduciunti tet es derchilic tem eaquae providuntias ent.
+                                        </p>
+                                    </article>
+                                </div>
+                                <div>
+                                    <input type="radio" name="accordion" />
+                                    <label class="flex">3. Title / Image and Paragraph</label>
+                                    <article class="row ac-small">
+                                        <div class="col-xs-6">
+                                            <figure class="box-topspace-none box-bottomspace-none">
+                                                <img alt="" src="../../img/placeholder/image-landscape.svg" />
+                                            </figure>
+                                            <p class="caption l7">Image Caption</p>
+                                        </div>
+                                        <div class="col-xs-6">
+                                            Description text - H6, 270 characters max. Placeholder text ignisquia nonsequ iatio. Nam qui conseribusae volupta tiberem ipsapietum sed eatem utem rernat dolupti nvenim. Acidus sunt velit, alis.
+                                        </div>
+                                    </article>
+                                </div>
+                                <div>
+                                    <input type="radio" name="accordion" />
+                                    <label class="flex">4. Title / Paragraph</label>
+                                    <article class="ac-small">
+                                        <p>Description text - H6, 400 characters max. Placeholder text ignisquia nonsequ iatio. Nam qui conseribusae volupta tiberem ipsapietum sed eatem utem rernat dolupti nvenim. Iduciunti tet es derchilic tem eaquae providuntias ent. Ad exeremperio te peri dit quatium laccum, ut hit fugiae num andis audi aligent, optae omnim fuga. Nam qui ut occuptiaerum fugit andit aborerionet is eveliqui.</p>
+                                    </article>
+                                </div>
+                                <div>
+                                    <input type="radio" name="accordion" />
+                                    <label class="flex">5. Title / Image / Paragraph</label>
+                                    <article class="ac-xlarge">
+                                        <figure class="box-topspace-none box-bottomspace-none">
+                                            <img alt="" src="../../img/placeholder/image-hero.svg" />
+                                        </figure>
+                                        <p class="caption l7">Image Caption</p>
+                                        <p>
+                                            Description text - H6, 400 characters max. Placeholder text ignisquia nonsequ iatio. Nam qui conseribusae volupta tiberem ipsapietum sed eatem utem rernat dolupti nvenim. Iduciunti tet es derchilic tem eaquae providuntias ent.
+                                        </p>
+                                    </article>
+                                </div>
+                                <div>
+                                    <input type="radio" name="accordion" />
+                                    <label class="flex">6. Title / Image / Paragraph</label>
+                                    <article class="ac-xlarge">
+                                        <figure class="box-topspace-none box-bottomspace-none">
+                                            <img alt="" src="../../img/placeholder/image-hero.svg" />
+                                        </figure>
+                                        <p class="caption l7">Image Caption</p>
+                                        <p>
+                                            Description text - H6, 400 characters max. Placeholder text ignisquia nonsequ iatio. Nam qui conseribusae volupta tiberem ipsapietum sed eatem utem rernat dolupti nvenim. Iduciunti tet es derchilic tem eaquae providuntias ent.
+                                        </p>
+                                    </article>
+                                </div>
+                                <div>
+                                    <input type="radio" name="accordion" />
+                                    <label class="flex">7. Title / Image / Paragraph</label>
+                                    <article class="ac-xlarge">
+                                        <figure class="box-topspace-none box-bottomspace-none">
+                                            <img alt="" src="../../img/placeholder/image-hero.svg" />
+                                        </figure>
+                                        <p class="caption l7">Image Caption</p>
+                                        <p>
+                                            Description text - H6, 400 characters max. Placeholder text ignisquia nonsequ iatio. Nam qui conseribusae volupta tiberem ipsapietum sed eatem utem rernat dolupti nvenim. Iduciunti tet es derchilic tem eaquae providuntias ent.
+                                        </p>
+                                    </article>
+                                </div>
+                                <div>
+                                    <input type="radio" name="accordion" />
+                                    <label class="flex">8. Title / Image / Paragraph</label>
+                                    <article class="ac-xlarge">
+                                        <figure class="box-topspace-none box-bottomspace-none">
+                                            <img alt="" src="../../img/placeholder/image-hero.svg" />
+                                        </figure>
+                                        <p class="caption l7">Image Caption</p>
+                                        <p>
+                                            Description text - H6, 400 characters max. Placeholder text ignisquia nonsequ iatio. Nam qui conseribusae volupta tiberem ipsapietum sed eatem utem rernat dolupti nvenim. Iduciunti tet es derchilic tem eaquae providuntias ent.
+                                        </p>
+                                    </article>
+                                </div>
+                            </section>
+                        </div>
+                        <!-- End Accordion -->
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</script>
+
+<!-- Lesson Opener -->
+<script type="application/inkling+patternsnippet" id="lesson_opener_new" data-label="Lesson Opener" data-category="Page Headers">
+<div>
+        <div class="bleed bg-aqua-d2 lesson-tab">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h4 class="white text-center">Lesson [X]</h4>
+                </section>
+            </article>
+        </div>
+        <header class="lesson-opener">
+            <div class="lesson-opener-content">
+                <div class="box">
+                    <h1 class="white">[A-Head Here]</h1>
+                </div>
+            </div>
+            <figure class="box-topspace-none box-bottomspace-none">
+                <img alt="" />
+            </figure>
+            <article class="row main">
+                <section class="col-xs-12">
+                    <div class="arrow-down aqua center">
+                    </div>
+                    <p class="caption light-gray-d1"><strong>Image Title</strong> | [Image caption text goes here. Delete image title and pipe symbol ( | ), if a title is not required.]</p>
+                    <hr class="caption-hr" />
+                </section>
+            </article>
+        </header>
+    </div>
+</script>
+
+<!-- Section Opener -->
+<script type="application/inkling+patternsnippet" id="section-opener" data-label="Section Opener" data-category="Page Headers">
+<div class="section-opener">
+        <div class="bleed bg-aqua lesson-tab">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h4 class="white text-center">Exploration [X]</h4>
+                </section>
+            </article>
+        </div>
+        <header class="bleed bg-aqua-d4">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h2 class="white">[Section Opener H2 Title]</h2>
+                </section>
+            </article>
+        </header>
+    </div>
+</script>
+
+<!-- Life Section Opener -->
+<script type="application/inkling+patternsnippet" id="life-section-opener" data-label="Life Section Opener" data-category="Page Headers">
+<div class="section-opener">
+        <div class="bleed bg-aqua lesson-tab">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h4 class="white text-center">Exploration [X]</h4>
+                </section>
+            </article>
+        </div>
+        <header class="bleed bg-aqua-d4 life-bg">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h2 class="white">[Life opener H2 Title]</h2>
+                </section>
+            </article>
+        </header>
+    </div>
+</script>
+
+<!-- Earth Section Opener -->
+<script type="application/inkling+patternsnippet" id="earth-section-opener" data-label="Earth Section Opener" data-category="Page Headers">
+<div class="section-opener">
+        <div class="bleed bg-aqua lesson-tab">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h4 class="white text-center">Exploration [X]</h4>
+                </section>
+            </article>
+        </div>
+        <header class="bleed bg-aqua-d4 earth-bg">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h2 class="white">[Earth Opener H2 Title]</h2>
+                </section>
+            </article>
+        </header>
+    </div>
+</script>
+
+<!-- Physical Section Opener -->
+<script type="application/inkling+patternsnippet" id="physical-section-opener" data-label="Physical Section Opener" data-category="Page Headers">
+<div class="section-opener">
+        <div class="bleed bg-aqua lesson-tab">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h4 class="white text-center">Exploration [X]</h4>
+                </section>
+            </article>
+        </div>
+        <header class="bleed bg-aqua-d4 physical-bg">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h2 class="white">[Physical Opener H2 Title]</h2>
+                </section>
+            </article>
+        </header>
+    </div>
+</script>
+
+<!-- Engineering Section Opener -->
+<script type="application/inkling+patternsnippet" id="engineering-section-opener" data-label="Engineering Section Opener" data-category="Page Headers">
+<div class="section-opener">
+        <div class="bleed bg-aqua lesson-tab">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h4 class="white text-center">Exploration [X]</h4>
+                </section>
+            </article>
+        </div>
+        <header class="bleed bg-aqua-d4 engineering-bg">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h2 class="white">[Engineering Opener H2 Title]</h2>
+                </section>
+            </article>
+        </header>
+    </div>
+</script>
+
+<!-- Take It Further Opener -->
+<script type="application/inkling+patternsnippet" id="take_it_further_opener" data-label="Take It Further Opener" data-category="Page Headers">
+<div class="take-it-further-opener navigation-header">
+        <div class="bleed bg-purple-d2 lesson-tab">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h4 class="white text-center">Take it Further</h4>
+                </section>
+            </article>
+        </div>
+        <div class="topper row main">
+            <h4>[H4 Heading - Insert meaningful content here.]</h4>
+        </div>
+        <div class="wrapper row main">
+            <a href="#" class="box bg-aqua col-xs-6">
+                <h4>[Insert Path 1 header]</h4>
+                <span class="cover">
+          <img src="../../img/placeholder/fpo_wide.jpg" alt="fpo"  class="cover" />
+      </span>
+            </a>
+            <a href="#" class="box bg-aqua col-xs-6">
+                <h4>[Insert Path 2 header]</h4>
+                <span class="cover">
+          <img src="../../img/placeholder/fpo_wide.jpg" alt="fpo"  class="cover" />
+      </span>
+            </a>
+            <a href="#" class="box bg-aqua col-xs-6 hands-on">
+                <h4>Hands-On Labs</h4>
+                <div class=""></div>
+            </a>
+            <a href="#" class="box bg-aqua selected col-xs-6 propose-path">
+                <h4>Propose Your Own Path</h4>
+                <div class=""></div>
+            </a>
+        </div>
+    </div>
+</script>
+
+<!-- Can You Explain It -->
+<script type="application/inkling+patternsnippet" id="explain-it" data-label="Can You Explain It" data-category="Fills">
+<div class="static">
+        <div class="spacer regular"></div>
+        <div class="fill can-you-explain bg-aqua-l6">
+            <article class="row main">
+                <section class="col-xs-12">
+                    <div class="border bg-aqua-d2"></div>
+                    <h4 class="aqua-d2">Can you explain it?</h4>
+                </section>
+            </article>
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <figure class="box-topspace-none">
+                        <img src="../../img/placeholder/fpo.jpg" alt="fpo" />
+                    </figure>
+                </section>
+            </article>
+            <article class="row main">
+                <section class="col-xs-12">
+                    <h5>[Replace this text with Engage question.]</h5>
+                </section>
+                <section class="col-xs-12">
+                    <div class="border bg-aqua-d2 b-bottom"></div>
+                </section>
+            </article>
+        </div>
+    </div>
+</script>
+
+<!-- Elaborate - Can You Explain It -->
+<script type="application/inkling+patternsnippet" id="elab-explain-it" data-label="Elaborate - Can You Explain It" data-category="Fills">
+<div class="static">
+        <div class="spacer regular"></div>
+        <div class="fill can-you-explain bg-aqua-l6">
+            <article class="row main">
+                <section class="col-xs-12">
+                    <div class="border bg-aqua-d2"></div>
+                    <h4 class="aqua-d2">Can you explain it?</h4>
+                </section>
+            </article>
+            <article class="row main">
+                <section class="col-xs-12">
+                    <h5>[Replace this text with Engage question.]</h5>
+                    <p>[Replace this text with meaningful content.]</p>
+                </section>
+            </article>
+            <article class="row fill">
+                <section class="col-xs-12">
+                    <p class="text-center">- - Place Your Pattern(s) below this text. Once you have your patterns in place, click the trash can to delete this text. - -</p>
+                </section>
+            </article>
+
+            <article class="row main">
+                <section class="col-xs-12">
+                    <div class="border bg-aqua-d2 b-bottom"></div>
+                </section>
+            </article>
+        </div>
+    </div>
+</script>
+
+<!-- Do the Math -->
+<script type="application/inkling+patternsnippet" id="do-math" data-label="Do the Math" data-category="Fills">
+<div class="static">
+        <div class="spacer regular"></div>
+        <div class="fill do-the-math bg-aqua-l7">
+            <article class="row main">
+                <section class="col-xs-12 relative">
+                    <div class="circle-with-icon bg-aqua-d2">
+                        <figure>
+                            <img alt="" src="../../assets/css/images/icon-do-the-math.svg" />
+                        </figure>
+                    </div>
+                    <div class="border bg-aqua-d2"></div>
+                    <h4 class="aqua-d2">Do the Math</h4>
+                    <h3>[C-Head Title]</h3>
+                    <p>- - Place Your Pattern(s) below this text. Once you have your patterns in place, click the trash can to delete this text. - -</p>
+                </section>
+            </article>
+            <article class="row main">
+                <section class="col-xs-12">
+                    <div class="border bg-aqua-d2 b-bottom"></div>
+                </section>
+            </article>
+        </div>
+    </div>
+</script>
+
+<!-- Engineer It -->
+<script type="application/inkling+patternsnippet" id="engineer-it-fill" data-label="Engineer It" data-category="Fills">
+<div class="static">
+        <div class="spacer regular"></div>
+        <div class="fill engineer-it bg-aqua-l7">
+            <article class="row main">
+                <section class="col-xs-12 relative">
+                    <div class="circle-with-icon bg-aqua-d2">
+                        <figure>
+                            <img alt="" src="../../assets/css/images/icon-topper-engineering.svg" />
+                        </figure>
+                    </div>
+                    <div class="border bg-aqua-d2"></div>
+                    <h4 class="aqua-d2">Engineer It</h4>
+                    <h3>[C-Head Title]</h3>
+                    <p>- - Place Your Pattern(s) below this text. Once you have your patterns in place, click the trash can to delete this text. - -</p>
+                </section>
+            </article>
+            <article class="row main">
+                <section class="col-xs-12">
+                    <div class="border bg-aqua-d2 b-bottom"></div>
+                </section>
+            </article>
+        </div>
+    </div>
+</script>
+
+<!-- Language SmArts -->
+<script type="application/inkling+patternsnippet" id="language-smarts" data-label="Language SmArts" data-category="Fills">
+<div class="static">
+        <div class="spacer regular"></div>
+        <div class="fill language-smarts bg-aqua-l7">
+            <article class="row main">
+                <section class="col-xs-12 relative">
+                    <div class="circle-with-icon bg-aqua-d2">
+                        <figure>
+                            <img alt="" src="../../assets/css/images/icon-topper-ela.svg" />
+                        </figure>
+                    </div>
+                    <div class="border bg-aqua-d2"></div>
+                    <h4 class="aqua-d2">Language SmArts</h4>
+                    <h3>[C-Head Title]</h3>
+                    <p>- - Place Your Pattern(s) below this text. Once you have your patterns in place, click the trash can to delete this text. - -</p>
+                </section>
+            </article>
+            <article class="row main">
+                <section class="col-xs-12">
+                    <div class="border bg-aqua-d2 b-bottom"></div>
+                </section>
+            </article>
+        </div>
+    </div>
+</script>
+
+<!-- Language SmArt -->
+<script type="application/inkling+patternsnippet" id="header-smarts" data-label="Language SmArt" data-category="On-Page Headers">
+<div class="fill language-smarts">
+        <div class="spacer regular"></div>
+        <article class="row main">
+            <section class="col-xs-12 relative">
+                <div class="circle-with-icon bg-aqua-d2">
+                    <figure>
+                        <img alt="" src="../../assets/css/images/icon-topper-ela.svg" />
+                    </figure>
+                </div>
+                <div class="border bg-aqua-d2"></div>
+                <h4 class="aqua-d2">Language SmArts</h4>
+                <h3>[C-Head Title]</h3>
+                <p>[Replace this content with your meaningful content.]</p>
+            </section>
+        </article>
+    </div>
+</script>
+
+<!-- Engineer It -->
+<script type="application/inkling+patternsnippet" id="header-engineer" data-label="Engineer It" data-category="On-Page Headers">
+<div class="fill engineer-it">
+        <div class="spacer regular"></div>
+        <article class="row main">
+            <section class="col-xs-12 relative">
+                <div class="circle-with-icon bg-aqua-d2">
+                    <figure>
+                        <img alt="" src="../../assets/css/images/icon-topper-engineering.svg" />
+                    </figure>
+                </div>
+                <div class="border bg-aqua-d2"></div>
+                <h4 class="aqua-d2">Engineer It</h4>
+                <h3>[C-Head Title]</h3>
+                <p>[Replace this content with your meaningful content.]</p>
+            </section>
+        </article>
+    </div>
+</script>
+
+<!-- Do the Math -->
+<script type="application/inkling+patternsnippet" id="header-math" data-label="Do the Math" data-category="On-Page Headers">
+<div class="fill sp do-the-math">
+        <div class="spacer regular"></div>
+        <article class="row main">
+            <section class="col-xs-12 relative">
+                <div class="circle-with-icon bg-aqua-d2">
+                    <figure>
+                        <img alt="" src="../../assets/css/images/icon-do-the-math.svg" />
+                    </figure>
+                </div>
+                <div class="border bg-aqua-d2"></div>
+                <h4 class="aqua-d2">Do the Math</h4>
+                <h3>[C-Head Title]</h3>
+                <p>[Replace this content with your meaningful content.]</p>
+            </section>
+        </article>
+    </div>
+</script>
+
+<!-- Take It Further -->
+<script type="application/inkling+patternsnippet" id="take_it_further_header" data-label="Take It Further" data-category="On-Page Headers">
+<div class="take-it-further-header navigation-header">
+        <div class="bleed bg-purple-d2 lesson-tab">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h4 class="white text-center">Take it Further</h4>
+                </section>
+            </article>
+        </div>
+        <div class="wrapper row main">
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 1 header]</h4></a>
+            <a href="#" class="box bg-aqua col-xs-6 hands-on"><h4>Hands-On Labs</h4></a>
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 3 header]</h4></a>
+            <a href="#" class="box bg-aqua selected col-xs-6 propose-path">
+                <h4>Propose Your Own Path</h4>
+            </a>
+        </div>
+    </div>
+</script>
+
+<!-- Propose Your Own Path -->
+<script type="application/inkling+patternsnippet" id="propose_path_heading" data-label="Propose Your Own Path" data-category="On-Page Headers">
+<div class="static">
+        <div class="propose-path row main">
+            <div class="col-xs-12">
+                <h2 class="aqua-d2"><span class="icon bg-aqua-d2"></span>Propose Your Own Path</h2>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Self-Check -->
+<script type="application/inkling+patternsnippet" id="self_check_header" data-label="Self-Check" data-category="On-Page Headers">
+<div class="self-check-header navigation-header">
+        <div class="bleed bg-golden lesson-tab">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h4 class="white text-center">Lesson Self-Check</h4>
+                </section>
+            </article>
+        </div>
+        <div class="wrapper row main">
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 1 header]</h4></a>
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 2 header]</h4></a>
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 3 header]</h4></a>
+            <a href="#" class="box bg-aqua col-xs-6"><h4>Make Your Own Study Guide</h4></a>
+        </div>
+    </div>
+</script>
+
+<!-- Topper - Do the Math -->
+<script type="application/inkling+patternsnippet" id="topper-math" data-label="Topper - Do the Math" data-category="On-Page Headers">
+<div class="static topper">
+        <div class="spacer regular"></div>
+        <article class="row main do-the-math">
+            <section class="col-xs-12 relative">
+                <div class="circle-with-icon bg-aqua-d2">
+                    <figure>
+                        <img alt="" src="../../assets/css/images/icon-do-the-math.svg" />
+                    </figure>
+                </div>
+                <h6 class="aqua-d2">Do the Math</h6>
+            </section>
+        </article>
+    </div>
+</script>
+
+<!-- Topper - Engineering -->
+<script type="application/inkling+patternsnippet" id="topper-eng" data-label="Topper - Engineering" data-category="On-Page Headers">
+<div class="static topper">
+        <div class="spacer regular"></div>
+        <article class="row main do-the-math">
+            <section class="col-xs-12 relative">
+                <div class="circle-with-icon bg-aqua-d2">
+                    <figure class="eng-it">
+                        <img alt="" src="../../assets/css/images/icon-engineer-it.svg" />
+                    </figure>
+                </div>
+                <h6 class="aqua-d2">Engineer It</h6>
+            </section>
+        </article>
+    </div>
+</script>
+
+<!-- Topper - Language SmArts -->
+<script type="application/inkling+patternsnippet" id="topper-ela" data-label="Topper - Language SmArts" data-category="On-Page Headers">
+<div class="static topper">
+        <div class="spacer regular"></div>
+        <article class="row main do-the-math">
+            <section class="col-xs-12 relative">
+                <div class="circle-with-icon bg-aqua-d2">
+                    <figure>
+                        <img alt="" src="../../assets/css/images/icon-topper-ela.svg" />
+                    </figure>
+                </div>
+                <h6 class="aqua-d2">Language SmArts</h6>
+            </section>
+        </article>
+    </div>
+</script>
+
+<!-- M : Body Text -->
+<script type="application/inkling+patternsnippet" id="ctm" data-label="M : Body Text" data-category="Text Edge to Edge">
+<article class="row main">
+        <section class="col-xs-12">
+            <p>[This is a paragraph of placeholder text inside a <strong>main container</strong>. It is only here to help show the layout of the page and how the text will flow. Replace this placeholder text with your own meaningful content.]</p>
+        </section>
+    </article>
+</script>
+
+<!-- B-Head w/body -->
+<script type="application/inkling+patternsnippet" id="b_head_body" data-label="B-Head w/body" data-category="Text Edge to Edge">
+<div class="static">
+        <div class="spacer regular"></div>
+        <div class="b-head row main">
+            <div class="col-xs-12">
+                <h2 class="aqua-d2">[B-head / H2 header]</h2>
+                <div class="content">
+                    <p>
+                        [This is a paragraph of placeholder text inside a main container. It is only here to help show the layout of the page and how the text will flow. If not required (in header-only situations) the box can be deleted, Otherwise replace this placeholder text with your own meaningful content.]
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- C-Head w/body -->
+<script type="application/inkling+patternsnippet" id="body-head" data-label="C-Head w/body" data-category="Text Edge to Edge">
+<article class="row main">
+        <section class="col-xs-12">
+            <h3>[C-head / H3 header]</h3>
+            <p>[This is a paragraph of placeholder text inside a main container. It is only here to help show the layout of the page and how the text will flow. If not required (in header-only situations) the box can be deleted, Otherwise replace this placeholder text with your own meaningful content.]</p>
+        </section>
+    </article>
+</script>
+
+<!-- D-Head w/body -->
+<script type="application/inkling+patternsnippet" id="d_head_body" data-label="D-Head w/body" data-category="Text Edge to Edge">
+<div class="static">
+        <div class="spacer regular"></div>
+        <div class="d-head row main">
+            <div class="col-xs-12">
+                <h4 class="">[D-head / H2 header]</h4>
+                <div class="content">
+                    <p>
+                        [This is a paragraph of placeholder text inside a main container. It is only here to help show the layout of the page and how the text will flow. If not required (in header-only situations) the box can be deleted, Otherwise replace this placeholder text with your own meaningful content.]
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Evidence Notebook Panel -->
+<script type="application/inkling+patternsnippet" id="evidence_notebook_panel" data-label="Evidence Notebook Panel" data-category="Text Edge to Edge">
+<div class="static">
+        <div class="spacer regular"></div>
+        <div class="row main evidence-notebook">
+            <div class="col-xs-12">
+                <div class="wrapper border-aqua-d2">
+                    <h6 class="bg-aqua-d2">
+            <span class="bg-aqua-d2"></span>
+            Evidence Notebook
+          </h6>
+                    <div class="content">
+                        <p>[Replace this text with your own meaningful content. Veruptiam, te volupid mo temporu ptatet eatquate dolupta audit et lam aligendam facius exerum dit, omnisquam dolupta tusdaep erspisi a volum nemque ne nuscita sitatem fuga.]</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Collaborate Panel -->
+<script type="application/inkling+patternsnippet" id="collaborate_panel" data-label="Collaborate Panel" data-category="Text Edge to Edge">
+<div class="static">
+    <div class="spacer regular"></div>
+    <div class="row main evidence-notebook collaborate">
+      <div class="col-xs-12">
+        <div class="wrapper border-aqua-d2">
+          <h6 class="bg-aqua-d2">
+          Collaborate
+          </h6>
+          <div class="content">
+            <p>[Replace this text with your own meaningful content. Veruptiam, te volupid mo temporu ptatet eatquate dolupta audit et lam aligendam facius exerum dit, omnisquam dolupta tusdaep erspisi a volum nemque ne nuscita sitatem fuga.]</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</script>
+
+<!-- Propose Your Own Path Step -->
+<script type="application/inkling+patternsnippet" id="propose_path_paragraph" data-label="Propose Your Own Path Step" data-category="Text Edge to Edge">
+<div class="static">
+        <div class="path-heading row main">
+            <div class="col-xs-12">
+                <h4 class="aqua-d2">STEP [X]: [INSERT STEP TITLE HERE]</h4>
+                <div class="content">
+                    [Replace this text with your own meaningful content.]
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Hands-On Lab -->
+<script type="application/inkling+patternsnippet" id="hands_on_lab" data-label="Hands-On Lab" data-category="Super Pattern">
+<div class="hol">
+        <div class="spacer large"></div>
+        <div class="bleed bg-aqua-l6">
+
+            <article class="row main">
+                <section class="col-xs-12">
+                    <div class="activity-divider">
+                        <div class="mask"></div>
+                        <div class="triangle"></div>
+                    </div>
+                </section>
+            </article>
+
+            <div class="row feature content">
+                <div class="row main">
+                    <div class="col-xs-12">
+                        <div class="spacer small"></div>
+                        <h2>
+            <span class="round-header-icon hand bg-aqua-d2"></span>
+            <span class="round-header-icon hol-icon bg-aqua-d2"></span>
+            [Hands On Header to go here.]
+          </h2>
+                        <div class="spacer small"></div>
+                        <p><strong>Collaborate</strong> [Fill with content]</p>
+                        <div class="spacer small"></div>
+                    </div>
+                </div>
+
+                <div class="row main">
+                    <div class="col-xs-12">
+
+                        <div class="row materials border-light-gray-l6">
+                            <div class="sidebar col-xs-6">
+                                <h4 class="aqua-d2">MATERIALS</h4>
+                                <ul>
+                                    <li>[Item 1]</li>
+                                    <li>[Item 2]</li>
+                                    <li>[Item 3]</li>
+                                    <li>[Item 4]</li>
+                                </ul>
+                            </div>
+                            <div class="icons col-xs-6">
+
+                                <div class="animal">
+                                  <p>Animal</p>
+                                </div>
+                                <div class="caustic">
+                                  <p>Caustic</p>
+                                </div>
+                                <div class="chemical">
+                                  <p>Chemical</p>
+                                </div>
+
+                                <div class="clothing">
+                                  <p>Clothing</p>
+                                </div>
+                                <div class="disposal">
+                                  <p>Disposal</p>
+                                </div>
+                                <div class="electric">
+                                  <p>Electric</p>
+                                </div>
+
+                                <div class="explosive">
+                                  <p>Explosive</p>
+                                </div>
+                                <div class="eye-protection">
+                                  <p>Eye Protection</p>
+                                </div>
+                                <div class="fire">
+                                  <p>Fire</p>
+                                </div>
+
+                                <div class="gas">
+                                  <p>Gas</p>
+                                </div>
+                                <div class="glass">
+                                  <p>Glass</p>
+                                </div>
+                                <div class="gloves">
+                                  <p>Gloves</p>
+                                </div>
+
+                                <div class="hand-wash">
+                                  <p>Hand Wash</p>
+                                </div>
+                                <div class="heating">
+                                  <p>Heating</p>
+                                </div>
+                                <div class="plants">
+                                  <p>Plants</p>
+                                </div>
+
+                                <div class="radiation">
+                                  <p>Radiation</p>
+                                </div>
+                                <div class="sharps">
+                                  <p>Sharps</p>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="row main">
+                    <div class="col-xs-12">
+                        <div class="spacer small"></div>
+
+                        <div class="path-heading">
+                            <h4 class="aqua-d2">PROCEDURE AND ANALYSIS</h4>
+                            <div class="content">
+                                <p>
+                                    [Fill with content]
+                                </p>
+                            </div>
+                        </div>
+                        <p>
+                            <strong>Step 1.</strong> [Fill with content]
+                        </p>
+
+
+                        <div class="interactive-holder">
+                            - - Place Your Pattern(s) below this text. Once you have your patterns in place, click the trash can to delete this text. - -
+                        </div>
+
+                        <div class="spacer large"></div>
+
+
+                        <article class="can-you-explain">
+                            <div class="border bg-aqua-d2"></div>
+                        </article>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <article class="row main bottom">
+            <section class="col-xs-12">
+                <div class="activity-divider">
+                    <div class="mask"></div>
+                    <div class="triangle">
+                    </div>
+                </div>
+            </section>
+        </article>
+
+    </div>
+</script>
+
+<!-- Hands-On Lab Wrapup -->
+<script type="application/inkling+patternsnippet" id="hands_on_lab_wrapup" data-label="Hands-On Lab Wrapup" data-category="Super Pattern">
+<div class="hands-on-wrapup">
+      <div class="hol">
+        <div class="spacer large"></div>
+        <div class="bleed bg-aqua-l6">
+          <article class="row main">
+            <section class="col-xs-12">
+              <div class="activity-divider">
+                <div class="mask"></div>
+                <div class="triangle"></div>
+              </div>
+            </section>
+          </article>
+          <div class="row feature content">
+            <div class="row main">
+              <div class="col-xs-12">
+                <div class="spacer small"></div>
+                <h2>
+                <span class="round-header-icon hand bg-aqua-d2"></span>
+                <span class="round-header-icon hol-icon bg-aqua-d2"></span>
+                [Hands On Header to go here.]
+                </h2>
+                <div class="spacer small"></div>
+                <p><strong>Collaborate</strong> [Fill with content]</p>
+                <div class="spacer small"></div>
+              </div>
+            </div>
+            <div class="row main">
+              <div class="col-xs-12">
+                <div class="row materials border-light-gray-l6">
+                  <div class="sidebar col-xs-6">
+                    <h4 class="aqua-d2">MATERIALS</h4>
+                    <ul>
+                      <li>[Item 1]</li>
+                      <li>[Item 2]</li>
+                      <li>[Item 3]</li>
+                      <li>[Item 4]</li>
+                    </ul>
+                  </div>
+                  <div class="icons col-xs-6">
+                    <div class="animal">
+                      <p>Animal</p>
+                    </div>
+                    <div class="caustic">
+                      <p>Caustic</p>
+                    </div>
+                    <div class="chemical">
+                      <p>Chemical</p>
+                    </div>
+
+                    <div class="clothing">
+                      <p>Clothing</p>
+                    </div>
+                    <div class="disposal">
+                      <p>Disposal</p>
+                    </div>
+                    <div class="electric">
+                      <p>Electric</p>
+                    </div>
+
+                    <div class="explosive">
+                      <p>Explosive</p>
+                    </div>
+                    <div class="eye-protection">
+                      <p>Eye Protection</p>
+                    </div>
+                    <div class="fire">
+                      <p>Fire</p>
+                    </div>
+
+                    <div class="gas">
+                      <p>Gas</p>
+                    </div>
+                    <div class="glass">
+                      <p>Glass</p>
+                    </div>
+                    <div class="gloves">
+                      <p>Gloves</p>
+                    </div>
+
+                    <div class="hand-wash">
+                      <p>Hand Wash</p>
+                    </div>
+                    <div class="heating">
+                      <p>Heating</p>
+                    </div>
+                    <div class="plants">
+                      <p>Plants</p>
+                    </div>
+
+                    <div class="radiation">
+                      <p>Radiation</p>
+                    </div>
+                    <div class="sharps">
+                      <p>Sharps</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row main">
+              <div class="col-xs-12">
+                <div class="spacer small"></div>
+                <div class="path-heading">
+                  <h4 class="aqua-d2">PROCEDURE AND ANALYSIS</h4>
+                  <div class="content">
+                    <p>
+                      [Fill with content]
+                    </p>
+                  </div>
+                </div>
+                <p>
+                  <strong>Step 1.</strong> [Fill with content]
+                </p>
+                <div class="interactive-holder">
+                  - - Place Your Pattern(s) below this text. Once you have your patterns in place, click the trash can to delete this text. - -
+                </div>
+                <div class="spacer large"></div>
+                <article class="can-you-explain">
+                  <div class="border bg-aqua-d2"></div>
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+        <article class="row main bottom">
+          <section class="col-xs-12">
+            <div class="activity-divider">
+              <div class="mask"></div>
+              <div class="triangle">
+              </div>
+            </div>
+          </section>
+        </article>
+      </div>
+
+      <div>
+          <div class="lesson-wrapup bg-stone-3 bleed">
+              <article class="row main">
+                  <section class="col-xs-12">
+                      <h2 class="text-topspace-none"><strong>[B-head / H2 header]</strong></h2>
+                      <p>[This is a paragraph of placeholder text inside a main container. It is only here to help show the layout of the page and how the text will flow. If not required (in header-only situations) the box can be deleted, Otherwise replace this placeholder text with your own meaningful content.]</p>
+                      <p>- - Place Your Pattern(s) below this text. Once you have your patterns in place, click the trash can to delete this text. - -</p>
+                  </section>
+              </article>
+          </div>
+          <div class="section-footer">
+              <div class="bleed bg-aqua">
+                  <div class="arrow-down stone-3 center"></div>
+                  <article class="row main">
+                      <section class="col-xs-12">
+                          <h4 class="text-center">Next</h4>
+                          <h3 class="text-center">[Insert title of next page]</h3>
+                      </section>
+                  </article>
+              </div>
+          </div>
+      </div>
+
+    </div>
+</script>
+
+<!-- Materials Panel for Hands-On Lab -->
+<script type="application/inkling+patternsnippet" id="hands_on_materials" data-label="Materials Panel for Hands-On Lab" data-category="Text Edge to Edge">
+<div class="static">
+        <div class="row main materials border-light-gray-l6">
+            <div class="sidebar col-xs-6">
+                <h4 class="aqua-d2">MATERIALS</h4>
+                <ul>
+                    <li>[Item 1]</li>
+                    <li>]Item 2]</li>
+                    <li>[Item 3]</li>
+                    <li>[Item 4]</li>
+                </ul>
+            </div>
+            <div class="icons col-xs-6">
+
+                <div class="animal">
+                  <p>Animal</p>
+                </div>
+                <div class="caustic">
+                  <p>Caustic</p>
+                </div>
+                <div class="chemical">
+                  <p>Chemical</p>
+                </div>
+
+                <div class="clothing">
+                  <p>Clothing</p>
+                </div>
+                <div class="disposal">
+                  <p>Disposal</p>
+                </div>
+                <div class="electric">
+                  <p>Electric</p>
+                </div>
+
+                <div class="explosive">
+                  <p>Explosive</p>
+                </div>
+                <div class="eye-protection">
+                  <p>Eye Protection</p>
+                </div>
+                <div class="fire">
+                  <p>Fire</p>
+                </div>
+
+                <div class="gas">
+                  <p>Gas</p>
+                </div>
+                <div class="glass">
+                  <p>Glass</p>
+                </div>
+                <div class="gloves">
+                  <p>Gloves</p>
+                </div>
+
+                <div class="hand-wash">
+                  <p>Hand Wash</p>
+                </div>
+                <div class="heating">
+                  <p>Heating</p>
+                </div>
+                <div class="plants">
+                  <p>Plants</p>
+                </div>
+
+                <div class="radiation">
+                  <p>Radiation</p>
+                </div>
+                <div class="sharps">
+                  <p>Sharps</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Download Button -->
+<script type="application/inkling+patternsnippet" id="download_button" data-label="Download Button" data-category="Text Edge to Edge">
+<div class="static">
+        <div class="row main">
+            <div class="col-xs-12">
+                <a class="propose-download-button" href="#" data-resource-id="" data-resource-uuid="">
+                    <span class="icon"></span>
+                    <h6 class="content">Research Proposal Worksheet</h6>
+                </a>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Section Divider -->
+<script type="application/inkling+patternsnippet" id="section_divider" data-label="Section Divider" data-category="Section Dividers &amp; Spacers">
+<div class="static">
+        <div class="spacer regular"></div>
+        <article class="row main">
+            <section class="col-xs-12">
+                <div class="activity-divider">
+                    <div class="mask"></div>
+                    <div class="triangle"></div>
+                </div>
+            </section>
+        </article>
+    </div>
+</script>
+
+<!-- Vertical Spacer -->
+<script type="application/inkling+patternsnippet" id="spacer" data-label="Vertical Spacer" data-category="Section Dividers &amp; Spacers">
+<div class="spacer regular"></div>
+</script>
+
+<!-- F : Image w/Title -->
+<script type="application/inkling+patternsnippet" id="image_with_title" data-label="F : Image w/Title" data-category="Images Edge to Edge">
+<div class="static">
+        <div class="spacer regular"></div>
+        <article class="row feature image-with-title">
+            <section class="col-xs-12">
+                <h5>[Activity Title L5 Heading]</h5>
+            </section>
+            <section class="col-xs-12">
+                <figure class="image-metadata box-topspace-none">
+                    <img alt="" />
+                </figure>
+            </section>
+        </article>
+        <article class="row main">
+            <section class="col-xs-12">
+                <p class="caption light-gray-d1"><strong>[Image Title</strong> | Image caption text goes here. Delete image title and pipe symbol ( | ), if a title is not required.]</p>
+                <hr class="caption-hr" />
+            </section>
+        </article>
+    </div>
+</script>
+
+<!-- F : Image w/ Caption -->
+<script type="application/inkling+patternsnippet" id="image_with_metadata_f" data-label="F : Image w/ Caption" data-category="Images Edge to Edge">
+<div>
+        <article class="row feature">
+            <section class="col-xs-12">
+                <figure>
+                    <img alt="" />
+                </figure>
+            </section>
+        </article>
+        <article class="row main">
+            <section class="col-xs-12">
+                <p class="caption light-gray-d1"><strong>[Image Title</strong> | Image caption text goes here. Delete image title and pipe symbol ( | ), if a title is not required.]</p>
+                <hr class="caption-hr" />
+            </section>
+        </article>
+    </div>
+</script>
+
+<!-- Lesson Engage -->
+<script type="application/inkling+patternsnippet" id="lesson_engage" data-label="Lesson Engage" data-category="Page Footers">
+<div class="lesson-engage">
+        <div class="spacer regular"></div>
+        <div class="bleed bg-aqua-d2">
+            <article class="row main">
+                <section class="col-xs-12">
+                    <h4>By the end of this lesson . . .</h4>
+                    <p>[replace this placeholder text with your own meaningful content.]</p>
+                </section>
+            </article>
+        </div>
+        <div class="bleed bg-aqua">
+            <div class="arrow-down aqua-d2 center"></div>
+            <article class="row main">
+                <section class="col-xs-12">
+                    <h4 class="text-center">Next</h4>
+                    <h3 class="text-center">[Insert title of next page]</h3>
+                </section>
+            </article>
+        </div>
+    </div>
+</script>
+
+<!-- Section Footer -->
+<script type="application/inkling+patternsnippet" id="section_footer" data-label="Section Footer" data-category="Page Footers">
+<div class="section-footer">
+        <div class="spacer regular"></div>
+        <div class="bleed bg-color bg-aqua">
+            <div class="arrow-down center"></div>
+            <article class="row main">
+                <section class="col-xs-12">
+                    <h4 class="text-center">Next</h4>
+                    <h3 class="text-center">[Insert title of next page]</h3>
+                </section>
+            </article>
+        </div>
+    </div>
+</script>
+
+<!-- WrapUp Activity -->
+<script type="application/inkling+patternsnippet" id="wrapup_activity" data-label="WrapUp Activity" data-category="Page Footers">
+<div>
+        <div class="spacer regular"></div>
+        <div class="lesson-wrapup bg-stone-3 bleed">
+            <article class="row main">
+                <section class="col-xs-12">
+                    <div class="activity-divider box-topspace-none">
+                        <div class="mask"></div>
+                        <div class="triangle"></div>
+                    </div>
+                </section>
+            </article>
+            <article class="row main">
+                <section class="col-xs-12">
+                    <h2 class="text-topspace-none"><strong>[B-head / H2 header]</strong></h2>
+                    <p>[This is a paragraph of placeholder text inside a main container. It is only here to help show the layout of the page and how the text will flow. If not required (in header-only situations) the box can be deleted, Otherwise replace this placeholder text with your own meaningful content.]</p>
+                    <p>- - Place Your Pattern(s) below this text. Once you have your patterns in place, click the trash can to delete this text. - -</p>
+                </section>
+            </article>
+        </div>
+        <div class="section-footer">
+            <div class="bleed bg-aqua">
+                <div class="arrow-down stone-3 center"></div>
+                <article class="row main">
+                    <section class="col-xs-12">
+                        <h4 class="text-center">Next</h4>
+                        <h3 class="text-center">[Insert title of next page]</h3>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Take It Further -->
+<script type="application/inkling+patternsnippet" id="take_it_further_footer" data-label="Take It Further" data-category="Page Footers">
+<div class="take-it-further-footer navigation-footer">
+        <div class="wrapper row main">
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 1 header]</h4></a>
+            <a href="#" class="box bg-aqua col-xs-6 hands-on"><h4>Hands-On Labs</h4></a>
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 3 header]</h4></a>
+            <a href="#" class="box bg-aqua selected col-xs-6 propose-path">
+                <h4>Propose Your Own Path</h4>
+            </a>
+        </div>
+        <div class="footer bg-color bg-golden">
+            <div class="arrow-down center"></div>
+            <h5 class="next">Next:</h5>
+            <h3 class="check">Lesson Self-Check</h3>
+        </div>
+    </div>
+</script>
+
+<!-- Self-Check -->
+<script type="application/inkling+patternsnippet" id="self_check_footer" data-label="Self-Check" data-category="Page Footers">
+<div class="self-check-footer navigation-footer">
+        <div class="wrapper row main">
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 1 header]</h4></a>
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 2 header]</h4></a>
+            <a href="#" class="box bg-aqua completed col-xs-6"><h4>[Insert Path 3 header]</h4></a>
+            <a href="#" class="box bg-aqua selected col-xs-6"><h4>Make Your Own Study Guide</h4></a>
+        </div>
+    </div>
+</script>
+
+<!-- Propose Your Own Path -->
+<script type="application/inkling+patternsnippet" id="propose_path" data-label="Propose Your Own Path" data-category="Super Pattern">
+<div class="">
+
+        <div class="static">
+            <div class="propose-path row main">
+                <div class="col-xs-12">
+                    <h2 class="aqua-d2"><span class="icon bg-aqua-d2"></span>Propose Your Own Path</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="static">
+            <div class="path-heading row main">
+                <div class="col-xs-12">
+                    <h4 class="aqua-d2">Develop a Research Proposal</h4>
+                    <div class="content">
+                        <p>
+                            Use the downloadable worksheet to develop a custom research path. A completed proposal includes a topic, 3-5 related questions that you would answer through research, and a proposal of how you will present your findings. When you have finished, submit the proposal to your teacher. Work with your teacher to refine your proposal.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="static">
+            <div class="row main">
+                <div class="col-xs-12">
+                     <a class="propose-download-button" href="#" data-resource-id="" data-resource-uuid="">
+                        <span class="icon"></span>
+                        <h6 class="content">Research Proposal Worksheet</h6>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="spacer regular"></div>
+
+        <div class="static">
+            <div class="path-heading row main">
+                <div class="col-xs-12">
+                    <h4 class="aqua-d2">Conduct Research</h4>
+                    <div class="content">
+                        <p>
+                            As you research your topic, you might look at online resources as well as publications in your school or local library. Be sure to record the sources of your evidence so you can correctly cite them and share them with others. Combine this research with what you have learned in the lesson to answer your research questions.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="static">
+            <div class="row main">
+                <div class="col-xs-12">
+                    <div class="tooltip">
+                        <input type="checkbox" />
+                        <label><span class="tip-corner">Tip</span>Cite Text Evidence<span class="tip-arrow"></span></label>
+                        <div class="tip">
+                            As you do research, be sure to make notes about the sources of your evidence so you can correctly cite the sources and share them with others. Always record the following information for each source you use:
+                            <ul>
+                                <li>name of the source </li>
+                                <li>location of the source (for Internet sources, note its URL)</li>
+                                <li>author name(s)</li>
+                                <li>date or year of publication </li>
+                            </ul>
+                            You can find more information in the Conducting Research section of the ELA Handbook.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="spacer regular"></div>
+
+        <div class="static">
+            <div class="path-heading row main">
+                <div class="col-xs-12">
+                    <h4 class="aqua-d2">Present Your Findings</h4>
+                    <div class="content">
+                        <p>
+                            You may choose to present your findings in a written report, an oral report, or a multimedia presentation. No matter which method you use, remember to clearly introduce your topic, summarize what you learned through your research, and end with a conclusion.
+                        </p>
+                        <p>
+                            You can find more information on these presentation methods in the following sections of the ELA Handbook: Informative Writing, Presenting an Oral Report, and Multimedia Presentations.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</script>
+
+<!-- Tip-Text -->
+<script type="application/inkling+patternsnippet" id="tooltip" data-label="Tip-Text" data-category="Tips">
+<div class="static">
+        <div class="row main">
+            <div class="col-xs-12">
+                <div class="tooltip">
+                    <input type="checkbox" />
+                    <label><span class="tip-corner">Tip</span>[Insert Tip title here] <span class="tip-arrow"></span></label>
+                    <div class="tip">
+                        <p>[This is a paragraph of placeholder text inside a <strong>tip</strong>. Replace this placeholder text with your own meaningful text.]</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Tip-Image w/Text -->
+<script type="application/inkling+patternsnippet" id="tooltip1" data-label="Tip-Image w/Text" data-category="Tips">
+<div class="static">
+        <div class="row main">
+            <div class="col-xs-12">
+                <div class="tooltip1">
+                    <input type="checkbox" id="checkbox-toggle1" />
+                    <label for="checkbox-toggle1"><span class="tip-corner">Tip</span>[Insert Tip title here] <span class="tip-arrow"></span></label>
+                    <div class="tip">
+                        <div class="row fill">
+                            <div class="col-xs-6">
+                                <figure>
+                                    <img alt="" src="../../img/placeholder/fpo.jpg" />
+                                </figure>
+                            </div>
+                            <div class="col-xs-6">
+                                <p>[This is a paragraph of placeholder text inside a <strong>tip</strong>. Replace this placeholder text with your own meaningful text.]</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Tip-Image -->
+<script type="application/inkling+patternsnippet" id="tooltip2" data-label="Tip-Image" data-category="Tips">
+<div class="static">
+        <div class="row main">
+            <div class="col-xs-12">
+                <div class="tooltip2">
+                    <input type="checkbox" id="checkbox-toggle2" />
+                    <label for="checkbox-toggle2"><span class="tip-corner">Tip</span>[Insert Tip title here]<span class="tip-arrow"></span></label>
+                    <div class="tip">
+                        <div class="row fill">
+                            <div class="col-xs-12">
+                                <figure>
+                                    <img alt="" src="../../img/placeholder/fpo.jpg" />
+                                </figure>
+                            </div>
+                            <div class="col-xs-12">
+                                <p>[This is a paragraph of placeholder text inside a <strong>tip</strong>. Replace this placeholder text with your own meaningful text.]</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Image credits -->
+<script type="application/inkling+patternsnippet" id="image-credits" data-label="Image credits" data-category="Credits">
+<div class="static image-credits">
+        <div class="row main">
+            <div class="col-xs-12">
+                <div class="tooltip">
+                    <input type="checkbox" />
+                    <label>Photo &amp; Video Credits <span class="tip-arrow"></span></label>
+                    <div class="tip">
+                        <p>[This is a paragraph of placeholder text inside an <strong>Image Credits</strong> pattern. Replace this placeholder text with your own meaningful text.]</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit Performance -->
+<script type="application/inkling+patternsnippet" id="unit_performance" data-label="Unit Performance" data-category="Page Headers">
+<div class="unit-performance">
+        <div class="section-opener">
+            <div class="bleed bg-turquoise-d2 lesson-tab">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h4 class="white text-center">Unit #</h4>
+                    </section>
+                </article>
+            </div>
+            <header class="bleed bg-turquoise-d4">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h2 class="white">Unit Performance Task</h2>
+                    </section>
+                </article>
+            </header>
+        </div>
+        <div class="spacer large"></div>
+
+        <div class="spacer large"></div>
+        <div class="section-footer">
+            <div class="bleed bg-color bg-turquoise-d2">
+                <div class="arrow-down center"></div>
+                <article class="row main">
+                    <section class="col-xs-12">
+                        <h6 class="text-center">Next</h6>
+                        <h2 class="text-center">Unit 2: [Insert title of next page]</h2>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit Performance - Life -->
+<script type="application/inkling+patternsnippet" id="unit_performance_life" data-label="Unit Performance - Life" data-category="Page Headers">
+<div class="unit-performance">
+        <div class="section-opener">
+            <div class="bleed bg-turquoise-d2 lesson-tab">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h4 class="white text-center">Unit #</h4>
+                    </section>
+                </article>
+            </div>
+            <header class="bleed bg-turquoise-d4 life">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h2 class="white">Unit Performance Task</h2>
+                    </section>
+                </article>
+            </header>
+        </div>
+        <div class="spacer large"></div>
+
+        <div class="spacer large"></div>
+        <div class="section-footer">
+            <div class="bleed bg-color bg-turquoise-d2">
+                <div class="arrow-down center"></div>
+                <article class="row main">
+                    <section class="col-xs-12">
+                        <h6 class="text-center">Next</h6>
+                        <h2 class="text-center">Unit 2: [Insert title of next page]</h2>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit Performance - Earth -->
+<script type="application/inkling+patternsnippet" id="unit_performance_earth" data-label="Unit Performance - Earth" data-category="Page Headers">
+<div class="unit-performance">
+        <div class="section-opener">
+            <div class="bleed bg-turquoise-d2 lesson-tab">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h4 class="white text-center">Unit #</h4>
+                    </section>
+                </article>
+            </div>
+            <header class="bleed bg-turquoise-d4 earth">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h2 class="white">Unit Performance Task</h2>
+                    </section>
+                </article>
+            </header>
+        </div>
+        <div class="spacer large"></div>
+
+        <div class="spacer large"></div>
+        <div class="section-footer">
+            <div class="bleed bg-color bg-turquoise-d2">
+                <div class="arrow-down center"></div>
+                <article class="row main">
+                    <section class="col-xs-12">
+                        <h6 class="text-center">Next</h6>
+                        <h2 class="text-center">Unit 2: [Insert title of next page]</h2>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit Performance - Engineering -->
+<script type="application/inkling+patternsnippet" id="unit_performance_engineering" data-label="Unit Performance - Engineering" data-category="Page Headers">
+<div class="unit-performance">
+        <div class="section-opener">
+            <div class="bleed bg-turquoise-d2 lesson-tab">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h4 class="white text-center">Unit #</h4>
+                    </section>
+                </article>
+            </div>
+            <header class="bleed bg-turquoise-d4 engineering">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h2 class="white">Unit Performance Task</h2>
+                    </section>
+                </article>
+            </header>
+        </div>
+        <div class="spacer large"></div>
+
+        <div class="spacer large"></div>
+        <div class="section-footer">
+            <div class="bleed bg-color bg-turquoise-d2">
+                <div class="arrow-down center"></div>
+                <article class="row main">
+                    <section class="col-xs-12">
+                        <h6 class="text-center">Next</h6>
+                        <h2 class="text-center">Unit 2: [Insert title of next page]</h2>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit Performance - Physical -->
+<script type="application/inkling+patternsnippet" id="unit_performance_physical" data-label="Unit Performance - Physical" data-category="Page Headers">
+<div class="unit-performance">
+        <div class="section-opener">
+            <div class="bleed bg-turquoise-d2 lesson-tab">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h4 class="white text-center">Unit #</h4>
+                    </section>
+                </article>
+            </div>
+            <header class="bleed bg-turquoise-d4 physical">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h2 class="white">Unit Performance Task</h2>
+                    </section>
+                </article>
+            </header>
+        </div>
+        <div class="spacer large"></div>
+
+        <div class="spacer large"></div>
+        <div class="section-footer">
+            <div class="bleed bg-color bg-turquoise-d2">
+                <div class="arrow-down center"></div>
+                <article class="row main">
+                    <section class="col-xs-12">
+                        <h6 class="text-center">Next</h6>
+                        <h2 class="text-center">Unit 2: [Insert title of next page]</h2>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit Review -->
+<script type="application/inkling+patternsnippet" id="unit_review" data-label="Unit Review" data-category="Page Headers">
+<div class="unit-review">
+        <div class="section-opener">
+            <div class="bleed bg-turquoise-d2 lesson-tab">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h4 class="white text-center">Unit #</h4>
+                    </section>
+                </article>
+            </div>
+            <header class="bleed bg-turquoise-d4">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h2 class="white">Unit Review</h2>
+                    </section>
+                </article>
+            </header>
+        </div>
+        <div class="spacer large"></div>
+
+        <div class="spacer large"></div>
+        <div class="section-footer">
+            <div class="bleed bg-color bg-turquoise-d2">
+                <div class="arrow-down center"></div>
+                <article class="row main">
+                    <section class="col-xs-12">
+                        <h6 class="text-center">Next</h6>
+                        <h2 class="text-center">Unit Performance Task</h2>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit Review - Life -->
+<script type="application/inkling+patternsnippet" id="unit_review_life" data-label="Unit Review - Life" data-category="Page Headers">
+<div class="unit-review">
+        <div class="section-opener">
+            <div class="bleed bg-turquoise-d2 lesson-tab">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h4 class="white text-center">Unit #</h4>
+                    </section>
+                </article>
+            </div>
+            <header class="bleed bg-turquoise-d4 life">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h2 class="white">Unit Review</h2>
+                    </section>
+                </article>
+            </header>
+        </div>
+        <div class="spacer large"></div>
+
+        <div class="spacer large"></div>
+        <div class="section-footer">
+            <div class="bleed bg-color bg-turquoise-d2">
+                <div class="arrow-down center"></div>
+                <article class="row main">
+                    <section class="col-xs-12">
+                        <h6 class="text-center">Next</h6>
+                        <h2 class="text-center">Unit Performance Task</h2>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit Review - Earth -->
+<script type="application/inkling+patternsnippet" id="unit_review_earth" data-label="Unit Review - Earth" data-category="Page Headers">
+<div class="unit-review">
+        <div class="section-opener">
+            <div class="bleed bg-turquoise-d2 lesson-tab">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h4 class="white text-center">Unit #</h4>
+                    </section>
+                </article>
+            </div>
+            <header class="bleed bg-turquoise-d4 earth">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h2 class="white">Unit Review</h2>
+                    </section>
+                </article>
+            </header>
+        </div>
+        <div class="spacer large"></div>
+
+        <div class="spacer large"></div>
+        <div class="section-footer">
+            <div class="bleed bg-color bg-turquoise-d2">
+                <div class="arrow-down center"></div>
+                <article class="row main">
+                    <section class="col-xs-12">
+                        <h6 class="text-center">Next</h6>
+                        <h2 class="text-center">Unit Performance Task</h2>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit Review - Physical -->
+<script type="application/inkling+patternsnippet" id="unit_review_physical" data-label="Unit Review - Physical" data-category="Page Headers">
+<div class="unit-review">
+        <div class="section-opener">
+            <div class="bleed bg-turquoise-d2 lesson-tab">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h4 class="white text-center">Unit #</h4>
+                    </section>
+                </article>
+            </div>
+            <header class="bleed bg-turquoise-d4 physical">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h2 class="white">Unit Review</h2>
+                    </section>
+                </article>
+            </header>
+        </div>
+        <div class="spacer large"></div>
+
+        <div class="spacer large"></div>
+        <div class="section-footer">
+            <div class="bleed bg-color bg-turquoise-d2">
+                <div class="arrow-down center"></div>
+                <article class="row main">
+                    <section class="col-xs-12">
+                        <h6 class="text-center">Next</h6>
+                        <h2 class="text-center">Unit Performance Task</h2>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit Review - Engineering -->
+<script type="application/inkling+patternsnippet" id="unit_review_engineering" data-label="Unit Review - Engineering" data-category="Page Headers">
+<div class="unit-review">
+        <div class="section-opener">
+            <div class="bleed bg-turquoise-d2 lesson-tab">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h4 class="white text-center">Unit #</h4>
+                    </section>
+                </article>
+            </div>
+            <header class="bleed bg-turquoise-d4 engineering">
+                <article class="row feature">
+                    <section class="col-xs-12">
+                        <h2 class="white">Unit Review</h2>
+                    </section>
+                </article>
+            </header>
+        </div>
+        <div class="spacer large"></div>
+
+        <div class="spacer large"></div>
+        <div class="section-footer">
+            <div class="bleed bg-color bg-turquoise-d2">
+                <div class="arrow-down center"></div>
+                <article class="row main">
+                    <section class="col-xs-12">
+                        <h6 class="text-center">Next</h6>
+                        <h2 class="text-center">Unit Performance Task</h2>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit Opener -->
+<script type="application/inkling+patternsnippet" id="unit_opener" data-label="Unit Opener" data-category="Page Headers">
+<div class="unit-opener">
+        <div class="opener-header">
+            <div class="video-id">Video Reference</div>
+            <div class="floater">
+                <h3>Unit #</h3>
+                <h2>Insert Unit Header here Insert Unit Header here</h2>
+                <div class="description">
+                </div>
+            </div>
+            <img src="../../img/placeholder/placeholder.jpg" class="img-placeholder" />
+            <video id='videoinstance' preload="auto" autoplay="autoplay" loop="loop" class="bg-video">
+                <source src="http://brightcove.vo.llnwd.net/" type="" />
+            </video>
+        </div>
+        <div class="arrow-down center"></div>
+
+        <div class="row main main-caption">
+            <div class="col-xs-12">
+                <p class="caption">
+                    Image caption
+                </p>
+            </div>
+        </div>
+
+        <div class="spacer large"></div>
+
+        <div class="spacer large"></div>
+
+        <div class="unit-title">
+            <article class="row main">
+                <section class="col-xs-12">
+                    <h4>Unit Project</h4>
+                </section>
+            </article>
+        </div>
+
+        <div class="bottom">
+            <div class="row main">
+                <div class="col-xs-12">
+                    <h3>Feature Future</h3>
+                    <p>
+                        Can you predict the future of a geologic feature? Choose a geologic feature near where you live or one in another location that interests you and investigave, prove, and predict its past, present, and future!
+                    </p>
+                    <div class="spacer regular"></div>
+
+                    <a class="propose-download-button" href="#" data-resource-id="" data-resource-uuid="">
+                        <span class="icon"></span>
+                        <h6 class="content">Research Proposal Worksheet</h6>
+                    </a>
+
+                    <div class="spacer large"></div>
+
+                </div>
+            </div>
+
+            <div class="section-footer">
+                <div class="bleed bg-color bg-turquoise-d2">
+                    <div class="arrow-down center"></div>
+                    <article class="row main">
+                        <section class="col-xs-12">
+                            <h4 class="text-center">Next</h4>
+                            <h2 class="text-center">Unit 2: [Insert title of next page]</h2>
+                        </section>
+                    </article>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</script>
+
+<!-- 2 column side by side -->
+<script type="application/inkling+patternsnippet" id="two-cols-images" data-label="2 column side by side" data-category="Images Edge to Edge">
+<div class="boxed-content-no-topspace">
+        <div class="spacer regular"></div>
+        <div class="two-cols row feature ">
+            <div class="col-xs-6">
+                <figure>
+                    <img src="../../img/placeholder/fpo.jpg" alt="fpo" />
+                </figure>
+                <article class="thecaption">
+                    <section>
+                        <p class="caption light-gray-d1">DSS Caption Omnim qui dis il illaborit, sit fuga. Et volo est etus eatiis doluptatibus quodit, ommolorro te alibus audicit eum ipiendit apedis ea pro et repudandaero conet exceribus, qui dus.</p>
+                    </section>
+                </article>
+            </div>
+            <div class="col-xs-6">
+                <figure>
+                    <img src="../../img/placeholder/fpo.jpg" alt="fpo" />
+                </figure>
+                <article class="thecaption">
+                    <section>
+                        <p class="caption light-gray-d1">DSS Caption Omnim qui dis il illaborit, sit fuga. Et volo est etus eatiis doluptatibus quodit, ommolorro te alibus audicit eum ipiendit apedis ea pro et repudandaero conet exceribus, qui dus.</p>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- 3 column side by side -->
+<script type="application/inkling+patternsnippet" id="three-cols-images" data-label="3 column side by side" data-category="Images Edge to Edge">
+<div class="static">
+        <div class="spacer regular"></div>
+        <div class="three-cols row feature ">
+            <div class="col-xs-4">
+                <figure>
+                    <img src="../../img/placeholder/fpo.jpg" alt="fpo" />
+                </figure>
+                <article class="thecaption">
+                    <section>
+                        <p class="caption light-gray-d1">[<strong>Image Title</strong> | Image caption text goes here. Delete image title and pipe symbol ( | ), if a title is not required.]</p>
+                    </section>
+                </article>
+            </div>
+            <div class="col-xs-4">
+                <figure>
+                    <img src="../../img/placeholder/fpo.jpg" alt="fpo" />
+                </figure>
+                <article class="thecaption">
+                    <section>
+                        <p class="caption light-gray-d1">[<strong>Image Title</strong> | Image caption text goes here. Delete image title and pipe symbol ( | ), if a title is not required.]</p>
+                    </section>
+                </article>
+            </div>
+            <div class="col-xs-4">
+                <figure>
+                    <img src="../../img/placeholder/fpo.jpg" alt="fpo" />
+                </figure>
+                <article class="thecaption">
+                    <section>
+                        <p class="caption light-gray-d1">[<strong>Image Title</strong> | Image caption text goes here. Delete image title and pipe symbol ( | ), if a title is not required.]</p>
+                    </section>
+                </article>
+            </div>
+        </div>
+    </div>
+</script>
+
+<!-- Unit connections opener -->
+<script type="application/inkling+patternsnippet" id="unit_connections_opener" data-label="Unit connections opener" data-category="Unit connections">
+<div class="unit-connections">
+
+      <div class="take-it-further-opener navigation-header">
+        <div class="bleed bg-purple-d2 lesson-tab">
+          <article class="row feature">
+            <section class="col-xs-12">
+              <h4 class="white text-center">UNIT CONNECTIONS</h4>
+            </section>
+          </article>
+        </div>
+        <div class="topper row main">
+          <h4>[H4 Heading - Insert meaningful content here.]</h4>
+        </div>
+        <div class="wrapper row main">
+          <a href="#" class="box bg-aqua col-xs-6">
+            <h4>[Insert Path 1 header]</h4>
+            <span class="cover">
+              <img src="../../img/placeholder/fpo_wide.jpg" alt="fpo"  class="cover" />
+            </span>
+          </a>
+          <a href="#" class="box bg-aqua col-xs-6">
+            <h4>[Insert Path 2 header]</h4>
+            <span class="cover">
+              <img src="../../img/placeholder/fpo_wide.jpg" alt="fpo"  class="cover" />
+            </span>
+          </a>
+          <a href="#" class="box bg-aqua col-xs-6">
+            <h4>[Insert Path 3 header]</h4>
+            <span class="cover">
+              <img src="../../img/placeholder/fpo_wide.jpg" alt="fpo"  class="cover" />
+            </span>
+          </a>
+        </div>
+      </div>
+
+      <div class="main-container">
+      </div>
+
+      <div class="take-it-further-footer navigation-footer">
+
+        <div class="wrapper row main">
+          <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 1 header]</h4></a>
+          <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 2 header]</h4></a>
+          <a href="#" class="box bg-aqua col-xs-6 selected"><h4>[Insert Path 3 header]</h4></a>
+        </div>
+        <div class="footer bg-color bg-golden">
+          <div class="arrow-down center"></div>
+          <h5 class="next">Next</h5>
+          <h3 class="check">Unit Review</h3>
+        </div>
+      </div>
+
+    </div>
+</script>
+
+<!-- Unit connections -->
+<script type="application/inkling+patternsnippet" id="unit_connections" data-label="Unit connections" data-category="Unit connections">
+<div class="unit-connections">
+
+    <div class="take-it-further-header navigation-header">
+        <div class="bleed bg-purple-d2 lesson-tab">
+            <article class="row feature">
+                <section class="col-xs-12">
+                    <h4 class="white text-center">UNIT CONNECTIONS</h4>
+                </section>
+            </article>
+        </div>
+        <div class="wrapper row main">
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 1 header]</h4></a>
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 2 header]</h4></a>
+            <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 3 header]</h4></a>
+        </div>
+    </div>
+
+      <div class="main-container">
+      </div>
+
+      <div class="take-it-further-footer navigation-footer">
+        <div class="wrapper row main">
+          <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 1 header]</h4></a>
+          <a href="#" class="box bg-aqua col-xs-6"><h4>[Insert Path 2 header]</h4></a>
+          <a href="#" class="box bg-aqua col-xs-6 selected"><h4>[Insert Path 3 header]</h4></a>
+        </div>
+        <div class="footer bg-color bg-golden">
+          <div class="arrow-down center"></div>
+          <h5 class="next">Next</h5>
+          <h3 class="check">Unit Review</h3>
+        </div>
+      </div>
+
+    </div>
+</script>
+
+<!-- Teacher Container -->
+<script type="application/inkling+patternsnippet" id="teacher_container" data-label="Teacher Container" data-category="Teacher Content">
+<section data-ink-edition-labels="teacher">
+    <br/>
+  </section>
+</script>
+
+<!-- Teacher H1 with Text -->
+<script type="application/inkling+patternsnippet" id="teacher_h1_with_text" data-label="Teacher H1 with Text" data-category="Teacher Content">
+<div class="teacher-h1-text">
+    <h1>H1 header goes here</h1>
+    <p>Text content goes here</p>
+  </div>
+</script>
+
+<!-- Teacher H2 with Text -->
+<script type="application/inkling+patternsnippet" id="teacher_h2_with_text" data-label="Teacher H2 with Text" data-category="Teacher Content">
+<div class="teacher-h2-text">
+    <h2>H2 header goes here</h2>
+    <p>Text content goes here</p>
+  </div>
+</script>
+
+<!-- Teacher H3 with Text -->
+<script type="application/inkling+patternsnippet" id="teacher_h3_with_text" data-label="Teacher H3 with Text" data-category="Teacher Content">
+<div class="teacher-h3-text">
+    <h3>H3 header goes here</h3>
+    <p>Text content goes here</p>
+  </div>
+</script>
+
+<!-- Teacher Image -->
+<script type="application/inkling+patternsnippet" id="teacher_image" data-label="Teacher Image" data-category="Teacher Content">
+<div class="teacher-image">
+    <img src="../../img/placeholder/fpo.jpg" alt="" />
+  </div>
+</script>
+
+<!-- MCQ Text -->
+<script type="application/inkling+patternsnippet" id="mcq_text" data-label="MCQ Text" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/mcq/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- Self Check -->
+<script type="application/inkling+patternsnippet" id="mcq_self_check" data-label="Self Check" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/mcq_self_check/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- MCQ Image -->
+<script type="application/inkling+patternsnippet" id="mcq_image" data-label="MCQ Image" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/mcq_image/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- MDQ Simple -->
+<script type="application/inkling+patternsnippet" id="mdq_single" data-label="MDQ Simple" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/mdq_single/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- MDQ Paragraph -->
+<script type="application/inkling+patternsnippet" id="mdq_paragraph" data-label="MDQ Paragraph" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/mdq_paragraph/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- MDQ Background -->
+<script type="application/inkling+patternsnippet" id="mdq_image_hotspot" data-label="MDQ Background" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/mdq_image_hotspot/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- IH Question -->
+<script type="application/inkling+patternsnippet" id="image_hotspot_question" data-label="IH Question" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/ih_feedback/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- IH Explore -->
+<script type="application/inkling+patternsnippet" id="image_hotspot_combo" data-label="IH Explore" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/ih_image_hotspot/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- DDS Image -->
+<script type="application/inkling+patternsnippet" id="dds" data-label="DDS Image" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/dds/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- DDO Main -->
+<script type="application/inkling+patternsnippet" id="ddo_image_text_drag" data-label="DDO Main" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/ddo_image_text_drag/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- DDM Background -->
+<script type="application/inkling+patternsnippet" id="rpl310_ddm" data-label="DDM Background" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/ddm_image/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- Placeholder -->
+<script type="application/inkling+patternsnippet" id="interactive-placeholder" data-label="Placeholder" data-category="NGSS INTERACTIONS">
+<article class="row main">
+        <section class="col-xs-12">
+            <h4>Place name of placeholder interaction here!</h4>
+        </section>
+        <section class="col-xs-12">
+            <figure class="box-topspace-none box-bottomspace-none">
+                <img alt="" src="../../img/placeholder/fpo.jpg" />
+            </figure>
+        </section>
+    </article>
+</script>
+
+<!-- FIQ Table -->
+<script type="application/inkling+patternsnippet" id="rpl_316_multiple_type_in_boxes" data-label="FIQ Table" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/fiq_table/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- FIQ Main -->
+<script type="application/inkling+patternsnippet" id="fiq_main" data-label="FIQ Main" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/fiq_fill_in_question/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- FIQ Background -->
+<script type="application/inkling+patternsnippet" id="fiq_background" data-label="FIQ Background" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/fiq_background/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- TR Image -->
+<script type="application/inkling+patternsnippet" id="rpl159_image_sequence_taps" data-label="TR Image" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/tr_image_update_tap/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- TR Cycle -->
+<script type="application/inkling+patternsnippet" id="rpl156_tr_cycle" data-label="TR Cycle" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/tr_tap_to_revel_sequenced_image/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- TR Main -->
+<script type="application/inkling+patternsnippet" id="tr_main" data-label="TR Main" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/tr_tap_to_revel_main/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- LII Main -->
+<script type="application/inkling+patternsnippet" id="lii_main" data-label="LII Main" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/lii_layered_image_interaction/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- DDD Image -->
+<script type="application/inkling+patternsnippet" id="ddd_background" data-label="DDD Image" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/ddd_background/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- DDD TABLE -->
+<script type="application/inkling+patternsnippet" id="ddd_table" data-label="DDD TABLE" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/ddd_table/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- DDM Table -->
+<script type="application/inkling+patternsnippet" id="ddm_table" data-label="DDM Table" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/ddm_table/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- DDS Matching -->
+<script type="application/inkling+patternsnippet" id="dds_matching" data-label="DDS Matching" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/dds_matching/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- Line Matching -->
+<script type="application/inkling+patternsnippet" id="line_matching" data-label="Line Matching" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/line_matching/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- DDS Background -->
+<script type="application/inkling+patternsnippet" id="dds_background" data-label="DDS Background" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/dds_background/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- FTQ Main -->
+<script type="application/inkling+patternsnippet" id="ftq_main" data-label="FTQ Main" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/ftq_main/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- FTQ Table -->
+<script type="application/inkling+patternsnippet" id="ftq_table" data-label="FTQ Table" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/ftq_table/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- FTQ Background -->
+<script type="application/inkling+patternsnippet" id="ftq_background" data-label="FTQ Background" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/ftq_background/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- Image Gallery -->
+<script type="application/inkling+patternsnippet" id="image_gallery" data-label="Image Gallery" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/image-gallery/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- Video Gallery -->
+<script type="application/inkling+patternsnippet" id="video_gallery" data-label="Video Gallery" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/video-gallery/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- Paced Video -->
+<script type="application/inkling+patternsnippet" id="paced_video" data-label="Paced Video" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/paced-video/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- PVA Hotspot -->
+<script type="application/inkling+patternsnippet" id="pva_hotspot" data-label="PVA Hotspot" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/pva_hotspot/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- Drawing tool -->
+<script type="application/inkling+patternsnippet" id="drawing_tool" data-label="Drawing tool" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/drawing-tool/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- Audio Gallery -->
+<script type="application/inkling+patternsnippet" id="ag_background" data-label="Audio Gallery" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/ag_background/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- IS Main -->
+<script type="application/inkling+patternsnippet" id="interactive_slider_main" data-label="IS Main" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/interactive_slider_main/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- Evaluate path -->
+<script type="application/inkling+patternsnippet" id="evaluate_path" data-label="Evaluate path" data-category="NGSS INTERACTIONS">
+<object type="text/html" data="../../assets/widgets/ngss-widgets/evaluate-path/index.html" class="widget">
+    </object>
+</script>
+
+<!-- 3D Model -->
+<script type="application/inkling+patternsnippet" id="3d_model" data-label="3D Model" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/3d_model/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- CG Graph -->
+<script type="application/inkling+patternsnippet" id="cg_data_collection" data-label="CG Graph" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/cg_data_collection/index.html" class="widget">
+        </object>
+    </div>
+</script>
+
+<!-- Text Block -->
+
+<script type="application/inkling+patternsnippet" id="text_block" data-label="Text Block" data-category="NGSS INTERACTIONS">
+<div class="interactive">
+        <div class="spacer regular"></div>
+        <object type="text/html" data="../../assets/widgets/ngss-widgets/text_block/index.html" class="widget">
+        </object>
+    </div>
+</script>

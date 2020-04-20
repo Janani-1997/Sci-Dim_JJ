@@ -1,0 +1,135 @@
+/*--------------------------------------------------------------------
+ * Base Fonts and Sizes
+ *------------------------------------------------------------------*/
+/* Set the base font sizes for small and larger screens
+The font size should be set on the <html> element, so that the
+reader can adjust the size as it cascades by targeting the
+<body> element. */
+html, body {
+    font-size: $base-font-size;
+}
+
+@include respond-max-width($bp-large) {
+  html, body {
+      font-size: $base-font-size-small;
+  }
+}
+
+html {
+     @include respond-mobile {
+        font-size: $base-font-size-small;
+    }
+}
+
+body {
+    font-family: $body-font-family;
+    color: $text-color;
+    font-weight: 400;
+    line-height: $base-line-height;
+    letter-spacing: 0;
+     @include respond-mobile {
+        //background: pink;
+    }
+}
+
+
+/*------------------------------------------------------------------
+ * Font Features
+ *
+ * Utilize font-smoothing when possible.
+ *----------------------------------------------------------------*/
+/* Add kerning ligatures to a small set of elements when
+ available. Do not add to the body or large blocks of text for
+ performance reasons. */
+h1, h2, h3, h4, h5, h6,
+blockquote {
+    text-rendering: optimizeLegibility;
+}
+
+/* We have opted to not include -webkit-font-smoothing modifications
+because every font and contrasting color choices yeilds mixed
+results and can sometimes appear blurry. YMMV. */
+
+/*--------------------------------------------------------------------
+ * Inline Styles
+ *
+ * Styles for most inline tags and several custom spans.
+ *------------------------------------------------------------------*/
+/* strong / bold */
+b, strong {
+    font-weight: 700;
+}
+
+/* italics / emphasis */
+i, em {
+    font-style: italic;
+}
+
+/* strikethrough */
+s {
+  text-decoration:line-through;
+}
+
+/* deleted text */
+del {
+    text-decoration: line-through;
+}
+
+/* inserted text */
+ins {
+    text-decoration: underline;
+}
+
+/* copyright and legal text */
+small {
+    font-size: $font_size-small;
+    line-height: 0.9em; // fixes line-height bug
+}
+
+/* subscript and superscript */
+sup, sub {
+   vertical-align: super;
+   font-size: 0.65em;
+   line-height: 0.65em;
+}
+
+sub {
+    vertical-align: bottom;
+}
+
+/*--------------------------------------------------------------------
+ * Code
+ *
+ * Code and monospace styles.
+ *------------------------------------------------------------------*/
+code,
+kbd,
+samp {
+    border-radius: 2px;
+    font-family: $font-mono;
+    font-size: $font_size-small;
+    line-height: 0.9em; /* fixes line-height bug */
+    padding: 2px;
+    vertical-align: middle;
+}
+
+/* preformatted code blocks */
+pre {
+  margin-bottom: em($base-line-height);
+  overflow-x: scroll;
+  white-space: pre;
+
+  code {
+    display: block;
+    padding: $indent-unit/2;
+    line-height: 1.2;
+    overflow: auto;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Paragraphs
+ *------------------------------------------------------------------*/
+p {
+    margin: 9px 0;
+}

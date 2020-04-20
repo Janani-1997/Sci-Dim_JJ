@@ -1,0 +1,36 @@
+//Theme colors
+$explib-theme-colors:   "turquoise" $turquoise-c40 $turquoise-c60 $turquoise-s20,
+                        "green" $yellow-c60 $green-c60 $green-s20,
+                        "red" $red-c45 $red-c60 $red-s20,
+                        "cerise" $cerise-c45 $cerise-c60 $cerise-s20,
+                        "purple" $purple-c40 $purple-c60 $purple-s20,
+                        "golden" $golden-c40 $golden-c60 $golden-s20,
+                        "blue" $blue-c45 $blue-c60 $blue-s20,
+                        "orange" $orange-c40 $orange-c60 $orange-s20, 
+                        "red-white-blue" $red-c40 $blue-c60 $golden-s40;                 
+    
+@each $explib-theme-color in $explib-theme-colors {
+    explib-interaction-anatomy .theme-#{nth($explib-theme-color, 1)} {
+        .anatomy-title {
+            background-image: none; //my default theme has a background-image to allow gradients, need to overide.
+            background-color: #{nth($explib-theme-color, 2)};
+    //            border-top-left-radius : $border-top-left-radius;
+    //            border-top-right-radius : $border-top-right-radius;
+    //            border-bottom-left-radius : $border-bottom-left-radius;
+    //            border-bottom-right-radius : $border-bottom-right-radius;            
+        }
+        .anatomy-stem {
+            background-image: none; //my default theme has a background-image to allow gradients, need to overide.
+            background-color: #{nth($explib-theme-color, 3)};
+        }  
+
+        .anatomy-feedback-area {
+            background-image: none; //my default theme has a background-image to allow gradients, need to overide.
+            background-color: #{nth($explib-theme-color, 4)};            
+        }
+
+    //        .explib-widget-button  {
+    //            border-radius:10px !important
+    //        }        
+    }
+}

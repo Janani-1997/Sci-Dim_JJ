@@ -1,0 +1,38 @@
+//--------------------------------------------------------------------
+// NON-CSS PARTIALS
+// The following partials do not contain any CSS selectors and are
+// safe to import in custom templates.
+//--------------------------------------------------------------------
+// Functions
+@import "../core/functions";
+
+// Width, alignment, grid and media query mixins
+@import "../core/layout";
+
+// Colors
+@import "../core/colors";
+
+// Other generic mixins
+@import "../core/mixins";
+
+// Add @import statements to your partials here.
+
+@import "patterns";
+@import "tooltip";
+@import "lli";
+@import "lightbox";
+@import "accordion";
+@import "lesson-opener";
+@import "section-opener";
+@import "exploratory-reading";
+@import "footer";
+@import "activity-divider";
+@import "notebook";
+@import "hands-on";
+@import "propose-path";
+//@import "parallax-opener";
+
+@import "table";
+
+//Activity Container
+@import "activity-container";

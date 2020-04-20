@@ -1,0 +1,34 @@
+/*--------------------------------------------------------------------
+ * Theme Name:      HMH Template
+ * Version:         1.0.0
+ * Author:          Inkling
+ * Description:     Template for custom HMH styles.
+ *
+ * Do not add any custom CSS directly to this file! This file is 
+ * generated automatically and your changes will be lost.
+ * Please use custom.css instead.
+ *
+ * This file is reserved for the advanced Sass workflow.
+ *------------------------------------------------------------------*/
+
+//--------------------------------------------------------------------
+// ADVANCED SASS WORKFLOW
+//
+// This is the starting point for creating new styles. Below are some
+// starting instructions for adding existing styles or creating ones.
+//--------------------------------------------------------------------
+
+// CREATE NEW TEMPLATE STYLES
+//
+// 1. Change the template name and author.
+// 2. Add your custom scss partials to the /main directory and add
+//    an @import statement for each partial in _index.scss file.
+
+// Don't remove the following two @import statements. They are needed
+// to initialize the advanced custom styles.
+
+// Import the project settings.
+@import "settings"; 
+// Import the main Sass index partial (will not generate CSS by default)
+@import "main/index";
+

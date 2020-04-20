@@ -1,0 +1,202 @@
+.callout {
+
+  padding-bottom: 15px;
+
+  .topper {
+    color: $blue-d6;
+    position: relative;
+    padding: 0 20px 0 88px;
+    height: 60px;
+    text-transform: uppercase;
+    background: $blue-l6;
+    border: 1px solid $blue-l4;
+    font-weight: bold;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+    &::before {
+      content: "";
+      display: block;
+      width: 60px;
+      height: 60px;
+      position: absolute;
+      left: -1px;
+      top: 0px;
+      background-size: 30px !important;
+      margin: -1px 0 -1px 0;
+    }
+  }
+
+  .fill {
+    padding: 0 !important;
+  }
+
+  .row > * > .content{
+    color: $blue-d6;
+    background: $blue-l6;
+    border: 1px solid $blue-l4;
+    border-width: 0 1px 1px 1px;
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+  }
+
+  .row > * > .content.inverted {
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+  }
+
+  &.collaboration{
+    .topper{
+      border-top: 1px solid $blue-l4;
+      border-left: 1px solid $blue-l4;
+      border-right: 1px solid $blue-l4;
+      border-bottom: none;
+      background: $blue-l6;
+      &::before {
+        border-top: 1px solid $blue-l4;
+        border-left: 1px solid $blue-l4;
+        border-right: none;
+        border-bottom: none;
+        background: $blue-l6 url("images/feature/collaboration_inverted.svg") center center no-repeat;
+      }
+    }
+    .topper:last-child {
+      border-bottom: 1px solid $blue-l4;
+      &::before {
+        border-bottom: 1px solid $blue-l4;
+      }
+    }
+    .topper.inverted{
+      background: $blue-l6;
+      border: 1px solid $blue-l4;
+      &::before {
+        background: $blue-d1 url("images/feature/collaboration.svg") center center no-repeat;
+      }
+    }
+  }
+
+  &.notebook{
+    .topper{
+      border-top: 1px solid $blue-l4;
+      border-left: 1px solid $blue-l4;
+      border-right: 1px solid $blue-l4;
+      border-bottom: none;
+      background: $blue-l6;
+      &::before {
+        border-top: 1px solid $blue-l4;
+        border-left: 1px solid $blue-l4;
+        border-right: none;
+        border-bottom: none;
+        background: $blue-l6 url("images/feature/evidence_notebook_blue.svg") 15px center no-repeat;
+      }
+    }
+    .topper:last-child {
+      border-bottom: 1px solid $blue-l4;
+      &::before {
+        border-bottom: 1px solid $blue-l4;
+      }
+    }
+    .topper.inverted{
+      background: $blue-l6;
+      border: 1px solid $blue-l4;
+      &::before {
+        background: $blue-d1 url("images/feature/evidence_notebook.svg") 15px center no-repeat;
+      }
+    }
+  }
+
+  &.notebook.gold{
+    .topper{
+      border-top: 1px solid $golden-l4;
+      /*border-left: none;*/
+      border-right: 1px solid $golden-l4;
+      border-bottom: none;
+      background: $golden-l6;
+        color: $text-color;
+      &::before {
+        border-top: 1px solid $golden-l4;
+        border-left: 1px solid $golden-l4;
+        border-right: none;
+        border-bottom: none;
+        background: $golden-l6 url("images/feature/evidence_notebook_yellow.svg") 15px center no-repeat;
+      }
+    }
+    .topper:last-child {
+      border-bottom: 1px solid $golden-l4;
+      &::before {
+        border-bottom: 1px solid $golden-l4;
+      }
+    }
+    .topper.inverted{
+      border: 1px solid $golden-l4;
+      background: $golden-l6;
+        color: $text-color;
+      &::before {
+        background: $golden-l1 url("images/feature/evidence_notebook.svg") 15px center no-repeat;
+      }
+    }
+
+    .row > * > .content{
+      color: $text-color;
+      background: $golden-l6;
+      border: 1px solid $golden-l4;
+      border-top: 0;
+    }
+  }
+
+ &.language{
+    .topper{
+      border-top: 1px solid $blue-l4;
+      border-left: 1px solid $blue-l4;
+      border-right: 1px solid $blue-l4;
+      border-bottom: none;
+      background: $blue-l6;
+      &::before {
+        border-top: 1px solid $blue-l4;
+        border-left: 1px solid $blue-l4;
+        border-right: none;
+        border-bottom: none;
+        background: $blue-l6 url("images/feature/language_arts_inverted.svg") center center no-repeat;
+      }
+    }
+    .topper:last-child {
+      border-bottom: 1px solid $blue-l4;
+      &::before {
+        border-bottom: 1px solid $blue-l4;
+      }
+    }
+    .topper.inverted{
+      background: $blue-l6;
+      border: 1px solid $blue-l4;
+      &::before {
+        background: $blue-d1 url("images/feature/language_arts.svg") center center no-repeat;
+      }
+    }
+  }
+
+}
+
+.callout{
+  .interactive {
+    margin-top: 9px;
+  }
+}
+
+@include respond-max-width($bp-medium) {
+  .callout {
+    .topper {
+      padding-left: 80px;
+    }
+
+    .row > * > .content{
+      padding: 5px 20px;
+    }
+  }
+}

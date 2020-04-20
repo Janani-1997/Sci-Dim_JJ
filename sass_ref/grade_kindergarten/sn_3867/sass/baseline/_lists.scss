@@ -1,0 +1,234 @@
+/*--------------------------------------------------------------------
+ * Lists
+ *------------------------------------------------------------------*/
+ol, ul {
+    list-style-type: none;
+    font-style: normal;
+    margin-left: em($indent-unit);
+    margin-bottom: space(1);
+
+    // Needed in case li contain floating elements or float themselves.
+    @include clearfix;
+
+    // Required for absolutely positioned list image counters
+    li {
+        position: relative;
+    }
+
+    ol, ul {
+        /* Remove bottom margin from nested lists */
+        margin-bottom: 0;
+    }
+}
+
+/* Make sure list-items outside of lists don't have a coutner */
+body > li {
+    list-style-type: none;
+}
+
+/* Ordered */
+.list-decimal {
+    list-style-type: decimal;
+}
+
+.list-upper-alpha {
+    list-style-type: upper-alpha;
+}
+
+.list-upper-roman {
+    list-style-type: upper-roman;
+}
+
+.list-lower-alpha {
+    list-style-type: lower-alpha;
+}
+
+.list-lower-roman {
+    list-style-type: lower-roman;
+}
+
+/* Unordered */
+.list-bullet,
+.list-disc {
+    list-style-type: disc;
+}
+
+.list-square {
+    list-style-type: square;
+}
+
+.list-circle {
+    list-style-type: circle;
+}
+
+/* Other list styles */
+.list-no-style {
+    list-style-type: none;
+}
+
+.list-no-indent {
+    margin-left: 0;
+}
+
+.list-indent {
+    margin-left: em($indent-unit*2);
+}
+
+.list-inside {
+    margin-left: 0;
+    list-style-position: inside;
+}
+
+.list-second-indent,
+.list-second-line-indent {
+    margin-left: em($indent-unit);
+    text-indent: em(-$indent-unit);
+} 
+
+//--------------------------------------------------------------------
+// Nested Lists 1.0.0
+// These are defined last so they can extend the existing classes.
+//--------------------------------------------------------------------
+ol {
+    @extend .list-decimal;
+    ol {
+        @extend .list-upper-alpha;
+        ol {
+            @extend .list-upper-roman;
+            ol {
+                @extend .list-lower-alpha;
+                ol {
+                    @extend .list-lower-roman;
+                }
+            }
+        }
+    }
+}
+
+ul {
+    @extend .list-bullet;
+    ul {
+        @extend .list-square;
+        ul {
+            @extend .list-circle;
+            ul {
+                @extend .list-bullet;
+                ul {
+                    @extend .list-square;
+                }
+            }
+        }
+    }
+}
+
+/*--------------------------------------------------------------------
+ * List Images
+ *
+ * The list images can be changed by uploading new images to the
+ * assets/css/images folder.
+ *------------------------------------------------------------------*/
+%list-image {
+    list-style-type: none;
+    position: relative;
+    li:before {
+        content: "";
+        background-size: 70% 70%;
+        background-position: 0 50%;
+        background-repeat: no-repeat;
+        position: absolute;
+        display: block;
+        left: em(-$indent-unit);
+        height: em($base-line-height);
+        width: em($base-line-height);
+    }
+    li { 
+        counter-increment: section;
+    }
+}
+
+// @each $image in $list-images {
+//     .list-image-#{$image} {
+//         @extend %list-image;
+//         li:before {
+//             background-image: url(images/icon-#{$image}.svg);
+//         }
+//     }
+// }
+
+/*------------------------------------------------------------------
+ * Two-column List
+ *----------------------------------------------------------------*/
+.list-two-column { 
+    li {
+        @include respond($bp-medium){
+            width: 50%;
+            float: left;
+            padding-right: $padding-width * 1.5;
+        }
+    }
+}
+
+
+/*--------------------------------------------------------------------
+ * DSS Lists
+ *------------------------------------------------------------------*/
+
+// Unordered Lists
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-left: 35px; 
+    padding: 7.5px 0; 
+    @include respond-max-width($bp-small) {
+       padding: 2px 0 3.5px 0;
+       margin-left: 25px; 
+    }
+}
+ul > li{
+    position: relative;
+    margin-top: 10px;
+    padding-left: 0.5em; 
+    min-height: 1em;
+}
+ul > li:before {
+    position: absolute;
+    top: 5px;
+    left: -1em;
+    width: 1em;
+    line-height: 1;
+    /*font-weight: bold;*/
+    text-align: right;
+    color: $dss-light-gray-d1;
+    content: '\2022';
+}
+
+// Ordered lists
+ol {
+    list-style-type: none;
+    margin: 0;
+    margin-left: 35px; 
+    padding: 7.5px 0; 
+    counter-reset: li-counter;
+    @include respond-max-width($bp-small) {
+       padding: 2px 0 3.5px 0;
+       margin-left: 25px;
+    }
+}
+ol > li { 
+    position: relative;
+    margin-top: 10px; 
+    padding-left: 0.5em; 
+    min-height: 1em;
+}
+ol > li:before {
+    position: absolute;
+    top: 5px; 
+    left: -1em;
+    width: 1em;
+    line-height: 1;
+    text-align: right;
+    color: $dss-light-gray-d1;
+
+    content: counter(li-counter);
+    counter-increment: li-counter;
+}

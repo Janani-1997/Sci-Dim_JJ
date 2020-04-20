@@ -1,0 +1,128 @@
+/* Inkling Fonts
+ * 2014-09-23
+ * Font-face declarations required for Inkling CSS.
+ */
+
+@font-face {
+    /* Font family name as it appears in the CSS */
+    font-family: 'Source Sans Pro';
+
+    /* Specified weight, style and stretch */
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+
+    /* Source locations, in order of loading attempts:
+        1. Locally installed font using postscript font name
+        2. Locally installed font using font family name
+        3. WOFF file in this directory - IE9+, FF3.6+, GC5+1, S5.1+
+        4. TTF file in this directory - Android 2.3
+    */
+    src: local('SourceSansPro-Light'),
+         local('Source Sans Pro'),
+         url('sourcesans/sourcesanspro-light.otf.woff') format('woff'),
+         url('sourcesans/sourcesanspro-light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-LightIt'),
+         local('Source Sans Pro'),
+         url('sourcesans/sourcesanspro-lightit.otf.woff') format('woff'),
+         url('sourcesans/sourcesanspro-lightit.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    src: local('SourceSansPro-Regular'),
+         local('Source Sans Pro'),
+         url('sourcesans/sourcesanspro-regular.otf.woff') format('woff'),
+         url('sourcesans/sourcesanspro-regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-It'),
+         local('Source Sans Pro'),
+         url('sourcesans/sourcesanspro-it.otf.woff') format('woff'),
+         url('sourcesans/sourcesanspro-it.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    src: local('SourceSansPro-Semibold'),
+         local('Source Sans Pro'),
+         url('sourcesans/sourcesanspro-semibold.otf.woff') format('woff'),
+         url('sourcesans/sourcesanspro-semibold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-SemiboldIt'),
+         local('Source Sans Pro'),
+         url('sourcesans/sourcesanspro-semiboldIt.otf.woff') format('woff'),
+         url('sourcesans/sourcesanspro-semiboldIt.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    src: local('SourceSansPro-Bold'),
+         local('Source Sans Pro'),
+         url('sourcesans/sourcesanspro-bold.otf.woff') format('woff'),
+         url('sourcesans/sourcesanspro-bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-BoldIt'),
+         local('Source Sans Pro'),
+         url('sourcesans/sourcesanspro-boldIt.otf.woff') format('woff'),
+         url('sourcesans/sourcesanspro-boldIt.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:"Caecilia Roman";
+  font-style: normal;
+  src:url("caecilia/e9938f19-f9be-4b47-9f5a-c3441c7b84a2.eot?#iefix");
+  src:
+      url("caecilia/57d0d8b3-dd92-4639-bc73-f54734f54f3d.woff") format("woff"),
+      url("caecilia/e8f97b23-e117-4d0a-abc8-4a6112d9794f.ttf") format("truetype");
+}
+
+@font-face{
+  font-family:"Caecilia Roman";
+  font-weight: bold;
+  src:url("caecilia/9bd4aa31-b713-46ea-98be-4ee7144485d3.eot?#iefix");
+  src:
+      url("caecilia/c8018977-bfbd-4a76-a48d-fa0be4da75ef.woff") format("woff"),
+      url("caecilia/1f750230-9c70-43f4-ae5c-e8d00c419fda.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Arial Rounded';
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('arial-rounded/regular.ttf') format("truetype");
+}

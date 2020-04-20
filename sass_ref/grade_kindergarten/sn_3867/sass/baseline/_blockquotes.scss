@@ -1,0 +1,8 @@
+/*--------------------------------------------------------------------
+ * Blockquotes
+ *------------------------------------------------------------------*/
+blockquote {
+    @include clearboth;
+    @include collapse-last-margin;
+    margin-bottom: space(1);
+}

@@ -1,0 +1,219 @@
+
+//--------------------------------------------------------------------
+// Settings
+//
+// Use this partial to store commonly used variables, such as fonts
+// and colors. Variables defined in this file are used in the core
+// patterns and mixins. Do NOT add any CSS to this file, only variables.
+//--------------------------------------------------------------------
+
+//--------------------------------------------------------------------
+// Font family stacks
+//--------------------------------------------------------------------
+// These variables make
+$font-sans:                     "Source Sans Pro", Helvetica, Verdana, sans;
+$font-serif:                    "Caecilia Roman", Times New Roman, serif;
+$font-mono:                     Courier, "Courier New", monospace;
+
+// The fonts for body text and headings are stored here
+$body-font-family:              $font-sans;
+$heading-font-family:           $font-sans;
+
+
+//--------------------------------------------------------------------
+// Font sizes
+//
+// The font varaibles are:  defined in pixels, and are then
+// converted to ems using the em() function.
+//--------------------------------------------------------------------
+// The font size for body text.
+$base-font-size:                19.84px; /* 138% / 1.375em */
+// The font size for body text on smaller screens.
+$base-font-size-small:          17.28px; /* 120% / 1.200em  */
+
+$heading-font-size:             17.44px;
+$heading-font-size-small:       15.04px;
+
+
+$large-text:                    1.375em; /* 22px; */
+$medium-text:                   1.200em;  /* 19.02px; */
+
+// Line height (leading)
+$base-line-height:              1.5; /* 33px */
+$medium-line-height:            1.800; /* 28.8px; */
+
+// Heading font sizes
+$font-size1:                    3.1rem; /* 46.2px; / 2.1em */
+$font-size2:                    1.7rem; /* 37.4px; / 1.7em */
+$font-size3:                    1.4rem;
+$font-size4:                    1.2rem;
+$font-size5:                    1rem;
+$font-size6:                    0.9rem;
+$font-size7:                    0.8rem;
+
+$font-size-large:               135%;
+$font-size-small:               120%;
+
+$dropcap-font-size:             5.6rem;
+
+// The default width of padding on sections and side notes.
+$padding-width:                 20px;
+$padding-none:					0px;
+
+// Default grid padding (when using .grid-padding).
+$grid-padding-width:            $padding-width/2;
+
+// Default width of list indentation.
+$indent-unit:                   $base-line-height;
+
+
+//--------------------------------------------------------------------
+// Vertical Spacing for Text and Boxes
+//--------------------------------------------------------------------
+
+$text-none:						0;
+$text-regular:					10px;
+$text-large:					53px;
+$text-large-nw:					42px;
+
+$box-none:						0;
+$boxtop-regular:				26px;
+$boxtop-regular-nw:				21px;
+$boxtop-large:					70px;
+$boxtop-large-nw:				52px;
+
+$boxbottom-regular:				17px;
+$boxbottom-regular-nw:			13px;
+
+// Inbetween Spacing
+$spacer-regular:				24px;
+$spacer-small:					19px;
+
+//--------------------------------------------------------------------
+// Colors
+//--------------------------------------------------------------------
+// Brand colors: These are here only so they can be used further
+// down in this settings file. Do not use brand color names directly
+// in your Sass. Instead, assign these colors to the project color variables
+// listed below.
+
+
+// Greyscale
+$white:                 #fff;
+$black:                 #000;
+
+// Science Dimensions Colours
+
+$orange:				#fb6400;
+$orange-d2:				#d64c0a;
+$orange-d4:				#af3411;
+$orange-m4:				#a78a76;
+
+$turquoise: #0eb592;
+$turquoise-d5: #026542;
+
+$aqua: #1ab0cc;
+$aqua-d5: #005777;
+$aqua-l8: #d2eff4;
+$aqua-d4: #006888;
+
+$blue-d1: #588cc9;
+$blue-d1: #588cc9;
+$blue-d3: #436dae;
+$blue-d4: #385ea1;
+$blue-d6: #233f86;
+$blue-l6: #e3eef7;
+$blue-l4: #bdd6ed;
+
+$purple-d4: #734497;
+$purple-l4: #dac4de;
+
+$golden-d1: #e79f23;
+$golden-l4: #f8dc98;
+$golden-l1: #f3be3d;
+$golden-l6: #fcf0d4;
+
+$dark-gray-d1:			#4c4e50;
+$dark-gray-d2: #393b3c;
+
+$light-gray: #949797;
+$light-gray-l4: #cccecf;
+$light-gray-l5: #d8dadb;
+$light-gray-l6:	#e5e6e7;
+$light-gray-l7:	#f1f2f3;
+$light-gray-l8: #f8f8f9;
+$light-gray-d2: #6c706f;
+
+$fushia: #e068a5;
+$fushia-d5: #932258;
+
+$non-dss: #d57861;
+
+$orange-d6: #8e201c;
+
+$stone-2: #f3eeea;
+$stone-5: #ded3cc;
+
+
+// Specific Color variables
+// Sometimes it's worthwhile to store color variables for
+// certain elements like text and link colors.
+
+$body-bgcolor:					$light-gray-l8;
+$text-color:                    $dark-gray-d2;
+$text-color_contrast:           $white;
+$link-color:                    $aqua;
+
+//--------------------------------------------------------------------
+// Breakpoints and margins
+//--------------------------------------------------------------------
+// Breapoints
+// By default, breakpoints assume min-width. So the breakpoint value should
+// be the smallest point at which the styles should take effect.
+
+$bp-xsmall:                      	320px !default;
+$bp-small:                      	480px !default;
+$bp-medium:                       650px !default;
+$bp-large:                      	880px !default;
+$bp-xlarge:                      	1280px !default;
+
+// Content Margins
+// The margins on the main content.
+$content-margin-xsmall:         0px !default;
+$content-margin-small:          0px !default;
+$content-margin-medium:         0px !default;
+$content-margin-large:          0px !default;
+
+$top-margin-small:              20px !default;
+$top-margin-medium:             57px !default;
+$top-margin-large:              57px !default;
+
+$bottom-margin-small:           20px !default;
+$bottom-margin-medium:          57px !default;
+$bottom-margin-large:           57px !default;
+
+//--------------------------------------------------------------------
+// Icons
+//--------------------------------------------------------------------
+// Image lists show images in place of bullets in lists. Simply add
+// a name to the list below and the the list image CSS will be generated
+// with a
+// See the core/_lists.scss for details.
+$list-images:   checkbox,
+                hand,
+                star,
+                checkmark,
+                exmark;
+
+$icons:         checkbox,
+                hand,
+                star,
+                checkmark,
+                exmark;
+
+//--------------------------------------------------------------------
+// Layout options
+//--------------------------------------------------------------------
+
+// Truncate figure captions to a single line with elipses.
+$truncate-figure-caption:       false;

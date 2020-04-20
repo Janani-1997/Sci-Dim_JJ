@@ -1,0 +1,346 @@
+/*--------------------------------------------------------------------
+ * Helper Classes
+ *
+ * Helper classes allow for individual properties to be applied with
+ * a single class. This idea is based on the single-responsibility
+ * principle and the writings of Harry Roberts.
+ * http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/
+ *
+ * Warning: While helper classes are quick and effective, they can
+ * lead to complex HTML that is harder to maintain. If you find yourself
+ * constantly applying the same clases to multiple elements, consider 
+ * making a custom class.
+ *------------------------------------------------------------------*/
+
+/* On mobile devices, all fractional widths should span 100% of the body. */
+
+/* .no-pad {
+    padding: $padding-none;
+} */
+
+.wide .no-pad,
+.feature .no-pad,
+.main .no-pad {
+    @include respond-max-width($bp-large) {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+.copyright {
+    font-size: 0.6rem;
+    margin: 0;
+    font-style: italic;
+    padding: 10px 0 11px 0;
+    @include respond-max-width($bp-large) {
+        padding: 8px 0;
+    }
+}
+.caption {
+    font-size: 0.8em;
+    margin: 0;
+    padding: 10px 0;
+    @include respond-max-width($bp-large) {
+        padding: 8px 0;
+    }
+}
+
+.caption-hr {
+    width: 100%;
+    border: 0; 
+    height: 0; 
+    border-top: 1px solid #e5e6e7; 
+    border-bottom: 0px solid #fff; 
+    margin: 0 0 17px 0;
+    @include respond-max-width($bp-large) {
+        margin: 0 0 13px 0;
+    }
+} 
+
+/* Style for Image with Metadata */
+.image-metadata img {
+    margin-bottom: 0;
+}
+
+figure.image-metadata { 
+    position: relative; 
+    width: 100%; /* for IE 6 */
+    font-family: sans-serif;
+    
+    
+    .image-text { 
+        visibility: hidden;
+        position: absolute; 
+        left: 0;
+        height: 2em; 
+        width: 100%;
+        font-size: 0.75em;
+        color: #fff;
+
+        html.s9-habitat-editing-enabled & { 
+            visibility: visible;
+        }
+    }
+
+    .image-alt { 
+        top: 0; 
+        background: rgba(255, 0, 0, 0.7);
+        
+        &:before {
+            content: "ALT: ";
+        }
+    }
+    
+    .image-credit { 
+        top: 2em; 
+        background: rgba(0, 100, 100, 0.7);
+        
+        &:before {
+            content: "CREDIT: ";
+        }
+    }
+}
+/* End style for Image with Metadata */
+
+/* Alignment Helpers */
+// Left alignment for elements outside the grid.
+.left {
+    @include left;
+}
+
+// Righ alignment for elements outside the grid.
+.right {
+    @include right; 
+}
+
+// Center alignment for elements outside the grid.
+.center {
+    @include center;
+}
+
+/* Place left and rights next to eachother if they immediately follow
+one another */
+.left + .right {
+    margin-left: 0;
+}
+
+.right + .left {
+    margin-right: 0;
+}
+
+/* Absolute centering */
+.x-center {
+    position: absolute;
+    left: 50%;
+    @include transform(translateX(-50%));
+}
+
+.y-center {
+    position: absolute;
+    top: 50%;
+    @include transform(translateY(-50%));
+}
+
+.x-center.y-center {
+    @include transform(translateX(-50%) translateY(-50%));
+}
+
+/* Bleed Helpers */
+//--------------------------------------------------------------------
+// Full Bleed
+// Used commonly on header and sections. Makes element run the full width of the page without any padding.
+.full-bleed,
+.bleed {
+    @include bleed();
+}
+
+// Full Bleed Padding
+// Uses `@mixin bleed` as its base but adds padding so that, for example,
+// a section can run full bleed but the content will be properly indented.
+.bleed-padding {
+    @include bleed-padding();
+}
+
+// Restore Padding
+// Restores padding for one-off situations.
+.restore-padding {
+    @include restore-padding();
+}
+
+// Squeeze the element
+.push {
+    @include push();
+}
+
+// Hang the element
+.pull {
+    @include pull();
+}
+
+// Hang the element, restore the padding
+.pull-padding {
+    @include pull();
+    @include pull-padding();
+}
+
+
+@each $side in false, left, right {
+    .bleed-#{$side} {
+        @include bleed($side);
+    }
+
+    .bleed-padding-#{$side} {
+        @include bleed-padding($side);
+    }
+
+    .restore-padding-#{$side} {
+        @include restore-padding($side);
+    }
+
+    .push-#{$side} {
+        @include push($side);
+    }
+
+    .pull-#{$side} {
+        @include pull($side);
+    }
+}
+
+.bleed-top {
+    @include bleed(top);
+}
+
+.bleed-bottom {
+    @include bleed(bottom);
+    @include restore-padding(bottom);
+}
+
+/* Margin Helpers */
+
+
+/* Padding Helpers */
+.padding,
+.p1 {
+    padding: $padding-width;
+
+    @include respond($bp-medium) {
+        padding: $padding-width;
+    }
+}
+
+/* Color Helpers */
+.pale-text {color: $grey-pale;}
+.grey-light {color: $grey-light;}
+.grey-dark {color: $grey-dark;}
+
+/* Background Color Helpers */
+
+.bg-white {
+    background-color: $white;
+}
+
+.white {
+    color: $white;
+}
+
+.black {
+    color: black;
+}
+
+.contrast-text {
+    @include contrast-text;
+}
+
+.clearboth {
+    clear: both !important;
+}
+
+/* Shadow Helpers */
+$shadow-depths: (
+    100: 0px 2px 3px -1px rgba(0, 0, 0, 0.24),
+    200: 0px 7px 10px 0px rgba(0, 0, 0, 0.24),
+    300: 0px 15px 20px 0px rgba(0, 0, 0, 0.24),
+    400: 0px 7px 10px 0px rgba(0, 0, 0, 0.24)
+);
+
+$top-shadow: 0px -1px 2px -1px rgba(0, 0, 0, 0.18);
+
+@each $depth, $shadow in $shadow-depths {
+    .shadow-#{$depth} {
+        box-shadow: $top-shadow, $shadow;
+    }
+}
+
+/* Font Family Helpers */
+.font-mono {
+    font-family: $font-mono;
+    font-size: 0.9em;
+}
+
+.font-sans {
+    font-family: $font-sans;
+}
+
+.font-serif {
+    font-family: $font-serif;
+}
+
+/* Font Size Helpers */
+.font-size1 {
+    font-size: em($font-size1);
+}
+
+.font-size2 {
+    font-size: em($font-size2);
+}
+
+.font-size3 {
+    font-size: em($font-size3);
+}
+
+.font-size4 {
+    font-size: em($font-size4);
+}
+
+.font-size5 {
+    font-size: em($font-size5);
+}
+
+.font-size6 {
+    font-size: em($font-size6);
+}
+
+/* Text Alignment Helpers */
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+/* Icons */
+.icon {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.icon-large {
+    height: 2em;
+    width: 2em;
+}
+
+
+
+/* END Helpers */

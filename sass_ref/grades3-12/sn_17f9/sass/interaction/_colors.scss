@@ -1,0 +1,770 @@
+//Brand Colors
+
+$hmh-golden: #f2a900;
+$hmh-dark-gray: #54585a;
+$hmh-light-gray: #898d8d;
+
+
+// Core Palette
+
+//Yellow
+$yellow-c70: #3f3405;
+$yellow-c65: #52440a;
+$yellow-c60: #65550e;
+$yellow-c55: #776512;
+$yellow-c50: #8a7517;
+$yellow-c45: #9a8316;
+$yellow-c40: #a99114;
+$yellow-c35: #bea532;
+$yellow-c30: #d3ba4f;
+$yellow-c25: #e2c963;
+$yellow-c20: #f1d776;
+$yellow-c15: #f7e5a4;
+$yellow-c10: #fbefc7;
+$yellow-c5: #fff9e9;
+
+//Golden
+$golden-c70: #3a1b06;
+$golden-c65: #4c280b;
+$golden-c60: #6a3e07;
+$golden-c55: #885304;
+$golden-c50: #a66900;
+$golden-c45: #bb7600;
+$golden-c40: #ce8400;
+$golden-c35: #e09700;
+$golden-c30: #f2a900;
+$golden-c25: #fcbe4f;
+$golden-c20: #f8cb69;
+$golden-c15: #ffdfa6;
+$golden-c10: #ffecca;
+$golden-c5: #fff4e3;
+
+//Orange
+$orange-c70: #441f00;
+$orange-c65: #5b2b00;
+$orange-c60: #7f3700;
+$orange-c55: #a44400;
+$orange-c50: #c85000;
+$orange-c45: #e25a00;
+$orange-c40: #fb6400;
+$orange-c35: #fd7b24;
+$orange-c30: #fd7b24;
+$orange-c25: #ffab6b;
+$orange-c20: #ffc38d;
+$orange-c15: #ffd8bd;
+$orange-c10: #ffe8dc;
+$orange-c5: #fef0e7;
+
+//Red
+$red-c70: #510712;
+$red-c65: #760512;
+$red-c60: #99030c;
+$red-c55: #b30c11;
+$red-c50: #cc1416;
+$red-c45: #e61d1a;
+$red-c40: #ff261f;
+$red-c35: #ff4c48;
+$red-c30: #ff6c6c;
+$red-c25: #ff8d8d;
+$red-c20: #ffaeae;
+$red-c15: #ffcbcb;
+$red-c10: #ffe6e6;
+$red-c5: #fff1f1;
+
+//Cerise
+$cerise-c70: #560a20;
+$cerise-c65: #680938;
+$cerise-c60: #7f1646;
+$cerise-c55: #982156;
+$cerise-c50: #b12d66;
+$cerise-c45: #cf2a73;
+$cerise-c40: #ed2680;
+$cerise-c35: #ee4e93;
+$cerise-c30: #ef75a7;
+$cerise-c25: #f290bb;
+$cerise-c20: #f4abce;
+$cerise-c15: #f8c9e1;
+$cerise-c10: #fce6f4;
+$cerise-c5: #fff0fa;
+
+//Purple
+$purple-c70: #360e47;
+$purple-c65: #502672;
+$purple-c60: #62368c;
+$purple-c55: #7547a7;
+$purple-c50: #8757c1;
+$purple-c45: #915fce;
+$purple-c40: #9a67db;
+$purple-c35: #a67be0;
+$purple-c30: #b38fe5;
+$purple-c25: #bfa1e9;
+$purple-c20: #cbb2ed;
+$purple-c15: #dbcaef;
+$purple-c10: #f1e8f9;
+$purple-c5: #f7f2fc;
+
+//Blue
+$blue-c70: #041b3f;
+$blue-c65: #123467;
+$blue-c60: #204d90;
+$blue-c55: #2462aa;
+$blue-c50: #2773bb;
+$blue-c45: #2985cc;
+$blue-c40: #2c96dd;
+$blue-c35: #47a9eb;
+$blue-c30: #62bbf9;
+$blue-c25: #7ec3f8;
+$blue-c20: #9accf6;
+$blue-c15: #bddaf6;
+$blue-c10: #deeefc;
+$blue-c5: #eef5ff;
+
+//Aqua
+$aqua-c70: #032f33;
+$aqua-c65: #043b44;
+$aqua-c60: #035462;
+$aqua-c55: #016c7f;
+$aqua-c50: #00859d;
+$aqua-c45: #0094ae;
+$aqua-c40: #00a3bf;
+$aqua-c35: #25afc7;
+$aqua-c30: #4abace;
+$aqua-c25: #66c5d6;
+$aqua-c20: #81d0dd;
+$aqua-c15: #afe1e9;
+$aqua-c10: #d9f1f4;
+$aqua-c5: #e8f5f7;
+
+//Turquoise
+$turquoise-c70: #0c301c;
+$turquoise-c65: #0d4634;
+$turquoise-c60: #0e5b4c;
+$turquoise-c55: #0b6e5b;
+$turquoise-c50: #07826a;
+$turquoise-c45: #049579;
+$turquoise-c40: #00a888;
+$turquoise-c35: #30b195;
+$turquoise-c30: #49bca4;
+$turquoise-c25: #65c6b2;
+$turquoise-c20: #8cd5c5;
+$turquoise-c15: #b3e3d8;
+$turquoise-c10: #daf2eb;
+$turquoise-c5: #ebf7f3;
+
+//Green
+$green-c70: #112b05;
+$green-c65: #1a3f0a;
+$green-c60: #245607;
+$green-c55: #2d6e03;
+$green-c50: #378500;
+$green-c45: #439707;
+$green-c40: #4fa80d;
+$green-c35: #66b331;
+$green-c30: #7dbd54;
+$green-c25: #92c86e;
+$green-c20: #a6d287;
+$green-c15: #c7e2b3;
+$green-c10: #e3efd8;
+$green-c5: #eef5e7;
+
+//Gray
+$gray-c70: #2d2d2d;
+$gray-c65: #424242;
+$gray-c60: #565757; 
+$gray-c55: #5d5f5f;
+$gray-c50: #6a6d6d;
+$gray-c45: #7f8282;
+$gray-c40: #898d8d;
+$gray-c35: #a0a2a2;
+$gray-c30: #b2b2b2;
+$gray-c25: #bfc0c0;
+$gray-c20: #cbcdcf;
+$gray-c15: #dcdcdc;
+$gray-c10: #ededed;
+$gray-c5: #f7f7f8;
+
+//Cool Gray
+$cool-gray-c70: #3d3f3f;
+$cool-gray-c65: #4c4e50;
+$cool-gray-c60: #54585a;
+$cool-gray-c55: #62676b;
+$cool-gray-c50: #6f757a;
+$cool-gray-c45: #7c8388;
+$cool-gray-c40: #899196;
+$cool-gray-c35: #989fa3;
+$cool-gray-c30: #a6adb1;
+$cool-gray-c25: #b3babd;
+$cool-gray-c20: #c0c6c8;
+$cool-gray-c15: #d5dadc;
+$cool-gray-c10: #e8eced;
+$cool-gray-c5: #f4f4f4;
+
+//Warm Gray
+$warm-gray-c70: #3c3530;
+$warm-gray-c65: #4c4541;
+$warm-gray-c60: #5b534f;
+$warm-gray-c55: #6b615c;
+$warm-gray-c50: #7f726b;
+$warm-gray-c45: #8d7f76;
+$warm-gray-c40: #9b8b81;
+$warm-gray-c35: #a69990;
+$warm-gray-c30: #b2a79f;
+$warm-gray-c25: #bdb3ac;
+$warm-gray-c20: #cec4bf;
+$warm-gray-c15: #ded6d1;
+$warm-gray-c10: #efecea;
+$warm-gray-c5: #f7f5f2;
+
+
+// Muted Palette
+
+//Yellow
+$yellow-m60: #624e19;
+$yellow-m55: #76611b;
+$yellow-m50: #8a7517;
+$yellow-m45: #988530;
+$yellow-m40: #a59449;
+$yellow-m30: #c1b37a;
+$yellow-m20: #dcd2ac;
+$yellow-m15: #ebe5cb;
+$yellow-m10: #fbf8eb;
+
+//Golden
+$golden-m60: #77471e;
+$golden-m55: #8b5820;
+$golden-m50: #9e6b20;
+$golden-m45: #a77a36;
+$golden-m40: #b0884b;
+$golden-m30: #c3a577;
+$golden-m20: #d5c2a2;
+$golden-m15: #ecdfc4;
+$golden-m10: #f7f3e5;
+
+//Orange
+$orange-m60: #8a3e22;
+$orange-m55: #9d4e27;
+$orange-m50: #af602b;
+$orange-m45: #b56e40;
+$orange-m40: #bb7c54;
+$orange-m30: #c7997d;
+$orange-m20: #d3b5a6;
+$orange-m15: #e5d2c6;
+$orange-m10: #f7f0e5;
+
+//Red
+$red-m60: #972d37;
+$red-m55: #aa3944;
+$red-m50: #c15359;
+$red-m45: #c56368;
+$red-m40: #ca7277;
+$red-m30: #d39294;
+$red-m20: #ddb1b2;
+$red-m15: #e6d0d0;
+$red-m10: #f8eeee;
+
+//Cerise
+$cerise-m60: #562b4a;
+$cerise-m55: #683661;
+$cerise-m50: #7c4371;
+$cerise-m45: #8a5683;
+$cerise-m40: #976895;
+$cerise-m30: #b08bae;
+$cerise-m20: #c8afc6;
+$cerise-m15: #e0d3df;
+$cerise-m10: #f9eff5;
+
+//Purple
+$purple-m60: #423165;
+$purple-m55: #533e79;
+$purple-m50: #654c8e;
+$purple-m45: #755d99;
+$purple-m40: #846ea4;
+$purple-m30: #a390ba;
+$purple-m20: #c1b1cf;
+$purple-m15: #e0d3e5;
+$purple-m10: #f5edf7;
+
+//Blue
+$blue-m60: #293665;
+$blue-m55: #344479;
+$blue-m50: #42548e;
+$blue-m45: #536499;
+$blue-m40: #6374a3;
+$blue-m30: #8494b7;
+$blue-m20: #a5b4cc;
+$blue-m15: #c6d4e0;
+$blue-m10: #e4eef4;
+
+//Aqua
+$aqua-m60: #244753;
+$aqua-m55: #2e5866;
+$aqua-m50: #396b7a;
+$aqua-m45: #4b7986;
+$aqua-m40: #5c8792;
+$aqua-m30: #7fa2ab;
+$aqua-m20: #a1bdc3;
+$aqua-m15: #c4d9db;
+$aqua-m10: #e5f2f3;
+
+//Turquoise
+$turquoise-m60: #335245;
+$turquoise-m55: #406456;
+$turquoise-m50: #4f7769;
+$turquoise-m45: #5d8779;
+$turquoise-m40: #6a9688;
+$turquoise-m30: #81aa9d;
+$turquoise-m20: #a1c3ba;
+$turquoise-m15: #c2ddd6;
+$turquoise-m10: #e2f6f3;
+
+//Green
+$green-m60: #324826;
+$green-m55: #415930;
+$green-m50: #506d3c;
+$green-m45: #617b4d;
+$green-m40: #71895e;
+$green-m30: #91a581;
+$green-m20: #b2c1a3;
+$green-m15: #d2ddc5;
+$green-m10: #f1f7e7;
+
+
+//Saturated palette
+
+//Yellow
+$yellow-s10: #fff8dc;
+$yellow-s15: #fff2b0;
+$yellow-s20: #feec83;
+$yellow-s25: #ffe355;
+$yellow-s30: #ffda2f;
+$yellow-s35: #ffce00;
+$yellow-s40: #e5ba05;
+
+//Golden
+$golden-s10: #fdeed7;
+$golden-s15: #fde1b0;
+$golden-s20: #fed08a;
+$golden-s25: #ffbc65;
+$golden-s30: #ffa840;
+$golden-s35: #ff8f00;
+$golden-s40: #cc8200;
+
+//Orange
+$orange-s10: #fbe9dd;
+$orange-s15: #ffd0b6;
+$orange-s20: #feaf81;
+$orange-s25: #ff9865;
+$orange-s30: #ff8048;
+$orange-s35: #ff6417;
+$orange-s40: #e55c00;
+
+//Red
+$red-s10: #ffe9ec;
+$red-s15: #ffccd0;
+$red-s20: #ffabab;
+$red-s25: #ff9292;
+$red-s30: #ff716f;
+$red-s35: #ff4f4c;
+$red-s40: #ff261f;
+
+//Cerise
+$cerise-s10: #ffebf7;
+$cerise-s15: #ffcff0;
+$cerise-s20: #ffb1da;
+$cerise-s25: #ff94c4;
+$cerise-s30: #ff76ae;
+$cerise-s35: #ed3b90;
+$cerise-s40: #e0007b;
+
+//Purple
+$purple-s10: #fae9fe;
+$purple-s15: #f7d4ff;
+$purple-s20: #f1b2ff;
+$purple-s25: #ea8fff;
+$purple-s30: #e578ff;
+$purple-s35: #d255fc;
+$purple-s40: #b650ff;
+
+//Blue
+$blue-s10: #dcf8ff;
+$blue-s15: #b3efff;
+$blue-s20: #8fd7ff;
+$blue-s25: #72c4ff;
+$blue-s30: #55b1ff;
+$blue-s35: #479eff;
+$blue-s40: #398aff;
+
+//Aqua
+$aqua-s10: #e1feff;
+$aqua-s15: #b4f5f7;
+$aqua-s20: #87ecef;
+$aqua-s25: #5ae3e6;
+$aqua-s30: #2ddade;
+$aqua-s35: #19c0bf;
+$aqua-s40: #04a5a0;
+
+//Turquoise
+$turquoise-s10: #e3fffa;
+$turquoise-s15: #c0fbed;
+$turquoise-s20: #92f2d7;
+$turquoise-s25: #64e9c1;
+$turquoise-s30: #36e0ab;
+$turquoise-s35: #24ca9c;
+$turquoise-s40: #02a879;
+
+//Green
+$green-s10: #effad9;
+$green-s15: #d7f2a8;
+$green-s20: #bfeb77;
+$green-s25: #a6e345;
+$green-s30: #8edb14;
+$green-s35: #7dbf0a;
+$green-s40: #6ba300;
+
+
+$colors: 
+    hmh-golden $hmh-golden,
+    hmh-dark-gray $hmh-dark-gray,
+    hmh-light-gray $hmh-light-gray,
+    yellow-c70 $yellow-c70, 
+    yellow-c65 $yellow-c65,
+    yellow-c60 $yellow-c60,
+    yellow-c55 $yellow-c55,
+    yellow-c50 $yellow-c50,
+    yellow-c45 $yellow-c45,
+    yellow-c40 $yellow-c40,
+    yellow-c35 $yellow-c35,
+    yellow-c30 $yellow-c30,
+    yellow-c25 $yellow-c25,
+    yellow-c20 $yellow-c20,
+    yellow-c15 $yellow-c15,
+    yellow-c10 $yellow-c10,
+    yellow-c5 $yellow-c5,
+    golden-c70 $golden-c70,
+    golden-c65 $golden-c65,
+    golden-c60 $golden-c60,
+    golden-c55 $golden-c55,
+    golden-c50 $golden-c50,
+    golden-c45 $golden-c45,
+    golden-c40 $golden-c40,
+    golden-c35 $golden-c35,
+    golden-c30 $golden-c30,
+    golden-c25 $golden-c25,
+    golden-c20 $golden-c20,
+    golden-c15 $golden-c15,
+    golden-c10 $golden-c10,
+    golden-c5 $golden-c5,
+    orange-c70 $orange-c70,
+    orange-c65 $orange-c65,
+    orange-c60 $orange-c60,
+    orange-c55 $orange-c55,
+    orange-c50 $orange-c50,
+    orange-c45 $orange-c45,
+    orange-c40 $orange-c40,
+    orange-c35 $orange-c35,
+    orange-c30 $orange-c30,
+    orange-c25 $orange-c25,
+    orange-c20 $orange-c20,
+    orange-c15 $orange-c15,
+    orange-c10 $orange-c10,
+    orange-c5 $orange-c5,
+    red-c70 $red-c70,
+    red-c65 $red-c65,
+    red-c60 $red-c60,
+    red-c55 $red-c55,
+    red-c50 $red-c50,
+    red-c45 $red-c45,
+    red-c40 $red-c40,
+    red-c35 $red-c35,
+    red-c30 $red-c30,
+    red-c25 $red-c25,
+    red-c20 $red-c20,
+    red-c15 $red-c15,
+    red-c10 $red-c10,
+    red-c5 $red-c5,
+    cerise-c70 $cerise-c70,
+    cerise-c65 $cerise-c65,
+    cerise-c60 $cerise-c60,
+    cerise-c55 $cerise-c55,
+    cerise-c50 $cerise-c50,
+    cerise-c45 $cerise-c45,
+    cerise-c40 $cerise-c40,
+    cerise-c35 $cerise-c35,
+    cerise-c30 $cerise-c30,
+    cerise-c25 $cerise-c25,
+    cerise-c20 $cerise-c20,
+    cerise-c15 $cerise-c15,
+    cerise-c10 $cerise-c10,
+    cerise-c5 $cerise-c5,
+    purple-c70 $purple-c70,
+    purple-c65 $purple-c65,
+    purple-c60 $purple-c60,
+    purple-c55 $purple-c55,
+    purple-c50 $purple-c50,
+    purple-c45 $purple-c45,
+    purple-c40 $purple-c40,
+    purple-c35 $purple-c35,
+    purple-c30 $purple-c30,
+    purple-c25 $purple-c25,
+    purple-c20 $purple-c20,
+    purple-c15 $purple-c15,
+    purple-c10 $purple-c10,
+    purple-c5 $purple-c5,
+    blue-c70 $blue-c70,
+    blue-c65 $blue-c65,
+    blue-c60 $blue-c60,
+    blue-c55 $blue-c55,
+    blue-c50 $blue-c50,
+    blue-c45 $blue-c45,
+    blue-c40 $blue-c40,
+    blue-c35 $blue-c35,
+    blue-c30 $blue-c30,
+    blue-c25 $blue-c25,
+    blue-c20 $blue-c20,
+    blue-c15 $blue-c15,
+    blue-c10 $blue-c10,
+    blue-c5 $blue-c5,
+    aqua-c70 $aqua-c70,
+    aqua-c65 $aqua-c65,
+    aqua-c60 $aqua-c60,
+    aqua-c55 $aqua-c55,
+    aqua-c50 $aqua-c50,
+    aqua-c45 $aqua-c45,
+    aqua-c40 $aqua-c40,
+    aqua-c35 $aqua-c35,
+    aqua-c30 $aqua-c30,
+    aqua-c25 $aqua-c25,
+    aqua-c20 $aqua-c20,
+    aqua-c15 $aqua-c15,
+    aqua-c10 $aqua-c10,
+    aqua-c5 $aqua-c5,
+    turquoise-c70 $turquoise-c70,
+    turquoise-c65 $turquoise-c65,
+    turquoise-c60 $turquoise-c60,
+    turquoise-c55 $turquoise-c55,
+    turquoise-c50 $turquoise-c50,
+    turquoise-c45 $turquoise-c45,
+    turquoise-c40 $turquoise-c40,
+    turquoise-c35 $turquoise-c35,
+    turquoise-c30 $turquoise-c30,
+    turquoise-c25 $turquoise-c25,
+    turquoise-c20 $turquoise-c20,
+    turquoise-c15 $turquoise-c15,
+    turquoise-c10 $turquoise-c10,
+    turquoise-c5 $turquoise-c5,
+    green-c70 $green-c70,
+    green-c65 $green-c65,
+    green-c60 $green-c60,
+    green-c55 $green-c55,
+    green-c50 $green-c50,
+    green-c45 $green-c45,
+    green-c40 $green-c40,
+    green-c35 $green-c35,
+    green-c30 $green-c30,
+    green-c25 $green-c25,
+    green-c20 $green-c20,
+    green-c15 $green-c15,
+    green-c10 $green-c10,
+    green-c5 $green-c5,
+    gray-c70 $gray-c70,
+    gray-c65 $gray-c65,
+    gray-c60 $gray-c60,
+    gray-c55 $gray-c55,
+    gray-c50 $gray-c50,
+    gray-c45 $gray-c45,
+    gray-c40 $gray-c40,
+    gray-c35 $gray-c35,
+    gray-c30 $gray-c30,
+    gray-c25 $gray-c25,
+    gray-c20 $gray-c20,
+    gray-c15 $gray-c15,
+    gray-c10 $gray-c10,
+    gray-c5 $gray-c5,
+    cool-gray-c70 $cool-gray-c70,
+    cool-gray-c65 $cool-gray-c65,
+    cool-gray-c60 $cool-gray-c60,
+    cool-gray-c55 $cool-gray-c55,
+    cool-gray-c50 $cool-gray-c50,
+    cool-gray-c45 $cool-gray-c45,
+    cool-gray-c40 $cool-gray-c40,
+    cool-gray-c35 $cool-gray-c35,
+    cool-gray-c30 $cool-gray-c30,
+    cool-gray-c25 $cool-gray-c25,
+    cool-gray-c20 $cool-gray-c20,
+    cool-gray-c15 $cool-gray-c15,
+    cool-gray-c10 $cool-gray-c10,
+    cool-gray-c5 $cool-gray-c5,
+    warm-gray-c70 $warm-gray-c70,
+    warm-gray-c65 $warm-gray-c65,
+    warm-gray-c60 $warm-gray-c60,
+    warm-gray-c55 $warm-gray-c55,
+    warm-gray-c50 $warm-gray-c50,
+    warm-gray-c45 $warm-gray-c45,
+    warm-gray-c40 $warm-gray-c40,
+    warm-gray-c35 $warm-gray-c35,
+    warm-gray-c30 $warm-gray-c30,
+    warm-gray-c25 $warm-gray-c25,
+    warm-gray-c20 $warm-gray-c20,
+    warm-gray-c15 $warm-gray-c15,
+    warm-gray-c10 $warm-gray-c10,
+    warm-gray-c5 $warm-gray-c5,
+    yellow-m60 $yellow-m60,
+    yellow-m55 $yellow-m55,
+    yellow-m50 $yellow-m50,
+    yellow-m45 $yellow-m45,
+    yellow-m40 $yellow-m40,
+    yellow-m30 $yellow-m30,
+    yellow-m20 $yellow-m20,
+    yellow-m15 $yellow-m15,
+    yellow-m10 $yellow-m10,
+    golden-m60 $golden-m60,
+    golden-m55 $golden-m55,
+    golden-m50 $golden-m50,
+    golden-m45 $golden-m45,
+    golden-m40 $golden-m40,
+    golden-m30 $golden-m30,
+    golden-m20 $golden-m20,
+    golden-m15 $golden-m15,
+    golden-m10 $golden-m10,
+    orange-m60 $orange-m60,
+    orange-m55 $orange-m55,
+    orange-m50 $orange-m50,
+    orange-m45 $orange-m45,
+    orange-m40 $orange-m40,
+    orange-m30 $orange-m30,
+    orange-m20 $orange-m20,
+    orange-m15 $orange-m15,
+    orange-m10 $orange-m10,
+    red-m60 $red-m60,
+    red-m55 $red-m55,
+    red-m50 $red-m50,
+    red-m45 $red-m45,
+    red-m40 $red-m40,
+    red-m30 $red-m30,
+    red-m20 $red-m20,
+    red-m15 $red-m15,
+    red-m10 $red-m10,
+    cerise-m60 $cerise-m60,
+    cerise-m55 $cerise-m55,
+    cerise-m50 $cerise-m50,
+    cerise-m45 $cerise-m45,
+    cerise-m40 $cerise-m40,
+    cerise-m30 $cerise-m30,
+    cerise-m20 $cerise-m20,
+    cerise-m15 $cerise-m15,
+    cerise-m10 $cerise-m10,
+    purple-m60 $purple-m60,
+    purple-m55 $purple-m55,
+    purple-m50 $purple-m50,
+    purple-m45 $purple-m45,
+    purple-m40 $purple-m40,
+    purple-m30 $purple-m30,
+    purple-m20 $purple-m20,
+    purple-m15 $purple-m15,
+    purple-m10 $purple-m10,
+    blue-m60 $blue-m60,
+    blue-m55 $blue-m55,
+    blue-m50 $blue-m50,
+    blue-m45 $blue-m45,
+    blue-m40 $blue-m40,
+    blue-m30 $blue-m30,
+    blue-m20 $blue-m20,
+    blue-m15 $blue-m15,
+    blue-m10 $blue-m10,
+    aqua-m60 $aqua-m60,
+    aqua-m55 $aqua-m55,
+    aqua-m50 $aqua-m50,
+    aqua-m45 $aqua-m45,
+    aqua-m40 $aqua-m40,
+    aqua-m30 $aqua-m30,
+    aqua-m20 $aqua-m20,
+    aqua-m15 $aqua-m15,
+    aqua-m10 $aqua-m10,
+    turquoise-m60 $turquoise-m60,
+    turquoise-m55 $turquoise-m55,
+    turquoise-m50 $turquoise-m50,
+    turquoise-m45 $turquoise-m45,
+    turquoise-m40 $turquoise-m40,
+    turquoise-m30 $turquoise-m30,
+    turquoise-m20 $turquoise-m20,
+    turquoise-m15 $turquoise-m15,
+    turquoise-m10 $turquoise-m10,
+    green-m60 $green-m60,
+    green-m55 $green-m55,
+    green-m50 $green-m50,
+    green-m45 $green-m45,
+    green-m40 $green-m40,
+    green-m30 $green-m30,
+    green-m20 $green-m20,
+    green-m15 $green-m15,
+    green-m10 $green-m10,
+    yellow-s10 $yellow-s10,
+    yellow-s15 $yellow-s15,
+    yellow-s20 $yellow-s20,
+    yellow-s25 $yellow-s25,
+    yellow-s30 $yellow-s30,
+    yellow-s35 $yellow-s35,
+    yellow-s40 $yellow-s40,
+    golden-s10 $golden-s10,
+    golden-s15 $golden-s15,
+    golden-s20 $golden-s20,
+    golden-s25 $golden-s25,
+    golden-s30 $golden-s30,
+    golden-s35 $golden-s35,
+    golden-s40 $golden-s40,
+    orange-s10 $orange-s10,
+    orange-s15 $orange-s15,
+    orange-s20 $orange-s20,
+    orange-s25 $orange-s25,
+    orange-s30 $orange-s30,
+    orange-s35 $orange-s35,
+    orange-s40 $orange-s40,
+    red-s10 $red-s10,
+    red-s15 $red-s15,
+    red-s20 $red-s20,
+    red-s25 $red-s25,
+    red-s30 $red-s30,
+    red-s35 $red-s35,
+    red-s40 $red-s40,
+    cerise-s10 $cerise-s10,
+    cerise-s15 $cerise-s15,
+    cerise-s20 $cerise-s20,
+    cerise-s25 $cerise-s25,
+    cerise-s30 $cerise-s30,
+    cerise-s35 $cerise-s35,
+    cerise-s40 $cerise-s40,
+    purple-s10 $purple-s10,
+    purple-s15 $purple-s15,
+    purple-s20 $purple-s20,
+    purple-s25 $purple-s25,
+    purple-s30 $purple-s30,
+    purple-s35 $purple-s35,
+    purple-s40 $purple-s40,
+    blue-s10 $blue-s10,
+    blue-s15 $blue-s15,
+    blue-s20 $blue-s20,
+    blue-s25 $blue-s25,
+    blue-s30 $blue-s30,
+    blue-s35 $blue-s35,
+    blue-s40 $blue-s40,
+    aqua-s10 $aqua-s10,
+    aqua-s15 $aqua-s15,
+    aqua-s20 $aqua-s20,
+    aqua-s25 $aqua-s25,
+    aqua-s30 $aqua-s30,
+    aqua-s35 $aqua-s35,
+    aqua-s40 $aqua-s40,
+    turquoise-s10 $turquoise-s10,
+    turquoise-s15 $turquoise-s15,
+    turquoise-s20 $turquoise-s20,
+    turquoise-s25 $turquoise-s25,
+    turquoise-s30 $turquoise-s30,
+    turquoise-s35 $turquoise-s35,
+    turquoise-s40 $turquoise-s40,
+    green-s10 $green-s10,
+    green-s15 $green-s15,
+    green-s20 $green-s20,
+    green-s25 $green-s25,
+    green-s30 $green-s30,
+    green-s35 $green-s35,
+    green-s40 $green-s40;

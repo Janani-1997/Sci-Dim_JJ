@@ -1,0 +1,94 @@
+.lli {
+  position: relative;
+  img { 
+    max-width: 100%;
+    margin: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-content: center;
+    -webkit-align-content: center;
+  }
+  input { display:none; position: absolute; z-index: 2; }
+  label { display: relative; } 
+  label b { 
+    position: absolute; z-index: 3; display:inline-block; cursor:pointer;color: #fb6400;
+    text-align: center; width: 120px;
+    height: 40px;
+    line-height: 39px;
+    padding: 0 15px;
+    border: none;
+    outline: none;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    font-size: 0.8em;
+    border: 2px solid #fb6400; }
+  label input:checked~b { color:#fff; background: #fb6400; }
+  label s { display:none; position:absolute; top:0; cursor:default; } 
+  label input:checked~s { display:block; }
+  .divider {position: absolute;z-index: 4;}
+}
+
+@include respond-max-width($bp-large) { 
+  .lli {
+    form {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      justify-content: center;
+    }
+    height: 510px;
+    overflow-y: hidden;   
+    img { max-width: 430px;height: 430px; } 
+    label b.img1 {left: 65px;}
+    label b.img2 {left: 195px;}
+    label b.img3 {left: 325px;}
+    label b.img4 {left: 455px;}
+    label b { bottom: 15px;} 
+    label s { position: relative; }
+    .divider {height: 2px;width:100%;background:#e5e6e7;bottom: 70px;} 
+  }
+}
+
+
+
+@include respond-min-width($bp-large) {
+  .lli {
+    height: 530px; 
+    img {border-bottom: 0 none;max-width: 530px;height: 530px;}
+    label b.img1, 
+    label b.img2, 
+    label b.img3,
+    label b.img4 {left: 54px;}
+    label b.img1 {top: 20px;}
+    label b.img2 {top: 75px;}
+    label b.img3 {top: 130px;}
+    label b.img4 {top: 185px;}
+    label s { left: 330px;}
+    .divider {height: 100%;width:2px;background:#e5e6e7;left: 228px;} 
+  }
+}
+
+@include respond-max-width($bp-medium) {
+  .lli {
+    label b.img1 {left: 10px;}
+    label b.img2 {left: 125px;} 
+    label b.img3 {left: 240px;}
+    label b.img4 {left: 355px;}
+    label b {width: 110px;}
+  }
+}
+
+@include respond-max-width($bp-small) {
+  .lli {
+    height: 420px;
+    img {width: 300px; height: 300px;}
+    label b.img1 {left: 35px;bottom: 60px;}
+    label b.img2 {left: 155px;bottom: 60px;} 
+    label b.img3 {left: 35px;bottom: 10px;} 
+    label b.img4 {left: 155px;bottom: 10px;}
+    .divider {bottom: 110px;} 
+  }
+}

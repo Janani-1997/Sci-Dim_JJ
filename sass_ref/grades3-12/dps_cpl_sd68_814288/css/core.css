@@ -1,0 +1,2929 @@
+/*--------------------------------------------------------------------
+ * Inkling Core CSS
+ *
+ * CAUTION: Editing this file may have unintended effects.
+ *------------------------------------------------------------------*/
+/* 138% / 1.375em */
+/* 120% / 1.200em  */
+/* 22px; */
+/* 19.02px; */
+/* 33px */
+/* 28.8px; */
+/* 46.2px; / 2.1em */
+/* 37.4px; / 1.7em */
+@media only screen and (max-width: 650px) {
+  [class^="col-"], [class*=" col-"] {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  .flush [class^="col-"]:nth-of-type(1),
+  [class*=" col-"]:nth-of-type(1) {
+    padding-right: 0;
+    margin-right: 0;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  .flush [class^="col-"]:nth-of-type(2),
+  [class*=" col-"]:nth-of-type(1) {
+    padding-left: 0;
+    margin-left: 0;
+  }
+}
+
+.row {
+  width: 96%;
+  max-width: none;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 480px) and (max-width: 650px) {
+  .row {
+    width: 85%;
+  }
+}
+
+@media only screen and (min-width: 650px) {
+  .row {
+    width: 88%;
+  }
+}
+
+.row.fluid-fill.wide {
+  width: 100%;
+  max-width: 100%;
+}
+
+.row.fluid-fill.wide [class^="col-"],
+.row.fluid-fill.wide [class*=" col-"] {
+  padding: 0;
+}
+
+@media only screen and (min-width: 1280px) {
+  .row.fluid-fill.wide {
+    width: 88%;
+    max-width: 1300px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+.main {
+  max-width: 650px;
+}
+
+.feature {
+  max-width: 650px;
+}
+
+@media screen and (min-width: 880px) and (max-width: 1280px) {
+  .feature {
+    max-width: 1300px;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .feature {
+    max-width: 975px;
+  }
+}
+
+.wide {
+  max-width: 650px;
+}
+
+@media only screen and (min-width: 880px) {
+  .wide {
+    max-width: 1300px;
+  }
+}
+
+.row.fill {
+  width: 100%;
+}
+
+.row.fill [class^="col-"],
+.row.fill [class*=" col-"] {
+  padding: 0;
+}
+
+/* Right Aside and Offset */
+.noflex {
+  width: 100%;
+}
+
+.noflex .col-xl-4, .noflex .col-lg-5, .noflex .col-md-6, .noflex .col-xs-12 {
+  padding-top: 0;
+  padding-bottom: 0;
+  flex-basis: auto;
+  /*for fixing issue in Safari and Firefox*/
+}
+
+@media only screen and (max-width: 650px) {
+  .noflex {
+    display: flex;
+    order: 0;
+    flex-direction: column;
+  }
+}
+
+.noflex .indent-right {
+  float: right;
+  margin-left: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.noflex .indent-left {
+  float: left;
+  margin-right: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+@media only screen and (max-width: 650px) {
+  .noflex .indent-right, .noflex .indent-left {
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.noflex .aside-right {
+  float: right;
+  margin-left: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media only screen and (max-width: 880px) {
+  .noflex .aside-right {
+    margin-right: 0;
+  }
+}
+
+.noflex .aside-left {
+  float: left;
+  margin-right: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media only screen and (max-width: 880px) {
+  .noflex .aside-left {
+    margin-left: 0;
+  }
+}
+
+.noflex .aside-right, .noflex .aside-left {
+  width: 325px;
+}
+
+@media only screen and (max-width: 650px) {
+  .noflex .aside-right, .noflex .aside-left {
+    width: 100%;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: none;
+  }
+}
+
+.main-fix p, .main-fix h2, .main-fix h3, .main-fix h4, .main-fix h5, .main-fix h6 {
+  padding-left: 15px;
+  /* to add the extra padding when we have flex container */
+  padding-right: 15px;
+  float: none;
+}
+
+@media only screen and (max-width: 650px) {
+  .main-fix p, .main-fix h2, .main-fix h3, .main-fix h4, .main-fix h5, .main-fix h6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+/* Text Panel */
+.panel-text {
+  margin: 21px 0 13px 0;
+  padding: 1px 20px 8px 20px;
+}
+
+.panel-text h5 {
+  font-weight: 600;
+}
+
+@media only screen and (min-width: 880px) {
+  .panel-text {
+    margin: 26px 0 17px;
+    padding: 5px 30px 16px 30px;
+  }
+}
+
+/**
+ * Flex Grid -
+ * Version: 0.3.2
+ *
+ * Simple grid built with flex box and sass.
+ *
+ * Matthew Simo - matthew.a.simo@gmail.com
+ */
+/**
+ * Grid setup
+ *
+ * The grid will calculate dimensions based on these two variables:
+ * $fg-columns will inform the grid loops how many columns there should be.
+ * $fg-gutter will inform the grid loops how big eac column's gutters should be.
+ *
+ * The grid will name columns, rows, offsets based on these three variables:
+ * $fg-class-row string used for the row class
+ * $fg-class-col string used for the column class
+ * $fg-class-off string used for the offset class
+ */
+/**
+ * Break point namespace object
+ *
+ * Set the default namespace object with these defaults with the 
+ * understanding that you can pass in whatever you might require for your site.
+ *
+ * $fg-breakpoints is a Sass list with nested lists inside. Each sub list defines two things. 
+ * 1. The namespace for that breakpoint. (Required) (i.e. xs, sm, md, lg)
+ * 2. The min-width measurement for the breakpoint for that namespace. (i.e. 48em, 62em, 75em)
+ *
+ * Note: These should be in the proper order (at least till libsass handles map keys properly).
+ * 
+ * Note: If the measurement is left out then it will be skipped when generating 
+ * the grid and applied to global styles.
+ *
+ */
+/**
+ * Calculate column size percentage
+ */
+/**
+ * Spacing mixin to create uniform margin/padding
+ */
+/**
+ * Row wrapper class, flex box parent.
+ */
+.row {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.col-xs, .col-sm, .col-md, .col-lg, .col-xl, .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.col-xs, .col-sm, .col-md, .col-lg, .col-xl {
+  flex-grow: 1;
+  flex-basis: 0;
+  max-width: 100%;
+}
+
+/**
+ * Generate a set of grid column classes using a namespace
+ *
+ * .col-[namespace] for intelligent column division
+ * .col-[namespace]-[number] for a column that covers a specific number of columns (e.g. 1-12 by default)
+ * .off-[namespace]-[number] for pushing a col a specific number of columns (e.g. 1-11 by default)
+ */
+/**
+ * Build the grid in two steps, to help minimize file size
+ * Step 1, for each namespace, create the grid-base
+ * Step 2, for each namespace, wrap the col width/offset measurements in their breakpoint media query
+ */
+.col-xs-1 {
+  flex-basis: 8.3333%;
+  max-width: 8.3333%;
+}
+
+.col-xs-2 {
+  flex-basis: 16.6667%;
+  max-width: 16.6667%;
+}
+
+.col-xs-3 {
+  flex-basis: 25%;
+  max-width: 25%;
+}
+
+.col-xs-4 {
+  flex-basis: 33.3333%;
+  max-width: 33.3333%;
+}
+
+.col-xs-5 {
+  flex-basis: 41.6667%;
+  max-width: 41.6667%;
+}
+
+.col-xs-6 {
+  flex-basis: 50%;
+  max-width: 50%;
+}
+
+.col-xs-7 {
+  flex-basis: 58.3333%;
+  max-width: 58.3333%;
+}
+
+.col-xs-8 {
+  flex-basis: 66.6667%;
+  max-width: 66.6667%;
+}
+
+.col-xs-9 {
+  flex-basis: 75%;
+  max-width: 75%;
+}
+
+.col-xs-10 {
+  flex-basis: 83.3333%;
+  max-width: 83.3333%;
+}
+
+.col-xs-11 {
+  flex-basis: 91.6667%;
+  max-width: 91.6667%;
+}
+
+.col-xs-12 {
+  flex-basis: 100%;
+  max-width: 100%;
+}
+
+.off-xs-1 {
+  margin-left: 8.3333%;
+}
+
+.off-xs-2 {
+  margin-left: 16.6667%;
+}
+
+.off-xs-3 {
+  margin-left: 25%;
+}
+
+.off-xs-4 {
+  margin-left: 33.3333%;
+}
+
+.off-xs-5 {
+  margin-left: 41.6667%;
+}
+
+.off-xs-6 {
+  margin-left: 50%;
+}
+
+.off-xs-7 {
+  margin-left: 58.3333%;
+}
+
+.off-xs-8 {
+  margin-left: 66.6667%;
+}
+
+.off-xs-9 {
+  margin-left: 75%;
+}
+
+.off-xs-10 {
+  margin-left: 83.3333%;
+}
+
+.off-xs-11 {
+  margin-left: 91.6667%;
+}
+
+@media only screen and (min-width: 480) {
+  .col-sm-1 {
+    flex-basis: 8.3333%;
+    max-width: 8.3333%;
+  }
+  .col-sm-2 {
+    flex-basis: 16.6667%;
+    max-width: 16.6667%;
+  }
+  .col-sm-3 {
+    flex-basis: 25%;
+    max-width: 25%;
+  }
+  .col-sm-4 {
+    flex-basis: 33.3333%;
+    max-width: 33.3333%;
+  }
+  .col-sm-5 {
+    flex-basis: 41.6667%;
+    max-width: 41.6667%;
+  }
+  .col-sm-6 {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+  .col-sm-7 {
+    flex-basis: 58.3333%;
+    max-width: 58.3333%;
+  }
+  .col-sm-8 {
+    flex-basis: 66.6667%;
+    max-width: 66.6667%;
+  }
+  .col-sm-9 {
+    flex-basis: 75%;
+    max-width: 75%;
+  }
+  .col-sm-10 {
+    flex-basis: 83.3333%;
+    max-width: 83.3333%;
+  }
+  .col-sm-11 {
+    flex-basis: 91.6667%;
+    max-width: 91.6667%;
+  }
+  .col-sm-12 {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+  .off-sm-1 {
+    margin-left: 8.3333%;
+  }
+  .off-sm-2 {
+    margin-left: 16.6667%;
+  }
+  .off-sm-3 {
+    margin-left: 25%;
+  }
+  .off-sm-4 {
+    margin-left: 33.3333%;
+  }
+  .off-sm-5 {
+    margin-left: 41.6667%;
+  }
+  .off-sm-6 {
+    margin-left: 50%;
+  }
+  .off-sm-7 {
+    margin-left: 58.3333%;
+  }
+  .off-sm-8 {
+    margin-left: 66.6667%;
+  }
+  .off-sm-9 {
+    margin-left: 75%;
+  }
+  .off-sm-10 {
+    margin-left: 83.3333%;
+  }
+  .off-sm-11 {
+    margin-left: 91.6667%;
+  }
+}
+
+@media only screen and (min-width: 650px) {
+  .col-md-1 {
+    flex-basis: 8.3333%;
+    max-width: 8.3333%;
+  }
+  .col-md-2 {
+    flex-basis: 16.6667%;
+    max-width: 16.6667%;
+  }
+  .col-md-3 {
+    flex-basis: 25%;
+    max-width: 25%;
+  }
+  .col-md-4 {
+    flex-basis: 33.3333%;
+    max-width: 33.3333%;
+  }
+  .col-md-5 {
+    flex-basis: 41.6667%;
+    max-width: 41.6667%;
+  }
+  .col-md-6 {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+  .col-md-7 {
+    flex-basis: 58.3333%;
+    max-width: 58.3333%;
+  }
+  .col-md-8 {
+    flex-basis: 66.6667%;
+    max-width: 66.6667%;
+  }
+  .col-md-9 {
+    flex-basis: 75%;
+    max-width: 75%;
+  }
+  .col-md-10 {
+    flex-basis: 83.3333%;
+    max-width: 83.3333%;
+  }
+  .col-md-11 {
+    flex-basis: 91.6667%;
+    max-width: 91.6667%;
+  }
+  .col-md-12 {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+  .off-md-1 {
+    margin-left: 8.3333%;
+  }
+  .off-md-2 {
+    margin-left: 16.6667%;
+  }
+  .off-md-3 {
+    margin-left: 25%;
+  }
+  .off-md-4 {
+    margin-left: 33.3333%;
+  }
+  .off-md-5 {
+    margin-left: 41.6667%;
+  }
+  .off-md-6 {
+    margin-left: 50%;
+  }
+  .off-md-7 {
+    margin-left: 58.3333%;
+  }
+  .off-md-8 {
+    margin-left: 66.6667%;
+  }
+  .off-md-9 {
+    margin-left: 75%;
+  }
+  .off-md-10 {
+    margin-left: 83.3333%;
+  }
+  .off-md-11 {
+    margin-left: 91.6667%;
+  }
+}
+
+@media only screen and (min-width: 880px) {
+  .col-lg-1 {
+    flex-basis: 8.3333%;
+    max-width: 8.3333%;
+  }
+  .col-lg-2 {
+    flex-basis: 16.6667%;
+    max-width: 16.6667%;
+  }
+  .col-lg-3 {
+    flex-basis: 25%;
+    max-width: 25%;
+  }
+  .col-lg-4 {
+    flex-basis: 33.3333%;
+    max-width: 33.3333%;
+  }
+  .col-lg-5 {
+    flex-basis: 41.6667%;
+    max-width: 41.6667%;
+  }
+  .col-lg-6 {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+  .col-lg-7 {
+    flex-basis: 58.3333%;
+    max-width: 58.3333%;
+  }
+  .col-lg-8 {
+    flex-basis: 66.6667%;
+    max-width: 66.6667%;
+  }
+  .col-lg-9 {
+    flex-basis: 75%;
+    max-width: 75%;
+  }
+  .col-lg-10 {
+    flex-basis: 83.3333%;
+    max-width: 83.3333%;
+  }
+  .col-lg-11 {
+    flex-basis: 91.6667%;
+    max-width: 91.6667%;
+  }
+  .col-lg-12 {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+  .off-lg-1 {
+    margin-left: 8.3333%;
+  }
+  .off-lg-2 {
+    margin-left: 16.6667%;
+  }
+  .off-lg-3 {
+    margin-left: 25%;
+  }
+  .off-lg-4 {
+    margin-left: 33.3333%;
+  }
+  .off-lg-5 {
+    margin-left: 41.6667%;
+  }
+  .off-lg-6 {
+    margin-left: 50%;
+  }
+  .off-lg-7 {
+    margin-left: 58.3333%;
+  }
+  .off-lg-8 {
+    margin-left: 66.6667%;
+  }
+  .off-lg-9 {
+    margin-left: 75%;
+  }
+  .off-lg-10 {
+    margin-left: 83.3333%;
+  }
+  .off-lg-11 {
+    margin-left: 91.6667%;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .col-xl-1 {
+    flex-basis: 8.3333%;
+    max-width: 8.3333%;
+  }
+  .col-xl-2 {
+    flex-basis: 16.6667%;
+    max-width: 16.6667%;
+  }
+  .col-xl-3 {
+    flex-basis: 25%;
+    max-width: 25%;
+  }
+  .col-xl-4 {
+    flex-basis: 33.3333%;
+    max-width: 33.3333%;
+  }
+  .col-xl-5 {
+    flex-basis: 41.6667%;
+    max-width: 41.6667%;
+  }
+  .col-xl-6 {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+  .col-xl-7 {
+    flex-basis: 58.3333%;
+    max-width: 58.3333%;
+  }
+  .col-xl-8 {
+    flex-basis: 66.6667%;
+    max-width: 66.6667%;
+  }
+  .col-xl-9 {
+    flex-basis: 75%;
+    max-width: 75%;
+  }
+  .col-xl-10 {
+    flex-basis: 83.3333%;
+    max-width: 83.3333%;
+  }
+  .col-xl-11 {
+    flex-basis: 91.6667%;
+    max-width: 91.6667%;
+  }
+  .col-xl-12 {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+  .off-xl-1 {
+    margin-left: 8.3333%;
+  }
+  .off-xl-2 {
+    margin-left: 16.6667%;
+  }
+  .off-xl-3 {
+    margin-left: 25%;
+  }
+  .off-xl-4 {
+    margin-left: 33.3333%;
+  }
+  .off-xl-5 {
+    margin-left: 41.6667%;
+  }
+  .off-xl-6 {
+    margin-left: 50%;
+  }
+  .off-xl-7 {
+    margin-left: 58.3333%;
+  }
+  .off-xl-8 {
+    margin-left: 66.6667%;
+  }
+  .off-xl-9 {
+    margin-left: 75%;
+  }
+  .off-xl-10 {
+    margin-left: 83.3333%;
+  }
+  .off-xl-11 {
+    margin-left: 91.6667%;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Reset
+ *
+ * Remove any browser-defined defaults that might affect layout.
+ *------------------------------------------------------------------*/
+/* The DIV element is not included in the reset as a requirement of 
+the Habitat platform. */
+/* [EPUB] The universal selector (*) has not been used because it throws 
+an EPUB check warning.*/
+a, abbr, acronym, address, applet, article, aside, audio,
+b, big, blockquote, body, canvas, caption, center, cite,
+code, dd, del, details, dfn, dl, dt, em, embed, fieldset,
+figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6,
+header, hgroup, html, i, iframe, img, ins, input, kbd, label,
+legend, li, mark, menu, nav, object, ol, output, p, pre,
+q, ruby, s, samp, section, small, span, strike, strong, sub,
+summary, sup, table, tbody, td, textarea, tfoot, th, thead, time,
+tr, tt, u, ul, var, video, :before, :after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/*------------------------------------------------------------------
+ * Platform
+ *
+ * Platform-specific CSS for links and terms.
+ *----------------------------------------------------------------*/
+/* Inline Links */
+.link-inline {
+  color: #008097;
+  text-decoration: none;
+  margin-right: 0.2em;
+  padding: 0.1em 1.2em 0.1em 0;
+  background: url("images/icon-link-blue.svg") right center no-repeat;
+  background-size: 1em auto;
+}
+
+.link-inline[href*="[chapter"],
+.link-inline[href*="[Chapter"],
+.link-inline[rel="chapter"],
+.link-inline[rel="jump"] {
+  padding-right: 1em;
+  background: url("images/icon-link-jump-blue.svg") right center no-repeat;
+  background-size: 1em auto;
+}
+
+/* Definitions */
+dfn {
+  font-weight: 700;
+  font-style: normal;
+  color: #f38030;
+  /* DSS Orange */
+  margin-right: 0.2em;
+  padding-right: 1.1em;
+  background: url("images/icon-definition-blue.svg") right center no-repeat;
+  background-size: 1em auto;
+}
+
+dfn > em {
+  font-weight: 400;
+}
+
+/* Remarks */
+[href*="[remark"],
+[rel="remark"] {
+  color: #008097;
+  text-decoration: none;
+}
+
+[href*="[remark"] a,
+[rel="remark"] a {
+  font-size: normal;
+}
+
+[href*="[remark"].remark-large,
+[rel="remark"].remark-large {
+  font-size: inherit;
+  vertical-align: inherit;
+}
+
+a[href*="[remark"],
+a[rel="remark"] {
+  vertical-align: super;
+  font-size: 120%;
+  line-height: 0.9em;
+  /* fixes line-height bug */
+}
+
+/*--------------------------------------------------------------------
+ * Scrollable
+ * 
+ * Provides a way to scroll content that is too wide for the content 
+ * window. When the page loads, reader.js determines if the content 
+ * needs to scroll. If so, it will add `.s9-is-scrollable` class to 
+ * the surrounding div.
+ * Note: This requires `<div class="s9-scrollable">` to surround the 
+ * content you want to scroll.
+ *------------------------------------------------------------------*/
+.s9-scrollable {
+  display: block;
+  width: 100%;
+  overflow-y: auto;
+  text-align: center;
+  clear: both;
+}
+
+.s9-scrollable figure > img.equation,
+.s9-scrollable .equation-key > img.equation {
+  padding: 0 10px;
+  box-sizing: content-box;
+}
+
+.s9-scrollable img {
+  max-width: none;
+}
+
+.s9-scrollable > table {
+  /* For scrollable HTML tables */
+  text-align: left;
+  width: 100%;
+}
+
+.s9-scrollable.s9-is-scrollable {
+  box-shadow: inset 1px 0px 5px #CCC;
+  margin-top: .7em;
+  margin-bottom: .7em;
+}
+
+.s9-scrollable.s9-is-scrollable > table {
+  /* For scrollable HTML tables */
+  min-width: 620px;
+}
+
+/* Fixes a scrolling bug in iOS */
+.s9-scrollable table {
+  -webkit-transform: none !important;
+}
+
+body > .s9-scrollable {
+  margin-left: -0px;
+  margin-right: -0px;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+@media (min-width: 650px) {
+  body > .s9-scrollable {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+@media (min-width: 880px) {
+  body > .s9-scrollable {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+@media (min-width: 650px) {
+  body > .s9-scrollable {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+@media (min-width: 880px) {
+  body > .s9-scrollable {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Audio Button
+ *
+ * Styling for inline audio player button. Change this only if 
+ * absolutely necessary.
+ *------------------------------------------------------------------*/
+.s9-audio-button-custom {
+  margin-top: 23px;
+  display: inline-block;
+  padding: 6px 10px 6px 40px;
+  color: #fff;
+  text-decoration: none;
+  text-indent: 0;
+  text-align: left;
+  text-transform: none;
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  font-size: .8em;
+  font-weight: 600;
+  line-height: 1.1em;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  border-radius: 5px;
+  background: #7f8281 url(images/white/icon-audio.svg) no-repeat 10px center;
+  background-size: 20% auto;
+}
+
+.s9-audio-button-custom.s9-active {
+  opacity: .5;
+}
+
+/*------------------------------------------------------------------
+* Habitat Tweaks
+*
+* Required for Habitat App
+*----------------------------------------------------------------*/
+figure > a,
+figure > img,
+figure .figure-image {
+  /* Required for tap highlight */
+  display: block;
+}
+
+/*--------------------------------------------------------------------
+ * Key Terms
+ *
+ * Uses floated list items to create the holders for the data.
+ * `.no-link` is used for page numbers that do not have links in Key 
+ * Terms Cloud Extended.
+ * See [Key Term](/pattern-library/core-patterns/lists/key-term/) 
+ * for example HMTL.
+ *------------------------------------------------------------------*/
+.key-term {
+  padding-left: 0;
+  overflow: hidden;
+}
+
+.key-term li {
+  float: left;
+  display: table;
+  list-style: none;
+  margin: 0 0.6em 0.6em 0;
+  border: 1px solid #A9ABAE;
+  border-right: none;
+  background: #fff;
+  position: relative;
+}
+
+.key-term li > dfn, .key-term li > .term-only, .key-term li > .nolink {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.4em;
+  font-style: normal;
+  color: #000;
+  background: none;
+  display: table-cell;
+  padding: 0.5em;
+  border-right: 1px solid #A9ABAE;
+  height: 1.5em;
+}
+
+.key-term li > dfn:after, .key-term li > .term-only:after, .key-term li > .nolink:after {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  padding-left: .2em;
+  content: "";
+  background: url("images/icon-definition-blue.svg") 100% 0.2em no-repeat;
+  background-size: .9em auto;
+  top: 2px;
+  position: relative;
+}
+
+.key-term li > .term-only:after, .key-term li > .nolink:after {
+  content: none;
+}
+
+.key-term a {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  font-weight: 600;
+  color: black;
+  padding: 0.1em 1.1em 0.1em 0.5em;
+  margin-right: .5em;
+  background: url("images/icon-link-blue.svg") 100% 0.2em no-repeat;
+  background-size: .9em auto;
+}
+
+.key-term a:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-right: 1px solid #A9ABAE;
+}
+
+/*--------------------------------------------------------------------
+ * Key Term Extended
+ *------------------------------------------------------------------*/
+.key-term-extended {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 1.4em;
+  list-style: none;
+  padding: 0;
+}
+
+.key-term-extended li {
+  margin: .5em 0;
+}
+
+/*------------------------------------------------------------------
+ * S9 Video
+ *----------------------------------------------------------------*/
+video {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.s9-video {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+}
+
+.s9-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/*------------------------------------------------------------------
+ * Base
+ *
+ * Base CSS for page color, typogrpahy and margins.
+ * WARNING: Editing these styles may cause unintended effects.
+ *----------------------------------------------------------------*/
+body {
+  clear: both;
+  display: block;
+  background: #f8f8f9;
+  color: #4c4e50;
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+}
+
+body:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.orange {
+  color: #fb6400;
+}
+
+.bg-orange {
+  background-color: #fb6400;
+}
+
+.turquoise-l1 {
+  color: #54c0aa;
+}
+
+.bg-turquoise-l1 {
+  background-color: #54c0aa;
+}
+
+.turquoise-d2 {
+  color: #009977;
+}
+
+.bg-turquoise-d2 {
+  background-color: #009977;
+}
+
+.bg-turquoise-d3 {
+  background-color: #018865;
+}
+
+.bg-turquoise-d4 {
+  background-color: #017654;
+}
+
+.aqua {
+  color: #00a3c0;
+}
+
+.bg-aqua {
+  background-color: #00a3c0;
+}
+
+.aqua-l5 {
+  color: #B7E5ED;
+}
+
+.bg-aqua-l5 {
+  background-color: #B7E5ED;
+}
+
+.aqua-l6 {
+  color: #d5eff3;
+}
+
+.bg-aqua-l6 {
+  background-color: #d5eff3;
+}
+
+.bg-aqua-l7 {
+  background-color: #eaf7f9;
+}
+
+.aqua-d2 {
+  color: #018bab;
+}
+
+.bg-aqua-d2 {
+  background-color: #018bab;
+}
+
+.border-aqua-d2 {
+  border-color: #018bab;
+}
+
+.aqua-d4 {
+  color: #006888;
+}
+
+.bg-aqua-d4 {
+  background-color: #006888;
+}
+
+.purple-d2 {
+  color: #8a5da5;
+}
+
+.bg-purple-d2 {
+  background-color: #8a5da5;
+}
+
+.golden {
+  color: #f0a91e;
+}
+
+.bg-golden {
+  background-color: #f0a91e;
+}
+
+.stone-3 {
+  color: #efe9e4;
+}
+
+.bg-stone-3 {
+  background-color: #efe9e4;
+}
+
+.stone-5 {
+  color: #ded3cc;
+}
+
+.bg-stone-5 {
+  background-color: #ded3cc;
+}
+
+.dark-gray-d1 {
+  color: #4c4e50;
+}
+
+.bg-dark-gray-d1 {
+  background-color: #4c4e50;
+}
+
+.light-gray-d1 {
+  color: #7f8281;
+}
+
+.bg-ligh-gray-d1 {
+  background-color: #7f8281;
+}
+
+.light-gray-l1 {
+  color: #a7a9aa;
+}
+
+.bg-light-gray-l1 {
+  background-color: #a7a9aa;
+}
+
+.light-gray-l6 {
+  color: #e5e6e7;
+}
+
+.bg-light-gray-l6 {
+  background-color: #e5e6e7;
+}
+
+.border-light-gray-l6 {
+  border-color: #e5e6e7;
+}
+
+.light-gray-l8 {
+  color: #f8f8f9;
+}
+
+.bg-light-gray-l8 {
+  background-color: #f8f8f9;
+}
+
+.green {
+  color: #4fa80c;
+}
+
+.bg-green {
+  background-color: #4fa80c;
+}
+
+.red {
+  color: #ff261f;
+}
+
+.bg-red {
+  background-color: #ff261f;
+}
+
+.border-gray-l4 {
+  border: 2px solid #cccecf;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.black {
+  color: #000000;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+/*--------------------------------------------------------------------
+ * Base Fonts and Sizes
+ *------------------------------------------------------------------*/
+/* Set the base font sizes for small and larger screens
+The font size should be set on the <html> element, so that the
+reader can adjust the size as it cascades by targeting the 
+<body> element. */
+html {
+  font-size: 22px;
+}
+
+@media only screen and (max-width: 649px) {
+  html {
+    font-size: 19.2px;
+  }
+}
+
+body {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  color: #4c4e50;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+.sans-serif, blockquote {
+  font-family: "Serifa W01", Times New Roman, serif;
+}
+
+.sans-serif-italic {
+  font-family: "Serifa W01", Times New Roman, serif;
+}
+
+/*------------------------------------------------------------------
+ * Font Features
+ *
+ * Utilize font-smoothing when possible.
+ *----------------------------------------------------------------*/
+/* Add kerning ligatures to a small set of elements when 
+ available. Do not add to the body or large blocks of text for 
+ performance reasons. */
+h1, h2, h3, h4, h5, h6,
+blockquote {
+  text-rendering: optimizeLegibility;
+}
+
+/* We have opted to not include -webkit-font-smoothing modifications
+because every font and contrasting color choices yeilds mixed
+results and can sometimes appear blurry. YMMV. */
+/*--------------------------------------------------------------------
+ * Inline Styles
+ *
+ * Styles for most inline tags and several custom spans.
+ *------------------------------------------------------------------*/
+/* strong / bold */
+b, strong {
+  font-weight: 700;
+}
+
+/* italics / emphasis */
+i, em {
+  font-style: italic;
+}
+
+/* strikethrough */
+s {
+  text-decoration: line-through;
+}
+
+/* deleted text */
+del {
+  text-decoration: line-through;
+}
+
+/* inserted text */
+ins {
+  text-decoration: underline;
+}
+
+/* copyright and legal text */
+small {
+  font-size: 120%;
+  line-height: 0.9em;
+}
+
+/* small, upercase font */
+.smallcaps {
+  font-variant: small-caps;
+}
+
+/* subscript and superscript */
+sup, sub {
+  vertical-align: super;
+  font-size: 120%;
+  line-height: 0.9em;
+  /* fixes line-height bug */
+}
+
+sub {
+  vertical-align: sub;
+}
+
+/* underline */
+u,
+.underline {
+  text-decoration: underline;
+}
+
+/* double underline */
+.u-double {
+  text-decoration: none;
+  border-bottom: 3px double #4c4e50;
+}
+
+/* add box around span */
+.boxed, .boxed-small {
+  border: 1px solid #333536;
+  border-radius: 2px;
+  line-height: 1;
+  padding: 0.0455em 0.1364em;
+}
+
+/* add smaller box around span */
+.boxed-small {
+  font-size: 120%;
+  line-height: 0.9em;
+}
+
+/*--------------------------------------------------------------------
+ * Code
+ * 
+ * Code and monospace styles.
+ *------------------------------------------------------------------*/
+code,
+kbd,
+samp {
+  border-radius: 2px;
+  font-family: Courier, "Courier New", monospace;
+  font-size: 120%;
+  line-height: 0.9em;
+  /* fixes line-height bug */
+  padding: 2px;
+  vertical-align: middle;
+}
+
+/* preformatted code blocks */
+pre {
+  margin-bottom: 0.0682em;
+  overflow-x: scroll;
+  white-space: pre;
+}
+
+pre code {
+  display: block;
+  padding: 0.75;
+  line-height: 1.2;
+  overflow: auto;
+}
+
+/*--------------------------------------------------------------------
+ * Paragraphs
+ *------------------------------------------------------------------*/
+p {
+  margin-top: 1rem;
+}
+
+/*--------------------------------------------------------------------
+ * Force wrap
+ *
+ * Forces long strings to wrap to the next line.
+ *------------------------------------------------------------------*/
+.force-break,
+.force-wrap {
+  -ms-word-break: break-all;
+  /* Be VERY careful with this, breaks normal words wh_erever */
+  word-break: break-all;
+  /* Non standard for webkit */
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+/*--------------------------------------------------------------------
+ * Force Hyphen
+ *
+ * Use with `<span class="force-hyphen">Longunbrokenword</span>. 
+ * Forces breaks at mobile size, otherwise tries to add hyphens for 
+ * browsers that support it.
+ *------------------------------------------------------------------*/
+.force-hyphen {
+  word-break: break-all;
+}
+
+@media (min-width: 650px) {
+  .force-hyphen {
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Drop Caps
+ *------------------------------------------------------------------*/
+.dropcap:first-letter {
+  font-family: "Serifa W01", Times New Roman, serif;
+  float: left;
+  font-size: 5.6rem;
+  color: #7f8281;
+  line-height: 0.7;
+  padding-right: 10px;
+  margin-top: 5px;
+}
+
+@-moz-document url-prefix() {
+  .dropcap:first-letter {
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .dropcap:first-letter {
+    line-height: 0.65;
+    padding-right: 8px;
+    margin-top: 6px;
+  }
+  @-moz-document url-prefix() {
+    .dropcap:first-letter {
+      margin-top: 10px;
+    }
+  }
+}
+
+/* Dropcap for Q */
+.dropcap-q:first-letter {
+  margin: 5px 0 10px -2px;
+}
+
+@-moz-document url-prefix() {
+  .dropcap-q:first-letter {
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .dropcap-q:first-letter {
+    line-height: 0.69;
+    margin: 6px 0 10px -2px;
+  }
+  @-moz-document url-prefix() {
+    .dropcap-q:first-letter {
+      margin-top: 10px;
+    }
+  }
+}
+
+/* HR Divider */
+hr {
+  display: block;
+  height: 1px;
+  width: 100%;
+  color: #e5e6e7;
+  background-color: #e5e6e7;
+  border: 0 none;
+  margin: 22px 0 12px 0;
+}
+
+@media only screen and (min-width: 880px) {
+  hr {
+    margin: 26px 0 16px 0;
+  }
+}
+
+/*------------------------------------------------------------------
+ * Headings
+ *----------------------------------------------------------------*/
+h1 {
+  margin-left: -4px;
+}
+
+header h5.supertitle {
+  margin: 0;
+  padding-top: 7.5px;
+}
+
+header h5.subtitle {
+  margin: 0;
+  padding-bottom: 7.5px;
+}
+
+.supertitle-h2 h5.supertitle {
+  padding-bottom: 0;
+}
+
+.supertitle-h2 h2 {
+  margin-top: 0;
+}
+
+h2, h3, h4, h5, h6, .h7, .h8, sup, .supertitle, blockquote {
+  margin: 42px 0 0 0;
+}
+
+h1 {
+  line-height: 1.15;
+}
+
+h2 {
+  line-height: 1.25;
+}
+
+@media only screen and (max-width: 880px) {
+  header h5.supertitle {
+    padding-top: 2px;
+  }
+  header h5.subtitle {
+    padding-bottom: 3.5px;
+  }
+  h1 {
+    font-size: 2.1rem;
+    padding: 0 0 3px 0;
+  }
+  h2 {
+    font-size: 1.7rem;
+    padding: 0 0 2px 0;
+  }
+  h3, blockquote {
+    font-size: 1.4rem;
+    line-height: 1.3;
+    padding: 1px 0 4px 0;
+  }
+  h4, .intro-text {
+    font-size: 1.2rem;
+    line-height: 1.35;
+    padding: 2px 0 4px 0;
+  }
+  h5 {
+    width: 100%;
+    padding: 2px 0 3.5px 0;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  h6 {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    padding: 3px 0 4px 0;
+  }
+  p {
+    line-height: 1.5;
+    margin: 10px 0 0 0;
+    padding: 2px 0 3.5px 0;
+    font-size: 1rem;
+  }
+  sup, .supertitle {
+    padding: 2px 0 0 0;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  sub, .subtitle {
+    margin: 0;
+    padding: 0 0 3.5px 0;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  header [class^="col-"],
+  header [class*=" col-"] {
+    padding-top: 55px;
+    padding-bottom: 52px;
+  }
+  header .fill {
+    padding-bottom: 42px;
+  }
+}
+
+@media only screen and (min-width: 880px) {
+  h2, h3, h4, h5, h6, .h7, .h8, .h9 sup, .supertitle, blockquote {
+    margin: 53px 0 0 0;
+  }
+  h1 {
+    font-size: 2.9rem;
+    padding: 0 0 3px 0;
+  }
+  h2 {
+    font-size: 2.2rem;
+    padding: 2px 0 3px 0;
+  }
+  h3, blockquote {
+    font-size: 1.7rem;
+    line-height: 1.3;
+    padding: 4.5px 0 5px 0;
+  }
+  h4, .intro-text {
+    font-size: 1.3rem;
+    line-height: 1.35;
+    padding: 7px 0 8px 0;
+  }
+  h5 {
+    padding: 7.5px 0 7.5px 0;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  h6 {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    padding: 8px 0 9px 0;
+  }
+  p {
+    line-height: 1.5;
+    margin: 10px 0 0 0;
+    padding: 7.5px 0 7.5px 0;
+    font-size: 1rem;
+  }
+  sup, .supertitle {
+    padding: 7.5px 0 0 0;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  sub, .subtitle {
+    margin: 0;
+    padding: 0 0 7.5px 0;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  header [class^="col-"],
+  header [class*=" col-"] {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  header .fill {
+    padding-bottom: 53px;
+  }
+}
+
+.img-title h3 {
+  margin-top: 0;
+}
+
+.two-cols img {
+  max-height: 620px;
+  width: auto;
+  max-width: 100%;
+}
+
+.three-cols .col-xs-4 {
+  display: block;
+}
+
+/*--------------------------------------------------------------------
+ * Blockquotes
+ *------------------------------------------------------------------*/
+blockquote {
+  clear: both;
+  margin-bottom: 0.0682em;
+}
+
+blockquote :last-child {
+  margin-bottom: 0em !important;
+}
+
+/*--------------------------------------------------------------------
+ * Lists
+ *------------------------------------------------------------------*/
+ol, ul {
+  list-style-type: none;
+  font-style: normal;
+  margin-left: 0.0682em;
+  margin-bottom: 0.0682em;
+}
+
+ol:after, ul:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ol li, ul li {
+  position: relative;
+}
+
+ol ol, ol ul, ul ol, ul ul {
+  /* Remove bottom margin from nested lists */
+  margin-bottom: 0;
+}
+
+/* Make sure list-items outside of lists don't have a coutner */
+body > li {
+  list-style-type: none;
+}
+
+/* Ordered */
+.list-decimal, ol {
+  list-style-type: decimal;
+}
+
+.list-upper-alpha, ol ol {
+  list-style-type: upper-alpha;
+}
+
+.list-upper-roman, ol ol ol {
+  list-style-type: upper-roman;
+}
+
+.list-lower-alpha, ol ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.list-lower-roman, ol ol ol ol ol {
+  list-style-type: lower-roman;
+}
+
+/* Unordered */
+.list-bullet,
+ul,
+ul ul ul ul,
+.list-disc {
+  list-style-type: disc;
+}
+
+.list-square, ul ul, ul ul ul ul ul {
+  list-style-type: square;
+}
+
+.list-circle, ul ul ul {
+  list-style-type: circle;
+}
+
+/* Other list styles */
+.list-no-style {
+  list-style-type: none;
+}
+
+.list-no-indent {
+  margin-left: 0;
+}
+
+.list-indent {
+  margin-left: 0.1364em;
+}
+
+.list-inside {
+  margin-left: 0;
+  list-style-position: inside;
+}
+
+.list-second-indent,
+.list-second-line-indent {
+  margin-left: 0.0682em;
+  text-indent: -0.0682em;
+}
+
+/*--------------------------------------------------------------------
+ * List Images
+ *
+ * The list images can be changed by uploading new images to the
+ * assets/css/images folder.
+ *------------------------------------------------------------------*/
+.list-image-checkbox, .list-image-hand, .list-image-star, .list-image-checkmark, .list-image-exmark {
+  list-style-type: none;
+  position: relative;
+}
+
+.list-image-checkbox li:before, .list-image-hand li:before, .list-image-star li:before, .list-image-checkmark li:before, .list-image-exmark li:before {
+  content: "";
+  background-size: 70% 70%;
+  background-position: 0 50%;
+  background-repeat: no-repeat;
+  position: absolute;
+  display: block;
+  left: -0.0682em;
+  height: 0.0682em;
+  width: 0.0682em;
+}
+
+.list-image-checkbox li, .list-image-hand li, .list-image-star li, .list-image-checkmark li, .list-image-exmark li {
+  counter-increment: section;
+}
+
+.list-image-checkbox li:before {
+  background-image: url(images/icon-checkbox.svg);
+}
+
+.list-image-hand li:before {
+  background-image: url(images/icon-hand.svg);
+}
+
+.list-image-star li:before {
+  background-image: url(images/icon-star.svg);
+}
+
+.list-image-checkmark li:before {
+  background-image: url(images/icon-checkmark.svg);
+}
+
+.list-image-exmark li:before {
+  background-image: url(images/icon-exmark.svg);
+}
+
+/*------------------------------------------------------------------
+ * Two-column List
+ *----------------------------------------------------------------*/
+@media (min-width: 650px) {
+  .list-two-column li {
+    width: 50%;
+    float: left;
+    padding-right: 30px;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * DSS Lists
+ *------------------------------------------------------------------*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  margin-left: 35px;
+  padding: 7.5px 0;
+}
+
+@media only screen and (max-width: 480px) {
+  ul {
+    padding: 2px 0 3.5px 0;
+    margin-left: 25px;
+  }
+}
+
+ul > li {
+  position: relative;
+  margin-top: 10px;
+  padding-left: 0.5em;
+  min-height: 1em;
+}
+
+ul > li:before {
+  position: absolute;
+  top: 5px;
+  left: -1em;
+  width: 1em;
+  line-height: 1;
+  /*font-weight: bold;*/
+  text-align: right;
+  color: #4c4e50;
+  content: "\2022 ";
+}
+
+ol {
+  list-style-type: none;
+  margin: 0;
+  margin-left: 35px;
+  padding: 7.5px 0;
+  counter-reset: li-counter;
+}
+
+@media only screen and (max-width: 480px) {
+  ol {
+    padding: 2px 0 3.5px 0;
+    margin-left: 25px;
+  }
+}
+
+ol > li {
+  position: relative;
+  margin-top: 10px;
+  padding-left: 0.5em;
+  min-height: 1em;
+}
+
+ol > li:before {
+  position: absolute;
+  top: 5px;
+  left: -1em;
+  width: 1em;
+  line-height: 1;
+  text-align: right;
+  color: #4c4e50;
+  content: counter(li-counter);
+  counter-increment: li-counter;
+  font-weight: bold;
+}
+
+/*--------------------------------------------------------------------
+ * Links
+ *
+ * Text and button links.
+ *------------------------------------------------------------------*/
+a {
+  color: #008097;
+  font-weight: 600;
+  text-decoration: none;
+  -ms-word-break: break-all;
+  /* Be VERY careful with this, breaks normal words wh_erever */
+  word-break: break-all;
+  /* Non standard for webkit */
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  border-bottom: 1px solid #008097;
+}
+
+.button {
+  margin-bottom: 0.0341em;
+  display: inline-block;
+  border-radius: 4px;
+  text-decoration: none;
+  padding: 20px 20px;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-align: center;
+  background: orange;
+  color: #ffffff;
+  border: 1px solid orange;
+}
+
+.button-outline {
+  margin-bottom: 0.0341em;
+  display: inline-block;
+  border-radius: 4px;
+  text-decoration: none;
+  padding: 20px 20px;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-align: center;
+  background: transparent;
+  border: 1px solid orange;
+  color: orange;
+}
+
+/*--------------------------------------------------------------------
+ * Tables
+ *------------------------------------------------------------------*/
+/* Remove any default spacing from tables. */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  table-layout: fixed;
+  min-width: 100%;
+  margin-bottom: 0.0682em;
+}
+
+.table {
+  margin-bottom: 0.0682em;
+  min-width: 100%;
+  clear: both;
+  table-layout: fixed;
+}
+
+.table td,
+.table th {
+  border: 1px solid #7f8281;
+  padding: 5px;
+}
+
+.table th {
+  font-weight: 600;
+}
+
+.table caption {
+  text-transform: uppercase;
+  font-size: 120%;
+  font-weight: 600;
+}
+
+.table.no-border {
+  border: 0 none;
+}
+
+.table.no-border td {
+  border: 0 none;
+}
+
+.small-one-column td {
+  display: block;
+}
+
+@media (min-width: 650px) {
+  .small-one-column td {
+    display: table-cell;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Forms
+ *------------------------------------------------------------------*/
+button,
+fieldset,
+input,
+optgroup,
+select,
+textarea {
+  /* Correct inproperly inherited font sizes/styles */
+  font: inherit;
+  /* Remove focus outline */
+}
+
+button:focus,
+fieldset:focus,
+input:focus,
+optgroup:focus,
+select:focus,
+textarea:focus {
+  outline: 0;
+}
+
+/* Buttons */
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  /* Address `overflow` set to `hidden` in IE 9/10/11. */
+  overflow: visible;
+  /* Correct inability to style clickable `input` types in iOS. */
+  -webkit-appearance: button;
+  /*  Improve usability and consistency of cursor style between image-type `input` and others. */
+  cursor: pointer;
+  background: #7f8281;
+  color: #ffffff;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  border: 0px none;
+  padding: 0.017em 0.0341em;
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+  background: #7f8281;
+}
+
+/* Re-set default cursor for disabled elements. */
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+/* Text Input */
+input[type="text"] {
+  line-height: normal;
+  border: 1px solid #4c4e50;
+  border-radius: 2px;
+  padding: 0.017em;
+  min-width: 50%;
+}
+
+/* Textarea */
+textarea {
+  margin-bottom: 0.0682em;
+  overflow: auto;
+  /* Remove scrollbars in IE */
+  width: 100%;
+  border: 1px solid #4c4e50;
+  border-radius: 2px;
+  padding: 0.017em;
+  outline: none;
+  resize: none;
+}
+
+textarea:focus {
+  border: 1px solid #7f8281;
+}
+
+/*--------------------------------------------------------------------
+ * Images
+ *------------------------------------------------------------------*/
+/*  Images should always span 100% if their container */
+img {
+  width: 100%;
+  display: inline-block;
+  margin: 26px 0 17px 0;
+  padding: 0;
+}
+
+@media only screen and (max-width: 880px) {
+  img {
+    margin: 21px 0 13px 0;
+  }
+}
+
+figure {
+  clear: both;
+  margin-bottom: 0.0682em;
+  position: relative;
+}
+
+figure:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+figure.left,
+figure.right {
+  margin-bottom: 0.0341em;
+}
+
+figcaption {
+  font-size: 0.0364em;
+}
+
+.full-bleed figcaption,
+.bleed figcaption {
+  /* If the image is full-bleed, restore the caption to the content width. */
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+@media (min-width: 650px) {
+  .full-bleed figcaption,
+  .bleed figcaption {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+@media (min-width: 880px) {
+  .full-bleed figcaption,
+  .bleed figcaption {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+.pull figcaption,
+.pull-left figcaption {
+  padding-left: 0px !important;
+}
+
+@media (min-width: 650px) {
+  .pull figcaption,
+  .pull-left figcaption {
+    padding-left: 0px !important;
+  }
+}
+
+@media (min-width: 880px) {
+  .pull figcaption,
+  .pull-left figcaption {
+    padding-left: 0px !important;
+  }
+}
+
+@media (min-width: 650px) {
+  .pull figcaption,
+  .pull-left figcaption {
+    padding-left: 50em;
+  }
+}
+
+@media (min-width: 880px) {
+  .pull figcaption,
+  .pull-left figcaption {
+    padding-left: 100em;
+  }
+}
+
+/* Figure caption alignment */
+.caption-left img {
+  float: right !important;
+  clear: right !important;
+  display: block;
+  margin-left: 0;
+  margin-left: 3.1%;
+}
+
+.one-half.left + .caption-left img {
+  margin-left: 0;
+}
+
+.caption-right img {
+  float: left !important;
+  clear: left !important;
+  display: block;
+  margin-left: 0;
+  margin-right: 3.1%;
+}
+
+.one-half.right + .caption-right img {
+  margin-right: 0;
+}
+
+.caption-center figcaption {
+  text-align: center;
+}
+
+/*--------------------------------------------------------------------
+ * Headers
+ * Headers will bleed autimactially if the .header class is applied.
+ *------------------------------------------------------------------*/
+.header {
+  margin-left: -0px;
+  margin-right: -0px;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  clear: both;
+}
+
+@media (min-width: 650px) {
+  .header {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+@media (min-width: 880px) {
+  .header {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+@media (min-width: 650px) {
+  .header {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+@media (min-width: 880px) {
+  .header {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+.header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.header .subtitle {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.opener {
+  margin-left: -0px;
+  margin-right: -0px;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  clear: both;
+  margin-bottom: 17.5px;
+}
+
+@media (min-width: 650px) {
+  .opener {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+@media (min-width: 880px) {
+  .opener {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+@media (min-width: 650px) {
+  .opener {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+@media (min-width: 880px) {
+  .opener {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+.opener:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media only screen and (max-width: 880px) {
+  .opener {
+    margin-bottom: 13px;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Fractions
+ *
+ * Use with with the HTML slash entity
+ *------------------------------------------------------------------*/
+.fraction {
+  position: relative;
+  top: .25em;
+  left: -.2em;
+  margin-left: .25em;
+}
+
+.fraction + sub {
+  position: relative;
+  top: -0.2em;
+  margin-left: .1em;
+  margin-right: .2em;
+}
+
+var {
+  font-style: italic;
+  font-family: "Serifa W01", Times New Roman, serif;
+}
+
+/*--------------------------------------------------------------------
+ * Equations
+ *------------------------------------------------------------------*/
+/* Block Image Equations */
+figure > img.equation,
+.equation-key > img.equation {
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: initial;
+}
+
+/* Inline Image Equations */
+p > img.equation,
+li > img.equation,
+figcaption img.equation {
+  height: auto;
+  display: inline-block;
+  vertical-align: -0.1em;
+}
+
+/* HTML Equations  */
+/* Both inline and block. */
+div.equation {
+  text-align: center;
+  margin: 1em auto;
+  display: inline-block;
+  padding: 0 10px;
+  white-space: nowrap;
+}
+
+span.equation {
+  white-space: nowrap;
+}
+
+@media only screen and (max-width: 649px) {
+  span.equation {
+    white-space: normal;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Media
+ *------------------------------------------------------------------*/
+audio {
+  width: 100%;
+}
+
+iframe {
+  width: 100%;
+}
+
+/* Set native videos to always be scaled to their container.
+The !important tag is required to override width/height attr */
+video {
+  width: 100% !important;
+  height: auto !important;
+}
+
+figure.video {
+  margin: 26px 0 17px 0;
+  padding: 0;
+}
+
+@media only screen and (max-width: 880px) {
+  figure.video {
+    margin: 21px 0 13px 0;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Helper Classes
+ *
+ * Helper classes allow for individual properties to be applied with
+ * a single class. This idea is based on the single-responsibility
+ * principle and the writings of Harry Roberts.
+ * http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/
+ *
+ * Warning: While helper classes are quick and effective, they can
+ * lead to complex HTML that is harder to maintain. If you find yourself
+ * constantly applying the same clases to multiple elements, consider
+ * making a custom class.
+ *------------------------------------------------------------------*/
+/* On mobile devices, all fractional widths should span 100% of the body. */
+.flex {
+  display: -webkit-box;
+  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+  display: -ms-flexbox;
+  /* TWEENER - IE 10 */
+  display: -webkit-flex;
+  /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: flex;
+  /* NEW, Spec - Firefox, Chrome, Opera */
+}
+
+@media only screen and (max-width: 880px) {
+  .wide .no-pad,
+  .feature .no-pad,
+  .main .no-pad {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.copyright {
+  font-size: 0.6rem;
+  margin: 0;
+  font-style: italic;
+  padding: 10px 0 11px 0;
+}
+
+@media only screen and (max-width: 880px) {
+  .copyright {
+    padding: 8px 0;
+  }
+}
+
+.caption {
+  font-size: 0.8em;
+  margin: 0;
+  padding: 10px 0;
+}
+
+@media only screen and (max-width: 880px) {
+  .caption {
+    padding: 8px 0;
+  }
+}
+
+.caption-hr {
+  width: 100%;
+  border: 0;
+  height: 0;
+  border-top: 1px solid #e5e6e7;
+  border-bottom: 0px solid #ffffff;
+  margin: 0 0 17px 0;
+}
+
+@media only screen and (max-width: 880px) {
+  .caption-hr {
+    margin: 0 0 13px 0;
+  }
+}
+
+.relative {
+  position: relative;
+}
+
+.image-metadata img {
+  margin-bottom: 0;
+}
+
+.red {
+  color: #ff261f;
+}
+
+.blue {
+  color: #018bab;
+}
+
+/* Alignment Helpers */
+.left {
+  float: left !important;
+  clear: left !important;
+  display: block;
+  margin-left: 0;
+  margin-right: 3.1%;
+}
+
+.one-half.right + .left {
+  margin-right: 0;
+}
+
+.right {
+  float: right !important;
+  clear: right !important;
+  display: block;
+  margin-left: 0;
+  margin-left: 3.1%;
+}
+
+.one-half.left + .right {
+  margin-left: 0;
+}
+
+.center {
+  float: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Place left and rights next to eachother if they immediately follow
+one another */
+.left + .right {
+  margin-left: 0;
+}
+
+.right + .left {
+  margin-right: 0;
+}
+
+/* Absolute centering */
+.x-center {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+.y-center {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.x-center.y-center {
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -o-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+/* Bleed Helpers */
+.full-bleed,
+.bleed {
+  margin-left: -0px;
+  margin-right: -0px;
+}
+
+@media (min-width: 650px) {
+  .full-bleed,
+  .bleed {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+@media (min-width: 880px) {
+  .full-bleed,
+  .bleed {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+/* Background Color Helpers */
+.bg-white {
+  background-color: #ffffff;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.black {
+  color: black;
+}
+
+.contrast-text {
+  color: #4c4e50 !important;
+}
+
+.contrast-text p, .contrast-text h1, .contrast-text h2, .contrast-text h3, .contrast-text h4, .contrast-text h5, .contrast-text h6, .contrast-text figcaption, .contrast-text cite, .contrast-text blockquote {
+  color: #4c4e50 !important;
+}
+
+.contrast-text a {
+  color: #008097 !important;
+}
+
+.contrast-text table th, .contrast-text table td {
+  color: #4c4e50 !important;
+}
+
+.contrast-text code {
+  background: #7f8281 !important;
+}
+
+.clearboth {
+  clear: both !important;
+}
+
+/* Font Family Helpers */
+.font-mono {
+  font-family: Courier, "Courier New", monospace;
+  font-size: 0.9em;
+}
+
+.font-sans {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+}
+
+.font-serif {
+  font-family: "Serifa W01", Times New Roman, serif;
+}
+
+/* Text Alignment Helpers */
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+/* Icons */
+.icon {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.icon-large {
+  height: 2em;
+  width: 2em;
+}
+
+.icon-checkbox {
+  background-image: url(images/icon-checkbox.svg);
+}
+
+.icon-hand {
+  background-image: url(images/icon-hand.svg);
+}
+
+.icon-star {
+  background-image: url(images/icon-star.svg);
+}
+
+.icon-checkmark {
+  background-image: url(images/icon-checkmark.svg);
+}
+
+.icon-exmark {
+  background-image: url(images/icon-exmark.svg);
+}
+
+/**** Vertical Spacing *****/
+.spacer.regular {
+  display: block;
+  width: 100%;
+}
+
+.spacer.regular {
+  height: 53px;
+}
+
+@media only screen and (max-width: 880px) {
+  .spacer.regular {
+    height: 42px;
+  }
+}
+
+.spacer.large {
+  height: 70px;
+}
+
+@media only screen and (max-width: 880px) {
+  .spacer.large {
+    height: 70px;
+  }
+}
+
+.spacer.small {
+  height: 42px;
+}
+
+@media only screen and (max-width: 880px) {
+  .spacer.small {
+    height: 42px;
+  }
+}
+
+.interactive, .static {
+  padding: 16px 0;
+}
+
+@media only screen and (max-width: 880px) {
+  .interactive, .static {
+    padding: 9px 0 13px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .interactive, .static {
+    padding: 8px 0 11px;
+  }
+}
+
+.interactive-holder {
+  margin: 16px 0;
+  background: #cccecf;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  min-height: 100px;
+  color: #4c4e50;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* END Helpers */
+h1.text-topspace-regular,
+h2.text-topspace-regular,
+h3.text-topspace-regular,
+h4.text-topspace-regular,
+h5.text-topspace-regular,
+h6.text-topspace-regular,
+blockquote.text-topspace-regular {
+  margin-top: 10px;
+}
+
+p.add-top-space {
+  margin-top: 53px;
+}
+
+@media only screen and (max-width: 880px) {
+  p.add-top-space {
+    margin-top: 42px;
+  }
+}
+
+.panel-text.box-topspace-large {
+  margin-top: 70px;
+}
+
+@media only screen and (max-width: 880px) {
+  .panel-text.box-topspace-large {
+    margin-top: 52px;
+  }
+}
+
+p.text-topspace-none {
+  margin-top: 0;
+}
+
+.box-topspace-regular {
+  margin-top: 26px;
+}
+
+.large-spacer {
+  display: block;
+  width: 100%;
+  height: 70px;
+}
+
+.regular-spacer {
+  display: block;
+  width: 100%;
+  height: 53px;
+}
+
+.small-spacer {
+  display: block;
+  width: 100%;
+  height: 30px;
+}
+
+.box-topspace-none img {
+  margin-top: 0;
+}
+
+.box-bottomspace-none img {
+  margin-bottom: 0;
+}
+
+.box-topspace-large img {
+  margin-top: 70px;
+}
+
+@media only screen and (max-width: 880px) {
+  .box-topspace-large img {
+    margin-top: 52px;
+  }
+}
+
+.box-bottomspace-regular img {
+  margin-bottom: 17px;
+}
+
+@media only screen and (max-width: 880px) {
+  .box-bottomspace-regular img {
+    margin-bottom: 13px;
+  }
+}
+
+.box-topspace-large {
+  margin-top: 70px !important;
+}
+
+@media only screen and (max-width: 880px) {
+  .box-topspace-large {
+    margin-top: 52px !important;
+  }
+}
+
+.activity-divider.box-topspace-none, .box-topspace-none {
+  margin-top: 0;
+}

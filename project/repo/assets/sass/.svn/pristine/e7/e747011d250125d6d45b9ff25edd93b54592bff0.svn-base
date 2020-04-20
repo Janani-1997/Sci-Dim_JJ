@@ -1,0 +1,177 @@
+//-------------------------------------------------------------------------
+// NGSS Patterns
+//
+// This partial is to cover small CSS tweaks to Baseline Settings
+// For example you might want to change some colours, padding or margins
+// and instead of adding lots of tiny _partial files, you can use this one.
+//-------------------------------------------------------------------------
+
+
+/* Adding bottom padding to intro text to achieve 53px gap for NGSS */
+p.intro-text {
+    padding-bottom: 22px;
+}
+
+h4, h5, h6 {
+    color: $aqua-d2;
+}
+
+h2, h3 {
+    font-weight: 700;
+    color: $light-gray-d1;
+    }
+
+h2 {
+    font-family: $font-serif;
+}
+
+/* Image / Text 2 Columns  */
+.image-text-2col {
+    h3 {
+        text-align: center;
+        @include respond-max-width($bp-large) {
+            text-align: left;
+        }
+    }
+}
+
+/* Arrow Down */
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-top-style: solid;
+    border-top-width: 30px;
+    color: $body-bgcolor;
+    @include respond-max-width($bp-medium) {
+        border-left: 20px solid transparent;
+        border-right: 20px solid transparent;
+        border-top-width: 20px;
+    }
+}
+
+/*** Inline B-Head ***/
+.inline-bhead {
+    hr {
+        margin-top: 16px;
+    }
+}
+
+/*** Can you Explain It ***/
+.can-you-explain, .hands-on, .do-the-math, .language-smarts , .engineer-it{
+    h4 {
+        text-transform: uppercase;
+        margin: 6px 0 5px;
+        padding: 0;
+        width: 100%;
+        text-align: center;
+    }
+    h5 {
+        margin: 18px 0 10px;
+        padding: 0;
+        width: 100%;
+        font-weight: 900;
+        text-align: left;
+        @media screen and (max-width: 649px) {
+            margin: 9px 0 -3px;
+        }
+    }
+    p.center {
+        width: 100%;
+        text-align: center;
+    }
+    .border {
+        height: 15px;
+        width: 100%;
+    }
+    .b-bottom {
+        margin: 30px 0 0;
+    }
+}
+
+/*** Do the Math ***/
+.fill.do-the-math, .fill.language-smarts, .engineer-it {margin: 0 15px;}
+.do-the-math, .language-smarts, .engineer-it {
+    .circle-with-icon {
+        border-radius: 50%;
+        width: 110px;
+        height: 110px;
+        border: 4px solid white;
+        position: absolute;
+        left: -118px;
+        top: -19px;
+        figure img {
+            height: 90px;
+            margin: 10px 0 0;
+        }
+    }
+    h4 {
+        margin: 7px 0 7px -2px;
+        text-align: left;
+        text-transform: none;
+    }
+    h3 {
+        margin-top: 0;
+        padding: 22px 0 23px;
+        border-top: 1px solid $aqua-d2;
+        border-bottom: 1px solid $aqua-d2;
+        font-family: $font-serif;
+        font-weight: 400;
+    }
+}
+
+.engineer-it {
+  .circle-with-icon figure img{
+    margin: 15px 0 0 -5px;
+  }
+  margin-bottom: 17px;
+}
+
+@include respond-max-width($bp-large) {
+    .do-the-math, .language-smarts, .engineer-it {
+        .circle-with-icon {
+            position: relative;
+            display: block;
+            left: 0;
+        }
+    }
+}
+
+/*** Toppers - Do the Math ***/
+.topper {
+    h6 {
+        border-bottom: 1px solid $aqua-d2;
+        padding: 0 0 12px;
+        margin-top: 0;
+    }
+
+    .circle-with-icon {
+        width: 55px;
+        height: 55px;
+        left: -58px;
+        top: -12px;
+        border: 2px solid white;
+        figure img {
+            height: 45px;
+            margin: 5px 0 0;
+        }
+        figure.eng-it img {
+            height: 55px;
+            margin-top: 0;
+        }
+    }
+    @include respond-max-width($bp-large) {
+        .circle-with-icon {
+            position: relative;
+            display: block;
+            left: 0;
+        }
+    }
+}
+
+
+/*** Image with Title ***/
+.image-with-title {
+    h5 {color: $light-gray-d1;font-weight: 700;margin: 0;border-top: 2px solid $light-gray-d1;}
+}

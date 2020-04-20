@@ -1,0 +1,55 @@
+/*--------------------------------------------------------------------
+ * Tables
+ *------------------------------------------------------------------*/
+ /* Remove any default spacing from tables. */
+ table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    table-layout: fixed;
+    min-width: 100%;
+    margin-bottom: space(1);
+}
+
+.table {
+    margin-bottom: space(1);
+    min-width: 100%;
+    @include clearboth;
+    table-layout: fixed;
+
+    // Header and normal cells
+    td,
+    th {
+        border: 1px solid $grey-pale;
+        padding: $padding-width/4;
+    }
+
+    // Header cells
+    th {
+        font-weight: 600;
+    }
+
+    // Caption
+    caption {
+        text-transform: uppercase;
+        font-size: $font-size-small;
+        font-weight: 600;
+    }
+
+    &.no-border {
+        border: 0 none;
+
+        td {
+            border: 0 none;
+        }
+    }
+}
+
+.small-one-column {
+    td {
+        display: block;
+    
+        @include respond($bp-medium) {
+            display: table-cell;
+        }
+    }
+}

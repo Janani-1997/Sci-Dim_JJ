@@ -1,0 +1,66 @@
+/*--------------------------------------------------------------------
+ * Sections
+ *------------------------------------------------------------------*/
+.section {
+    @include container();
+    background: $color1-100;
+}
+
+.section-title {
+    margin-bottom: $padding-width;
+
+    &.bleed {
+        @include bleed-padding;
+        margin-top: -$padding-width;
+        margin-bottom: $padding-width;
+        padding-top: $padding-width;
+        padding-bottom: $padding-width;
+    }
+
+    &.icon {
+        display: block;
+        width: initial;
+        height: initial;
+        background-size: 1em 1em;
+        background-position: $padding-width;
+        padding-left: $padding-width*3;
+    }
+
+    &.icon-right {
+        background-position: right $padding-width top $padding-width;
+        padding-left: $padding-width;
+        padding-right: $padding-width*3;
+    }
+}
+
+.sidenote {
+    @include container();
+    background: $grey-pale;
+}
+
+.sidenote-title {
+    margin-bottom: $padding-width;
+
+    &.bleed {
+        padding: $padding-width;
+        margin-left: -$padding-width;
+        margin-top: -$padding-width;
+        margin-right: -$padding-width;
+        margin-bottom: $padding-width;
+    }
+    
+    &.icon {
+        display: block;
+        width: initial;
+        height: initial;
+        background-size: 1em 1em;
+        background-position: $padding-width;
+        padding-left: $padding-width*3;
+    }
+
+    &.icon-right {
+        background-position: right $padding-width top $padding-width;
+        padding-left: $padding-width;
+        padding-right: $padding-width*3;
+    }
+}

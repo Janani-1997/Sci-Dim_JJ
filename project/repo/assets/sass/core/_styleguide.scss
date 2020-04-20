@@ -1,0 +1,226 @@
+/*--------------------------------------------------------------------
+ * Core Styleguide
+ *------------------------------------------------------------------*/
+.sidenote-warning {
+    border-left: 4px solid $alert-color;
+    color: $alert-color;
+    background: $alert-100;
+}
+
+.sidenote-tutorial {
+    border-left: 4px solid $success-color;
+    background: $success-100;
+    color: $success-color;
+}
+
+.sidenote-tip {
+    border-left: 4px solid $tip-color;
+    background: $tip-100;
+    color: $tip-color;
+}
+
+.sidenote-experience {
+    border-left: 4px solid $warn-color;
+    background: $warn-100;
+
+    a {
+        font-weight: 700;
+    }
+}
+
+.color-name {
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.color-info {
+  padding: 6px;
+  font-size: 0.8em;
+}
+
+.code-sass {
+  margin-bottom: 0;
+  font-family: $font-mono;
+}
+
+.custom-section {
+  @include container;
+  @include center;
+  @include contrast-text;
+  background-color: $color2-200;
+  margin-bottom: space(1);
+}
+
+/* Styleguide Text */
+.correct,
+.incorrect {
+  font-family: $font-sans;
+  margin-bottom: space(.5);
+}
+
+.correct {
+  color: $success-color;
+  border-bottom: 2px solid $success-color;
+}
+
+.incorrect {
+  color: $alert-color;
+  border-bottom: 2px solid $alert-color;
+}
+
+.comment {
+  color: $grey-700;
+  font-size: .9em;
+}
+
+.color-alert {
+  color: #ff0066;
+}
+
+/* Layout Examples */
+.custom-layout {
+  @include container();
+  @include feature;
+  background: lightpink;
+
+
+  .content {
+    @include container();
+    background-color: blue;
+  }
+  
+}
+
+/* Font Sizes */
+.show-font-size {
+  position: relative;
+
+  &:before {
+    font-size: 14px;
+    color: $grey-700;
+    font-weight: 400 !important;
+    text-transform: none;
+    float: right;
+
+    @include respond($bp-medium) {
+      float: none;
+      margin-left: -3em;
+      padding-right: 1em;
+      width: 1.5em;
+    }
+    
+  }
+}
+
+h1.show-font-size {
+  &:before {
+    content: "#{$font_size1}";
+  }
+}
+
+h2.show-font-size {
+  &:before {
+    content: "#{$font_size2}";
+  }
+}
+
+
+h3.show-font-size {
+  &:before {
+    content: "#{$font_size3}";
+  }
+}
+
+h4.show-font-size {
+  &:before {
+    content: "#{$font_size4}";
+  }
+}
+
+h5.show-font-size {
+  &:before {
+    content: "#{$font_size5}";
+  }
+}
+
+h6.show-font-size {
+  &:before {
+    content: "#{$font_size6}";
+  }
+}
+
+p.show-font-size {
+  &:before {
+    content: "#{$base-font-size}";
+  }
+}
+
+.dropcap.show-font-size {
+  &:before {
+    content: "#{$dropcap-font-size}";
+  }
+}
+
+
+/* Margin Guides */
+$outer-lines:   $grey-pale;
+$inner-lines:   $grey-light;
+$content-lines: rgba(#ff0066, 0.3);
+
+@at-root {
+.margin-guides {
+    border-left: 1px solid $content-lines;
+    border-right: 1px solid $content-lines;
+    position: relative;
+
+    // Margin Fix
+    margin-left: $content-margin-small - 1px;
+    margin-right: $content-margin-small - 1px;
+   
+
+    @include respond($bp-medium) {
+        margin-left: $content-margin-medium - 1px;
+        margin-right: $content-margin-medium - 1px;
+    }
+
+    @include respond($bp-large) {
+        margin-left: $content-margin-large - 1px;
+        margin-right: $content-margin-large - 1px;
+    }
+    
+    &:before,
+    &:after {
+        content: "";
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        z-index: -2;
+        opacity: .5;
+
+        margin-top: -$top-margin-small;
+
+        @include respond($bp-medium) {
+            margin-top: -$top-margin-medium - 1px;
+        }
+
+        @include respond($bp-large) {
+            margin-top: -$top-margin-large - 1px;
+        }
+
+    }
+    &:before {
+        @include push();
+        border-left: 1px dashed $outer-lines;
+        border-right: 1px dashed $outer-lines;
+    }
+
+     &:after {
+        @include pull();
+        border-left: 1px dashed $inner-lines;
+        border-right: 1px dashed $inner-lines;
+    }
+}
+}

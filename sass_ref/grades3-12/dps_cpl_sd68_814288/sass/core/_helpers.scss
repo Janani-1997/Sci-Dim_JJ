@@ -1,0 +1,248 @@
+/*--------------------------------------------------------------------
+ * Helper Classes
+ *
+ * Helper classes allow for individual properties to be applied with
+ * a single class. This idea is based on the single-responsibility
+ * principle and the writings of Harry Roberts.
+ * http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/
+ *
+ * Warning: While helper classes are quick and effective, they can
+ * lead to complex HTML that is harder to maintain. If you find yourself
+ * constantly applying the same clases to multiple elements, consider
+ * making a custom class.
+ *------------------------------------------------------------------*/
+
+/* On mobile devices, all fractional widths should span 100% of the body. */
+
+.flex {
+    display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+    display: -ms-flexbox;  /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+    display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+} 
+
+.wide .no-pad,
+.feature .no-pad,
+.main .no-pad {
+    @include respond-max-width($bp-large) {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+.copyright {
+    font-size: 0.6rem;
+    margin: 0;
+    font-style: italic;
+    padding: 10px 0 11px 0;
+    @include respond-max-width($bp-large) {
+        padding: 8px 0;
+    }
+}
+.caption {
+    font-size: 0.8em;
+    margin: 0;
+    padding: 10px 0;
+    @include respond-max-width($bp-large) {
+        padding: 8px 0;
+    }
+}
+
+.caption-hr {
+    width: 100%;
+    border: 0;
+    height: 0;
+    border-top: 1px solid $light-gray-l6;
+    border-bottom: 0px solid $white;
+    margin: 0 0 17px 0;
+    @include respond-max-width($bp-large) {
+        margin: 0 0 13px 0;
+    }
+}
+
+.relative {position: relative;}
+
+.image-metadata img {margin-bottom: 0;}
+
+.red {color: $red;}
+.blue {color: $aqua-d2;}
+
+/* Alignment Helpers */
+// Left alignment for elements outside the grid.
+.left {
+    @include left;
+}
+
+// Righ alignment for elements outside the grid.
+.right {
+    @include right;
+}
+
+// Center alignment for elements outside the grid.
+.center {
+    @include center;
+}
+
+/* Place left and rights next to eachother if they immediately follow
+one another */
+.left + .right {
+    margin-left: 0;
+}
+
+.right + .left {
+    margin-right: 0;
+}
+
+/* Absolute centering */
+.x-center {
+    position: absolute;
+    left: 50%;
+    @include transform(translateX(-50%));
+}
+
+.y-center {
+    position: absolute;
+    top: 50%;
+    @include transform(translateY(-50%));
+}
+
+.x-center.y-center {
+    @include transform(translateX(-50%) translateY(-50%));
+}
+
+/* Bleed Helpers */
+//--------------------------------------------------------------------
+// Full Bleed
+// Used commonly on header and sections. Makes element run the full width of the page without any padding.
+.full-bleed,
+.bleed {
+    @include bleed();
+}
+
+
+
+/* Background Color Helpers */
+
+.bg-white {
+    background-color: $white;
+}
+
+.white {
+    color: $white;
+}
+
+.black {
+    color: black;
+}
+
+.contrast-text {
+    @include contrast-text;
+}
+
+.clearboth {
+    clear: both !important;
+}
+
+/* Font Family Helpers */
+.font-mono {
+    font-family: $font-mono;
+    font-size: 0.9em;
+}
+
+.font-sans {
+    font-family: $font-sans;
+}
+
+.font-serif {
+    font-family: $font-serif;
+}
+
+
+/* Text Alignment Helpers */
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+/* Icons */
+.icon {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.icon-large {
+    height: 2em;
+    width: 2em;
+}
+
+@each $icon in $icons {
+    .icon-#{$icon} {
+        background-image: url(images/icon-#{$icon}.svg);
+    }
+}
+
+/**** Vertical Spacing *****/
+
+.spacer.regular {
+    display: block;
+    width: 100%;
+}
+.spacer.regular {
+    height: $spacer-regular;
+    @include respond-max-width($bp-large) {
+        height: $spacer-small;
+    }
+}
+
+.spacer.large {
+    height: $spacer-large;
+    @include respond-max-width($bp-large) {
+        height: $spacer-large;
+    }
+}
+
+.spacer.small {
+    height: $spacer-small;
+    @include respond-max-width($bp-large) {
+        height: $spacer-small;
+    }
+}
+
+.interactive, .static {
+    padding: 16px 0;
+    @include respond-max-width($bp-large) {
+        padding: 9px 0 13px;
+    }
+    @include respond-max-width($bp-medium) {
+        padding: 8px 0 11px;
+    }
+}
+
+.interactive-holder {
+  margin: 16px 0;
+  background: $light-gray-l4;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  min-height: 100px;
+  color: $text-color;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* END Helpers */

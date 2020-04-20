@@ -1,0 +1,115 @@
+// Accordion
+.ac-container {
+   /*max-width: 400px;
+   font-size: 100%;*/
+
+   div{
+     position: relative;
+   }
+}
+
+.ac-container label, .accordion span, .accordion input[type='radio']{
+  min-height: 70px;
+}
+
+.accordion input[type='radio']{
+  height: 100%;
+}
+
+.ac-container label {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;align-items: center;}
+
+.ac-container label, .accordion span{
+    padding: 3px 45px 7px 30px;
+    position: relative;
+    color: $dark-gray-d1;
+    text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+    background: $white;
+    border-top: 1px solid $light-gray-l4;
+    border-bottom: 1px solid $light-gray-l4;
+}
+
+.ac-container, .accordion {
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.ac-container label:hover, .ac-container input:hover + label{
+    background-color: $aqua-l8;
+}
+
+.ac-container input:checked + label,
+.ac-container input:checked + label:hover{
+    background-color: $aqua-l8;
+    color: $aqua-d4;
+    font-weight: 700;
+    text-shadow: 0 1px 1px rgba(255,255,255,0.6);
+    border-top: 2px solid $light-gray-l4;
+    border-top: 0 none;
+}
+
+.ac-container input + label{
+  background: transparent url(images/icon-panel-nav-down.svg) no-repeat right 20px center;
+}
+
+.ac-container input:checked + label{
+  background: $aqua-l8 url(images/icon-panel-nav-up.svg) no-repeat right 20px center;
+}
+
+.ac-container article{
+    background: $white;
+    margin-top: -1px;
+    overflow: hidden;
+    max-height: 0;
+    position: relative;
+    z-index: 10;
+}
+
+
+.accordion article { margin: 0px 30px; }
+.accordion article.row { margin: 0px 10px;width: 96%; }
+
+p.l6 { font-size: 0.9em; }
+
+.ac-container article p,
+.accordion article p {
+    font-style: normal;
+    color: $dark-gray-d1;
+}
+
+/*.ac-container article img {max-height: 320px;}*/
+
+.ac-container input:checked ~ article{
+    -webkit-transition: max-height 0.5s ease-in-out,box-shadow 0.1s linear;
+    -moz-transition: max-height 0.5s ease-in-out,box-shadow 0.1s linear;
+    -o-transition: max-height 0.5s ease-in-out,box-shadow 0.1s linear;
+    -ms-transition: max-height 0.5s ease-in-out,box-shadow 0.1s linear;
+    transition: max-height 0.5s ease-in-out,box-shadow 0.1s linear;
+}
+.ac-container input:checked ~ article.ac-small,
+.ac-container input:checked ~ article.ac-medium,
+.ac-container input:checked ~ article.ac-large,
+.ac-container input:checked ~ article.ac-xlarge{
+    max-height: 1000px;
+    padding: 20px 0;
+}
+
+.accordion {
+  input[type='radio']{
+    position: absolute;
+    width: 60px;
+    top: 0;
+    right: 0;
+    opacity: 0;
+    z-index: 1;
+    cursor: pointer;
+  }
+
+  input[type='radio']:checked{
+    cursor: default;
+  }
+}

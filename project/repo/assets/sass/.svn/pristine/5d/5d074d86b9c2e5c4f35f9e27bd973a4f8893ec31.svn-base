@@ -1,0 +1,344 @@
+@charset "UTF-8";
+//--------------------------------------------------------------------
+// Settings
+// 
+// Use this partial to store commonly used variables, such as fonts
+// and colors. Variables defined in this file are used in the baseline
+// patterns and mixins. Do NOT add any CSS to this file, only variables.
+//--------------------------------------------------------------------
+
+//--------------------------------------------------------------------
+// Font family stacks 
+//--------------------------------------------------------------------
+// These variables make
+$font-sans:                     "Source Sans Pro", Helvetica, Verdana, sans;
+$font-serif:                    "Tinos", Times New Roman, serif;
+$font-mono:                     Courier, "Courier New", monospace;
+
+// The fonts for body text and headings are stored here 
+$body-font-family:              $font-sans;
+$heading-font-family:           $font-sans;
+
+
+//--------------------------------------------------------------------
+// Font sizes
+// 
+// The font varaibles are:  defined in pixels, and are then
+// converted to ems using the em() function.
+//--------------------------------------------------------------------
+// The font size for body text.
+$base-font-size:                22px; /* 138% / 1.375em */ 
+// The font size for body text on smaller screens.
+$base-font-size-small:          19.2px; /* 120% / 1.200em  */
+
+// MICK: base-font-size and large-text seem to be going the same thing but with slightly different values. Same for base-font-size-small and medium-text. large-text and medium-text were naming conventions we had in design, but I'm happy to loose them if using base-font-size and base-font-size-small is better as the setting of root font sizes. Or, we replace values for large-text and medium-text with $base-font-size etc 
+$large-text:                    $base-font-size;
+$medium-text:                   $base-font-size-small;
+
+
+// Line height (leading)
+// MICK: I think we should get rid of these as most type Levels have different line-height, not one or two uniform heights as this implies. 
+ $base-line-height:              1.5; /* 33px; */
+$medium-line-height:            1.800; /* 28.8px; */
+
+
+// Heading font sizes
+// MICK: We should scrap these as they're not accurate to DSS values.
+$font-size1:                    3.1rem; /* 46.2px; / 2.1em */
+$font-size2:                    1.7rem; /* 37.4px; / 1.7em */
+$font-size3:                    1.4rem;
+$font-size4:                    1.2rem;
+$font-size5:                    1rem;
+$font-size6:                    0.9rem;
+$font-size7:                    0.8rem; 
+
+// MICK: What are font-size-large and font-size-small doing different to base-font-size and base-font-size-small? Should we consolidate base-font-size, large-text and font-size-large to one variable? 
+$font-size-large:               $base-font-size;
+$font-size-small:               $base-font-size-small;
+
+
+// DSS TYPE LEVELS
+// 1) Hierarchy - the ratio of type sizes is closer together on small viewports, and more spread on wider viewports. 
+// Font-size for L1-L4 are responsive with two values each, the default and 'small'. 
+// 'Small' operates for viewports 0 to 879px. Default operates from 880px+ 
+// Font-size for L5-L9 have one value each. 
+$L1-size:                       2.9rem;
+$L1-size-small:                 2.1rem;
+$L2-size:                       2.2rem;
+$L2-size-small:                 1.7rem;
+$L3-size:                       1.7rem;
+$L3-size-small:                 1.4rem;
+$L4-size:                       1.3rem;
+$L4-size-small:                 1.2rem;
+$L5-size:                       1rem;
+$L6-size:                       0.9rem;
+$L7-size:                       0.8rem;
+$L8-size:                       0.7rem;
+$L9-size:                       0.6rem;
+
+// 2) Line height - the bigger the font-size, the smaller the line height.
+$L1-line-height:                1.15;
+$L2-line-height:                1.25;
+$L3-line-height:                1.3;
+$L4-line-height:                1.35;
+$base-line-height:              1.5; /* L5 to L9 use base-line-height */
+$large-line-height:             1.8; /* used when UI items need to be places between lines. eg Select: text */
+
+// 3) padding: 
+$L1-padding:                    0 0 0.14rem 0; /* same across all viewport widths */
+$L2-padding-small:              0 0 0.09rem 0;
+$L2-padding-medium:             0 0 0.2rem 0;
+$L2-padding-large:              0.09rem 0 0.17rem 0;
+$L3-padding-small:              0.04rem 0 0.18rem 0;
+$L3-padding-medium:             0.04rem 0 0.25rem 0;
+$L3-padding-large:              0.20rem 0 0.25rem 0;
+$L4-padding-small:              0.09rem 0 0.22rem 0;
+$L4-padding-medium:             0.09rem 0 0.28rem 0;
+$L4-padding-large:              0.32rem 0 0.36rem 0;
+$L5-padding-small:              0.09rem 0 0.22rem 0;
+$L5-padding-medium:             0.09rem 0 0.25rem 0;
+$L5-padding-large:              0.34rem 0;
+$L6-padding-small:              0.14rem 0 0.22rem 0;
+$L6-padding-medium:             0.14rem 0 0.25rem 0;
+$L6-padding-large:              0.4rem 0;
+$L7-padding-small:              0.15rem 0 0.26rem 0;
+$L7-padding-medium:             0.2rem 0 0.3rem 0;
+$L7-padding-large:              0.45rem 0;
+$L8-padding-small:              0.26rem 0;
+$L8-padding-medium:             0.2rem 0 0.35rem 0;
+$L8-padding-large:              0.45rem 0 0.52rem 0;
+$L9-padding-small:              0.3rem 0 0.32rem 0;
+$L9-padding-medium:             0.25rem 0 0.45rem 0;
+$L9-padding-large:              0.55rem 0 0.55rem 0;
+
+$dropcap-font-size:             5.6em;
+
+
+$L1-small: ($L1-size-small, $L1-line-height, $L1-padding);
+$L1-large: ($L1-size, $L1-line-height, $L1-padding);
+
+$L2-small: ($L2-size-small, $L2-line-height, $L2-padding-small);
+$L2-medium: ($L2-size-small, $L2-line-height, $L2-padding-medium);
+$L2-large: ($L2-size, $L2-line-height, $L2-padding-large);
+
+$L3-small: ($L3-size-small, $L3-line-height, $L3-padding-small);
+$L3-medium: ($L3-size-small, $L3-line-height, $L3-padding-medium);
+$L3-large: ($L3-size, $L3-line-height, $L3-padding-large);
+
+$L4-small: ($L4-size-small, $L4-line-height, $L4-padding-small);
+$L4-medium: ($L4-size-small, $L4-line-height, $L4-padding-medium);
+$L4-large: ($L4-size, $L4-line-height, $L4-padding-large);
+
+$L5-small: ($L5-size, $base-line-height, $L5-padding-small);
+$L5-medium: ($L5-size, $base-line-height, $L5-padding-medium);
+$L5-large: ($L5-size, $base-line-height, $L5-padding-large);
+
+$L6-small: ($L6-size, $base-line-height, $L6-padding-small);
+$L6-medium: ($L6-size, $base-line-height, $L6-padding-medium);
+$L6-large: ($L6-size, $base-line-height, $L6-padding-large);
+
+$L7-small: ($L7-size, $base-line-height, $L7-padding-small);
+$L7-medium: ($L7-size, $base-line-height, $L7-padding-medium);
+$L7-large: ($L7-size, $base-line-height, $L7-padding-large);
+
+$L8-small: ($L8-size, $base-line-height, $L8-padding-small);
+$L8-medium: ($L8-size, $base-line-height, $L8-padding-medium);
+$L8-large: ($L8-size, $base-line-height, $L8-padding-large);
+
+$L9-small: ($L9-size, $base-line-height, $L9-padding-small);
+$L9-medium: ($L9-size, $base-line-height, $L9-padding-medium);
+$L9-large: ($L9-size, $base-line-height, $L9-padding-large);
+
+@mixin type-level($type-size, $type-leading, $type-padding) {
+    font-size: $type-size;
+    line-height: $type-leading;
+    padding: $type-padding;
+}
+
+
+
+// MICK: I don't know what these are refering to, so I'd guess they're hangovers from Habitat's own values. We should look at removing them.
+// The default width of padding on sections and side notes.
+$padding-width:                 20px;
+$padding-none:    				0px; 
+
+// MICK: Potentially more usefull would be the padding values for columns within the grid system. 
+// 
+$column-padding:				15px; 
+$column-padding-small:			10px;
+$column-padding-xsmall:			5px;
+
+// MICK: Can we introduce panel padding as a variable? 
+// 
+$panel-padding-small:    		12px 20px 8px 20px;
+$panel-padding-medium:			21px 30px 17px 30px;
+$panel-padding-large:			15px 30px;
+/* It would be good to set the colour also - but referencing the $gray-c10 causes an error 
+$panel-color:					$gray-c10; */
+
+// MICK: margin that should be added to everything that isn't text - ie on images, video, interaction anatomy top and bottom etc
+// 
+$non-text-space-small:    		0.42rem 0 0.63rem 0;	
+$non-text-space-medium:			0.41rem 0 0.59rem 0;
+$non-text-space-large:			0.681rem 0;
+
+
+// Default grid padding (when using .grid-padding).
+$grid-padding-width:            $padding-width/2;
+
+// Default width of list indentation.
+$indent-unit:                   $base-line-height;
+
+//--------------------------------------------------------------------
+// Colors
+//--------------------------------------------------------------------
+// Brand colors: These are here only so they can be used further
+// down in this settings file. Do not use brand color names directly
+// in your Sass. Instead, assign these colors to the project color variables
+// listed below. 
+
+$dss-light-gray-l1:				#a7a9aa; 	
+$dss-light-gray-d1:				#7F8282;
+$dss-dark-gray-d1:				#4c4e50;
+$dss-blue: 						#84b1de;
+
+// DSS Baseline
+//Mick: where are these variables being used? ($grey-pale etc) I don't have that naming convention in anything from DSS
+$grey-pale: 					$dss-light-gray-l1;  
+$grey-light: 					$dss-light-gray-d1;
+$grey-dark:						$dss-dark-gray-d1; 
+
+// Greyscale
+$white:                         #fff;
+$black:                         #000;
+
+
+// Project Colors
+// These are abstract color names to be used throughout the Sass when 
+// setting colors. Using abstract variables like $color1 makes it easier 
+// to change the colors without causing confusion over explicit color names.
+
+$background-color:              $white;
+$text-color:                    #4c4e50;
+$link-color:                    $dss-blue; 
+
+
+//--------------------------------------------------------------------
+// Breakpoints and margins
+//--------------------------------------------------------------------
+// Breapoints
+// By default, breakpoints assume min-width. So the breakpoint value should
+// be the smallest point at which the styles should take effect.
+
+$bp-xsmall:                      	320px !default;
+$bp-small:                      	480px !default;
+$bp-medium:                       	650px !default;
+$bp-large:                      	880px !default;
+$bp-xlarge:                      	1280px !default;
+
+//--------------------------------------------------------------------
+// Viewport-Ranges
+//--------------------------------------------------------------------
+// Target ranges between breakpoints. 
+
+// Single 'device' ranges//
+// PHONE PORTRAIT: 0 to 479px //
+$vr_xsmall:    					"(max-width: $bp-small -1)"; 
+
+// PHONE LANDSCAPE: 480px to 649px //
+$vr_small:						"(min-width: $bp-small) and (max-width: $bp-medium -1)"; 
+
+// TABLET PORTRAIT: 650px to 879px //
+$vr_medium:						"(min-width: $bp-medium) and (max-width: $bp-large -1)"; 
+
+// TABLET LANDSCAPE: 880px to 1279px //
+$vr_large:						"(min-width: $bp-large) and (max-width: $bp-xlarge -1)"; 
+
+// DESKTOPS (+ Chromebook/Laptops): 1280px + //
+$vr_xlarge:						"(min-width: $bp-xlarge)"; 
+
+
+// 2 'device' ranges//
+// PHONES (P+L): 0 to 649px //
+$vr_xsmall-small:				"(max-width: $bp-medium -1)"; 
+
+// Phone Landscape + Tablet Portait: 0 to 649px //
+$vr_small-medium:				"(min-width: $bp-small) and (max-width: $bp-medium -1)"; 
+
+// TABLETS (P+L): 650px to 1279px //
+$vr_medium-large:				"(min-width: $bp-medium) and (max-width: $bp-large -1)"; 
+
+// Tablet Landscape + Chromebook/Laptops/Desktops: 880px + //
+$vr_large-xlarge:				"(min-width: $bp-large)"; 
+
+
+// 3 'device' ranges//
+// Phones (P+L) + Tablet Portait: 0 to 879px //
+$vr_xsmall-medium:				"(max-width: $bp-large -1)"; 
+
+// Phones Landscape Tablet Portait: 0 to 879px //
+$vr_small-large:				"(min-width: $bp-small) and (max-width: $bp-xlarge -1)"; 
+
+// NOT PHONES: Tablets (P+L + Chromebook/Laptops/Desktops: 650px + //
+$vr_medium-xlarge:				"(min-width: $bp-medium)"; 
+
+$vr_medium_xlarge_TRIAL:        "@media only screen and (min-width: $bp-medium)";
+
+
+
+// 4 'device' ranges//
+// MOBILES: All except Chromebook/Laptops/Desktops: <1280px //
+$vr_xsmall-large:				"(max-width: $bp-xlarge -1)"; 
+
+// NOT PHONE PORTRAIT:  All except Phone Portrait: 480px + //
+$vr_small-xlarge:				"(min-width: $bp-small)"; 
+
+// Content Margins
+// The margins on the main content.
+
+$content-margin-xsmall:         0px !default; 
+$content-margin-small:          0px !default;
+$content-margin-medium:         0px !default;
+$content-margin-large:          0px !default; 
+
+
+// Mick: I'd prefer to do this differently - see top-space-xyz below
+
+$top-margin-small:              20px !default;
+$top-margin-medium:             57px !default;
+$top-margin-large:              57px !default;
+
+$bottom-margin-small:           20px !default;
+$bottom-margin-medium:          57px !default;
+$bottom-margin-large:           57px !default; 
+
+
+// Mick: I want to move to rem for the top-space (margin-top) that are applied to items
+$top-space-none:    			0;
+$top-space-regular:				0.4545rem;
+$top-space-medium:				1.1818rem ;
+$top-space-large:				1.9091;
+	
+$top-space-medium-large:		1.3636rem;
+$top-space-large-large:			2.4091rem;
+
+// Mick: anatomy title/stem/tip padding?
+// Mick: anatomy interacion area padding?
+// Mick: anatomy feedback padding?
+
+//--------------------------------------------------------------------
+// Layout options
+//--------------------------------------------------------------------
+
+// Truncate figure captions to a single line with elipses.
+$truncate-figure-caption:       false;
+
+//--------------------------------------------------------------------
+// Interaction Variable
+//--------------------------------------------------------------------
+$int-padding:       	15px;
+$int-padding-lg:		$int-padding*2;
+$int-margin-sm:			10px;
+$int-margin:			$int-margin-sm*2;/* Scss Document */
+
+

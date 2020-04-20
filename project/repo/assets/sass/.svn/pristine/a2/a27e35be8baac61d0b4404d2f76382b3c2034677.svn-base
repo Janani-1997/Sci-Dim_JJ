@@ -1,0 +1,68 @@
+/* ===================== */
+/* Unit / Lesson Opener  */
+/* ===================== */
+
+.lesson-opener {
+    position: relative;
+    z-index: 1;
+
+    [class^="col-"], [class*=" col-"] {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    h1 {
+        margin-left: 0;
+        padding: 21px 0 31px;
+        font-family: $font-serif;
+        font-weight: 600;
+        letter-spacing: 0.01em;
+        @include respond-max-width($bp-medium) {
+            padding: 14px 0 20px;
+        }
+    }
+    
+    p {
+        text-align: center;
+    }
+
+    figure {
+        margin-bottom: 0;
+        max-height: 700px;
+        img {
+            max-height: 700px;
+            @include respond-min-width($bp-xlarge) {
+                width: 1280px;
+                margin:0 auto;
+            }
+        }
+    }
+    
+	.lesson-opener-content {
+        z-index: 2;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        @include respond-max-width($bp-medium) {
+            position: relative; 
+        }
+    }
+
+    .box {
+        background: rgba(13, 46, 69, 0.9);  
+        text-align: center;
+    }
+}
+
+/* Lesson Tab  */
+.lesson-tab {
+    h4 {
+        text-transform: uppercase;
+        font-weight: 100;
+        letter-spacing: 0.03em;
+        margin-top: 0;
+        padding: 6px 0;
+        @include respond-max-width($bp-medium) {
+            padding: 4px 0;
+        }
+    }
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 350 350" style="enable-background:new 0 0 350 350;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{mask:url(#SVGID_1_);}
+	.st3{fill:none;stroke:#EDEDEE;stroke-width:1.706;}
+</style>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0.5" y="1" width="349.6" height="349">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0.5" y="1" width="349.6" height="349" id="SVGID_1_">
+	<g class="st0">
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="175.5" y1="2" x2="175.5" y2="352" gradientTransform="matrix(1 0 0 -1 0 352)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="0.1097" style="stop-color:#333333"/>
+			<stop  offset="0.2387" style="stop-color:#696969"/>
+			<stop  offset="0.3695" style="stop-color:#979797"/>
+			<stop  offset="0.4992" style="stop-color:#BCBCBC"/>
+			<stop  offset="0.6278" style="stop-color:#DADADA"/>
+			<stop  offset="0.7549" style="stop-color:#EEEEEE"/>
+			<stop  offset="0.8798" style="stop-color:#FBFBFB"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<rect x="0.5" class="st1" width="350" height="350"/>
+	</g>
+</mask>
+<g class="st2">
+	<line class="st3" x1="43.8" y1="1" x2="43.8" y2="350"/>
+	<line class="st3" x1="87.5" y1="1" x2="87.5" y2="350"/>
+	<line class="st3" x1="131.2" y1="1" x2="131.2" y2="350"/>
+	<line class="st3" x1="175" y1="1" x2="175" y2="350"/>
+	<line class="st3" x1="218.8" y1="1" x2="218.8" y2="350"/>
+	<line class="st3" x1="262.5" y1="1" x2="262.5" y2="350"/>
+	<line class="st3" x1="306.2" y1="1" x2="306.2" y2="350"/>
+	<line class="st3" x1="349.5" y1="44.2" x2="0.5" y2="44.2"/>
+	<line class="st3" x1="349.5" y1="88" x2="0.5" y2="88"/>
+	<line class="st3" x1="349.5" y1="131.8" x2="0.5" y2="131.8"/>
+	<line class="st3" x1="349.5" y1="175.5" x2="0.5" y2="175.5"/>
+	<line class="st3" x1="349.5" y1="219.2" x2="0.5" y2="219.2"/>
+	<line class="st3" x1="349.5" y1="263" x2="0.5" y2="263"/>
+	<line class="st3" x1="349.5" y1="306.8" x2="0.5" y2="306.8"/>
+	<line class="st3" x1="349.2" y1="1" x2="349.2" y2="350"/>
+</g>
+</svg>

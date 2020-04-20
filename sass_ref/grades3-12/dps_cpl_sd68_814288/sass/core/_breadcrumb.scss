@@ -1,0 +1,58 @@
+// Breadcrumbs
+
+h1.text-topspace-regular,
+h2.text-topspace-regular,
+h3.text-topspace-regular,
+h4.text-topspace-regular,
+h5.text-topspace-regular,
+h6.text-topspace-regular,
+blockquote.text-topspace-regular {
+    margin-top: $text-regular;
+}
+
+p.add-top-space {
+    margin-top: $text-large;
+    @include respond-max-width($bp-large) {
+        margin-top: $text-large-nw;
+    }
+}
+
+.panel-text.box-topspace-large {
+    margin-top: $boxtop-large;
+    @include respond-max-width($bp-large) {
+        margin-top: $boxtop-large-nw;
+    }
+}
+
+p.text-topspace-none {margin-top: $text-none;}
+
+// New Spacing classes - must move
+.box-topspace-regular {margin-top: $boxtop-regular;}
+.large-spacer {display: block;width: 100%;height: 70px;}
+.regular-spacer {display: block;width: 100%;height: 53px;}
+.small-spacer {display: block;width: 100%;height: 30px;}
+
+.box-topspace-none img {margin-top: $box-none;}
+.box-bottomspace-none img {margin-bottom: $box-none;}
+.box-topspace-large img {
+	margin-top: $boxtop-large;
+	@include respond-max-width($bp-large) {
+        margin-top: $boxtop-large-nw;
+    }
+}
+.box-bottomspace-regular img {
+	margin-bottom: $boxbottom-regular;
+	@include respond-max-width($bp-large) {
+        margin-bottom: $boxbottom-regular-nw;
+    }
+}
+
+.box-topspace-large { //for img of divider
+    margin-top: $boxtop-large !important;
+    @include respond-max-width($bp-large) {
+        margin-top: $boxtop-large-nw !important;
+    }
+}
+.activity-divider.box-topspace-none, .box-topspace-none {
+    margin-top: $box-none;
+}

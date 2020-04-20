@@ -1,0 +1,28 @@
+/*--------------------------------------------------------------------
+ * Headers
+ * Headers will bleed autimactially if the .header class is applied.
+ *------------------------------------------------------------------*/
+.header {
+    //@include bleed(top);
+    @include bleed-padding;
+    @include clearboth;
+    @include clearfix;
+    //@include collapse-last-margin();
+    //margin-bottom: space(2);
+    //padding: $padding-width*2 0;
+
+    .subtitle {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}
+
+.opener {
+    @include bleed-padding;
+    @include clearboth;
+    @include clearfix;
+    margin-bottom: 17.5px;
+    @include respond-max-width($bp-large) {
+        margin-bottom: 13px;
+    }
+}

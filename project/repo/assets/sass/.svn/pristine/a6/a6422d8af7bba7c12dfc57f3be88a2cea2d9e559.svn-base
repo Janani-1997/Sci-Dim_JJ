@@ -1,0 +1,100 @@
+/*--------------------------------------------------------------------
+ * Inkling Core CSS
+ *
+ * CAUTION: Editing this file may have unintended effects.
+ *------------------------------------------------------------------*/
+
+// Theme Settings
+// Import the theme settings first. This will ensure that the settings
+// are passed on to the core functions, mixins, and helper classes.
+@import "_settings";
+
+//--------------------------------------------------------------------
+// NON-CSS PARTIALS
+// The following partials do not contain any CSS selectors and are
+// safe to import in custom themes.
+//--------------------------------------------------------------------
+// Functions
+@import "core/functions";
+
+// Generic mixins
+@import "core/mixins";
+
+// Width, alignment, grid and media query mixins
+@import "core/layout";
+
+// Flexbox Grid
+@import "core/flexgrid";
+
+//--------------------------------------------------------------------
+// CSS PARTIALS
+// The following partials contain CSS selectors. Importing them into
+// custom themes will generate duplicate CSS (not recommended).
+//--------------------------------------------------------------------
+// Animation
+// NOTE: Off by default. Animation generates a considerable
+// amount of CSS selectors. Use wisely!
+// @import "core/animation";
+
+// Reset browser defaults for consistency
+@import "core/reset";
+
+// Platform
+@import "core/platform";
+
+// Body
+@import "core/body";
+
+// Colors
+@import "core/colors";
+
+// Typography
+@import "core/typography";
+
+// Headings
+@import "core/headings";
+
+// Blockquotes
+@import "core/blockquotes";
+
+// Lists
+@import "core/lists";
+
+// Links
+@import "core/links";
+
+// Tables
+@import "core/tables";
+
+// Forms
+@import "core/forms";
+
+// Images
+@import "core/images";
+
+// Headers
+@import "core/headers";
+
+// Math
+@import "core/math";
+
+// Media
+@import "core/media";
+
+// Helpers
+@import "core/helpers"; 
+
+//Breadcrumb
+@import "core/breadcrumb";
+
+
+// Stuff not needed in the DSS Baseline
+
+// Shapes
+//@import "core/shapes";
+
+// Sections
+//@import "core/sections";
+
+// Style Guide
+//@import "core/styleguide";

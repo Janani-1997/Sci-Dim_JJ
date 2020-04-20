@@ -1,0 +1,31 @@
+//--------------------------------------------------------------------
+// Unit transformations
+//--------------------------------------------------------------------
+// Strip the units from a number.
+@function strip-units($number) {
+    @return $number / ($number * 0 + 1);
+}
+
+// Convert a value to ems base on its contextual font-size. If no 
+// context is defined, the base font size is assumed.
+@function em($target, $context: $base-font-size) {
+    @return (strip-units($target) / strip-units($context)) + 0em;
+}
+
+//--------------------------------------------------------------------
+// YIQ Color Function
+// http://timhettler.github.io/sweating-small-stuff/#!/22
+//--------------------------------------------------------------------
+@function yiq-contrast-color(
+  $color,
+  $dark: $yiq_contrast_dark,
+  $light: $yiq_contrast_light
+) {
+  $red: red($color);
+  $green: green($color);
+  $blue: blue($color);
+
+  $yiq: ( ( $red * 299 ) + ( $green * 587 ) + ( $blue * 114 ) ) / 1000;
+
+  @return if($yiq >= 128, $dark, $light);
+}

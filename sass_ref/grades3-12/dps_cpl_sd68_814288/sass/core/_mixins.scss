@@ -1,0 +1,280 @@
+//--------------------------------------------------------------------
+// Contrast Text
+//--------------------------------------------------------------------
+@mixin contrast-text() {
+    color: $text-color !important; 
+
+    p, h1, h2, h3, h4, h5, h6, figcaption, cite, blockquote {
+        color: $text-color !important;
+    }
+
+    a {
+        color: $link-color !important;
+    }
+
+    table {
+      th, td {
+        color: $text-color !important;
+      }
+    }
+
+    code {
+      background: $light-gray-d1 !important;
+    }
+}
+
+//--------------------------------------------------------------------
+// Typography and Rhythm
+//--------------------------------------------------------------------
+
+@function space($multiple: 1, $context: $base-font-size) {
+    @return em($base-line-height * $multiple, $context);
+}
+
+//--------------------------------------------------------------------
+// Unselectable
+//--------------------------------------------------------------------
+// Used only in rare situations where turning off the ability to select text is desired. Do not use this unless directed to do so.
+@mixin unselectable {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+
+//--------------------------------------------------------------------
+// Force Wrap
+//--------------------------------------------------------------------
+@mixin force-wrap {
+    -ms-word-break: break-all;
+
+     /* Be VERY careful with this, breaks normal words wh_erever */
+     word-break: break-all;
+
+     /* Non standard for webkit */
+     word-break: break-word;
+
+-webkit-hyphens: auto;
+   -moz-hyphens: auto;
+        hyphens: auto;
+}
+
+//--------------------------------------------------------------------
+// Helpers (Hacks)
+//--------------------------------------------------------------------
+@mixin clearfix {
+    &:after{
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+@mixin clearboth {
+    clear: both;
+}
+
+//--------------------------------------------------------------------
+// Sidenote + Section Containers
+//--------------------------------------------------------------------
+@mixin collapse-last-margin($multiple: 0, $context: $base-font-size) {
+    :last-child {
+        margin-bottom: space( $multiple, $context) !important;
+    }
+}
+
+@mixin collapse-first-margin($multiple: 0, $context: $base-font-size) {
+    :first-child {
+        margin-bottom: space( $multiple, $context) !important;
+    }
+}
+
+@mixin container($includePadding: true) {
+    @include clearboth;
+    @include clearfix;
+    @include collapse-last-margin();
+    margin-bottom: space(1);
+
+    @if $includePadding == true {
+      padding: $padding-width;
+
+      @include respond($bp-medium) {
+          padding: $padding-width;
+      }
+    }
+
+    &.bleed,
+    &.full-bleed {
+        @include restore-padding;
+    }
+}
+
+
+//--------------------------------------------------------------------
+// Vendor Prefixing Functions
+//--------------------------------------------------------------------
+
+@function prefix($property, $prefixes: (webkit moz o ms)) {
+    $vendor-prefixed-properties: transform background-clip background-size;
+    $result: ();
+    @each $prefix in $prefixes {
+       @if index($vendor-prefixed-properties, $property) {
+         $property: -#{$prefix}-#{$property}
+       }
+       $result: append($result, $property);
+    }
+    @return $result;
+}
+ 
+@function trans-prefix($transition, $prefix: moz) {
+    $prefixed: ();
+    @each $trans in $transition {
+        $prop-name: nth($trans, 1);
+        $vendor-prop-name: prefix($prop-name, $prefix);
+        $prop-vals: nth($trans, 2);
+        $prefixed: append($prefixed, ($vendor-prop-name $prop-vals), comma);
+    }
+    
+    @return $prefixed;
+}
+
+//--------------------------------------------------------------------
+// Vendor Prefixing
+//--------------------------------------------------------------------
+@mixin prefix($name, $argument) {
+  -webkit-#{$name}: #{$argument};
+     -moz-#{$name}: #{$argument};
+      -ms-#{$name}: #{$argument};
+       -o-#{$name}: #{$argument};
+          #{$name}: #{$argument};
+}
+
+@mixin backface-visibility($value) {
+    @include prefix(backface-visibility, $value);
+}
+
+@mixin filter($value) {
+    @include prefix(filter, $value);
+}
+
+@mixin transform($value) {
+    @include prefix(transform, $value);
+}
+
+@mixin transform-style($value) {
+    @include prefix(transform-style, $value);
+}
+
+@mixin transition($value) {
+    @include prefix(transition, $value);
+}
+
+@mixin transition-prefix($prop, $value) {
+  -webkit-transition:   -webkit-#{$prop} #{$value};
+     -moz-transition:   -moz-#{$prop} #{$value};
+       -o-transition:   -o-#{$prop} #{$value};
+          transition:   #{$prop} #{$value};
+}
+
+@mixin perspective($value) {
+    @include prefix(perspective, $value);
+}
+
+@mixin transition($values...) { 
+    $transitions: ();
+    @each $declaration in $values {
+        $prop: nth($declaration, 1);
+        $prop-opts: ();
+        $length: length($declaration);
+        @for $i from 2 through $length {
+            $prop-opts: append($prop-opts, nth($declaration, $i));   
+        }
+        $trans: ($prop, $prop-opts);
+        $transitions: append($transitions, $trans, comma);
+    }
+      
+    -webkit-transition: trans-prefix($transitions, webkit);
+    -moz-transition: trans-prefix($transitions, moz);
+    -o-transition: trans-prefix($transitions, o);
+    transition: $values;
+}
+
+// Flexbox prefixing
+
+@mixin flexbox() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flex($values) {
+  -webkit-box-flex: $values;
+  -moz-box-flex:  $values;
+  -webkit-flex:  $values;
+  -ms-flex:  $values;
+  flex:  $values;
+}
+
+@mixin order($val) {
+  -webkit-box-ordinal-group: $val;  
+  -moz-box-ordinal-group: $val;     
+  -ms-flex-order: $val;     
+  -webkit-order: $val;  
+  order: $val;
+}
+
+
+//--------------------------------------------------------------------
+// Buttons
+//--------------------------------------------------------------------
+@mixin button-base() {
+    margin-bottom: space(.5);
+    display: inline-block;
+    border-radius: 4px;
+    text-decoration: none;
+    padding: $padding-width $padding-width;
+    text-transform: uppercase;
+    font-size: $font_size7;
+    font-weight: 600;
+    text-align: center;
+}
+
+//--------------------------------------------------------------------
+// Animation Mixins
+//--------------------------------------------------------------------
+@mixin animation($animate...) {
+    $max: length($animate);
+    $animations: '';
+
+    @for $i from 1 through $max {
+        $animations: #{$animations + nth($animate, $i)};
+
+        @if $i < $max {
+            $animations: #{$animations + ", "};
+        }
+    }
+    -webkit-animation: $animations;
+    -moz-animation:    $animations;
+    -o-animation:      $animations;
+    animation:         $animations;
+}
+
+@mixin keyframes($animationName) {
+    @-webkit-keyframes #{$animationName} {
+        @content;
+    }
+    @-moz-keyframes #{$animationName} {
+        @content;
+    }
+    @-o-keyframes #{$animationName} {
+        @content;
+    }
+    @keyframes #{$animationName} {
+        @content;
+    }
+}

@@ -1,0 +1,41 @@
+// Breadcrumbs
+
+
+h1.remove-top-space,
+h2.remove-top-space,
+h3.remove-top-space,
+h4.remove-top-space,
+h5.remove-top-space,
+h6.remove-top-space, 
+blockquote.remove-top-space {
+    margin-top: 10px !important;
+}
+
+p.add-top-space {
+    margin-top: 53px;
+    @include respond-max-width($bp-large) {
+        margin-top: 42px;
+    }
+}
+
+.panel-text.add-top-space {
+    margin-top: 70px; 
+    @include respond-max-width($bp-large) {
+        margin-top: 52px;
+    }
+}
+
+.remove-space-above img {margin-top: 0;}
+.remove-space-below img {margin-bottom: 0;}
+.add-space-above img {
+	margin-top: 70px;  
+	@include respond-max-width($bp-large) {
+        margin-top: 52px;
+    }
+}
+.add-space-below img {
+	margin-bottom: 17px; 
+	@include respond-max-width($bp-large) {
+        margin-bottom: 13px;
+    }
+}

@@ -1,0 +1,157 @@
+.rtable {
+	table {
+		word-wrap: break-word;
+		border-collapse: collapse;
+		border-spacing: 0;
+		border-left: 1px solid #cccecf;
+		border-right: 1px solid #cccecf;
+		border-bottom: 1px solid #cccecf;
+	}
+	tr, th {
+		height: 45px;
+		font-size: $font-size6;
+	}
+	td,th {
+		border-top: 1px solid #ddd;
+		padding-top: 10px;
+    	padding-right: 15px;
+    	padding-bottom: 10px;
+    	padding-left: 15px;
+		text-align: left;
+		line-height: 1.5;
+	}
+
+	caption {
+		display: table-caption;
+		text-align: left;
+		background-color: $aqua-d2;
+		color: white;
+		padding-top: 10px;
+    	padding-right: 15px;
+    	padding-bottom: 10px;
+    	padding-left: 15px;
+		min-height: 45px;
+		line-height: 1.5;
+		font-weight: bold;
+		font-size: $font-size6;
+		border-top-left-radius: 5px;
+    	border-top-right-radius: 5px;
+	}
+
+	table.colhead td, table.colhead th {
+		border-bottom: none;
+		border-top: none;
+	}
+
+	tbody td {
+		border-right: 1px solid #cccecf !important;
+		color: #393b3c;
+	}
+
+	th {
+		border-bottom: 1px solid #bdd7ed;
+		border-left: 1px solid #bdd7ed;
+		border-right: 1px solid #bdd7ed;
+		border-top: 1px solid #bdd7ed;
+	}
+
+	th.splitcellheader {
+		border-bottom: 1px solid #224085 !important;
+	}
+
+	tbody td:last-child {
+		border-right: 0 none;
+	}
+
+	th {
+		font-weight: 600;
+		background-color: $aqua-l7;
+		color: $aqua-d7;
+		line-height: 1.5;
+		vertical-align: middle;
+	}
+
+	tbody tr { background-color: white; }
+
+	table.colhead tbody tr:nth-child(even)  td { background-color: $light-gray-l7; }
+
+	table.rowhead tbody tr td:nth-child(odd) { background-color: $light-gray-l7; }
+
+	@media screen and (max-width: 640px) {
+		table {
+			overflow-x: auto;
+			display: block;
+		}
+	}
+
+	tbody td {
+		&.rtable-bg {
+			background-color: $aqua;
+		}
+		font-size: $font-size6;
+	}
+
+	.rtable-align-left {
+		text-align: left !important;
+	}
+	.rtable-align-right {
+		text-align: right !important;
+	}
+	.rtable-align-center {
+		text-align: center !important;
+	}
+	.rtable-bg-light-grey-l5 {
+		background-color: $light-gray-l5 !important;
+	}
+	.rtable-colhead {
+		font-weight: 600 !important;
+		background-color: #e3eef6 !important;
+		color: #224085 !important;
+		line-height: 1.5 !important;
+		vertical-align: middle !important;
+		border-bottom: 1px solid #bdd7ed !important;
+		border-left: 1px solid #bdd7ed !important;
+		border-right: 1px solid #bdd7ed !important;
+		border-top: 1px solid #bdd7ed !important;
+		padding-top: 10px !important;
+    	padding-right: 15px !important;
+    	padding-bottom: 10px !important;
+    	padding-left: 15px !important;
+		text-align: left !important;
+		height: 45px !important;
+		font-size: $font-size6 !important;
+	}
+	.rtable-subhead {
+		border-bottom: 1px solid #224085 !important;
+	}
+	.rtable-decimalleft {
+		padding-right: 0px !important;
+		text-align: right !important;
+		border-right: 0 !important;
+	}
+	.rtable-decimalright {
+		padding-left: 0px !important;
+		text-align: left !important;
+		border-left: 0 !important;
+	}
+	.rtable-fixed-column-widths {
+		 table-layout: fixed;
+		 width: 100%;
+	}
+	.rtable-fixed-colwidth-200 {
+		width: 200px;
+	}
+	.rtable-fixed-colwidth-250 {
+		width: 250px;
+	}
+	.rtable-fixed-colwidth-300 {
+		width: 300px;
+	}
+	.rtable-fixed-colwidth-350 {
+		width: 350px;
+	}
+	.rtable-fixed-colwidth-400 {
+		width: 400px;
+	}
+}
+

@@ -1,0 +1,25 @@
+/*--------------------------------------------------------------------
+ * Shapes
+ * 
+ * CSS generated shapes. Useful for displaying blocks of color
+ * or adding background images (such as circular profile images).
+ *------------------------------------------------------------------*/
+.shape-circle {
+    display: block;
+    border-radius: 50%;
+    height: 0;
+    width: 100%;
+    padding-bottom: 100%;
+}
+
+.shape-square {
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+}
+
+.shape-rect {
+  width: 100%;
+  height: 0;
+  padding-bottom: 50%;
+}

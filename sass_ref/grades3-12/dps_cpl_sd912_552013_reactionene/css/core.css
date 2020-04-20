@@ -1,0 +1,3706 @@
+/*--------------------------------------------------------------------
+ * Inkling Core CSS
+ *
+ * CAUTION: Editing this file may have unintended effects.
+ *------------------------------------------------------------------*/
+/* 138% / 1.375em */
+/* 120% / 1.200em  */
+/* 22px; */
+/* 19.02px; */
+/* 33px */
+/* 28.8px; */
+/* 46.2px; / 2.1em */
+/* 37.4px; / 1.7em */
+@media only screen and (max-width: 650px) {
+  [class^="col-"], [class*=" col-"] {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  .flush [class^="col-"]:nth-of-type(1),
+  [class*=" col-"]:nth-of-type(1) {
+    padding-right: 0;
+    margin-right: 0;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  .flush [class^="col-"]:nth-of-type(2),
+  [class*=" col-"]:nth-of-type(1) {
+    padding-left: 0;
+    margin-left: 0;
+  }
+}
+
+.row {
+  width: 96%;
+  max-width: none;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 480px) and (max-width: 650px) {
+  .row {
+    width: 85%;
+  }
+}
+
+@media only screen and (min-width: 650px) {
+  .row {
+    width: 88%;
+  }
+}
+
+.row.fluid-fill.wide {
+  width: 100%;
+  max-width: 100%;
+}
+
+.row.fluid-fill.wide [class^="col-"],
+.row.fluid-fill.wide [class*=" col-"] {
+  padding: 0;
+}
+
+@media only screen and (min-width: 1280px) {
+  .row.fluid-fill.wide {
+    width: 88%;
+    max-width: 1300px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+.main {
+  max-width: 650px;
+}
+
+.feature {
+  max-width: 650px;
+}
+
+@media screen and (min-width: 880px) and (max-width: 1280px) {
+  .feature {
+    max-width: 1300px;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .feature {
+    max-width: 975px;
+  }
+}
+
+.wide {
+  max-width: 650px;
+}
+
+@media only screen and (min-width: 880px) {
+  .wide {
+    max-width: 1300px;
+  }
+}
+
+.row.fill {
+  width: 100%;
+}
+
+.row.fill > [class^="col-"],
+.row.fill > [class*=" col-"] {
+  padding: 0;
+}
+
+/* Right Aside and Offset */
+.noflex {
+  width: 100%;
+}
+
+.noflex .col-xl-4, .noflex .col-lg-5, .noflex .col-md-6, .noflex .col-xs-12 {
+  padding-top: 0;
+  padding-bottom: 0;
+  flex-basis: auto;
+  /*for fixing issue in Safari and Firefox*/
+}
+
+@media only screen and (max-width: 650px) {
+  .noflex {
+    display: flex;
+    order: 0;
+    flex-direction: column-reverse;
+  }
+}
+
+.noflex .indent-right {
+  float: right;
+  margin-left: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.noflex .indent-left {
+  float: left;
+  margin-right: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+@media only screen and (max-width: 650px) {
+  .noflex .indent-right, .noflex .indent-left {
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.noflex .aside-right {
+  float: right;
+  margin-left: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media only screen and (max-width: 880px) {
+  .noflex .aside-right {
+    margin-right: 0;
+  }
+}
+
+.noflex .aside-left {
+  float: left;
+  margin-right: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media only screen and (max-width: 880px) {
+  .noflex .aside-left {
+    margin-left: 0;
+  }
+}
+
+.noflex .aside-right, .noflex .aside-left {
+  width: 310px;
+}
+
+@media only screen and (max-width: 650px) {
+  .noflex .aside-right, .noflex .aside-left {
+    width: 100%;
+    margin: 0;
+    float: none;
+    padding: 0 10px;
+  }
+}
+
+.main-fix p, .main-fix h2, .main-fix h3, .main-fix h4, .main-fix h5, .main-fix h6 {
+  padding-left: 15px;
+  /* to add the extra padding when we have flex container */
+  padding-right: 15px;
+  float: none;
+}
+
+@media only screen and (max-width: 650px) {
+  .main-fix p, .main-fix h2, .main-fix h3, .main-fix h4, .main-fix h5, .main-fix h6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+/* Text Panel */
+.panel-text {
+  margin: 21px 0 13px 0;
+  padding: 1px 20px 8px 20px;
+}
+
+.panel-text h5 {
+  font-weight: 600;
+}
+
+@media only screen and (min-width: 880px) {
+  .panel-text {
+    margin: 26px 0 17px;
+    padding: 5px 30px 16px 30px;
+  }
+}
+
+/**
+ * Flex Grid - 
+ * Version: 0.2.0
+ * 
+ * Simple grid built with flex box and sass.
+ *
+ * Matthew Simo - matthew.a.simo@gmail.com
+ */
+/**
+ * Grid setup
+ *
+ * The grid will calculate dimensions based on these two variables
+ * $fg-columns will inform the grid loops how many columns there should be.
+ * $fg-gutter will inform the grid loops how big eac column's gutters should be.
+ */
+/**
+ * Break point namespace object
+ *
+ * Set the default namespace object with these defaults with the 
+ * understanding that you can pass in whatever you might require for your site.
+ *
+ * $fg-breakpoints is a Sass list with nested lists inside. Each sub list defines two things. 
+ * 1. The namespace for that breakpoint. (Required) (i.e. xs, sm, md, lg)
+ * 2. The min-width measurement for the breakpoint for that namespace. (i.e. 48em, 62em, 75em)
+ *
+ * Note: These should be in the proper order (at least till libsass handles map keys properly).
+ * 
+ * Note: If the measurement is left out then it will be skipped when generating 
+ * the grid and applied to global styles.
+ *
+ */
+/**
+ * Calculate column size percentage
+ */
+/**
+ * Spacing mixin to create uniform margin/padding
+ */
+/**
+ * Row wrapper class, flex box parent.
+ */
+.row {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.col-xs, .col-sm, .col-md, .col-lg, .col-xl, .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+@media only screen and (max-width: 649px) {
+  .col-xs, .col-sm, .col-md, .col-lg, .col-xl, .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.col-xs, .col-sm, .col-md, .col-lg, .col-xl {
+  flex-grow: 1;
+  flex-basis: 0;
+  max-width: 100%;
+}
+
+/**
+ * Generate a set of grid column classes using a namespace
+ *
+ * .col-[namespace] for intelligent column division
+ * .col-[namespace]-[number] for a column that covers a specific number of columns (e.g. 1-12 by default)
+ * .off-[namespace]-[number] for pushing a col a specific number of columns (e.g. 1-11 by default)
+ */
+/**
+ * Build the grid in two steps, to help minimize file size
+ * Step 1, for each namespace, create the grid-base
+ * Step 2, for each namespace, wrap the col width/offset measurements in their breakpoint media query
+ */
+.col-xs-1 {
+  flex-basis: 8.3333%;
+  max-width: 8.3333%;
+}
+
+.col-xs-2 {
+  flex-basis: 16.6667%;
+  max-width: 16.6667%;
+}
+
+.col-xs-3 {
+  flex-basis: 25%;
+  max-width: 25%;
+}
+
+.col-xs-4 {
+  flex-basis: 33.3333%;
+  max-width: 33.3333%;
+}
+
+.col-xs-5 {
+  flex-basis: 41.6667%;
+  max-width: 41.6667%;
+}
+
+.col-xs-6 {
+  flex-basis: 50%;
+  max-width: 50%;
+}
+
+.col-xs-7 {
+  flex-basis: 58.3333%;
+  max-width: 58.3333%;
+}
+
+.col-xs-8 {
+  flex-basis: 66.6667%;
+  max-width: 66.6667%;
+}
+
+.col-xs-9 {
+  flex-basis: 75%;
+  max-width: 75%;
+}
+
+.col-xs-10 {
+  flex-basis: 83.3333%;
+  max-width: 83.3333%;
+}
+
+.col-xs-11 {
+  flex-basis: 91.6667%;
+  max-width: 91.6667%;
+}
+
+.col-xs-12 {
+  flex-basis: 100%;
+  max-width: 100%;
+}
+
+.off-xs-1 {
+  margin-left: 8.3333%;
+}
+
+.off-xs-2 {
+  margin-left: 16.6667%;
+}
+
+.off-xs-3 {
+  margin-left: 25%;
+}
+
+.off-xs-4 {
+  margin-left: 33.3333%;
+}
+
+.off-xs-5 {
+  margin-left: 41.6667%;
+}
+
+.off-xs-6 {
+  margin-left: 50%;
+}
+
+.off-xs-7 {
+  margin-left: 58.3333%;
+}
+
+.off-xs-8 {
+  margin-left: 66.6667%;
+}
+
+.off-xs-9 {
+  margin-left: 75%;
+}
+
+.off-xs-10 {
+  margin-left: 83.3333%;
+}
+
+.off-xs-11 {
+  margin-left: 91.6667%;
+}
+
+@media only screen and (min-width: 480) {
+  .col-sm-1 {
+    flex-basis: 8.3333%;
+    max-width: 8.3333%;
+  }
+  .col-sm-2 {
+    flex-basis: 16.6667%;
+    max-width: 16.6667%;
+  }
+  .col-sm-3 {
+    flex-basis: 25%;
+    max-width: 25%;
+  }
+  .col-sm-4 {
+    flex-basis: 33.3333%;
+    max-width: 33.3333%;
+  }
+  .col-sm-5 {
+    flex-basis: 41.6667%;
+    max-width: 41.6667%;
+  }
+  .col-sm-6 {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+  .col-sm-7 {
+    flex-basis: 58.3333%;
+    max-width: 58.3333%;
+  }
+  .col-sm-8 {
+    flex-basis: 66.6667%;
+    max-width: 66.6667%;
+  }
+  .col-sm-9 {
+    flex-basis: 75%;
+    max-width: 75%;
+  }
+  .col-sm-10 {
+    flex-basis: 83.3333%;
+    max-width: 83.3333%;
+  }
+  .col-sm-11 {
+    flex-basis: 91.6667%;
+    max-width: 91.6667%;
+  }
+  .col-sm-12 {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+  .off-sm-1 {
+    margin-left: 8.3333%;
+  }
+  .off-sm-2 {
+    margin-left: 16.6667%;
+  }
+  .off-sm-3 {
+    margin-left: 25%;
+  }
+  .off-sm-4 {
+    margin-left: 33.3333%;
+  }
+  .off-sm-5 {
+    margin-left: 41.6667%;
+  }
+  .off-sm-6 {
+    margin-left: 50%;
+  }
+  .off-sm-7 {
+    margin-left: 58.3333%;
+  }
+  .off-sm-8 {
+    margin-left: 66.6667%;
+  }
+  .off-sm-9 {
+    margin-left: 75%;
+  }
+  .off-sm-10 {
+    margin-left: 83.3333%;
+  }
+  .off-sm-11 {
+    margin-left: 91.6667%;
+  }
+}
+
+@media only screen and (min-width: 650px) {
+  .col-md-1 {
+    flex-basis: 8.3333%;
+    max-width: 8.3333%;
+  }
+  .col-md-2 {
+    flex-basis: 16.6667%;
+    max-width: 16.6667%;
+  }
+  .col-md-3 {
+    flex-basis: 25%;
+    max-width: 25%;
+  }
+  .col-md-4 {
+    flex-basis: 33.3333%;
+    max-width: 33.3333%;
+  }
+  .col-md-5 {
+    flex-basis: 41.6667%;
+    max-width: 41.6667%;
+  }
+  .col-md-6 {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+  .col-md-7 {
+    flex-basis: 58.3333%;
+    max-width: 58.3333%;
+  }
+  .col-md-8 {
+    flex-basis: 66.6667%;
+    max-width: 66.6667%;
+  }
+  .col-md-9 {
+    flex-basis: 75%;
+    max-width: 75%;
+  }
+  .col-md-10 {
+    flex-basis: 83.3333%;
+    max-width: 83.3333%;
+  }
+  .col-md-11 {
+    flex-basis: 91.6667%;
+    max-width: 91.6667%;
+  }
+  .col-md-12 {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+  .off-md-1 {
+    margin-left: 8.3333%;
+  }
+  .off-md-2 {
+    margin-left: 16.6667%;
+  }
+  .off-md-3 {
+    margin-left: 25%;
+  }
+  .off-md-4 {
+    margin-left: 33.3333%;
+  }
+  .off-md-5 {
+    margin-left: 41.6667%;
+  }
+  .off-md-6 {
+    margin-left: 50%;
+  }
+  .off-md-7 {
+    margin-left: 58.3333%;
+  }
+  .off-md-8 {
+    margin-left: 66.6667%;
+  }
+  .off-md-9 {
+    margin-left: 75%;
+  }
+  .off-md-10 {
+    margin-left: 83.3333%;
+  }
+  .off-md-11 {
+    margin-left: 91.6667%;
+  }
+}
+
+@media only screen and (min-width: 880px) {
+  .col-lg-1 {
+    flex-basis: 8.3333%;
+    max-width: 8.3333%;
+  }
+  .col-lg-2 {
+    flex-basis: 16.6667%;
+    max-width: 16.6667%;
+  }
+  .col-lg-3 {
+    flex-basis: 25%;
+    max-width: 25%;
+  }
+  .col-lg-4 {
+    flex-basis: 33.3333%;
+    max-width: 33.3333%;
+  }
+  .col-lg-5 {
+    flex-basis: 41.6667%;
+    max-width: 41.6667%;
+  }
+  .col-lg-6 {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+  .col-lg-7 {
+    flex-basis: 58.3333%;
+    max-width: 58.3333%;
+  }
+  .col-lg-8 {
+    flex-basis: 66.6667%;
+    max-width: 66.6667%;
+  }
+  .col-lg-9 {
+    flex-basis: 75%;
+    max-width: 75%;
+  }
+  .col-lg-10 {
+    flex-basis: 83.3333%;
+    max-width: 83.3333%;
+  }
+  .col-lg-11 {
+    flex-basis: 91.6667%;
+    max-width: 91.6667%;
+  }
+  .col-lg-12 {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+  .off-lg-1 {
+    margin-left: 8.3333%;
+  }
+  .off-lg-2 {
+    margin-left: 16.6667%;
+  }
+  .off-lg-3 {
+    margin-left: 25%;
+  }
+  .off-lg-4 {
+    margin-left: 33.3333%;
+  }
+  .off-lg-5 {
+    margin-left: 41.6667%;
+  }
+  .off-lg-6 {
+    margin-left: 50%;
+  }
+  .off-lg-7 {
+    margin-left: 58.3333%;
+  }
+  .off-lg-8 {
+    margin-left: 66.6667%;
+  }
+  .off-lg-9 {
+    margin-left: 75%;
+  }
+  .off-lg-10 {
+    margin-left: 83.3333%;
+  }
+  .off-lg-11 {
+    margin-left: 91.6667%;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .col-xl-1 {
+    flex-basis: 8.3333%;
+    max-width: 8.3333%;
+  }
+  .col-xl-2 {
+    flex-basis: 16.6667%;
+    max-width: 16.6667%;
+  }
+  .col-xl-3 {
+    flex-basis: 25%;
+    max-width: 25%;
+  }
+  .col-xl-4 {
+    flex-basis: 33.3333%;
+    max-width: 33.3333%;
+  }
+  .col-xl-5 {
+    flex-basis: 41.6667%;
+    max-width: 41.6667%;
+  }
+  .col-xl-6 {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+  .col-xl-7 {
+    flex-basis: 58.3333%;
+    max-width: 58.3333%;
+  }
+  .col-xl-8 {
+    flex-basis: 66.6667%;
+    max-width: 66.6667%;
+  }
+  .col-xl-9 {
+    flex-basis: 75%;
+    max-width: 75%;
+  }
+  .col-xl-10 {
+    flex-basis: 83.3333%;
+    max-width: 83.3333%;
+  }
+  .col-xl-11 {
+    flex-basis: 91.6667%;
+    max-width: 91.6667%;
+  }
+  .col-xl-12 {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+  .off-xl-1 {
+    margin-left: 8.3333%;
+  }
+  .off-xl-2 {
+    margin-left: 16.6667%;
+  }
+  .off-xl-3 {
+    margin-left: 25%;
+  }
+  .off-xl-4 {
+    margin-left: 33.3333%;
+  }
+  .off-xl-5 {
+    margin-left: 41.6667%;
+  }
+  .off-xl-6 {
+    margin-left: 50%;
+  }
+  .off-xl-7 {
+    margin-left: 58.3333%;
+  }
+  .off-xl-8 {
+    margin-left: 66.6667%;
+  }
+  .off-xl-9 {
+    margin-left: 75%;
+  }
+  .off-xl-10 {
+    margin-left: 83.3333%;
+  }
+  .off-xl-11 {
+    margin-left: 91.6667%;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Reset
+ *
+ * Remove any browser-defined defaults that might affect layout.
+ *------------------------------------------------------------------*/
+/* The DIV element is not included in the reset as a requirement of
+the Habitat platform. */
+/* [EPUB] The universal selector (*) has not been used because it throws
+an EPUB check warning.*/
+a, abbr, acronym, address, applet, article, aside, audio,
+b, big, blockquote, body, canvas, caption, center, cite,
+code, dd, del, details, dfn, dl, dt, em, embed, fieldset,
+figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6,
+header, hgroup, html, i, iframe, img, ins, input, kbd, label,
+legend, li, mark, menu, nav, object, ol, output, p, pre,
+q, ruby, s, samp, section, small, span, strike, strong, sub,
+summary, sup, table, tbody, td, textarea, tfoot, th, thead, time,
+tr, tt, u, ul, var, video, :before, :after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/*------------------------------------------------------------------
+ * Platform
+ *
+ * Platform-specific CSS for links and terms.
+ *----------------------------------------------------------------*/
+/* Inline Links */
+.link-inline {
+  color: #1ab0cc;
+  text-decoration: none;
+  margin-right: 0.2em;
+  padding: 0.1em 1.2em 0.1em 0;
+  background: url("images/icon-link-blue.svg") right center no-repeat;
+  background-size: 1em auto;
+}
+
+.link-inline[href*="[chapter"],
+.link-inline[href*="[Chapter"],
+.link-inline[rel="chapter"],
+.link-inline[rel="jump"] {
+  padding-right: 1em;
+  background: url("images/icon-link-jump-blue.svg") right center no-repeat;
+  background-size: 1em auto;
+}
+
+/* Definitions */
+dfn {
+  font-weight: 700;
+  font-style: normal;
+  color: #f38030;
+  /* DSS Orange */
+  margin-right: 0.2em;
+  padding-right: 1.1em;
+  background: url("images/icon-definition-blue.svg") right center no-repeat;
+  background-size: 1em auto;
+}
+
+dfn > em {
+  font-weight: 400;
+}
+
+/* Remarks */
+[href*="[remark"],
+[rel="remark"] {
+  color: #1ab0cc;
+  text-decoration: none;
+}
+
+[href*="[remark"] a,
+[rel="remark"] a {
+  font-size: normal;
+}
+
+[href*="[remark"].remark-large,
+[rel="remark"].remark-large {
+  font-size: inherit;
+  vertical-align: inherit;
+}
+
+a[href*="[remark"],
+a[rel="remark"] {
+  vertical-align: super;
+  font-size: 120%;
+  line-height: 0.9em;
+  /* fixes line-height bug */
+}
+
+/*--------------------------------------------------------------------
+ * Scrollable
+ *
+ * Provides a way to scroll content that is too wide for the content
+ * window. When the page loads, reader.js determines if the content
+ * needs to scroll. If so, it will add `.s9-is-scrollable` class to
+ * the surrounding div.
+ * Note: This requires `<div class="s9-scrollable">` to surround the
+ * content you want to scroll.
+ *------------------------------------------------------------------*/
+.s9-scrollable {
+  display: block;
+  width: 100%;
+  overflow-y: auto;
+  text-align: center;
+  clear: both;
+}
+
+.s9-scrollable figure > img.equation,
+.s9-scrollable .equation-key > img.equation {
+  padding: 0 10px;
+  box-sizing: content-box;
+}
+
+.s9-scrollable img {
+  max-width: none;
+}
+
+.s9-scrollable > table {
+  /* For scrollable HTML tables */
+  text-align: left;
+  width: 100%;
+}
+
+.s9-scrollable.s9-is-scrollable {
+  box-shadow: inset 1px 0px 5px #CCC;
+  margin-top: .7em;
+  margin-bottom: .7em;
+}
+
+.s9-scrollable.s9-is-scrollable > table {
+  /* For scrollable HTML tables */
+  min-width: 620px;
+}
+
+/* Fixes a scrolling bug in iOS */
+.s9-scrollable table {
+  -webkit-transform: none !important;
+}
+
+body > .s9-scrollable {
+  margin-left: -0px;
+  margin-right: -0px;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+@media (min-width: 650px) {
+  body > .s9-scrollable {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+@media (min-width: 880px) {
+  body > .s9-scrollable {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+@media (min-width: 650px) {
+  body > .s9-scrollable {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+@media (min-width: 880px) {
+  body > .s9-scrollable {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Audio Button
+ *
+ * Styling for inline audio player button. Change this only if
+ * absolutely necessary.
+ *------------------------------------------------------------------*/
+.s9-audio-button-custom {
+  margin-top: 23px;
+  display: inline-block;
+  padding: 6px 10px 6px 40px;
+  color: #fff;
+  text-decoration: none;
+  text-indent: 0;
+  text-align: left;
+  text-transform: none;
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  font-size: .8em;
+  font-weight: 600;
+  line-height: 1.1em;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  border-radius: 5px;
+  background: #949797 url(images/white/icon-audio.svg) no-repeat 10px center;
+  background-size: 20% auto;
+}
+
+.s9-audio-button-custom.s9-active {
+  opacity: .5;
+}
+
+/*------------------------------------------------------------------
+* Habitat Tweaks
+*
+* Required for Habitat App
+*----------------------------------------------------------------*/
+figure > a,
+figure > img,
+figure .figure-image {
+  /* Required for tap highlight */
+  display: block;
+}
+
+/*--------------------------------------------------------------------
+ * Key Terms
+ *
+ * Uses floated list items to create the holders for the data.
+ * `.no-link` is used for page numbers that do not have links in Key
+ * Terms Cloud Extended.
+ * See [Key Term](/pattern-library/core-patterns/lists/key-term/)
+ * for example HMTL.
+ *------------------------------------------------------------------*/
+.key-term {
+  padding-left: 0;
+  overflow: hidden;
+}
+
+.key-term li {
+  float: left;
+  display: table;
+  list-style: none;
+  margin: 0 0.6em 0.6em 0;
+  border: 1px solid #A9ABAE;
+  border-right: none;
+  background: #fff;
+  position: relative;
+}
+
+.key-term li > dfn, .key-term li > .term-only, .key-term li > .nolink {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.4em;
+  font-style: normal;
+  color: #000;
+  background: none;
+  display: table-cell;
+  padding: 0.5em;
+  border-right: 1px solid #A9ABAE;
+  height: 1.5em;
+}
+
+.key-term li > dfn:after, .key-term li > .term-only:after, .key-term li > .nolink:after {
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  padding-left: .2em;
+  content: "";
+  background: url("images/icon-definition-blue.svg") 100% 0.2em no-repeat;
+  background-size: .9em auto;
+  top: 2px;
+  position: relative;
+}
+
+.key-term li > .term-only:after, .key-term li > .nolink:after {
+  content: none;
+}
+
+.key-term a {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  font-weight: 600;
+  color: black;
+  padding: 0.1em 1.1em 0.1em 0.5em;
+  margin-right: .5em;
+  background: url("images/icon-link-blue.svg") 100% 0.2em no-repeat;
+  background-size: .9em auto;
+}
+
+.key-term a:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-right: 1px solid #A9ABAE;
+}
+
+/*--------------------------------------------------------------------
+ * Key Term Extended
+ *------------------------------------------------------------------*/
+.key-term-extended {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  font-size: 19.84px;
+  font-weight: 400;
+  line-height: 1.4em;
+  list-style: none;
+  padding: 0;
+}
+
+.key-term-extended li {
+  margin: .5em 0;
+}
+
+/*------------------------------------------------------------------
+ * S9 Video
+ *----------------------------------------------------------------*/
+video {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.s9-video {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+}
+
+.s9-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/*------------------------------------------------------------------
+ * Base
+ *
+ * Base CSS for page color, typogrpahy and margins.
+ * WARNING: Editing these styles may cause unintended effects.
+ *----------------------------------------------------------------*/
+body {
+  clear: both;
+  display: block;
+  background: #f8f8f9;
+  color: #393b3c;
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+}
+
+body:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.orange {
+  color: #fb6400;
+}
+
+.bg-orange {
+  background-color: #fb6400;
+}
+
+.turquoise-l1 {
+  color: #54c0aa;
+}
+
+.bg-turquoise-l1 {
+  background-color: #54c0aa;
+}
+
+.turquoise-d2 {
+  color: #017654;
+}
+
+.bg-turquoise-d2 {
+  background-color: #017654;
+}
+
+.aqua {
+  color: #00a3c0;
+}
+
+.bg-aqua {
+  background-color: #00a3c0;
+}
+
+.aqua-l5 {
+  color: #B7E5ED;
+}
+
+.bg-aqua-l5 {
+  background-color: #B7E5ED;
+}
+
+.aqua-l6 {
+  color: #d5eff3;
+}
+
+.bg-aqua-l6 {
+  background-color: #d5eff3;
+}
+
+.aqua-d2 {
+  color: #018bab;
+}
+
+.bg-aqua-d2 {
+  background-color: #018bab;
+}
+
+.border-aqua-d2 {
+  border-color: #018bab;
+}
+
+.aqua-d4 {
+  color: #006888;
+}
+
+.bg-aqua-d4 {
+  background-color: #006888;
+}
+
+.purple-d2 {
+  color: #8a5da5;
+}
+
+.bg-purple-d2 {
+  background-color: #8a5da5;
+}
+
+.golden {
+  color: #f0a91e;
+}
+
+.bg-golden {
+  background-color: #f0a91e;
+}
+
+.stone-3 {
+  color: #efe9e4;
+}
+
+.bg-stone-3 {
+  background-color: #efe9e4;
+}
+
+.stone-5 {
+  color: #ded3cc;
+}
+
+.bg-stone-5 {
+  background-color: #ded3cc;
+}
+
+.dark-gray-d1 {
+  color: #4c4e50;
+}
+
+.bg-dark-gray-d1 {
+  background-color: #4c4e50;
+}
+
+.light-gray-d1 {
+  color: #7f8281;
+}
+
+.bg-ligh-gray-d1 {
+  background-color: #7f8281;
+}
+
+.light-gray-l1 {
+  color: #a7a9aa;
+}
+
+.bg-light-gray-l1 {
+  background-color: #a7a9aa;
+}
+
+.light-gray-l6 {
+  color: #e5e6e7;
+}
+
+.bg-light-gray-l6 {
+  background-color: #e5e6e7;
+}
+
+.border-light-gray-l6 {
+  border-color: #e5e6e7;
+}
+
+.light-gray-l8 {
+  color: #f8f8f9;
+}
+
+.bg-light-gray-l8 {
+  background-color: #f8f8f9;
+}
+
+.green {
+  color: #4fa80c;
+}
+
+.bg-green {
+  background-color: #4fa80c;
+}
+
+.red {
+  color: #ff261f;
+}
+
+.bg-red {
+  background-color: #ff261f;
+}
+
+.border-gray-l4 {
+  border: 2px solid #cccecf;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.black {
+  color: #000000;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+/*--------------------------------------------------------------------
+ * Base Fonts and Sizes
+ *------------------------------------------------------------------*/
+/* Set the base font sizes for small and larger screens
+The font size should be set on the <html> element, so that the
+reader can adjust the size as it cascades by targeting the
+<body> element. */
+html, body {
+  font-size: 19.84px;
+}
+
+@media only screen and (max-width: 880px) {
+  html, body {
+    font-size: 17.28px;
+  }
+}
+
+@media only screen and (max-width: 649px) {
+  html {
+    font-size: 17.28px;
+  }
+}
+
+body {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  color: #393b3c;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+/*------------------------------------------------------------------
+ * Font Features
+ *
+ * Utilize font-smoothing when possible.
+ *----------------------------------------------------------------*/
+/* Add kerning ligatures to a small set of elements when
+ available. Do not add to the body or large blocks of text for
+ performance reasons. */
+h1, h2, h3, h4, h5, h6,
+blockquote {
+  text-rendering: optimizeLegibility;
+}
+
+/* We have opted to not include -webkit-font-smoothing modifications
+because every font and contrasting color choices yeilds mixed
+results and can sometimes appear blurry. YMMV. */
+/*--------------------------------------------------------------------
+ * Inline Styles
+ *
+ * Styles for most inline tags and several custom spans.
+ *------------------------------------------------------------------*/
+/* strong / bold */
+b, strong {
+  font-weight: 700;
+}
+
+/* italics / emphasis */
+i, em {
+  font-style: italic;
+}
+
+/* strikethrough */
+s {
+  text-decoration: line-through;
+}
+
+/* deleted text */
+del {
+  text-decoration: line-through;
+}
+
+/* inserted text */
+ins {
+  text-decoration: underline;
+}
+
+/* copyright and legal text */
+small {
+  font-size: 120%;
+  line-height: 0.9em;
+}
+
+/* subscript and superscript */
+sup, sub {
+  vertical-align: super;
+  font-size: 0.65em;
+  line-height: 0.65em;
+}
+
+sub {
+  vertical-align: bottom;
+}
+
+/*--------------------------------------------------------------------
+ * Code
+ *
+ * Code and monospace styles.
+ *------------------------------------------------------------------*/
+code,
+kbd,
+samp {
+  border-radius: 2px;
+  font-family: Courier, "Courier New", monospace;
+  font-size: 120%;
+  line-height: 0.9em;
+  /* fixes line-height bug */
+  padding: 2px;
+  vertical-align: middle;
+}
+
+/* preformatted code blocks */
+pre {
+  margin-bottom: 0.0756em;
+  overflow-x: scroll;
+  white-space: pre;
+}
+
+pre code {
+  display: block;
+  padding: 0.75;
+  line-height: 1.2;
+  overflow: auto;
+}
+
+/*--------------------------------------------------------------------
+ * Paragraphs
+ *------------------------------------------------------------------*/
+p {
+  margin: 9px 0;
+}
+
+/*------------------------------------------------------------------
+ * Headings
+ *----------------------------------------------------------------*/
+h1, h2, h3, h4 {
+  font-family: "Caecilia Roman", Times New Roman, serif;
+}
+
+h5, h6, h6.headerl7, h6.headerl8, h6.headerl9 {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 880px) {
+  h1, h2, h3, h4, h5, h6, .h7, .h8, h6.headerl7, h6.headerl8, h6.headerl9 {
+    /*margin-left: -3px;*/
+  }
+  h1.no-spacing, h2.no-spacing, h3.no-spacing, h4.no-spacing, h5.no-spacing, h6.no-spacing, .h7.no-spacing, .h8.no-spacing, h6.headerl7.no-spacing, h6.headerl8.no-spacing, h6.headerl9.no-spacing {
+    margin: 9px 0 0 0px;
+  }
+  h1 {
+    font-size: 1.8rem;
+    line-height: 1.2;
+    padding: 0px 0px 2px 0px;
+  }
+  h2 {
+    font-size: 1.5rem;
+    line-height: 1.3;
+    padding: 3px 0px 3px 0px;
+  }
+  h3, blockquote {
+    font-size: 1.2rem;
+    line-height: 1.35;
+    padding: 4px 0px 4px 0px;
+  }
+  h4, .intro-text {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    padding: 5px 0px 5px 0px;
+  }
+  h5 {
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 6px 0px 6px 0px;
+  }
+  h6 {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    padding: 7px 0px 7px 0px;
+  }
+  h6.headerl7 {
+    font-size: 0.8rem;
+    line-height: 1.5;
+    padding: 8px 0px 8px 0px;
+  }
+  h6.headerl8 {
+    font-size: 0.7rem;
+    line-height: 1.5;
+    padding: 9px 0px 9px 0px;
+  }
+  h6.headerl9 {
+    font-size: 0.6rem;
+    line-height: 1.5;
+    padding: 10px 0px 10px 0px;
+  }
+  p {
+    line-height: 1.5;
+    font-size: 1rem;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 6px 0px 6px 0px;
+  }
+}
+
+@media only screen and (min-width: 880px) {
+  h1.no-spacing, h2.no-spacing, h3.no-spacing, h4.no-spacing, h5.no-spacing, h6.no-spacing, .h7.no-spacing, .h8.no-spacing, h6.headerl7.no-spacing, h6.headerl8.no-spacing, h6.headerl9.no-spacing {
+    margin: 9px 0 0 -4px;
+  }
+  h1 {
+    font-size: 2.6rem;
+    line-height: 1.2;
+    padding: 0px 0px 2px 0px;
+  }
+  h2 {
+    font-size: 1.9rem;
+    line-height: 1.3;
+    padding: 3px 0px 3px 0px;
+  }
+  h3 {
+    font-size: 1.5rem;
+    line-height: 1.35;
+    padding: 4px 0px 4px 0px;
+  }
+  h4 {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    padding: 5px 0px 5px 0px;
+  }
+  h5 {
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 6px 0px 6px 0px;
+  }
+  h6 {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    padding: 7px 0px 7px 0px;
+  }
+  h6.headerl7 {
+    font-size: 0.8rem;
+    line-height: 1.5;
+    padding: 8px 0px 8px 0px;
+  }
+  h6.headerl8 {
+    font-size: 0.7rem;
+    line-height: 1.5;
+    padding: 9px 0px 9px 0px;
+  }
+  h6.headerl9 {
+    font-size: 0.6rem;
+    line-height: 1.5;
+    padding: 10px 0px 10px 0px;
+  }
+  p {
+    line-height: 1.5;
+    font-size: 1rem;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 6px 0px 6px 0px;
+  }
+}
+
+.intro h4 {
+  color: #233f86;
+}
+
+.intro.two-cols h4 {
+  padding-top: 0;
+  margin-top: -0.3rem;
+}
+
+.intro.two-cols .col-xs-6 p:nth-of-type(1) {
+  margin-top: 0;
+}
+
+@media only screen and (max-width: 650px) {
+  .intro img {
+    margin-top: 19px;
+  }
+  .intro.two-cols .row {
+    flex-direction: column-reverse;
+  }
+}
+
+.two-cols-with-image.two-cols p {
+  padding-top: 0;
+  margin-top: -0.3rem;
+}
+
+@media only screen and (max-width: 650px) {
+  .two-cols-with-image img {
+    margin-top: 19px;
+  }
+  .two-cols-with-image.two-cols .row {
+    flex-direction: column-reverse;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Blockquotes
+ *------------------------------------------------------------------*/
+blockquote {
+  clear: both;
+  margin-bottom: 0.0756em;
+}
+
+blockquote :last-child {
+  margin-bottom: 0em !important;
+}
+
+/*--------------------------------------------------------------------
+ * Lists
+ *------------------------------------------------------------------*/
+ol, ul {
+  list-style-type: none;
+  font-style: normal;
+  margin-left: 0.0756em;
+  margin-bottom: 0.0756em;
+}
+
+ol:after, ul:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ol li, ul li {
+  position: relative;
+}
+
+ol ol, ol ul, ul ol, ul ul {
+  /* Remove bottom margin from nested lists */
+  margin-bottom: 0;
+}
+
+/* Make sure list-items outside of lists don't have a coutner */
+body > li {
+  list-style-type: none;
+}
+
+/* Ordered */
+.list-decimal, ol {
+  list-style-type: decimal;
+}
+
+.list-upper-alpha, ol ol {
+  list-style-type: upper-alpha;
+}
+
+.list-upper-roman, ol ol ol {
+  list-style-type: upper-roman;
+}
+
+.list-lower-alpha, ol ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.list-lower-roman, ol ol ol ol ol {
+  list-style-type: lower-roman;
+}
+
+/* Unordered */
+.list-bullet,
+ul,
+ul ul ul ul,
+.list-disc {
+  list-style-type: disc;
+}
+
+.list-square, ul ul, ul ul ul ul ul {
+  list-style-type: square;
+}
+
+.list-circle, ul ul ul {
+  list-style-type: circle;
+}
+
+/* Other list styles */
+.list-no-style {
+  list-style-type: none;
+}
+
+.list-no-indent {
+  margin-left: 0;
+}
+
+.list-indent {
+  margin-left: 0.1512em;
+}
+
+.list-inside {
+  margin-left: 0;
+  list-style-position: inside;
+}
+
+.list-second-indent,
+.list-second-line-indent {
+  margin-left: 0.0756em;
+  text-indent: -0.0756em;
+}
+
+/*--------------------------------------------------------------------
+ * List Images
+ *
+ * The list images can be changed by uploading new images to the
+ * assets/css/images folder.
+ *------------------------------------------------------------------*/
+.list-image-checkbox, .list-image-hand, .list-image-star, .list-image-checkmark, .list-image-exmark {
+  list-style-type: none;
+  position: relative;
+}
+
+.list-image-checkbox li:before, .list-image-hand li:before, .list-image-star li:before, .list-image-checkmark li:before, .list-image-exmark li:before {
+  content: "";
+  background-size: 70% 70%;
+  background-position: 0 50%;
+  background-repeat: no-repeat;
+  position: absolute;
+  display: block;
+  left: -0.0756em;
+  height: 0.0756em;
+  width: 0.0756em;
+}
+
+.list-image-checkbox li, .list-image-hand li, .list-image-star li, .list-image-checkmark li, .list-image-exmark li {
+  counter-increment: section;
+}
+
+.list-image-checkbox li:before {
+  background-image: url(images/icon-checkbox.svg);
+}
+
+.list-image-hand li:before {
+  background-image: url(images/icon-hand.svg);
+}
+
+.list-image-star li:before {
+  background-image: url(images/icon-star.svg);
+}
+
+.list-image-checkmark li:before {
+  background-image: url(images/icon-checkmark.svg);
+}
+
+.list-image-exmark li:before {
+  background-image: url(images/icon-exmark.svg);
+}
+
+/*------------------------------------------------------------------
+ * Two-column List
+ *----------------------------------------------------------------*/
+@media (min-width: 650px) {
+  .list-two-column li {
+    width: 50%;
+    float: left;
+    padding-right: 30px;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * DSS Lists
+ *------------------------------------------------------------------*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  margin-left: 35px;
+  padding: 0 0;
+  padding-bottom: 9px;
+}
+
+@media only screen and (max-width: 480px) {
+  ul {
+    padding: 2px 0 3.5px 0;
+    margin-left: 25px;
+  }
+}
+
+ul > li {
+  position: relative;
+  margin-top: 10px;
+  padding-left: 0.5em;
+  min-height: 1em;
+}
+
+ul > li:before {
+  position: absolute;
+  /*top: 10px;*/
+  left: -1em;
+  width: 1em;
+  /*line-height: 1;*/
+  /*font-weight: bold;*/
+  text-align: right;
+  color: #393b3c;
+  /* Dark Gray D2 */
+  content: "\2022 ";
+}
+
+.feature-pattern ul > li:before, .callout ul > li:before {
+  /*top:5px;*/
+}
+
+.callout.collaboration ol > li:before {
+  color: #233f86;
+}
+
+ol {
+  list-style-type: none;
+  margin: 0;
+  margin-left: 35px;
+  padding: 0 0;
+  padding-bottom: 9px;
+  counter-reset: li-counter;
+}
+
+@media only screen and (max-width: 480px) {
+  ol {
+    padding: 2px 0 3.5px 0;
+    margin-left: 25px;
+  }
+}
+
+ol > li {
+  position: relative;
+  margin-top: 10px;
+  padding-left: 0.5em;
+  min-height: 1em;
+}
+
+ol > li:before {
+  position: absolute;
+  /*top: 5px;*/
+  left: -1em;
+  width: 1em;
+  /*line-height: 1;*/
+  text-align: right;
+  color: #393b3c;
+  content: counter(li-counter);
+  counter-increment: li-counter;
+  font-weight: bold;
+}
+
+/*--------------------------------------------------------------------
+ * Links
+ *
+ * Text and button links.
+ *------------------------------------------------------------------*/
+a {
+  color: #1ab0cc;
+  font-weight: 600;
+  text-decoration: none;
+  -ms-word-break: break-all;
+  /* Be VERY careful with this, breaks normal words wh_erever */
+  word-break: break-all;
+  /* Non standard for webkit */
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  border-bottom: 1px solid #1ab0cc;
+}
+
+.button {
+  margin-bottom: 0.0378em;
+  display: inline-block;
+  border-radius: 4px;
+  text-decoration: none;
+  padding: 20px 20px;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-align: center;
+  background: orange;
+  color: #ffffff;
+  border: 1px solid orange;
+}
+
+.button-outline {
+  margin-bottom: 0.0378em;
+  display: inline-block;
+  border-radius: 4px;
+  text-decoration: none;
+  padding: 20px 20px;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-align: center;
+  background: transparent;
+  border: 1px solid orange;
+  color: orange;
+}
+
+/*--------------------------------------------------------------------
+ * Tables
+ *------------------------------------------------------------------*/
+/* Remove any default spacing from tables. */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  table-layout: fixed;
+  min-width: 100%;
+  margin-bottom: 0.0756em;
+}
+
+.table {
+  margin-bottom: 0.0756em;
+  min-width: 100%;
+  clear: both;
+  table-layout: fixed;
+}
+
+.table td,
+.table th {
+  border: 1px solid #949797;
+  padding: 5px;
+}
+
+.table th {
+  font-weight: 600;
+}
+
+.table caption {
+  text-transform: uppercase;
+  font-size: 120%;
+  font-weight: 600;
+}
+
+.table.no-border {
+  border: 0 none;
+}
+
+.table.no-border td {
+  border: 0 none;
+}
+
+.small-one-column td {
+  display: block;
+}
+
+@media (min-width: 650px) {
+  .small-one-column td {
+    display: table-cell;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Forms
+ *------------------------------------------------------------------*/
+button,
+fieldset,
+input,
+optgroup,
+select,
+textarea {
+  /* Correct inproperly inherited font sizes/styles */
+  font: inherit;
+  /* Remove focus outline */
+}
+
+button:focus,
+fieldset:focus,
+input:focus,
+optgroup:focus,
+select:focus,
+textarea:focus {
+  outline: 0;
+}
+
+/* Buttons */
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  /* Address `overflow` set to `hidden` in IE 9/10/11. */
+  overflow: visible;
+  /* Correct inability to style clickable `input` types in iOS. */
+  -webkit-appearance: button;
+  /*  Improve usability and consistency of cursor style between image-type `input` and others. */
+  cursor: pointer;
+  background: #949797;
+  color: #ffffff;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  border: 0px none;
+  padding: 0.0189em 0.0378em;
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+  background: #949797;
+}
+
+/* Re-set default cursor for disabled elements. */
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+/* Text Input */
+input[type="text"] {
+  line-height: normal;
+  border: 1px solid #393b3c;
+  border-radius: 2px;
+  padding: 0.0189em;
+  min-width: 50%;
+}
+
+/* Textarea */
+textarea {
+  margin-bottom: 0.0756em;
+  overflow: auto;
+  /* Remove scrollbars in IE */
+  width: 100%;
+  border: 1px solid #393b3c;
+  border-radius: 2px;
+  padding: 0.0189em;
+  outline: none;
+  resize: none;
+}
+
+textarea:focus {
+  border: 1px solid #949797;
+}
+
+/*--------------------------------------------------------------------
+ * Images
+ *------------------------------------------------------------------*/
+/*  Images should always span 100% if their container */
+img {
+  width: 100%;
+  display: inline-block;
+  padding: 0;
+}
+
+figure {
+  clear: both;
+  margin-bottom: 0.0756em;
+  position: relative;
+}
+
+figure:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+figure.left,
+figure.right {
+  margin-bottom: 0.0378em;
+}
+
+figcaption {
+  font-size: 0.0403em;
+}
+
+.full-bleed figcaption,
+.bleed figcaption {
+  /* If the image is full-bleed, restore the caption to the content width. */
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+@media (min-width: 650px) {
+  .full-bleed figcaption,
+  .bleed figcaption {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+@media (min-width: 880px) {
+  .full-bleed figcaption,
+  .bleed figcaption {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+
+.pull figcaption,
+.pull-left figcaption {
+  padding-left: 0px !important;
+}
+
+@media (min-width: 650px) {
+  .pull figcaption,
+  .pull-left figcaption {
+    padding-left: 0px !important;
+  }
+}
+
+@media (min-width: 880px) {
+  .pull figcaption,
+  .pull-left figcaption {
+    padding-left: 0px !important;
+  }
+}
+
+@media (min-width: 650px) {
+  .pull figcaption,
+  .pull-left figcaption {
+    padding-left: 50em;
+  }
+}
+
+@media (min-width: 880px) {
+  .pull figcaption,
+  .pull-left figcaption {
+    padding-left: 100em;
+  }
+}
+
+/* Figure caption alignment */
+.caption-left img {
+  float: right !important;
+  clear: right !important;
+  display: block;
+  margin-left: 0;
+  margin-left: 3.1%;
+}
+
+.one-half.left + .caption-left img {
+  margin-left: 0;
+}
+
+.caption-right img {
+  float: left !important;
+  clear: left !important;
+  display: block;
+  margin-left: 0;
+  margin-right: 3.1%;
+}
+
+.one-half.right + .caption-right img {
+  margin-right: 0;
+}
+
+.caption-center figcaption {
+  text-align: center;
+}
+
+/*--------------------------------------------------------------------
+ * Headers
+ * Headers will bleed autimactially if the .header class is applied.
+ *------------------------------------------------------------------*/
+.exploration-header {
+  padding-bottom: 39px;
+}
+
+.exploration-header .topper {
+  height: 45px;
+  line-height: 45px;
+  background: #bdd6ed;
+  text-transform: uppercase;
+}
+
+.exploration-header.chemistry .secondary {
+  background: #588cc9 url("images/exploration/chemistry.png") left center repeat-x;
+}
+
+.exploration-header.physics .secondary {
+  background: #588cc9 url("images/exploration/physics.png") left top repeat-x;
+  background-size: 500px !important;
+}
+
+.exploration-header.earth-science .secondary {
+  background: #588cc9 url("images/exploration/earth-science.png") left top repeat-x;
+  background-size: 600px !important;
+}
+
+.exploration-header.biology .secondary {
+  background: #588cc9 url("images/exploration/biology.png") left top repeat-x;
+  background-size: 500px !important;
+}
+
+.exploration-header .secondary {
+  color: white;
+  background: #588cc9;
+  min-height: 180px;
+  display: flex;
+  align-items: center;
+  padding: 9px 0 12px;
+  background-size: 750px !important;
+}
+
+.exploration-header .secondary h2 {
+  margin-top: 0;
+  font-weight: normal;
+}
+
+.navigation-header.cards .boxes.row.feature {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.navigation-footer.cards .boxes.row.feature {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 880px) {
+  .exploration-header {
+    padding-bottom: 28px;
+  }
+  .exploration-header .secondary {
+    min-height: 130px;
+  }
+}
+
+.h3-with-text h3 {
+  color: #233f86;
+  font-weight: bold;
+  border-bottom: 1px solid #cccecf;
+  margin-bottom: 9px;
+  padding-bottom: 9px;
+}
+
+@media only screen and (max-width: 650px) {
+  .h3-with-text [class^="col-"], .h3-with-text [class*=" col-"] {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .can-you-explain [class^="col-"], .can-you-explain [class*=" col-"] {
+    width: 100%;
+  }
+}
+
+.steps-sub-header h4 {
+  color: #233f86;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+}
+
+.can-you-explain h4 {
+  color: white;
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  text-transform: uppercase;
+  background: #588cc9;
+  padding: 0 21px;
+  margin-bottom: 9px;
+  line-height: 63px;
+  letter-spacing: 0.03rem;
+}
+
+.opener-cards-four-boxes {
+  margin: 0px auto 12px auto !important;
+}
+
+.cards h3 {
+  margin-left: 0;
+}
+
+.cards h4 {
+  font-weight: 600;
+}
+
+.cards .wrapper {
+  overflow: hidden;
+}
+
+.cards .boxes {
+  margin: 0px auto 0px auto;
+}
+
+.cards .heading {
+  height: 45px;
+  line-height: 45px;
+}
+
+.cards .title {
+  height: 135px;
+  background: #734497;
+  color: white;
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.cards .content {
+  padding: 20px;
+  background: white;
+  color: #393b3c;
+  font-weight: normal;
+  margin: 0;
+  display: flex;
+  flex-grow: 1;
+}
+
+.cards .content .crop, .cards .content .image {
+  margin-right: 20px;
+  width: 115px;
+  height: 115px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.cards .content .crop img, .cards .content .image img {
+  vertical-align: middle;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 100%;
+  width: auto;
+  max-width: none;
+  transform: translate(-50%, -50%);
+}
+
+.cards .content .text {
+  margin-top: -0.3em;
+  font-size: 0.9rem;
+}
+
+.cards .content .col-xs-6 {
+  padding: 0;
+  flex-basis: 50% !important;
+  max-width: 50% !important;
+}
+
+.cards a.box {
+  background: #588cc9;
+  margin: 15px;
+  text-decoration: none;
+  border: 1px solid #cccecf;
+  padding: 0;
+  flex-basis: calc(50% - 30px);
+  width: calc(50% - 30px);
+  max-width: calc(50% - 30px);
+  position: relative;
+}
+
+.cards a.box h4 {
+  color: white;
+  padding: 14px 20px;
+  font-size: 1rem;
+  min-height: 3.4rem;
+  margin-left: 0;
+  position: relative;
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+  min-height: 4rem;
+}
+
+.cards a.box.selected {
+  background: #436dae;
+}
+
+.cards a.box.completed {
+  background: #949797;
+}
+
+.cards a.box.completed::after {
+  content: "";
+  background: url("images/icon-mark-completed.svg") no-repeat;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  z-index: 10;
+}
+
+.cards a.box.completed::before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  border-top: 32px solid transparent;
+  border-bottom: 32px solid transparent;
+  border-left: 32px solid #393b3c;
+  position: absolute;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  right: -4px;
+  bottom: -20px;
+}
+
+.cards .separator {
+  height: 35px;
+}
+
+.cards .separator::after {
+  height: 5px !important;
+}
+
+.cards .separator .arrow {
+  top: 5px !important;
+}
+
+.cards.opener a.box.completed::before {
+  right: -5px;
+  bottom: -21px;
+}
+
+.cards.navigation-header a.box,
+.cards.navigation-footer a.box {
+  border: 0;
+}
+
+.cards.navigation-header .boxes,
+.cards.navigation-footer .boxes {
+  text-align: left;
+}
+
+.take-it-further.page-footer.combopattern {
+  padding-top: 0px;
+}
+
+.take-it-further .wrapper {
+  background: #f3eeea;
+}
+
+.take-it-further .heading {
+  background: #dac4de;
+}
+
+.take-it-further .separator .arrow::after,
+.take-it-further .bottom .seperator .arrow::after {
+  background: #f3eeea;
+}
+
+.take-it-further .separator::after,
+.take-it-further .bottom .seperator::after {
+  background: #f3eeea;
+}
+
+.take-it-further.page-footer {
+  padding-top: 63px;
+}
+
+.take-it-further.page-footer .bottom .next {
+  color: #dac4de;
+}
+
+.separator.stone.combopattern {
+  height: 29px;
+}
+
+.separator.stone.combopattern .arrow {
+  top: 0px;
+}
+
+.separator.stone.combopattern .arrow::after {
+  /*height: 0px;*/
+}
+
+.separator.stone.combopattern::after {
+  height: 0px;
+}
+
+@media only screen and (max-width: 880px) {
+  .take-it-further.page-footer {
+    padding-top: 47px;
+  }
+  .self-check.page-footer {
+    padding-top: 47px;
+  }
+}
+
+.self-check .wrapper {
+  background: #f3eeea;
+}
+
+.self-check .heading {
+  background: #f8dc98;
+}
+
+.self-check.cards .title {
+  background: #f3be3d;
+  color: #393b3c;
+}
+
+.self-check .separator .arrow::after,
+.self-check .bottom .seperator .arrow::after {
+  background: #f3eeea;
+}
+
+.self-check .separator::after,
+.self-check .bottom .seperator::after {
+  background: #f3eeea;
+}
+
+.self-check.page-footer {
+  padding-top: 63px;
+}
+
+.self-check.page-footer .bottom .next {
+  color: #f8dc98;
+}
+
+.parallax-header-test {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 39px;
+}
+
+.parallax-header-test.message-300 .message {
+  top: -300px;
+  height: 300px;
+}
+
+.parallax-header-test.message-300 #toggle:checked ~ .container {
+  margin-top: 300px;
+}
+
+.parallax-header-test.message-350 .message {
+  top: -350px;
+  height: 350px;
+}
+
+.parallax-header-test.message-350 #toggle:checked ~ .container {
+  margin-top: 350px;
+}
+
+.parallax-header-test.message-400 .message {
+  top: -400px;
+  height: 400px;
+}
+
+.parallax-header-test.message-400 #toggle:checked ~ .container {
+  margin-top: 400px;
+}
+
+.parallax-header-test.message-450 .message {
+  top: -450px;
+  height: 450px;
+}
+
+.parallax-header-test.message-450 #toggle:checked ~ .container {
+  margin-top: 450px;
+}
+
+.parallax-header-test.message-500 .message {
+  top: -500px;
+  height: 500px;
+}
+
+.parallax-header-test.message-500 #toggle:checked ~ .container {
+  margin-top: 500px;
+}
+
+.parallax-header-test.message-550 .message {
+  top: -550px;
+  height: 550px;
+}
+
+.parallax-header-test.message-550 #toggle:checked ~ .container {
+  margin-top: 550px;
+}
+
+.parallax-header-test .message {
+  background: #393b3c;
+  color: #FFF;
+  position: absolute;
+  top: -550px;
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 550px;
+  transition: top 300ms cubic-bezier(0.17, 0.04, 0.03, 0.94);
+  overflow: hidden;
+  box-sizing: border-box;
+  padding: 50px 20px;
+  width: 100%;
+}
+
+.parallax-header-test .message h4 {
+  text-transform: uppercase;
+  line-height: 1rem;
+}
+
+.parallax-header-test .message ul > li:before {
+  color: #FFF;
+}
+
+.parallax-header-test .message ul {
+  margin-left: 5px;
+}
+
+.parallax-header-test .message .row .col-xs-6:nth-child(1) h4 {
+  margin-bottom: 13px;
+}
+
+.parallax-header-test .message .row .col-xs-6:nth-child(2) {
+  border-left: 1px solid #FFF;
+}
+
+.parallax-header-test .message .row .col-xs-6:nth-child(2) ul {
+  padding-bottom: 0px;
+  margin-left: 35px;
+}
+
+.parallax-header-test .message .row .col-xs-6:nth-child(2) h4 {
+  margin-left: 30px;
+  margin-bottom: 9px;
+}
+
+.parallax-header-test #toggle {
+  position: absolute;
+  appearance: none;
+  cursor: pointer;
+  left: -100%;
+  top: -100%;
+}
+
+.parallax-header-test #toggle + .label-wrapper label {
+  position: absolute;
+  width: 140px;
+  height: 40px;
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 3px;
+  /*padding: 0px 40px;*/
+  color: white;
+  line-height: 40px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 500ms ease;
+  text-transform: capitalize;
+  z-index: 2;
+  right: 20px;
+  margin-top: 20px;
+}
+
+.parallax-header-test #toggle + .label-wrapper label:hover {
+  background: rgba(0, 0, 0, 0.9);
+}
+
+.parallax-header-test #toggle + .label-wrapper label:after {
+  content: "Overview";
+}
+
+.parallax-header-test .label-wrapper {
+  max-width: 1100px;
+  height: 100px;
+  position: relative;
+  z-index: 4;
+  float: right;
+}
+
+.parallax-header-test .container {
+  transition: margin 300ms cubic-bezier(0.17, 0.04, 0.03, 0.94);
+}
+
+.parallax-header-test #toggle:checked ~ .message {
+  top: 0;
+}
+
+.parallax-header-test #toggle:checked ~ .container {
+  margin-top: 550px;
+}
+
+.parallax-header-test #toggle:checked + .label-wrapper label {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.parallax-header-test #toggle:checked + .label-wrapper label:after {
+  content: "Close";
+}
+
+@media only screen and (max-width: 650px) {
+  .parallax-header-test .message .row .col-xs-6:nth-child(1) h4 {
+    margin-bottom: 13px;
+  }
+  .parallax-header-test .message .row .col-xs-6:nth-child(2) {
+    margin-top: 24px;
+    border-left: none;
+  }
+  .parallax-header-test .message .row .col-xs-6:nth-child(2) ul {
+    padding-bottom: 0px;
+    margin-left: 5px;
+  }
+  .parallax-header-test .message .row .col-xs-6:nth-child(2) h4 {
+    margin-left: 0px;
+    margin-bottom: 9px;
+  }
+  .parallax-header-test.message-300 .message {
+    top: -450px;
+    height: 450px;
+  }
+  .parallax-header-test.message-300 #toggle:checked ~ .container {
+    margin-top: 450px;
+  }
+  .parallax-header-test.message-350 .message {
+    top: -525px;
+    height: 525px;
+  }
+  .parallax-header-test.message-350 #toggle:checked ~ .container {
+    margin-top: 525px;
+  }
+  .parallax-header-test.message-400 .message {
+    top: -600px;
+    height: 600px;
+  }
+  .parallax-header-test.message-400 #toggle:checked ~ .container {
+    margin-top: 600px;
+  }
+  .parallax-header-test.message-450 .message {
+    top: -675px;
+    height: 675px;
+  }
+  .parallax-header-test.message-450 #toggle:checked ~ .container {
+    margin-top: 675px;
+  }
+  .parallax-header-test.message-500 .message {
+    top: -750px;
+    height: 750px;
+  }
+  .parallax-header-test.message-500 #toggle:checked ~ .container {
+    margin-top: 750px;
+  }
+  .parallax-header-test.message-550 .message {
+    top: -825px;
+    height: 825px;
+  }
+  .parallax-header-test.message-550 #toggle:checked ~ .container {
+    margin-top: 825px;
+  }
+}
+
+.parallax-header {
+  background: transparent;
+  min-height: 540px;
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.parallax-header .buttons {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 2;
+}
+
+.parallax-header .buttons .menu {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.7);
+  right: 0;
+  min-width: 400px;
+  overflow: hidden;
+  font-size: 0.9rem;
+  opacity: 0;
+  height: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.parallax-header .buttons .menu > * {
+  margin-bottom: 10px;
+  color: white;
+  display: block;
+}
+
+.parallax-header .buttons .btn {
+  display: block;
+  float: right;
+  margin-left: 20px;
+  position: relative;
+  color: white;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.parallax-header .buttons .btn:hover .menu, .parallax-header .buttons .btn input:checked ~ .menu {
+  padding: 10px 20px;
+  opacity: 1;
+  height: auto;
+  background: rgba(0, 0, 0, 0.9);
+}
+
+.parallax-header .buttons .btn:hover {
+  background: rgba(0, 0, 0, 0.9);
+}
+
+.parallax-header .buttons .btn .text, .parallax-header .buttons .btn input {
+  padding: 0px 40px;
+  line-height: 40px;
+  height: 40px;
+  display: block;
+  text-transform: capitalize;
+}
+
+.parallax-header .buttons .btn input {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  left: 0;
+  opacity: 0;
+}
+
+.parallax-header .img-wrapper {
+  min-height: 540px;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  overflow: hidden;
+  width: 100%;
+  text-align: center;
+}
+
+.parallax-header .img-wrapper img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 150%;
+  width: auto;
+  max-width: none;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin: 0;
+}
+
+.parallax-header .wrapper {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: 18px;
+}
+
+.parallax-header .row {
+  display: block;
+  flex-wrap: nowrap;
+}
+
+.parallax-header .number {
+  color: white;
+  background: #558BC8;
+  float: left;
+  padding: 14px 20px;
+  font-weight: bold;
+}
+
+.parallax-header .lesson-title {
+  font-family: "Caecilia Roman", Times New Roman, serif;
+  float: left;
+  clear: both;
+  padding: 0 0 0 20px;
+}
+
+.parallax-header .lesson-title h1 {
+  margin-left: 0;
+  display: inline;
+  line-height: 3.78rem;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 20px 0 0 rgba(255, 255, 255, 0.8), -20px 0 0 rgba(255, 255, 255, 0.8);
+  padding: 6px 0px 6px 0px;
+}
+
+.parallax-header .caption-container {
+  color: white;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  padding: 5px 20px;
+  font-size: 0.7rem;
+  float: left;
+  margin-left: 0;
+}
+
+@media only screen and (max-width: 880px) {
+  .parallax-header .lesson-title h1 {
+    line-height: 2.85rem;
+  }
+  .parallax-header,
+  .parallax-header .img-wrapper {
+    min-height: 400px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .cards .heading {
+    height: 36px;
+    line-height: 36px;
+  }
+  .cards .content {
+    padding: 15px;
+  }
+  .cards .content .crop {
+    height: 80px;
+    width: 80px;
+  }
+  .cards .boxes {
+    margin: 7.5px auto 2px;
+  }
+  .cards a.box {
+    flex-basis: calc(100% - 15px);
+    width: calc(100% - 15px);
+    max-width: calc(100% - 15px);
+    margin: 7.5px;
+  }
+  .cards a.box:nth-of-type(1),
+  .cards a.box:nth-of-type(3) {
+    margin-right: 7.5px;
+  }
+  .exploration-header .topper {
+    height: 36px;
+    line-height: 36px;
+  }
+  .exploration-header .secondary {
+    min-height: 110px;
+    height: auto;
+  }
+  .parallax-header .number {
+    padding: 6px 12px;
+  }
+  .parallax-header,
+  .parallax-header .img-wrapper {
+    min-height: 290px;
+  }
+  .parallax-header div.lesson-title {
+    padding: 0 0 0 10px;
+  }
+  .parallax-header div.lesson-title h1 {
+    line-height: 2.85rem;
+    box-shadow: 10px 0 0 rgba(255, 255, 255, 0.8), -10px 0 0 rgba(255, 255, 255, 0.8);
+  }
+  .parallax-header .buttons {
+    top: 10px;
+    right: 10px;
+    width: calc(100% - 20px);
+  }
+  .parallax-header .buttons .btn {
+    margin-left: 10px;
+    position: initial;
+    right: 0;
+    width: 120px;
+  }
+  .parallax-header .buttons .btn input {
+    width: 120px;
+    right: 0px;
+    left: auto;
+  }
+  .parallax-header .buttons .btn:nth-child(2) input {
+    right: 130px;
+  }
+  .parallax-header .buttons .btn .menu {
+    left: 0;
+    min-width: auto;
+  }
+  .parallax-header .buttons .btn .text {
+    padding: 0px 20px;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .cards .boxes {
+    margin: 7.5px auto 2px;
+  }
+  .cards a.box {
+    flex-basis: calc(100% - 15px);
+    width: calc(100% - 15px);
+    margin: 7.5px;
+  }
+  .cards a.box:nth-of-type(1),
+  .cards a.box:nth-of-type(3) {
+    margin-right: 7.5px;
+  }
+  .cards .content {
+    padding: 15px;
+  }
+  .cards .content .crop {
+    height: 80px;
+    width: 80px;
+  }
+}
+
+@media only screen and (min-width: 880px) {
+  .cards a.box h4.july-cards-fix {
+    min-height: 86px;
+  }
+}
+
+@media only screen and (max-width: 880px) {
+  .cards a.box h4.july-cards-fix {
+    min-height: 78px;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Fractions
+ *
+ * Use with with the HTML slash entity
+ *------------------------------------------------------------------*/
+.fraction {
+  position: relative;
+  top: .25em;
+  left: -.2em;
+  margin-left: .25em;
+}
+
+.fraction + sub {
+  position: relative;
+  top: -0.2em;
+  margin-left: .1em;
+  margin-right: .2em;
+}
+
+var {
+  font-style: italic;
+  font-family: "Caecilia Roman", Times New Roman, serif;
+}
+
+/*--------------------------------------------------------------------
+ * Equations
+ *------------------------------------------------------------------*/
+/* Block Image Equations */
+figure > img.equation,
+.equation-key > img.equation {
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: initial;
+}
+
+/* Inline Image Equations */
+p > img.equation,
+li > img.equation,
+figcaption img.equation {
+  height: auto;
+  display: inline-block;
+  vertical-align: -0.1em;
+}
+
+/* HTML Equations  */
+/* Both inline and block. */
+div.equation {
+  text-align: center;
+  margin: 1em auto;
+  display: inline-block;
+  padding: 0 10px;
+  white-space: nowrap;
+}
+
+span.equation {
+  white-space: nowrap;
+}
+
+@media only screen and (max-width: 649px) {
+  span.equation {
+    white-space: normal;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Media
+ *------------------------------------------------------------------*/
+audio {
+  width: 100%;
+}
+
+iframe {
+  width: 100%;
+}
+
+/* Set native videos to always be scaled to their container.
+The !important tag is required to override width/height attr */
+video {
+  width: 100% !important;
+  height: auto !important;
+}
+
+figure.video {
+  margin: 26px 0 17px 0;
+  padding: 0;
+}
+
+@media only screen and (max-width: 880px) {
+  figure.video {
+    margin: 21px 0 13px 0;
+  }
+}
+
+/*--------------------------------------------------------------------
+ * Helper Classes
+ *
+ * Helper classes allow for individual properties to be applied with
+ * a single class. This idea is based on the single-responsibility
+ * principle and the writings of Harry Roberts.
+ * http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/
+ *
+ * Warning: While helper classes are quick and effective, they can
+ * lead to complex HTML that is harder to maintain. If you find yourself
+ * constantly applying the same clases to multiple elements, consider
+ * making a custom class.
+ *------------------------------------------------------------------*/
+/* On mobile devices, all fractional widths should span 100% of the body. */
+@media only screen and (max-width: 880px) {
+  .wide .no-pad,
+  .feature .no-pad,
+  .main .no-pad {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.copyright {
+  font-size: 0.6rem;
+  margin: 0;
+  font-style: italic;
+  padding: 10px 0 11px 0;
+}
+
+@media only screen and (max-width: 880px) {
+  .copyright {
+    padding: 8px 0;
+  }
+}
+
+.caption {
+  font-size: 0.8em;
+  margin: 0;
+  padding: 10px 0 !important;
+  color: #6c706f;
+}
+
+@media only screen and (max-width: 880px) {
+  .caption {
+    padding: 8px 0;
+  }
+}
+
+.caption-hr {
+  width: 100%;
+  border: 0;
+  height: 0;
+  border-top: 1px solid #e5e6e7;
+  border-bottom: 0px solid #fff;
+  margin: 0 0 17px 0;
+}
+
+@media only screen and (max-width: 880px) {
+  .caption-hr {
+    margin: 0 0 13px 0;
+  }
+}
+
+.relative {
+  position: relative;
+}
+
+.image-metadata img {
+  margin-bottom: 0;
+}
+
+.red {
+  color: #ff6c63;
+}
+
+.blue {
+  color: #71b9ff;
+}
+
+/* Alignment Helpers */
+.left {
+  float: left !important;
+  clear: left !important;
+  display: block;
+  margin-left: 0;
+  margin-right: 3.1%;
+}
+
+.one-half.right + .left {
+  margin-right: 0;
+}
+
+.right {
+  float: right !important;
+  clear: right !important;
+  display: block;
+  margin-left: 0;
+  margin-left: 3.1%;
+}
+
+.one-half.left + .right {
+  margin-left: 0;
+}
+
+.center {
+  float: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Place left and rights next to eachother if they immediately follow
+one another */
+.left + .right {
+  margin-left: 0;
+}
+
+.right + .left {
+  margin-right: 0;
+}
+
+/* Absolute centering */
+.x-center {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+.y-center {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.x-center.y-center {
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -o-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+/* Bleed Helpers */
+.full-bleed,
+.bleed {
+  margin-left: -0px;
+  margin-right: -0px;
+}
+
+@media (min-width: 650px) {
+  .full-bleed,
+  .bleed {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+@media (min-width: 880px) {
+  .full-bleed,
+  .bleed {
+    margin-left: -0px;
+    margin-right: -0px;
+  }
+}
+
+/* Background Color Helpers */
+.bg-white {
+  background-color: #ffffff;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.black {
+  color: black;
+}
+
+.contrast-text {
+  color: #393b3c !important;
+}
+
+.contrast-text p, .contrast-text h1, .contrast-text h2, .contrast-text h3, .contrast-text h4, .contrast-text h5, .contrast-text h6, .contrast-text figcaption, .contrast-text cite, .contrast-text blockquote {
+  color: #393b3c !important;
+}
+
+.contrast-text a {
+  color: #1ab0cc !important;
+}
+
+.contrast-text table th, .contrast-text table td {
+  color: #393b3c !important;
+}
+
+.contrast-text code {
+  background: #949797 !important;
+}
+
+.clearboth {
+  clear: both !important;
+}
+
+/* Font Family Helpers */
+.font-mono {
+  font-family: Courier, "Courier New", monospace;
+  font-size: 0.9em;
+}
+
+.font-sans {
+  font-family: "Source Sans Pro", Helvetica, Verdana, sans;
+}
+
+.font-serif {
+  font-family: "Caecilia Roman", Times New Roman, serif;
+}
+
+/* Text Alignment Helpers */
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+/* Icons */
+.icon {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.icon-large {
+  height: 2em;
+  width: 2em;
+}
+
+.icon-checkbox {
+  background-image: url(images/icon-checkbox.svg);
+}
+
+.icon-hand {
+  background-image: url(images/icon-hand.svg);
+}
+
+.icon-star {
+  background-image: url(images/icon-star.svg);
+}
+
+.icon-checkmark {
+  background-image: url(images/icon-checkmark.svg);
+}
+
+.icon-exmark {
+  background-image: url(images/icon-exmark.svg);
+}
+
+/**** Vertical Spacing *****/
+.interactive, .static, .interactive-holder {
+  /*
+    margin: 16px 0;
+    @include respond-max-width($bp-large) {
+        margin: 9px 0 13px;
+    }
+    @include respond-max-width($bp-medium) {
+        margin: 8px 0 11px;
+    }
+    */
+}
+
+/* BEGIN New Vertical Spacing */
+.spacer.regular {
+  display: block;
+  width: 100%;
+}
+
+.spacer.regular {
+  height: 24px;
+}
+
+@media only screen and (max-width: 880px) {
+  .spacer.regular {
+    height: 19px;
+  }
+}
+
+.boxed-content-no-topspace {
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+
+@media only screen and (max-width: 880px) {
+  .boxed-content-no-topspace {
+    padding-top: 0px;
+    padding-bottom: 12px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .boxed-content-no-topspace {
+    padding-top: 0px;
+    padding-bottom: 12px;
+  }
+}
+
+.interaction-content {
+  padding-top: 24px;
+  padding-bottom: 15px;
+}
+
+@media only screen and (max-width: 880px) {
+  .interaction-content {
+    padding-top: 19px;
+    padding-bottom: 12px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .interaction-content {
+    padding-top: 19px;
+    padding-bottom: 12px;
+  }
+}
+
+.interaction-content.july-fix {
+  padding-top: 0px;
+}
+
+.boxed-content {
+  padding-top: 24px;
+  padding-bottom: 15px;
+}
+
+@media only screen and (max-width: 880px) {
+  .boxed-content {
+    padding-top: 19px;
+    padding-bottom: 12px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .boxed-content {
+    padding-top: 19px;
+    padding-bottom: 12px;
+  }
+}
+
+.can-you-explain.boxed-content {
+  padding-top: 24px;
+  padding-bottom: 0px;
+}
+
+@media only screen and (max-width: 880px) {
+  .can-you-explain.boxed-content {
+    padding-top: 19px;
+    padding-bottom: 0px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .can-you-explain.boxed-content {
+    padding-top: 19px;
+    padding-bottom: 0px;
+  }
+}
+
+.text-content {
+  padding-top: 9px !important;
+  padding-bottom: 0px !important;
+}
+
+@media only screen and (max-width: 880px) {
+  .text-content {
+    padding-top: 9px !important;
+    padding-bottom: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .text-content {
+    padding-top: 9px !important;
+    padding-bottom: 0px !important;
+  }
+}
+
+/* legacy intro-content styles - no longer used in patterns */
+.intro-content {
+  padding-top: 9px !important;
+  padding-bottom: 0px !important;
+}
+
+@media only screen and (max-width: 880px) {
+  .intro-content {
+    padding-top: 9px !important;
+    padding-bottom: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .intro-content {
+    padding-top: 9px !important;
+    padding-bottom: 0px !important;
+  }
+}
+
+/* END New Vertical Spacing */
+/* END Helpers */
+body[contenteditable="true"] > p {
+  background-image: linear-gradient(to bottom, darkmagenta 0%, darkmagenta 100%), linear-gradient(to bottom, #f02828 0%, #f02828 100%);
+  background-clip: content-box, padding-box;
+}
+
+body[contenteditable="true"] .spacer {
+  background-image: linear-gradient(to bottom, pink 0%, pink 100%), linear-gradient(to bottom, #f02828 0%, #f02828 100%);
+  background-clip: content-box, padding-box;
+}
+
+body[contenteditable="true"] .interactive, body[contenteditable="true"] .static, body[contenteditable="true"] .exploration-header, body[contenteditable="true"] .highlight, body[contenteditable="true"] .can-you-explain, body[contenteditable="true"] .intro, body[contenteditable="true"] .two-cols-with-image, body[contenteditable="true"] .separator, body[contenteditable="true"] .engage-footer, body[contenteditable="true"] .page-footer, body[contenteditable="true"] .take-it-further, body[contenteditable="true"] .self-check, body[contenteditable="true"] .parallax-header, body[contenteditable="true"] .image-caption, body[contenteditable="true"] .wrap-up-footer, body[contenteditable="true"] .callout, body[contenteditable="true"] .feature-pattern, body[contenteditable="true"] .images-aside {
+  border: 1px solid blue;
+}
+
+h1.text-topspace-regular,
+h2.text-topspace-regular,
+h3.text-topspace-regular,
+h4.text-topspace-regular,
+h5.text-topspace-regular,
+h6.text-topspace-regular,
+blockquote.text-topspace-regular {
+  margin-top: 10px;
+}
+
+p.add-top-space {
+  margin-top: 53px;
+}
+
+@media only screen and (max-width: 880px) {
+  p.add-top-space {
+    margin-top: 42px;
+  }
+}
+
+.panel-text.box-topspace-large {
+  margin-top: 70px;
+}
+
+@media only screen and (max-width: 880px) {
+  .panel-text.box-topspace-large {
+    margin-top: 52px;
+  }
+}
+
+p.text-topspace-none {
+  margin-top: 0;
+}
+
+.box-topspace-regular {
+  margin-top: 26px;
+}
+
+.large-spacer {
+  display: block;
+  width: 100%;
+  height: 70px;
+}
+
+.regular-spacer {
+  display: block;
+  width: 100%;
+  height: 53px;
+}
+
+.small-spacer {
+  display: block;
+  width: 100%;
+  height: 30px;
+}
+
+.box-topspace-none img {
+  margin-top: 0;
+}
+
+.box-bottomspace-none img {
+  margin-bottom: 0;
+}
+
+.box-topspace-large img {
+  margin-top: 70px;
+}
+
+@media only screen and (max-width: 880px) {
+  .box-topspace-large img {
+    margin-top: 52px;
+  }
+}
+
+.box-bottomspace-regular img {
+  margin-bottom: 17px;
+}
+
+@media only screen and (max-width: 880px) {
+  .box-bottomspace-regular img {
+    margin-bottom: 13px;
+  }
+}
+
+.box-topspace-large {
+  margin-top: 70px !important;
+}
+
+@media only screen and (max-width: 880px) {
+  .box-topspace-large {
+    margin-top: 52px !important;
+  }
+}
+
+.activity-divider.box-topspace-none, .box-topspace-none {
+  margin-top: 0;
+}
+
+/* Anatomy Container */
+.anatomy-container, .anatomy-container p {
+  font-size: 0.9rem;
+}
+
+.anatomy-container .border {
+  border: 1px solid #e5e6e7;
+}
+
+.anatomy-container .row .title-panel,
+.anatomy-container .row .stem-panel,
+.anatomy-container .row .interactive-panel {
+  padding: 4px 30px 7px;
+}
+
+.anatomy-container label {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  font-weight: 400;
+  text-align: left;
+  align-items: center;
+}
+
+@media screen and (max-width: 650px) {
+  .anatomy-container .row .title-panel,
+  .anatomy-container .row .stem-panel,
+  .anatomy-container .row .interactive-panel {
+    padding: 2px 20px 4px;
+  }
+}
+
+.anatomy-container .interactive-panel {
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.top-border {
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+}
+
+.anatomy-container .title-panel {
+  background: #4c4e50;
+}
+
+.anatomy-container .stem-panel {
+  background: #e5e6e7;
+}
+
+.anatomy-container .title-panel h5 {
+  color: white;
+  font-weight: 700;
+  margin: 0;
+  padding: 3px 0 4px;
+}
+
+.anatomy-container .stem-panel h6 {
+  margin: 0;
+  color: #4c4e50;
+}
+
+.anatomy-container .interactive-panel {
+  border: 2px solid #e5e6e7;
+  border-top: 0 none;
+  background: #ffffff;
+  min-height: 120px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.anatomy-container .row .interactive-panel label span {
+  font-size: 0.9em;
+  line-height: 1.2;
+  padding-top: 10px;
+}
+
+.anatomy-container .row .interactive-panel {
+  /*padding-top:9px;
+	padding-bottom: 12px;*/
+  padding: 0;
+  min-height: 180px;
+  justify-content: center;
+}

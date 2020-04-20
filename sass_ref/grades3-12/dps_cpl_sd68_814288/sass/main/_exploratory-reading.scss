@@ -1,0 +1,19 @@
+/*Exploratory Reading*/
+
+.main-exploread {
+    background: $exploratory-bg;
+    padding-bottom: 53px;
+    .caption-hr {
+        height: 1px;
+        width: 100%;
+        color: $light-gray-l6;
+        background-color: $light-gray-l6; 
+        border: 0 none;
+        margin: 0 0 17px 0;
+         @include respond-min-width($bp-large) { 
+            margin: 0 0 13px 0;
+        }
+    }
+
+}
+

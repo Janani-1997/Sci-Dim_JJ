@@ -1,0 +1,167 @@
+// tooltip
+.tooltip,
+.tooltip1,
+.tooltip2 {
+
+  position: relative;
+  /* Hide the checkbox */
+  input[type=checkbox] {
+    width: 40px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    opacity: 0;
+    bottom: 0;
+    z-index: 1;
+    cursor: pointer;
+  }
+  /* Click label to expand */
+  label {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    max-width: 100%;
+    max-height: 300px;
+    min-height: 40px;
+    line-height: 36px;
+    background: white;
+    border: 2px solid $orange;
+    border-radius: 6px;
+    padding: 0 40px 0 68px;
+    font-size: 0.9rem;
+    font-weight: 700;
+    user-select: none;
+    position: relative;
+
+    @include respond-max-width($bp-small) {
+      font-size: 0.785em;
+      line-height: 14px;
+      padding: 5px 40px 5px 68px;
+    }
+
+    .tip-corner {
+      position: absolute;
+      left: -2px;
+      top: -2px;
+      bottom: -2px;
+      text-indent: 12px;
+      line-height: 36px;
+      background-color: $orange;
+      width: 55px;
+      color: $white;
+      border-top-left-radius: 6px;
+      border-bottom-left-radius: 6px;
+
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+
+      @include respond-max-width($bp-small) {
+        line-height: 40px;
+        padding-top: 0;
+        text-indent: 15px;
+      }
+    }
+    .tip-arrow {
+      position: absolute;
+      right: 6px;
+      top: calc(50% - 13px);
+      background: transparent url("images/icon-tip-nav-down.svg") center center no-repeat;
+      background-size: 50px;
+      width: 26px;
+      height: 26px;
+      color: $white;
+      border-top-right-radius: 6px;
+      border-bottom-right-radius: 6px;
+    }
+  }
+
+  /*  This is what gets expanded */
+  div.tip {
+    text-align: left;
+    max-width: 100%;
+    box-sizing: border-box;
+    z-index: 1;
+    border: 2px solid $light-gray-l6;
+    border-top: 0 none;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: $white;
+    visibility: hidden;
+    padding: 10px 30px 0;
+    max-height: 0;
+    transition: max-height 0s, visibility 0, padding-bottom 0;
+    overflow: hidden;
+    font-size: 0.9rem;
+  }
+  input[type=checkbox]:checked ~ label {
+    background-color: $orange;
+    color: $white;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    transition-delay: 0s;
+    .tip-corner {
+      background-color: $orange-d4;
+      border-bottom-left-radius: 0;
+    }
+    .tip-arrow {
+      background: transparent url("images/icon-tip-nav-up.svg") center center no-repeat;
+      background-size: 50px;
+    }
+  }
+  input[type=checkbox]:checked ~ div.tip {
+    display: block;
+    visibility: visible;
+    max-height: 1000px;
+    transition: max-height 0.5s ease-in-out, visibility 0.5s, padding-bottom 0.1s;
+    padding-bottom: 15px;
+  }
+  .row.fill {
+    padding: 0 !important;
+  }
+  figure img {
+    padding-right: 15px;
+    margin-top: 15px;
+  }
+  .col-xs-12 {
+    figure img {
+      padding-right: 0;
+    }
+  }
+  p {
+    margin-top: 0;
+    font-size: 0.9rem;
+  }
+
+  li{
+    margin-top: 0;
+  }
+}
+
+@include respond-max-width($bp-large) {
+  .tooltip,
+  .tooltip1,
+  .tooltip2 {
+    figure img {
+      margin-top: 10px;
+    }
+  }
+}
+
+.image-credits .tooltip{
+  label{
+    background: $stone-5;
+    border-color: $stone-5;
+    color: $text-color;
+    padding-left: 30px;
+  }
+
+  input[type=checkbox]:checked ~ label {
+    background: $stone-5;
+    color: $text-color;
+  }
+}
+

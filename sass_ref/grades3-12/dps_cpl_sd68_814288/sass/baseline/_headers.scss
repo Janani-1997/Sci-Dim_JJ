@@ -1,0 +1,15 @@
+/*--------------------------------------------------------------------
+ * Headers
+ * Headers will bleed automatically if the .header class is applied.
+ *------------------------------------------------------------------*/
+.header {
+    //@include bleed(top);
+    @include bleed-padding;
+    @include clearboth;
+    @include clearfix;
+
+    .subtitle {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}

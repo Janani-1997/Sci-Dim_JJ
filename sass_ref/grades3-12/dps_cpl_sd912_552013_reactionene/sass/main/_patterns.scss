@@ -1,0 +1,446 @@
+.separator.stone {
+  .arrow::after {
+    background: $stone-2;
+  }
+  &::after {
+    background: $stone-2;
+  }
+  &.combopattern {
+
+  }
+}
+.spacer {
+  &.tiny {
+    height: 18px; /* */
+    } /* also need regular text topspace 9px */
+    &.medium {
+      height: 24px; /* regular box topspace */
+    }
+    &.large {
+      height: 48px; /* large text topspace */
+    }
+    &.huge {
+      height: 63px; /* large box topspace */
+    }
+  }
+  .spaccer {
+    &.tiny {
+      margin-top: 18px;
+    }
+    &.medium {
+      margin-top: 24px;
+    }
+    &.large {
+      margin-top: 48px;
+    }
+    &.huge {
+      margin-top: 63px;
+    }
+  }
+
+  .callout p,
+  .feature-pattern p,
+  .feature-pattern ul>li,
+  .callout ul>li,
+  .feature-pattern ol>li,
+  .callout ol>li,
+  .highlight ul>li,
+  .highlight ol>li,
+  .highlight p {
+    font-size: 0.9rem;
+  }
+
+
+  .highlight {
+    .box {
+      background: $stone-2;
+      border: 1px solid $stone-5;
+      padding: 9px 30px 15px;
+      padding-bottom: 15px;
+      p {
+        padding-top: 9px !important;
+        padding-bottom: 0px !important;
+      }
+    }
+
+    &.blue{
+      .box {
+        background: $blue-l6;
+        border-color: $blue-l4;
+        color: $blue-d6;
+      }
+    }
+  }
+  .separator {
+    height: 75px;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 26px;
+    .arrow {
+      overflow: hidden;
+      height: 30px;
+      position: absolute;
+      top: 48px;
+      width: 100%;
+    }
+    &::after {
+      content: "";
+      height: 48px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      display: block;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      background: $light-gray-l8;
+    }
+    .arrow::after {
+      content: "";
+      margin: 0 auto 0 -25px;
+      left: 50%;
+      position: absolute;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      width: 35px;
+      height: 35px;
+      background: $light-gray-l8;
+      transform-origin: 0 0;
+      transform: rotate(-45deg);
+      border: 0;
+      z-index: 1;
+    }
+  }
+  .engage-footer {
+    .top {
+      background: $blue-d1;
+      color: white;
+      font-family: $font-serif;
+      position: relative;
+    }
+    &.page-footer .bottom {
+      .separator {
+        .arrow::after {
+          background: $blue-d1;
+        }
+        &::after {
+          background: $blue-d1;
+        }
+      }
+    }
+  }
+  .page-footer {
+    text-align: center;
+    .bottom {
+      background: $dark-gray-d2;
+      color: white;
+
+      a{
+        color: white;
+        border-bottom: 0;
+      }
+
+      .separator {
+        .arrow::after {
+          background: $light-gray-l8;
+        }
+        &::after {
+          background: $light-gray-l8;
+        }
+      }
+      .next {
+        color: $blue-l4;
+      }
+      .row > div {
+        margin: 24px auto;
+      }
+      h4 {
+        margin: 0;
+      }
+    }
+  }
+  .wrap-up-footer {
+    .top {
+      background: $stone-2;
+      text-align: left;
+      overflow: hidden;
+    }
+    .bottom {
+      .separator {
+        .arrow::after {
+          background: $stone-2;
+        }
+        &::after {
+          background: $stone-2;
+        }
+      }
+    }
+  }
+
+
+  .image-caption {
+    img {
+      width: auto;
+      max-width: 100%;
+      margin: 0 auto;
+    }
+    article{
+      padding: 0 !important;
+    }
+  }
+  .images-aside {
+    .center.main {
+      margin-top: 15px;
+    }
+  }
+/*
+  when nesting patterns the widths should be from the parent pattern
+  */
+  .row.main , .row.feature, .row.wide{
+    .feature,
+    .main,
+    .row {
+      width: 100% !important;
+      .col-xs-12 {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .col-xs-4:nth-child(1),
+      .col-xs-6:nth-child(1) {
+        padding-left: 0 !important;
+      }
+      .col-xs-4:nth-child(3),
+      .col-xs-6:nth-child(2) {
+        padding-right: 0 !important;
+      }
+    }
+  }
+  @include respond-max-width($bp-medium) {
+    .row .feature,
+    .row .main,
+    .row .row {
+      .col-xs-4:nth-child(1),
+      .col-xs-4:nth-child(2),
+      .col-xs-4:nth-child(3),
+      .col-xs-6:nth-child(1),
+      .col-xs-6:nth-child(2) {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+    }
+  }
+  .spaccer {
+    &.medium {
+      &.combopattern {
+        margin-top: 0px;
+      }
+    }
+  }
+  @include respond-max-width($bp-medium) {
+    .engage-footer {
+      .bottom {
+        .row > div {
+          margin: 19px auto;
+        }
+      }
+    }
+    .feature-pattern {
+      margin-bottom: 12px;
+    }
+    .spaccer {
+      &.medium {
+        margin-top: 19px;
+      }
+      &.large {
+        margin-top: 38px;
+      }
+      &.huge {
+        margin-top: 47px;
+      }
+    }
+    .spacer {
+      &.medium {
+        height: 19px;
+      }
+      &.large {
+        height: 38px;
+      }
+      &.huge {
+        height: 47px;
+      }
+    }
+    .separator {
+      height: 70px;
+      margin-bottom: 7px;
+      .arrow {
+        height: 28px;
+        top: 35px;
+      }
+      .arrow::after {
+        width: 28px;
+        height: 28px;
+        margin: 0 auto 0 -18px;
+      }
+    }
+    .separator::after {
+      height: 35px;
+    }
+    .page-footer {
+      .bottom {
+        .row > div {
+          margin: 19px auto;
+        }
+      }
+    }
+
+    .callout{
+      .wrapper,
+      figure {
+        margin-left: -20px;
+        margin-right: -20px;
+        /* fallback so the allready dragged patterns dont need to be updated */
+        .caption {
+          margin-left: 20px;
+          margin-right: 20px;
+        }
+      }
+    }
+
+    .feature-pattern .highlight .box {
+      .wrapper,
+      figure {
+        margin-left: -30px;
+        margin-right: -30px;
+        /* fallback so the allready dragged patterns dont need to be updated */
+        .caption {
+          margin-left: 30px;
+          margin-right: 30px;
+        }
+      }
+    }
+
+  }
+  @include respond-max-width($bp-small) {
+    .separator {
+      height: 65px;
+      margin-bottom: 12px;
+      .arrow {
+        height: 21px;
+      }
+      .arrow::after {
+        width: 21px;
+        height: 21px;
+        margin: 0 auto 0 -10px;
+      }
+    }
+    .highlight {
+      .box {
+        padding: 5px 20px 4px;
+      }
+    }
+
+    .feature-pattern .highlight .box {
+      .wrapper,
+      figure {
+        margin-left: -20px;
+        margin-right: -20px;
+        /* fallback so the allready dragged patterns dont need to be updated */
+        .caption {
+          margin-left: 20px;
+          margin-right: 20px;
+        }
+      }
+    }
+  }
+
+  /*** Image with Title ***/
+  .image-with-title {
+    h5 {color: $dark-gray-d2; font-weight: 600;margin: 0;border-top: 2px solid $dark-gray-d2;}
+  }
+
+
+  article section p.caption {
+    text-align: left;
+    border-bottom: 1px solid #cccecf;
+  }
+  article.thecaption {
+
+  }
+  .thecaption section p {
+    color: #55595b; /* Dark Grey */
+  }
+  @media only screen and (max-width: 650px) {
+    .image-caption-header5 {
+      -webkit-flex-basis: auto !important;
+      flex-basis: auto !important;
+      width: 100%;
+    }
+  }
+
+  .july-padding-fix-study-guide {
+    width: 620px;
+  }
+  @include respond-max-width($bp-medium) {
+    .july-padding-fix-study-guide {
+      width: 572px;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+  }
+  @media only screen and (max-width: 319px) {
+    .july-padding-fix-study-guide {
+      width: 307px;
+    }
+  }
+  @include respond-max-width($bp-small) {
+    .july-padding-fix-study-guide {
+      width: 408px;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .july-padding-fix-study-guide h4 {
+      padding: 14px 20px;
+      font-weight: 600;
+      font-size: 1rem;
+    }
+  }
+
+
+.propose-download-button, .download-button {
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid white;
+  width: 320px;
+  .icon {
+    width: 75px;
+    min-height: 75px;
+    height: auto;
+    display: flex;
+    background: $orange url("images/download_icon.svg") center center no-repeat;
+    background-size: 70px;
+  }
+  .content {
+    padding: 2px 9px;
+    flex: 1;
+    background: $light-gray-l6;
+    margin: 0;
+    color: $dark-gray;
+    font-weight: bold;
+    display: flex;
+    align-items:center;
+  }
+}
+@include respond-max-width($bp-medium) {
+  .propose-download-button, .download-button {
+    .content {
+      padding: 4px 9px;
+    }
+  }
+}
+@include respond-max-width($bp-small) {
+  .propose-download-button, .download-button {
+    width: 100%;
+  }
+}
+
+
+
+
+

@@ -1,0 +1,118 @@
+/* Inkling Fonts
+ * 2014-09-23
+ * Font-face declarations required for Inkling CSS.
+ */
+
+@font-face {
+    /* Font family name as it appears in the CSS */
+    font-family: 'Source Sans Pro';
+
+    /* Specified weight, style and stretch */
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+
+    /* Source locations, in order of loading attempts:
+        1. Locally installed font using postscript font name
+        2. Locally installed font using font family name
+        3. WOFF file in this directory - IE9+, FF3.6+, GC5+1, S5.1+
+        4. TTF file in this directory - Android 2.3
+    */
+    src: local('SourceSansPro-Light'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-light.otf.woff') format('woff'),
+         url('sourcesanspro-light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-LightIt'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-lightit.otf.woff') format('woff'),
+         url('sourcesanspro-lightit.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    src: local('SourceSansPro-Regular'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-regular.otf.woff') format('woff'),
+         url('sourcesanspro-regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-It'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-it.otf.woff') format('woff'),
+         url('sourcesanspro-it.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    src: local('SourceSansPro-Semibold'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-semibold.otf.woff') format('woff'),
+         url('sourcesanspro-semibold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-SemiboldIt'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-semiboldit.otf.woff') format('woff'),
+         url('sourcesanspro-semiboldit.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    src: local('SourceSansPro-Bold'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-bold.otf.woff') format('woff'),
+         url('sourcesanspro-bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: normal;
+    src: local('SourceSansPro-BoldIt'),
+         local('Source Sans Pro'),
+         url('sourcesanspro-boldit.otf.woff') format('woff'),
+         url('sourcesanspro-boldit.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'VagRoundedHMH_Bold';
+  src: url("vag-rounded/vag-rounded-primary-hmh-bold.otf") format("opentype"), url("vag-rounded/vag-rounded-primary-hmh-bold.woff") format("woff"), url("vag-rounded/vag-rounded-primary-hmh-bold.ttf") format("truetype")
+}
+
+@font-face {
+  font-family: 'AvenirPrimaryHMH_Roman';
+  src: url("avenir-primary/avenir-primary-hmh.otf") format("opentype"), url("avenir-primary/avenir-primary-hmh.woff") format("woff"), url("avenir-primary/avenir-primary-hmh.ttf") format("truetype")
+}
+
+@font-face {
+  font-family: 'AvenirPrimaryHMH_Roman';
+  font-weight: bold;
+  src: url("avenir-primary/avenir-primary-hmh-bold.otf") format("opentype"), url("avenir-primary/avenir-primary-hmh-bold.woff") format("woff"), url("avenir-primary/avenir-primary-hmh-bold.ttf") format("truetype")
+}

@@ -1,0 +1,100 @@
+/* ========================================= */
+/*      Footer Patterns                      */
+/* ========================================= */
+
+
+/*** Lesson Engage Footer & Section Footer ***/
+.lesson-engage, .section-footer {
+    .arrow-down.stone-3 {color: $stone-3;}
+    .arrow-down.aqua-d2 {color: $aqua-d2;}
+    h3, h4, h2, h6 {
+        font-weight: 600;
+        color: white;
+        padding: 0;
+
+        a{
+          color: white;
+          border-bottom: 0;
+        }
+
+        @include respond-max-width($bp-medium) {
+           padding-top: 0;
+        }
+    }
+
+    h4.intro {color: $aqua-d2;}
+
+    a {
+        text-decoration: none;
+    }
+
+    h3, h2 {
+        padding-bottom: 115px;
+        margin-top: 0;
+        font-family: $font-serif;
+        @include respond-max-width($bp-medium) {
+           padding-bottom: 82px;
+        }
+    }
+
+    h4, h5 {
+        margin-top: 43px;
+        @include respond-max-width($bp-medium) {
+           margin-top: 34px;
+        }
+    }
+
+    h5 {color: $white;}
+
+    .intro {
+        padding-bottom: 54px;
+        @include respond-max-width($bp-medium) {
+           padding-bottom: 38px;
+        }
+    }
+
+    p {
+        color: white;
+        font-weight: 200;
+        margin-top: 0;
+        padding-top: 0;
+        margin-bottom: 50px;
+        font-size: 1.3rem;
+        @include respond-max-width($bp-large) {
+           font-size: 1.2rem;
+        }
+        @include respond-max-width($bp-medium) {
+           margin-bottom: 34px;
+        }
+    }
+}
+
+
+/*** Wrap Up Activity Super Pattern ***/
+.lesson-wrapup {
+    padding-bottom: 41px;
+    margin-top: 53px;
+
+
+    h2{
+      margin-top: 51px;
+      color: $aqua-d2;
+      font-family: $font-sans;
+    }
+
+    @include respond-max-width($bp-large) {
+      h2{
+        margin-top: 55px;
+      }
+    }
+
+    @include respond-max-width($bp-medium) {
+      padding-bottom: 32px;
+      margin-top: 42px;
+
+      h2{
+        margin-top: 35px;
+      }
+    }
+
+}

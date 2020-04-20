@@ -1,0 +1,211 @@
+/*--------------------------------------------------------------------
+ * Links
+ *
+ * Text and button links.
+ *------------------------------------------------------------------*/
+a {
+    color: $link_color;
+    font-weight: 600;
+    text-decoration: underline;
+    @include force-wrap;
+} 
+
+/**
+ * Component: Button
+ * --------------------------------------------------
+ */
+explib-widget-button {
+  display: inline-flex;
+  width: 50%;
+  display: inline-flex;
+  box-sizing: border-box;
+  color: $white;
+
+  button {
+    margin: 0 7px 0 0;
+  }
+  
+  @include respond-min-width($bp-medium) {
+    width: auto;
+
+    button {
+      margin-right: 0;
+    }
+  }
+  
+
+  // Check button only
+  &[elemid="btnCheck-show"] {
+      width: 100%;
+
+      button {
+        margin: 0 0 10px 0;
+      }
+
+      @include respond-min-width($bp-medium) {
+        width: auto;
+        button {
+          margin: 0;
+        }
+      }
+  }
+  
+  // Check button only
+  &[elemid="btnCheck-reveal"] {
+
+    button { 
+      margin: 0 0 0 8px;
+    }
+
+
+    @include respond-min-width($bp-medium) {
+      width: auto;
+      
+      button {
+        margin-left: 15px;
+      }
+    }
+  }
+  
+  &.fill-width {
+    width:100%;
+    margin-left: 0;
+
+    @include respond-min-width($bp-medium) {
+      width: auto;
+    }
+
+    &[elemid="btnCheck-reveal"],
+    &[elemid="btnCheck-try-again"] {
+
+      button { 
+        margin: 0;
+      }
+    }
+
+  }
+
+  .explib-button {
+    @include transition(all 0.2s ease);
+    width: 100%;
+    min-height: 40px;
+    padding: 5px 15px;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 1rem;
+    -webkit-appearance: none;
+    position: relative;
+    display: inline-block;
+    overflow: visible;
+    text-align: center;
+    background: transparent;
+    border: 0;
+    user-select: none;
+
+    &:last-child {
+      margin-bottom: 0px;
+    }    
+  }
+  .explib-button:hover, .explib-button:focus {
+    outline: 0;
+    text-decoration: none;
+  }
+  .explib-button:not(:disabled) {
+    cursor: pointer;
+  }
+
+  button:disabled {
+    border: 1px solid $blue-c15;
+    color: $blue-c15;
+    background-color: $dss-white;
+    cursor: default!important;
+  }
+
+  button:enabled {
+    background-color: $blue-c50;
+    border: 1px solid $blue-c50;
+    color: $dss-white;
+    cursor: pointer;
+
+    @include respond-min-width($bp-medium) {
+      border: 1px solid $blue-c40;
+      background-color: $blue-c40;
+    }
+
+    &:hover {
+      background-color: $blue-c55;
+      border: 1px solid $blue-c55;
+
+      @include respond-min-width($bp-medium) {
+        background-color: $blue-c45;
+        border: 1px solid $blue-c45;
+      }
+    }
+    &:active {
+      background-color: $blue-c60;
+      border: 1px solid $blue-c60;
+
+      @include respond-min-width($bp-medium) {
+        background-color: $blue-c50;
+        border: 1px solid $blue-c50;
+      }
+    }
+  }
+
+  .hidden {
+    display: none;
+  }
+  
+  .button-label {
+    position: relative;
+  }
+}
+
+/**
+ * Utility: Ripple animation container
+ * --------------------------------------------------
+ */
+
+.explib-ripple {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: transparent;
+}
+
+.explib-ripple__circle {
+  @include transform(translateX(-50%) translateY(-50%));
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background-color: $blue-c60;
+  
+  @include respond-min-width($bp-medium) {
+    background-color: $blue-c50;
+  }
+}
+
+.explib-ripple.is-active .explib-ripple__circle {
+  animation: ripple 280ms ease-in;
+}
+
+@include keyframes(ripple) {
+    0% {
+      opacity: 0;
+    }
+    25% {
+      opacity: 1;
+    }
+    100% {
+      width: 200%;
+      padding-bottom: 200%;
+      opacity: 0;
+    }
+}

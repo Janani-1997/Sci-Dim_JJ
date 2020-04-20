@@ -1,0 +1,25 @@
+/*--------------------------------------------------------------------
+ * Media
+ *------------------------------------------------------------------*/
+audio {
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+}
+
+/* Set native videos to always be scaled to their container.
+The !important tag is required to override width/height attr */
+video {
+    width: 100% !important;
+    height: auto !important;
+}
+
+figure.video {
+	margin: 26px 0 17px 0;
+    padding: 0;
+    @include respond-max-width($bp-large) {
+        margin: 21px 0 13px 0;
+    } 
+}

@@ -1,0 +1,68 @@
+/*--------------------------------------------------------------------
+ * Forms
+ *------------------------------------------------------------------*/
+button,
+fieldset,
+input,
+optgroup,
+select,
+textarea {
+    /* Correct inproperly inherited font sizes/styles */
+    font: inherit;
+    /* Remove focus outline */
+    &:focus {
+        outline: 0;
+    }
+}
+
+/* Buttons */
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  /* Address `overflow` set to `hidden` in IE 9/10/11. */
+  overflow: visible;
+  /* Correct inability to style clickable `input` types in iOS. */
+  -webkit-appearance: button;
+  /*  Improve usability and consistency of cursor style between image-type `input` and others. */
+  cursor: pointer;
+  background: $light-gray-d1;
+  color: $white;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  border: 0px none;
+  padding: em($indent-unit/4) em($indent-unit/2);
+  &:hover {
+    background: $light-gray-d1;
+  }
+}
+
+/* Re-set default cursor for disabled elements. */
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+/* Text Input */
+input[type="text"] {
+    line-height: normal;
+    border: 1px solid $text-color;
+    border-radius: 2px;
+    padding: em($indent-unit/4);
+    min-width: 50%;
+}
+
+/* Textarea */
+textarea {
+    margin-bottom: space(1);
+    overflow: auto; /* Remove scrollbars in IE */
+    width: 100%;
+    border: 1px solid $text_color;
+    border-radius: 2px;
+    padding: em($indent-unit/4);
+    outline: none;
+    &:focus {
+      border: 1px solid $light-gray-d1;
+    }
+    resize: none;
+}

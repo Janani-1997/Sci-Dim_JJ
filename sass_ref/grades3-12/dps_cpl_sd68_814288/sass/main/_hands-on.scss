@@ -1,0 +1,197 @@
+.row.materials {
+  width: 100%;
+  border-width: 2px;
+  border-style: solid;
+  padding: 30px 15px 15px 30px;
+  div.sidebar {
+    padding-right: 15px;
+  }
+  h4 {
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    padding: 0;
+    margin: 0 0 0 10px;
+  }
+  .icons {
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-right: 0;
+    align-content: flex-start;
+    p{
+        text-indent: -9999px;
+        overflow: hidden;
+    }
+    > div {
+      width: 70px;
+      height: 85px;
+      background-size: 70px;
+      background-position: center 0;
+      margin: 0 15px 15px 0;
+    }
+    .animal {
+      background-image: url("images/hands-on/safety-icon_animal.svg");
+    }
+    .caustic {
+      background-image: url("images/hands-on/safety-icon_caustic.svg");
+    }
+    .chemical {
+      background-image: url("images/hands-on/safety-icon_chemical.svg");
+    }
+    .clothing {
+      background-image: url("images/hands-on/safety-icon_clothing.svg");
+    }
+    .disposal {
+      background-image: url("images/hands-on/safety-icon_disposal.svg");
+    }
+    .electric {
+      background-image: url("images/hands-on/safety-icon_electric.svg");
+    }
+    .explosive {
+      background-image: url("images/hands-on/safety-icon_explosive.svg");
+    }
+    .eye-protection {
+      background-image: url("images/hands-on/safety-icon_eye-protection.svg");
+    }
+    .fire {
+      background-image: url("images/hands-on/safety-icon_fire.svg");
+    }
+    .gas {
+      background-image: url("images/hands-on/safety-icon_gas.svg");
+    }
+    .glass {
+      background-image: url("images/hands-on/safety-icon_glass.svg");
+    }
+    .gloves {
+      background-image: url("images/hands-on/safety-icon_gloves.svg");
+    }
+    .hand-wash {
+      background-image: url("images/hands-on/safety-icon_hand-wash.svg");
+    }
+    .heating {
+      background-image: url("images/hands-on/safety-icon_heating.svg");
+    }
+    .plants {
+      background-image: url("images/hands-on/safety-icon_plants.svg");
+    }
+    .radiation {
+      background-image: url("images/hands-on/safety-icon_radiation.svg");
+    }
+    .sharps {
+      background-image: url("images/hands-on/safety-icon_sharps.svg");
+    }
+  }
+}
+.hol {
+
+  .bleed {
+    padding-bottom: 1px;
+    background: url("images/hands-on/hol-square-background-tile.png") center center;
+  }
+  .row.materials {
+    padding: 15px;
+
+    .sidebar{
+      margin-top: -10px;
+    }
+
+    .icons{
+      margin-top: -2px;
+    }
+  }
+  > * > .content {
+    background: white;
+    margin: 50px auto 22px;
+
+    h2 {
+      color: $text-color;
+      font-weight: normal;
+      margin: 0 auto 0 0;
+      position: relative;
+      font-size: 2rem;
+      padding-bottom: 30px;
+      border-bottom: 1px solid $aqua-d2;
+      .round-header-icon {
+        background-size: 73px;
+        top: -15px;
+      }
+
+      @keyframes hand {
+        from {
+          left: -122px;
+        } to {
+          left: -217px;
+        }
+      }
+
+      .hand {
+        left: -122px;
+        background-image: url("images/hands-on/hol-hand.svg");
+        animation: hand cubic-bezier(.87,-.41,.19,1.44) 0.8s;
+        animation-delay: 5s;
+        animation-fill-mode: forwards;
+      }
+      .hol-icon {
+        background-image: url("images/hands-on/hol-text.svg");
+      }
+    }
+    .path-heading {
+      margin-top: -14px;
+      p {
+        margin-top: 0;
+        padding-top: 0;
+      }
+    }
+  }
+
+  .bottom{
+      .triangle::after{
+        border-bottom-color: #D6EFF3;
+        border-left-color: #D6EFF3;
+        box-shadow: -5px 5px 8px 0 rgba(204,204,204,0.7);
+      }
+  }
+
+}
+
+.hands-on-wrapup{
+  .lesson-wrapup{
+    margin-top: -20px;
+  }
+}
+
+@include respond-max-width(1024px) {
+  .hol {
+
+    @keyframes hand-mobile {
+      from {
+        left: 68px;
+      } to {
+        left: 0px;
+      }
+    }
+
+    > * > .content {
+
+      h2 {
+        .round-header-icon {
+          top: -130px;
+          width: 77px;
+          height: 77px;
+          background-size: 53px;
+          border: 2px solid white;
+        }
+        .hand {
+          left: 68px;
+          animation: hand-mobile cubic-bezier(.87,-.41,.19,1.44) 0.8s;
+          animation-delay: 5s;
+          animation-fill-mode: forwards;
+        }
+        .hol-icon {
+          left: 68px;
+        }
+      }
+    }
+  }
+}
