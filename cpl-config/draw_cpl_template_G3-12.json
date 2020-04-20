@@ -1,0 +1,15 @@
+{
+  "ActivityTitle": "",
+  "QuestionStem": "",
+  "VOIntro": "",
+  "Tip": "",
+  "Summary": "",
+  "backgroundImage": "",
+  "AudioFromRCE": true,
+  "AllowFullScreen": true,
+  "AllowRefresh": true,
+  "isPracticeInteraction": false,
+  "audioFile": "../../audio/manifests/config.json",
+  "audioSchema": "drawing_tool_audio_schema.json",
+  "SummaryAltText": ""
+}

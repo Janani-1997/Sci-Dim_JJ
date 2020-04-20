@@ -1,0 +1,29 @@
+/*--------------------------------------------------------------------
+ * Headers
+ * Headers will bleed automatically if the .header class is applied.
+ *------------------------------------------------------------------*/
+.header {
+    //@include bleed(top);
+    @include bleed-padding;
+    @include clearboth;
+    @include clearfix;
+
+    .subtitle {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}
+
+.header-bar-module {
+    background-image:url('images/orange.svg');
+    height: 34px;
+    width: 100%;
+//    background-size: 100% 34px;
+//    background-repeat: repeat-x;
+}
+
+.header-bar-selection {
+    background-image:url('images/selection.png');
+    background-size: 100% 34px;
+    background-repeat: repeat-x;
+}

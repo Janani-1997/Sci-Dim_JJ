@@ -1,0 +1,1387 @@
+$bar-width: 100%;
+$bar-height: 25px;
+$header-font: "QueulatHMHCnd-Bold";
+$border-with: 9px;
+
+$backgrounds:   "blue" $blue-s20,
+                "yellow" $yellow-s30,
+                "gray" $gray-c5,
+                "gray-words-about" $gray-c5 url(""),
+                "purple" $purple-s20;                 
+
+@each $bg-color in $backgrounds {
+        .#{nth($bg-color, 1)}-bg {
+            background-image: none; //my default theme has a background-image to allow gradients, need to overide.
+            background-color: #{nth($bg-color, 2)};
+            min-height: 480px;
+        }  
+}
+
+$page-wrappers:   "white" $white none,
+                "yellow" $yellow-s30 none,
+                "gray" $gray-c5 none,
+                "gray-words-about" $gray-c5 url(""),
+                "tt" $gray-c5 url(""),
+                "purple" $purple-s20 none;                 
+
+div .page-wrapper {
+    background-image: none; //my default theme has a background-image to allow gradients, need to overide.
+    margin-top: 24px;
+}
+
+@each $page-wrapper in $page-wrappers {
+        .#{nth($page-wrapper , 1)}-wrapper {
+            background-image: none; //my default theme has a background-image to allow gradients, need to overide.
+            background-color: #{nth($page-wrapper , 2)};
+            border-style: none;
+            margin-top: 34px;
+            border-bottom-left-radius: 30px;
+            border-bottom-right-radius: 30px;  
+            border-top-left-radius: 30px;
+            border-top-right-radius: 30px;  
+        }  
+}
+
+$reading-themes: (
+    module: 
+        (   theme-name: "module",
+            theme-color-1: $orange-c40,
+            theme-color-2: $yellow-s20, 
+            theme-color-3: $orange-c40,
+            header-font: "QueulatHMHCnd",
+            header-font-color: white,
+            body-font: "QueulatHMHCnd",
+            body-font-color: "",
+            body-font-font-2: "QueulatHMHCnd",
+            body-font-font-2-color: "QueulatHMHCnd"
+        ),
+    selection:  
+        (   theme-name: "selection",
+            theme-color-1: $blue-c45, 
+            theme-color-2: $blue-s15, 
+            theme-color-3: $blue-c55,
+            header-font: "QueulatHMHCnd",
+            header-font-color: white,
+            body-font: "QueulatHMHCnd",
+            body-font-color: "",
+            body-font-font-2: "QueulatHMHCnd",
+            body-font-font-2-color: "QueulatHMHCnd"
+        )
+);
+
+.opener {
+    position: relative;
+    background: transparent; /* UPDATE */
+    padding: 0; /* UPDATE */
+}
+
+header {
+    min-height: 32px;
+    b, strong {
+        font-weight: normal;
+    }
+}
+
+b, strong {
+    font-weight: 700;
+}
+
+
+@each $key, $theme in $reading-themes {
+    // for each theme key value get is value
+    $theme-name: map-get($theme, theme-name);
+    $theme-color-1: map-get($theme, theme-color-1);
+    $theme-color-2: map-get($theme, theme-color-2);
+    $theme-color-3: map-get($theme, theme-color-3);
+    $theme-color-3: map-get($theme, theme-color-3);
+
+    //MBB
+    .theme-#{$theme-name} {             //NOTE: Applying to header element
+        font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+        color: $cool-gray-c65;        
+        font-size: $L5-size;
+    }
+    
+//    .theme-#{$theme-name} b {
+//        font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+//        color: $cool-gray-c65;
+//        font-size: $L5-size;
+//        font-weight: 550;
+//    }
+    
+    //MBB
+    .theme-#{$theme-name} header[class*="header-combo"]{             //NOTE: Applying to header element
+        background-image:url('images/header-bar-#{$theme-name}.png');
+        background-repeat: repeat-x;
+        background-size: 100% 32px;
+        font-family: "QueulatHMHCnd", Times New Roman, serif;
+        color: #ffffff;              
+    }
+    //MBB
+    .theme-#{$theme-name} header{             //NOTE: Applying to header element
+        background-image:url('images/header-bar-#{$theme-name}.png');
+        background-size: 100% 32px;
+        background-repeat: repeat-x;
+        font-family: "QueulatHMHCnd", Times New Roman, serif;
+        color: #ffffff;                      
+    }
+    //MBB
+    .theme-#{$theme-name} header article section {             
+        background-color: $theme-color-1;
+        border-bottom: $theme-color-2;
+        border-left: $theme-color-2;
+        border-right: $theme-color-2;
+        border-style: solid;
+        border-bottom-width: $border-with;
+        border-left-width: $border-with;
+        border-right-width: $border-with;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;  
+        padding-bottom: 4px;
+    }
+    //MBB
+    .theme-#{$theme-name} header[class*="header-combo"] article section {  
+        min-height: 92px;
+        padding-left: 21px;
+    }
+
+    .theme-#{$theme-name} header article section {             
+        min-height: 92px;
+        padding-left: 21px;
+    }
+    
+   .theme-#{$theme-name} header article section h1{   
+//        font-family: "QueulatHMHCnd", Times New Roman, serif;
+        font-family: "QueulatHMHCnd Bold", Times New Roman, serif;
+        font-weight: normal;
+        padding: 22px 21px 3px 21px;        
+        font-size: $L3-size;       
+        line-height: $L3-line-height;
+    }
+    
+   .theme-#{$theme-name} header[class*="header-combo"]  article section h1 {   
+        font-family: "QueulatHMHCnd Bold", Times New Roman, serif;
+        font-weight: normal;        
+        font-size: $L4-size;       
+        line-height: $L4-line-height;
+        padding: 22px 21px 3px 21px;        
+        width: 100%;
+    }
+
+    .theme-#{$theme-name} header h5 {     
+        display: flex;
+    }
+    
+    .theme-#{$theme-name} header h5.supertitle {  
+        margin-left: -4px;
+//        padding-right: 36px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        line-height: $base-line-height;
+        height: 33px;
+        font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+        font-style: normal;                
+        font-weight: normal;
+        font-size: $L6-size;
+    }
+/*    
+        .theme-#{$theme-name} header[class*="header-combo"] h5.subtitle {          
+            clear: both;
+            float: left;
+            position: absolute;
+            right: 36px;
+            max-width: 204px;
+            background-color: $theme-color-3;
+            border-bottom: $theme-color-2;
+            border-left: $theme-color-2;
+            border-right: $theme-color-2;
+            border-style: solid;
+            border-bottom-width: 9px;
+            border-left-width: 9px;
+            border-right-width: 9px;
+            border-bottom-left-radius: 30px;
+            border-bottom-right-radius: 30px;
+            margin-left: 56%;
+            padding-left: 21px;
+            padding-right: 21px;
+            padding-top: 10px;
+            top: 0px;
+            min-height: 52px;
+        
+    }    
+*/    
+    
+    @include respond-max-width($bp-xlarge) {        
+        
+        .theme-#{$theme-name} header[class*="header-combo"] h5.subtitle {          
+            clear: both;
+            float: left;
+            position: absolute;
+            right: 36px;
+            max-width: 204px;
+            background-color: $theme-color-3;
+            border-bottom: $theme-color-2;
+            border-left: $theme-color-2;
+            border-right: $theme-color-2;
+            border-style: solid;
+            border-bottom-width: 9px;
+            border-left-width: 9px;
+            border-right-width: 9px;
+            border-bottom-left-radius: 30px;
+            border-bottom-right-radius: 30px;
+            margin-left: 56%;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            top: 0px;
+    //        padding-left: 36px;
+    //        padding-right: 36px;
+            min-height: 52px;
+        }        
+    }
+    
+    @include respond-max-width($bp-medium) {
+       .theme-#{$theme-name} header article section h1{   
+            font-family: "QueulatHMHCnd Bold", Times New Roman, serif;
+            margin-top: 16px;
+//            font-weight: normal;
+            font-size: $L3-size-small;       
+            line-height: $L3-line-height;
+        }        
+        
+        .theme-#{$theme-name} header[class*="header-combo"] article section{             //NOTE: Applying to header element
+            height: 96px;
+        }
+        
+        .theme-#{$theme-name} header[class*="header-combo"]   article section h1 {          
+            width: 100%;
+            font-size: $L3-size-small;       
+            line-height: $L3-line-height;            
+        }        
+        .theme-#{$theme-name} header[class*="header-combo"] h5.subtitle {          
+            clear: both;
+            
+            padding-left: 21px;
+            padding-top: 10px;
+            position: initial;
+            left: auto;
+            margin-left: 0px;
+            padding: 0;
+            border: none;
+            background: none;
+            border-radius: none;            
+    //        padding-left: 36px;
+    //        padding-right: 36px;
+            min-height: 52px;
+        }        
+    }
+
+
+    @include respond-max-width($bp-small) {
+       .theme-#{$theme-name} header article section h1{   
+            font-family: "QueulatHMHCnd Bold", Times New Roman, serif;
+            margin-top: 2px;
+            padding: 12px 16px 12px 16px;            
+            font-weight: normal;
+            font-size: $L3-size-small;       
+            line-height: $L3-line-height;
+        }        
+        
+        .theme-#{$theme-name} header[class*="header-combo"] article section{             //NOTE: Applying to header element
+            min-height: 70px; 
+        }
+    }
+    .theme-#{$theme-name} header h5.subtitle {          
+        padding-right: 36px;
+        padding-top: 10px;
+        line-height: $base-line-height;
+        font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+        font-style: normal;                
+        font-size: $L6-size;        
+    }
+    
+    //MBB
+    .theme-#{$theme-name} footer  { //NOTE: Applying to footer class as the footer is entirley decorative 
+        background-image:url('images/footer-bar-#{$theme-name}.png');
+        background-repeat: repeat-x; 
+        background-position: center center;
+        position: relative;
+        background-repeat: none;
+        bottom: 0px;
+        min-height: 34px; 
+        margin-top: 21px;
+    }
+
+    /*------------------------------------------------------------------
+     * Headings
+     *----------------------------------------------------------------*/
+
+//    header h5.supertitle {margin: 0;padding-top: 7.5px;}
+//    header h5.subtitle {margin: 0;padding-bottom: 7.5px;}
+
+//    .supertitle-h2 h5.supertitle {padding-bottom: 0;}
+//    .supertitle-h2 h2 {margin-top: 0;}
+
+    h2, h3, h4, h5, h6, sup, .supertitle, blockquote {
+        margin: 42px 0 0 0;
+    }
+
+    h1 {
+        line-height: $L1-line-height;
+    }
+
+    h2 {
+        line-height: $L2-line-height; 
+    }
+
+    @include respond-max-width($bp-large) {
+
+        h1 {
+            font-size: 2.1rem;
+            padding: 0 0 3px 0;
+
+        }
+
+        h2 {
+            font-size: 1.7rem;
+            padding: 0 0 2px 0;
+
+        } 
+
+        h3, blockquote {
+            font-size: 1.4rem;
+            line-height: 1.3;
+            padding: 1px 0 4px 0;
+
+        } 
+
+        h4, .intro-text {
+            font-size: 1.2rem;
+            line-height: 1.35;
+            padding: 2px 0 4px 0;
+        } 
+
+//        h5 {
+//            width: 100%;
+//            padding: 2px 0 3.5px 0;
+//            font-size: 1rem;        
+//            line-height: 1.5;
+//        } 
+//
+//        h6 {
+//            font-size: 0.9rem;
+//            line-height: 1.5;
+//            padding: 3px 0 4px 0 ;
+//
+//        }   
+
+        p {
+            line-height: 1.5;
+            margin: 10px 0 0 0;
+            padding: 2px 0 3.5px 0;
+            font-size: 1rem;
+
+        }
+
+        sub, .subtitle {
+            margin: 0;
+            padding: 0 0 3.5px 0;
+            font-size: 1rem;
+            line-height: 1.5;
+        }
+        .theme-#{$theme-name} header {
+            [class^="col-"], 
+            [class*=" col-"] {
+                padding-top: 0px;
+                padding-bottom: 21px; 
+            }
+            .fill {
+                padding-bottom: 42px;
+            }  
+        }
+        .theme-#{$theme-name} header {
+            [class^="col-xs-12"], 
+            [class*=" col-xs-12"] {
+                padding-top: 0px;
+                padding-bottom: 21px; 
+            }
+            .fill {
+                padding-bottom: 42px;
+            }  
+        }
+        
+//        .theme-#{$theme-name} * figcaption {
+//            line-height: $base-line-height;
+//            font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+//            font-style: normal;                
+//            font-size: $L6-size;        
+//            color: $text-color;
+//        }
+
+        .theme-#{$theme-name} ul > li{
+            line-height: $base-line-height;
+            font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+            font-style: normal;      
+            margin-left: 0px;    
+            font-size: $L6-size;        
+        }
+
+    }
+
+
+
+    @include respond-min-width($bp-large) {
+
+        h2, h3, h4, h5, h6, .h7, .h8, .h9 sup, .supertitle, blockquote {
+            margin: 53px 0 0 0;
+        }
+
+        h1 {
+            font-size: 2.9rem;
+            padding: 0 0 3px 0;
+
+        } 
+
+        h2 {
+            font-size: 2.2rem;
+            padding: 2px 0 3px 0;
+
+        } 
+
+        h3, blockquote {
+            font-size: 1.7rem;
+            line-height: 1.3;
+            padding: 4.5px 0 5px 0;
+
+        } 
+
+        h4, .intro-text {
+            font-size: 1.3rem;
+            line-height: 1.35;
+            padding: 7px 0 8px 0;
+
+        }
+/*
+        h5 {
+            padding: 7.5px 0 7.5px 0;
+            font-size: 1rem;   
+            line-height: 1.5;
+            display: flex;
+        }  
+
+        h6 {
+            font-size: 0.9rem;
+            line-height: 1.5;
+            padding: 8px 0 9px 0 ;
+
+        }    
+*/
+        p {
+            line-height: 1.5;
+            margin: 10px 0 0 0;
+            padding: 7.5px 0 7.5px 0;
+            font-size: 1rem;
+
+        }
+        sub, .subtitle {
+            margin: 0;
+            padding: 0 0 7.5px 0;
+            font-size: 1rem;    
+            line-height: 1.5;
+        }
+        .theme-#{$theme-name} header {
+            [class^="col-"], 
+            [class*=" col-"] {
+                padding-top: 0px;
+                padding-bottom: 21px;
+            }
+
+            .fill {
+                padding-bottom: 53px;
+            }
+        }
+      }
+
+    .img-title h3 {margin-top: 0;}    
+    
+}
+
+//h5.arrow-green {
+//    background-color: $green-s35;
+//    padding: 0 15px;
+//    line-height: 50px;
+//    display: flex;
+//    color: white;
+//    height: 50px;
+//}
+
+h5 {
+    display: flex;
+    padding: 6px 0 6px 0;
+    font-size: 1rem;   
+    line-height: 1.5;
+}  
+
+$labels:   "green" $green-s35,
+                "yellow" $yellow-s35,
+                "purple" $purple-s35,
+                "orange" $orange-c45,
+                "blue" $blue-c50,    
+                "read-blue" $blue-s20;                 
+
+@each $label in $labels {
+//        h5.arrow-#{nth($label , 1)}:first-child {
+//            display: flex;
+//            flex-basis: none;            
+//            background-color: #{nth($label , 2)};
+//            background-color: purple;
+//            position: relative;
+//            display: flex;
+//            color: white;
+//            height: 37px;            
+//        }
+        
+        h5.arrow-#{nth($label , 1)}::after {
+          content: "";
+          border-left: 25px solid #{nth($label , 2)};
+          border-top: 18.5px solid transparent;
+          border-bottom: 18.5px solid transparent;
+          position: absolute;
+          top: 0;
+          right: -25px;
+        }
+
+        h5.arrow-#{nth($label , 1)} {
+            width: initial;
+            margin-right: auto;
+        //    display: inline !important;
+            position: relative;
+            padding: 8px 10px 8px 10px;
+            font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+            font-style: normal;        
+            font-size: $L7-size;                
+            margin-top: 20px;
+            background-color: #{nth($label , 2)};
+            color: white;
+            height: 37px;
+            text-transform: uppercase;
+            min-width: 100px;
+//            width: 182px;
+        }
+
+        h5.heading-#{nth($label , 1)} {
+            font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+            font-style: normal;        
+            font-size: $L6-size;                
+            margin-top: 8px;
+            color: #{nth($label , 2)};
+            font-weight: normal;
+            height: 37px;
+            text-transform: uppercase;
+            min-width: 100%;
+            width:100%;
+        }
+        
+        hr.divider-#{nth($label , 1)} {
+            border: 0;
+            height: 3px;
+            width: 100%;
+            margin: 32px auto 32px auto;
+            background: #{nth($label , 2)};
+        }        
+
+}
+
+h5.heading-red {
+    display: block;
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;        
+    font-size: $L5-size;                
+    margin-top: 8px;
+    color: #e61d1a;
+    font-weight: normal;
+    text-align: center !important;
+    height: 37px;
+    min-width: 100%;
+    width: 100%;
+}
+
+.tip-icon {
+  position: relative;    
+  top: -37px;    
+  right: 6px;
+  background-image: url("images/tip-icon-in-cricle.svg");
+  background-repeat: no-repeat;
+  background-position: right;
+  width: 100%;
+  min-height: 64px;
+  max-height: 64px;
+}
+
+.listening-tip {
+    margin-top: 21px;
+    margin-bottom: 21px;
+    border-style: solid;    
+    border-left: 9px solid $blue-s20;
+    border-right: 9px solid $blue-s20;
+    border-bottom: 9px solid $blue-s20;
+    border-top: 9px solid $blue-s20;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: $blue-c5;    
+}
+
+.listening-tip h5 {
+    color: $blue-c50;
+    position: relative;
+    display: flex;
+    font-weight: normal;
+    padding: 0px 6px 8px 0px;
+    font-family: "QueulatHMHCnd", Times New Roman, serif;
+    font-style: normal;        
+    font-size: $L5-size;                
+    line-height: 1.5;
+    margin-top: -48px;
+    background-color: none;
+    min-width: 182px;
+    width: 182px;
+}
+
+.listening-tip p {
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;     
+    padding: 4px 0px 16px 0px;
+    font-size: $L6-size;                
+    line-height: $base-line-height;
+    background-color: none;
+    color: $text-color;
+}
+
+.tip-article {
+    margin-top: 22px;
+    margin-bottom: 22px;
+    border-style: solid;    
+    border-left: 9px solid $blue-s20;
+    border-right: 9px solid $blue-s20;
+    border-bottom: 9px solid $blue-s20;
+    border-top: 9px solid $blue-s20;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: $blue-c5;    
+    padding-bottom: 16px;
+}
+
+.tip-article h5 {
+    color: $blue-c50;
+    position: relative;
+    display: flex;
+    font-weight: bold;
+    padding: 0px 6px 8px 0px;
+    font-family: "QueulatHMHCnd", Times New Roman, serif;
+    font-style: normal;        
+    font-size: $L5-size;                
+    line-height: 1.5;
+    margin-top: -48px;
+    background-color: none;
+    min-width: 182px;
+}
+
+.tip-article p {
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;     
+    padding: 4px 0px 16px 0px;
+    padding: 8px 0px 16px 0px;
+    font-size: $L6-size;                
+    line-height: $base-line-height;
+    background-color: none;
+    color: $text-color;
+}
+
+.powerwords table {
+    word-wrap: break-word;
+    width: 180px;
+    margin-top: 16px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-left: 9px solid $aqua-c45;
+    border-right: 9px solid $aqua-c45;
+    border-bottom: 9px solid $aqua-c45;
+    border-top: 9px solid $aqua-c45;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.powerwords thead {
+    background-color: $aqua-c45;
+    color:#fff;
+    height: 30px;
+    padding-top: 7px;
+    padding-left: 2px;
+    font-size: $L6-size;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;      
+}
+
+.powerwords table tbody {
+    font-size: 0.6rem;
+}
+
+@media screen and (max-width: 650px) {
+.powerwords table {
+  border-collapse: collapse;
+    }
+}
+
+.powerwords table tr, .powerwords table th {
+    padding-top: 7px;
+    font-size: $L6-size;
+    padding: 6px;    
+//    padding: 15px;
+}
+.powerwords table td {
+    height: 32px;    
+    padding-top: 0px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+    padding-left: 23px;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.powerwords table th {
+    height: 30px;
+    padding-top: 7px;
+    font-size: $L6-size;
+    padding: 2px;
+    text-align: center;
+    
+}
+
+.powerwords table tbody {
+    display: table;
+    width: 100%;
+}
+
+.powerwords table tbody td {
+    color: #2A4DC1;
+    font-size: $L6-size;
+    font-family: "AvenirprimaryHMH";
+    font-weight: 400;
+    border-left: 1px;
+    border-right: 1px;
+    padding-right: 23px;
+}
+
+.powerwords table tbody td dfn {
+    color: $blue-c60;
+    font-size: 1rem;
+    font-family: "AvenirprimaryHMH";
+    font-weight: 400;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    padding-right: 0px;
+    background-image: none;
+    background-color: $yellow-s20;
+}
+
+ul {
+    padding-top: 0px;
+    line-height: $base-line-height;
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;      
+    font-size: $L6-size;        
+}
+
+ol {
+    padding-top: 10px;
+    line-height: $base-line-height;
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;      
+    margin-left: 1rem;
+    font-size: $L6-size;        
+}
+
+li {
+    line-height: $base-line-height;
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;      
+    font-size: $L6-size;        
+}
+
+ol > li:before {
+    position: absolute;
+    top: 5px; 
+    left: -1em;
+    width: 1em;
+    line-height: 1;
+    text-align: right;
+    color: $text-color;
+    content: counter(li-counter ,'.');
+    counter-increment: li-counter;
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;          
+}
+
+//ol>li {
+//    line-height: $base-line-height;
+//    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+//    font-style: normal;      
+//    font-size: $L6-size;        
+//    list-style-type: decimal;
+//}
+
+//ol > li:before {
+    
+ //   position: absolute;
+ //   top: 5px;
+//    left: -1em;
+//    width: 1em;
+//    line-height: 1;
+//    text-align: right;
+//    color: #7f8282;
+//    content: counter(li-counter);
+//    counter-increment: li-counter;
+//}
+blockquote {
+    margin-top: 10px;
+    padding-top: 10px;
+    line-height: $base-line-height;
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;      
+    font-size: $L6-size;        
+}
+
+figcaption.red-rounded {
+    height: 60px;
+    padding-top: 8px;
+    border-left: 9px solid $red-c50;
+    border-right: 9px solid $red-c50;
+    border-top: 9px solid $red-c50;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: $red-c50;  
+    text-align: center;
+    color: $white;    
+    font-family: "QueulatHMHCnd", Times New Roman, serif;
+    font-style: bold;        
+    font-size: $L5-size;       
+}
+
+figcaption {
+    line-height: $base-line-height;
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;                
+    font-size: $L6-size;        
+    color: $text-color;
+}
+
+
+//MBB
+.essential-question {
+    max-width: 900px;
+    margin: 56px auto 0 auto;
+    border-left: 9px solid $aqua-s30;
+    border-right: 9px solid $aqua-s30;
+    border-bottom: 9px solid $aqua-s30;
+    border-top: 9px solid $aqua-s30;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: $white;    
+    padding-bottom: 16px;
+}
+
+.quote-panel {
+    border-style: solid;    
+    padding: 2px 2px 2px 2px;    
+    border-left: 9px solid $orange-c40;
+    border-right: 9px solid $orange-c40;
+    border-bottom: 9px solid $orange-c40;
+    border-top: 9px solid $orange-c40;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: $white;   
+    line-height: $base-line-height;
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;                
+    font-size: $L6-size;        
+    color: $text-color;    
+}
+
+.quote-panel blockquote {
+    line-height: $base-line-height;
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;                
+    font-size: $L6-size;        
+    color: $text-color;    
+}
+
+.quote-panel blockquote p {
+    line-height: $base-line-height;
+    font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+    font-style: normal;                
+    font-size: $L6-size;        
+    color: $text-color;    
+}
+
+
+div[class*="transparent-wrapper"]{             //NOTE: Applying to header element
+    .essential-question {
+        margin: 16px auto 0 auto;
+        border-left: 9px solid $aqua-s30;
+        border-right: 9px solid $aqua-s30;
+        border-bottom: 9px solid $aqua-s30;
+        border-top: 9px solid $aqua-s30;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-top-left-radius: 30px;
+        border-top-right-radius: 30px;
+        background-color: $white;    
+        padding-bottom: 16px;
+    }
+}
+
+ @include respond-max-width($bp-small) {        
+    .essential-question {
+        margin: 64px auto 0 auto;
+        border-left: 6px solid $aqua-s30;
+        border-right: 6px solid $aqua-s30;
+        border-bottom: 6px solid $aqua-s30;
+        border-top: 6px solid $aqua-s30;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        background-color: $white;    
+    }    
+    
+    div[class*="transparent-wrapper"]{             //NOTE: Applying to header element
+        .essential-question {
+            margin: 16px auto 0 auto;
+            border-left: 6px solid $aqua-s30;
+            border-right: 6px solid $aqua-s30;
+            border-bottom: 6px solid $aqua-s30;
+            border-top: 6px solid $aqua-s30;
+            border-bottom-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            background-color: $white;    
+            padding-bottom: 16px;
+        }
+        
+    .quote-panel {
+        border-style: solid;    
+        border-left: 6px solid $orange-c40;
+        border-right: 6px solid $orange-c40;
+        border-bottom: 6px solid $orange-c40;
+        border-top: 6px solid $orange-c40;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        background-color: $white;   
+        line-height: $base-line-height;
+        font-family: "AvenirPrimaryHMH", "Source Sans Pro", serif;
+        font-style: normal;                
+        font-size: $L6-size;        
+        color: $text-color;    
+    }
+        
+    }
+    
+    
+}
+.essential-question p{
+//    position: relative;
+    margin-top: -40px;
+    font-family: "QueulatHMHCnd Bold", Times New Roman, serif;
+    font-size: $L4-size; 
+    line-height: $L4-line-height;
+    color: $cerise-c45;
+    text-align: center;
+}
+
+.essential-question-title {
+    position: relative;
+    top: -38px;
+    background-image: url('images/essential-question-full.svg');
+    background-repeat: no-repeat;    
+    background-position: center;
+//    position: absolute;
+//    right: 30px;
+    width: 100%;
+    min-height: 64px;
+    max-height: 64px;
+//    background-size: 75% 75%;
+//    border: solid 9px #8FD7FF;
+//    background-color: #EEF5FF;
+//    border-radius: 100%;
+}
+
+.turn-and-talk {
+    background-image: url('images/turn-and-talk-icon.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 244px;
+    //height: 121px;
+    position: relative;
+    top: -53px;
+    padding-top: 100px;
+    margin-left: 70px;
+}    
+
+div[class*="tt-wrapper"]{             //NOTE: Applying to header element
+        margin: 80px auto 0 auto;
+}
+
+.hidden-text {
+    display:none;
+}    
+
+.uppercase {
+    text-transform: uppercase;
+}
+.interactive {
+    display: block;
+    overflow: visible;
+}
+
+.k2-tooltip, 
+ {
+  /* Click label to expand */
+}
+.k2-tooltip label,
+ {
+  border-radius: 27px;
+  border-radius: 27px;
+    padding: 8px 20px 8px 0px;
+    font-family: "QueulatHMHCnd", Times New Roman, serif;
+    font-style: normal;        
+    font-size: $L5-size;                
+  
+}
+.k2-tooltip label .tip-corner,
+ {
+  border-top-left-radius: 27px;
+  border-bottom-left-radius: 27px;
+}
+.k2-tooltip label .tip-arrow,
+ {
+  border-top-right-radius: 27px;
+  border-bottom-right-radius: 27px;
+}
+
+.k2-tooltip div.tip {
+  border-bottom-right-radius: 27px;
+  border-bottom-left-radius: 27px;
+}
+
+
+
+.k2-tooltip {
+  position: relative;
+}
+
+.k2-tooltip input[type=checkbox] {
+  width: 72px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  opacity: 0;
+  bottom: 0;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.k2-tooltip label {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+  max-width: 100%;
+  max-height: 300px;
+  min-height: 73px;
+  color: #2773BB;
+  line-height: 40.5px;
+  background: white;
+  border: 3px solid #fb6400;
+  border-radius: 27px;
+  padding: 5px 55px 5px 20px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  position: relative;
+}
+@media only screen and (max-width: 480px) {
+  
+  .k2-tooltip label {
+    font-size: 1.1em;
+    line-height: 30px;
+    padding: 5px 55px 5px 15px;
+  }
+}
+
+.k2-tooltip label .tip-corner {
+  position: absolute;
+  left: -2px;
+  top: -2px;
+  bottom: -2px;
+  text-indent: 12px;
+  line-height: 36px;
+  border-top-left-radius: 27px;
+  border-bottom-left-radius: 6px;
+}
+
+@media only screen and (max-width: 480px) {
+  .k2-tooltip label .tip-corner {
+    line-height: 40px;
+  }
+}
+
+.k2-tooltip label .tip-arrow {
+  position: absolute;
+  right:15px;
+  top: calc(50% - 24px);
+  background: transparent url("images/arrow-down.svg") center center no-repeat;
+  background-size: 48px;
+  width: 48px;
+  height: 48px;
+  color: #fff;
+  border-top-right-radius: 27px;
+  border-bottom-right-radius: 27px;
+}
+@media only screen and (max-width: 480px) {
+  .k2-tooltip label .tip-arrow {
+  right:10px;
+  top: calc(50% - 18px);
+  background: transparent url("images/arrow-down.svg") center center no-repeat;
+  background-size: 36px;
+  width: 36px;
+  height: 36px;
+  }
+}
+
+
+
+.k2-tooltip div.tip {
+  text-align: left;
+  max-width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  z-index: 1;
+  border: 3px solid #FB6400;
+  border-top: 0 none;
+  border-bottom-right-radius: 27px;
+  border-bottom-left-radius: 27px;
+  background-color: #fff;
+  visibility: hidden;
+  padding: 10px 20px 0;
+  max-height: 0;
+//    min-height: 100px;
+  -webkit-transition: max-height 0s, visibility 0, padding-bottom 0;
+  transition: max-height 0s, visibility 0, padding-bottom 0;
+  overflow: hidden;
+  font-size: 0.9rem;
+}
+
+@media only screen and (max-width: 480px) {
+  .k2-tooltip div.tip {
+    padding:10px 15px 0;
+    /*padding-top: 0;
+    text-indent: 15px;*/
+  }
+}
+
+.k2-tooltip input[type=checkbox]:checked ~ label {
+  /*background-color: #fb6400;
+  color: #fff;*/
+  border-bottom: 0px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  -webkit-transition-delay: 0s;
+          transition-delay: 0s;
+}
+
+
+.k2-tooltip input[type=checkbox]:checked ~ label .tip-corner {
+  /*background-color: #af3411;*/
+  border-bottom-left-radius: 0;
+}
+
+.k2-tooltip input[type=checkbox]:checked ~ label .tip-arrow {
+  background: transparent url("images/arrow-up.svg") center center no-repeat;
+  background-size: 48px;
+}
+@media only screen and (max-width: 480px) {
+  .k2-tooltip input[type=checkbox]:checked ~ label .tip-arrow {
+  right:10px;
+  top: calc(50% - 18px);
+  background-size: 36px;
+  width: 36px;
+  height: 36px;
+  }
+}
+
+.k2-tooltip input[type=checkbox]:checked ~ div.tip {
+  display: block;
+  visibility: visible;
+//  min-height: 1000px;
+  min-height: 800px;
+  height: auto;
+//  -webkit-transition: max-height 0.5s ease-in-out, visibility 0.5s, padding-bottom 0.1s;
+  //transition: max-height 0.5s ease-in-out, visibility 0.5s, padding-bottom 0.1s;
+  padding-bottom: 15px;
+  overflow: visible;
+}
+
+.k2-tooltip .row.fill {
+//  padding: 0 !important;
+}
+
+.k2-tooltip figure img {
+  padding-right: 15px;
+  margin-top: 15px;
+  max-height: 153px;
+  max-width: 153px;
+  height: 153px;
+  width: 153px;
+}
+
+.k2-tooltip .col-xs-12 figure img {
+  padding-right: 0;
+}
+
+.k2-tooltip p {
+  margin-top: 0;
+  font-size: 0.9rem;
+}
+
+.k2-tooltip li {
+  margin-top: 0;
+}
+
+@media only screen and (max-width: 880px) {
+  
+    .k2-tooltip figure img {
+      padding-right: 15px;
+      margin-top: 15px;
+      max-height: 153px;
+      max-width: 153px;
+      height: 153px;
+      width: 153px;
+    }
+  
+}
+
+.close-reader-font {
+        font-family: "StoneInformal", Times New Roman, serif;
+//        font-style: normal;                
+//        font-weight: normal;
+        font-size: $L5-size;    
+}
+
+.close-reader-banner figure {
+    img {
+        padding: 0;
+        margin: 0;
+    }
+    .reader-caption{
+        padding: 15px auto 15px auto !important;
+        font-size: $L4-size;
+        line-height: $L4-line-height;
+//        vertical-align: center;
+        height: 57px;
+        background-color: #e61d1a;
+        color: $white;
+    }    
+}
+
+.close-reader-banner figcaption {
+        padding: 15px auto 15px auto !important;
+        padding-top: 12px;
+        font-size: $L4-size;
+        line-height: $L4-line-height;
+//        vertical-align: center;
+        height: 57px;
+        background-color: #e61d1a;
+        color: $white;
+    
+}
+figure .add-top-space {
+  margin-top: 70px;
+}
+
+p .add-bottom-space {
+  padding-bottom: 52px;
+}
+
+hr .add-bottom-space {
+  padding-bottom: 52px;
+}
+
+.clear-padding-horizontal [class^="col-"], 
+            [class*=" col-"] {
+                padding: 0 0 0 0;
+            }
+
+.table-big-ideas{
+    margin-top: 30px;
+    margin-bottom: 30px;
+//    border-radius: 15px 15px 0 0;
+    overflow: hidden;
+    tbody td{
+        border: 1px solid $blue-s20;
+        padding: 10px;
+        p{
+            padding: 0px;
+            margin: 0px;
+        }
+    } 
+    thead{
+        border: 1px solid $blue-s20;
+        th{
+        background: $blue-c30;
+        color: $white;
+        padding: 10px;
+        text-align: left;
+        }
+    }
+    td{
+    background: $white;
+    padding: 10px;
+    text-align: left;
+    }
+    
+    tr td:first-child{
+        width: 45%;
+    }
+}
+
+.row.materials .icons p {
+    text-indent: -9999px;
+    overflow: hidden;
+}

@@ -1,0 +1,139 @@
+{
+  "ActivityTitle": "",
+  "QuestionStem": "",
+  "Tip": "",
+  "Summary": "",
+  "Stimulus": {
+    "image": {
+      "src": "",
+      "altText": "",
+      "credits": ""
+    },
+    "text": {
+      "src": ""
+    },
+    "audio": {
+      "src": "",
+      "caption": "",
+      "credit": ""
+    },
+    "video": {
+      "src": ""
+    }
+  },
+  "containerType": "main",
+  "options": [
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    },
+    {
+      "id": "",
+      "content": "",
+      "imgSrc": "",
+      "reveal": true,
+      "hide": true
+    }
+  ],
+  "isPracticeInteraction": false,
+  "optionsAreImages": false,
+  "AllowFullScreen": true,
+  "AllowRefresh": true,
+  "audioFile": "../../audio/manifests/config.json",
+  "audioSchema": "reveal_audio_schema.json",
+  "SummaryAltText": ""
+}

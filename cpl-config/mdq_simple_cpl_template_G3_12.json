@@ -1,0 +1,761 @@
+{
+  "ActivityTitle": "",
+  "QuestionStem": "",
+  "VOIntro": "",
+  "Tip": "",
+  "Summary": "",
+  "options": [
+    {
+      "PreQuestion": "",
+      "PostQuestion": "",
+      "value": "",
+      "CorrectAnswer": 0,
+      "Paragraph": false,
+      "dropdownOptions": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "_tempDropdownOptions": [
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        }
+      ]
+    },
+    {
+      "PreQuestion": "",
+      "PostQuestion": "",
+      "value": "",
+      "CorrectAnswer": 0,
+      "Paragraph": false,
+      "dropdownOptions": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "_tempDropdownOptions": [
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        }
+      ]
+    },
+    {
+      "PreQuestion": "",
+      "PostQuestion": "",
+      "value": "",
+      "CorrectAnswer": 0,
+      "Paragraph": false,
+      "dropdownOptions": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "_tempDropdownOptions": [
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        }
+      ]
+    },
+    {
+      "PreQuestion": "",
+      "PostQuestion": "",
+      "value": "",
+      "CorrectAnswer": 0,
+      "Paragraph": false,
+      "dropdownOptions": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "_tempDropdownOptions": [
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        }
+      ]
+    },
+    {
+      "PreQuestion": "",
+      "PostQuestion": "",
+      "value": "",
+      "CorrectAnswer": 0,
+      "Paragraph": false,
+      "dropdownOptions": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "_tempDropdownOptions": [
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        }
+      ]
+    },
+    {
+      "PreQuestion": "",
+      "PostQuestion": "",
+      "value": "",
+      "CorrectAnswer": 0,
+      "Paragraph": false,
+      "dropdownOptions": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "_tempDropdownOptions": [
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        }
+      ]
+    },
+    {
+      "PreQuestion": "",
+      "PostQuestion": "",
+      "value": "",
+      "CorrectAnswer": 0,
+      "Paragraph": false,
+      "dropdownOptions": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "_tempDropdownOptions": [
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        }
+      ]
+    },
+    {
+      "PreQuestion": "",
+      "PostQuestion": "",
+      "value": "",
+      "CorrectAnswer": 0,
+      "Paragraph": false,
+      "dropdownOptions": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "_tempDropdownOptions": [
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        }
+      ]
+    },
+    {
+      "PreQuestion": "",
+      "PostQuestion": "",
+      "value": "",
+      "CorrectAnswer": 0,
+      "Paragraph": false,
+      "dropdownOptions": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "_tempDropdownOptions": [
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        }
+      ]
+    },
+    {
+      "PreQuestion": "",
+      "PostQuestion": "",
+      "value": "",
+      "CorrectAnswer": 0,
+      "Paragraph": false,
+      "dropdownOptions": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "_tempDropdownOptions": [
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        },
+        {
+          "tempId": "",
+          "value": "",
+          "correctAnswer": false
+        }
+      ]
+    }
+
+  ],
+  "CorrectCannedResponse": "<p class=\"quill-source-editor\">Well Done.</p>",
+  "CorrectFeedback": "",
+  "PartiallyCannedResponse": "<p class=\"quill-source-editor\">That's not it.</p>",
+  "PartiallyCorrectFeedback": "",
+  "IncorrectCannedResponse": "<p class=\"quill-source-editor\">That's not it.</p>",
+  "IncorrectFeedback": "",
+  "FinalIncorrectCannedResponse": "<p class=\"quill-source-editor\">That’s not it.</p>",
+  "FinalIncorrectFeedback": "",
+  "CorrectVOFeedback": "",
+  "PartiallyCorrectVOFeedback": "",
+  "IncorrectVOFeedback": "",
+  "FinalIncorrectVOFeedback": "",
+  "AudioFromRCE": true,
+  "qtype": "multiple",
+  "AllowFullScreen": true,
+  "AllowRefresh": true,
+  "ShowAnswerOption": true,
+  "SubmitToTeacherOption": false,
+  "hasInstantFeedback": false,
+  "hasCustomAttempts": true,
+  "MaxAttempts": 2,
+  "Stimulus": {
+    "image": {
+      "src": "",
+      "credits": ""
+    },
+    "text": {
+      "src": ""
+    },
+    "audio": {
+      "src": "",
+      "caption": "",
+      "credit": ""
+    },
+    "video": {
+      "src": ""
+    }
+  },
+  "audioFile": "../../audio/manifests/config.json",
+  "audioSchema": "drop_down_audio_schema.json",
+  "moduleVersion": "2.6.0-gulp4test.1"
+}

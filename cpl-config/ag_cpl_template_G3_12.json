@@ -1,0 +1,245 @@
+{
+  "ActivityTitle": "",
+  "QuestionStem": "",
+  "VOIntro": "",
+  "Tip": "",
+  "Summary": "",
+  "audioFile": "",
+  "audioSchema": "",
+  "Stimulus": {
+    "image": {
+      "src": "",
+      "altText": "",
+      "credits": ""
+    },
+    "text": {
+      "src": ""
+    },
+    "audio": {
+      "src": "",
+      "caption": "",
+      "credit": ""
+    },
+    "video": {
+      "src": ""
+    }
+  },
+  "isPracticeInteraction": false,
+  "AudioFromRCE": true,
+  "AllowFullScreen": true,
+  "AllowRefresh": true,
+  "showBackground": false,
+  "options": [
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    },
+    {
+      "id": "",
+      "title": "",
+      "caption": "",
+      "audio": "",
+      "image": "",
+      "imageAlt": "",
+      "active": true,
+      "transcriptText": ""
+    }
+
+  ]
+}

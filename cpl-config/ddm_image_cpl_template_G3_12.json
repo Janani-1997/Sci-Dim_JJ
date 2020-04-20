@@ -1,0 +1,251 @@
+{
+  "ActivityTitle": "",
+  "QuestionStem": "",
+  "VOIntro": "",
+  "Tip": "",
+  "Summary": "",
+  "image": "",
+  "layoutType": "",
+  "inputType": "",
+  "hotSpotWidth": 40,
+  "hotSpotHeight": 44,
+  "translucent": false,
+  "options": [
+    {
+      "id": "",
+      "direction": "",
+      "left": "",
+      "top": "",
+      "target": ""
+    },
+    {
+      "id": "",
+      "direction": "",
+      "left": "",
+      "top": "",
+      "target": ""
+    },
+    {
+      "id": "",
+      "direction": "NONE",
+      "left": "",
+      "top": "",
+      "target": "",
+      "disabled": false,
+      "active": false,
+      "status": "active",
+      "order": 3,
+      "width": 0,
+      "detailLayout": "TI",
+      "title": "[place holder TITLE]",
+      "description": "[place holder DESCRIPTION]",
+      "image": "images/placeholder.svg"
+    },
+    {
+      "id": "",
+      "direction": "NONE",
+      "left": "",
+      "top": "",
+      "target": "",
+      "disabled": false,
+      "active": false,
+      "status": "active",
+      "order": 4,
+      "width": 0,
+      "detailLayout": "TI",
+      "title": "[place holder TITLE]",
+      "description": "[place holder DESCRIPTION]",
+      "image": "images/placeholder.svg"
+    },
+    {
+      "id": "",
+      "direction": "NONE",
+      "left": "",
+      "top": "",
+      "target": "",
+      "disabled": false,
+      "active": false,
+      "status": "active",
+      "order": 5,
+      "width": 0,
+      "detailLayout": "TI",
+      "title": "[place holder TITLE]",
+      "description": "[place holder DESCRIPTION]",
+      "image": "images/placeholder.svg"
+    },
+    {
+      "id": "",
+      "direction": "NONE",
+      "left": "",
+      "top": "",
+      "target": "",
+      "disabled": false,
+      "active": false,
+      "status": "active",
+      "order": 6,
+      "width": 0,
+      "detailLayout": "TI",
+      "title": "[place holder TITLE]",
+      "description": "[place holder DESCRIPTION]",
+      "image": "images/placeholder.svg"
+    },
+    {
+      "id": "",
+      "direction": "NONE",
+      "left": "",
+      "top": "",
+      "target": "",
+      "disabled": false,
+      "active": false,
+      "status": "active",
+      "order": 7,
+      "width": 0,
+      "detailLayout": "TI",
+      "title": "[place holder TITLE]",
+      "description": "[place holder DESCRIPTION]",
+      "image": "images/placeholder.svg"
+    },
+    {
+      "id": "",
+      "direction": "NONE",
+      "left": "",
+      "top": "",
+      "target": "",
+      "disabled": false,
+      "active": false,
+      "status": "active",
+      "order": 8,
+      "width": 0,
+      "detailLayout": "TI",
+      "title": "[place holder TITLE]",
+      "description": "[place holder DESCRIPTION]",
+      "image": "images/placeholder.svg"
+    },
+    {
+      "id": "",
+      "direction": "NONE",
+      "left": "",
+      "top": "",
+      "target": "",
+      "disabled": false,
+      "active": false,
+      "status": "active",
+      "order": 9,
+      "width": 0,
+      "detailLayout": "TI",
+      "title": "[place holder TITLE]",
+      "description": "[place holder DESCRIPTION]",
+      "image": "images/placeholder.svg"
+    },
+    {
+      "id": "",
+      "direction": "NONE",
+      "left": "",
+      "top": "",
+      "target": "",
+      "disabled": false,
+      "active": false,
+      "status": "active",
+      "order": 10,
+      "width": 0,
+      "detailLayout": "TI",
+      "title": "[place holder TITLE]",
+      "description": "[place holder DESCRIPTION]",
+      "image": "images/placeholder.svg"
+    }
+  ],
+  "draggables": [
+    {
+      "id": "",
+      "label": ""
+    },
+    {
+      "id": "",
+      "label": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "target": "Target1"
+    },
+    {
+      "id": "",
+      "label": "",
+      "target": "Target1"
+    },
+    {
+      "id": "",
+      "label": "",
+      "target": "Target1"
+    },
+    {
+      "id": "",
+      "label": "",
+      "target": "Target1"
+    },
+    {
+      "id": "",
+      "label": "",
+      "target": "Target1"
+    },
+    {
+      "id": "",
+      "label": "",
+      "target": "Target1"
+    },
+    {
+      "id": "",
+      "label": "",
+      "target": "Target1"
+    },
+    {
+      "id": "",
+      "label": "",
+      "target": "Target1"
+    }
+  ],
+  "Stimulus": {
+    "image": {
+      "src": "",
+      "altText": "",
+      "credits": ""
+    },
+    "text": {
+      "src": ""
+    },
+    "audio": {
+      "src": "",
+      "caption": "",
+      "credit": ""
+    },
+    "video": {
+      "src": ""
+    }
+  },
+  "instantFeedbackAllowed": false,
+  "optionsAreImages": false,
+  "optionsType": "text",
+  "CorrectCannedResponse": "<p class=\"quill-source-editor\">Well Done.</p>",
+  "CorrectFeedback": "",
+  "PartiallyCannedResponse": "<p class=\"quill-source-editor\">That's not it.</p>",
+  "PartiallyCorrectFeedback": "",
+  "IncorrectCannedResponse": "<p class=\"quill-source-editor\">That's not it.</p>",
+  "IncorrectFeedback": "",
+  "FinalIncorrectCannedResponse": "<p class=\"quill-source-editor\">That’s not it.</p>",
+  "FinalIncorrectFeedback": "",
+  "CorrectVOFeedback": "",
+  "PartiallyCorrectVOFeedback": "",
+  "IncorrectVOFeedback": "",
+  "FinalIncorrectVOFeedback": "",
+  "AudioFromRCE": true,
+  "isPracticeInteraction": true,
+  "AllowFullScreen": true,
+  "AllowRefresh": true,
+  "ShowAnswerOption": false,
+  "SubmitToTeacherOption": false,
+  "MaxAttempts": "",
+  "audioFile": "../../audio/manifests/config.json",
+  "audioSchema": "drag_drop_background_audio_schema.json",
+  "hasCustomAttempts": true,
+  "selectedLocale": "en-US"
+}

@@ -1,0 +1,116 @@
+{
+  "ActivityTitle": "",
+  "QuestionStem": "",
+  "VOIntro": "",
+  "Tip": "",
+  "Summary": "",
+  "audioSchema": "",
+  "options": [
+    {
+      "voiceOver": "",
+      "vocabulary": "",
+      "image": "",
+      "imageAlt": "",
+      "definition": ""
+    },
+    {
+      "voiceOver": "",
+      "vocabulary": "",
+      "image": "",
+      "imageAlt": "",
+      "definition": ""
+    },
+    {
+      "voiceOver": "",
+      "vocabulary": "",
+      "image": "",
+      "imageAlt": "",
+      "definition": ""
+    },
+    {
+      "voiceOver": "",
+      "vocabulary": "",
+      "image": "",
+      "imageAlt": "",
+      "definition": ""
+    },
+    {
+      "voiceOver": "",
+      "vocabulary": "",
+      "image": "",
+      "imageAlt": "",
+      "definition": ""
+    },
+    {
+      "voiceOver": "",
+      "vocabulary": "",
+      "image": "",
+      "imageAlt": "",
+      "definition": ""
+    },
+    {
+      "voiceOver": "",
+      "vocabulary": "",
+      "image": "",
+      "imageAlt": "",
+      "definition": ""
+    },
+    {
+      "voiceOver": "",
+      "vocabulary": "",
+      "image": "",
+      "imageAlt": "",
+      "definition": ""
+    },
+    {
+      "voiceOver": "",
+      "vocabulary": "",
+      "image": "",
+      "imageAlt": "",
+      "definition": ""
+    },
+    {
+      "voiceOver": "",
+      "vocabulary": "",
+      "image": "",
+      "imageAlt": "",
+      "definition": ""
+    },
+    {
+      "voiceOver": "",
+      "vocabulary": "",
+      "image": "",
+      "imageAlt": "",
+      "definition": ""
+    }
+
+  ],
+  "Stimulus": {
+    "image": {
+      "src": "../../../../../img/chapter18/eld.svg",
+      "altText": "",
+      "credits": ""
+    },
+    "text": {
+      "src": ""
+    },
+    "audio": {
+      "src": "",
+      "caption": "",
+      "credit": ""
+    },
+    "video": {
+      "src": ""
+    }
+  },
+  "optionsAreImages": false,
+  "optionsType": "text",
+  "AudioFromRCE": true,
+  "isPracticeInteraction": false,
+  "qtype": "flip-card",
+  "AllowFullScreen": true,
+  "AllowRefresh": true,
+  "ShowAnswerOption": false,
+  "SubmitToTeacherOption": false,
+  "MaxAttempts": 2
+}

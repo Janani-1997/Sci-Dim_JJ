@@ -1,0 +1,195 @@
+{
+  "ActivityTitle": "",
+  "QuestionStem": "",
+  "VOIntro": "",
+  "Tip": "",
+  "Summary": "",
+  "content": {
+    "spots": [
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      },
+      {
+        "left": 0,
+        "top": 0,
+        "direction": "",
+        "vo": ""
+      }
+    ],
+    "spotVoiceovers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "interactionType": "panel",
+    "image": "",
+    "imageAlt": "",
+    "imageCaption": "",
+    "imageCredits": "",
+    "panels": [
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": ""
+      }
+    ]
+  },
+  "isPracticeInteraction": false,
+  "AllowFullScreen": true,
+  "AudioFromRCE": true,
+  "AllowRefresh": true,
+  "audioFile": "../../audio/manifests/config.json",
+  "audioSchema": "hot_spot_audio_schema.json"
+}

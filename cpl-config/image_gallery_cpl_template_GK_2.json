@@ -1,0 +1,86 @@
+{
+  "ActivityTitle": "",
+  "QuestionStem": "",
+  "VOIntro": "",
+  "Tip": "",
+  "Summary": "",
+  "audioFile": "../../audio/manifests/config.json",
+  "audioSchema": "image_gallery_audio_schema.json",
+  "images": [
+    {
+      "image": " ",
+      "caption": " ",
+      "altText": " ",
+      "credits": "",
+      "voFeedback": ""
+    },
+    {
+      "image": " ",
+      "caption": " ",
+      "altText": " ",
+      "credits": "",
+      "voFeedback": ""
+    },
+    {
+      "image": " ",
+      "caption": " ",
+      "altText": " ",
+      "credits": "",
+      "voFeedback": ""
+    },
+    {
+      "image": " ",
+      "caption": " ",
+      "altText": " ",
+      "credits": "",
+      "voFeedback": ""
+    },
+    {
+      "image": " ",
+      "caption": " ",
+      "altText": " ",
+      "credits": "",
+      "voFeedback": ""
+    },
+    {
+      "image": " ",
+      "caption": " ",
+      "altText": " ",
+      "credits": "",
+      "voFeedback": ""
+    },
+    {
+      "image": " ",
+      "caption": " ",
+      "altText": " ",
+      "credits": "",
+      "voFeedback": ""
+    },
+    {
+      "image": " ",
+      "caption": " ",
+      "altText": " ",
+      "credits": "",
+      "voFeedback": ""
+    },
+    {
+      "image": " ",
+      "caption": " ",
+      "altText": " ",
+      "credits": "",
+      "voFeedback": ""
+    },
+    {
+      "image": " ",
+      "caption": " ",
+      "altText": " ",
+      "credits": "",
+      "voFeedback": ""
+    }
+  ],
+  "AudioFromRCE": true,
+  "qtype": "imageGallery",
+  "AllowFullScreen": true,
+  "AllowRefresh": true,
+  "isPracticeInteraction": false
+}

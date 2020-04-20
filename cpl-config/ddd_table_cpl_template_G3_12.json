@@ -1,0 +1,956 @@
+{
+  "ActivityTitle": "",
+  "QuestionStem": "",
+  "VOIntro": "",
+  "Tip": "",
+  "Summary": "",
+  "qtype": "ddd",
+  "options": [
+
+    {
+      "image": "",
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        }
+
+      ]
+    },
+    {
+      "image": "",
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        }
+
+      ]
+    },
+    {
+      "image": "",
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        }
+
+      ]
+    },
+    {
+      "image": "",
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        }
+
+      ]
+    },
+    {
+      "image": "",
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        }
+
+      ]
+    },
+    {
+      "image": "",
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        }
+
+      ]
+    },
+    {
+      "image": "",
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        }
+
+      ]
+    },
+    {
+      "image": "",
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        }
+
+      ]
+    },
+    {
+      "image": "",
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        }
+
+      ]
+    },
+    {
+      "image": "",
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "position": "",
+          "inputData": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "correctOption": "",
+          "imageAlt":""
+        }
+
+      ]
+    }
+  ],
+  "Stimulus": {
+    "image": {
+      "src": "",
+      "altText": "",
+      "credits": ""
+    },
+    "text": {
+      "src": ""
+    },
+    "audio": {
+      "src": "",
+      "caption": "",
+      "credit": ""
+    },
+    "video": {
+      "src": ""
+    }
+  },
+  "downloadLink": "",
+  "instantFeedback": false,
+  "teacherAnswer": "",
+  "migrated": true,
+  "typeWidth": "main",
+  "tableHeader": "",
+  "columnCount": "2",
+  "splitColumn": "one-half|one-half",
+  "showUnitText": "true",
+  "answerType": "text",
+  "headers": [
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    }
+  ],
+  "draggables": [
+    {
+      "id": "",
+      "text": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "text": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "text": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "text": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "text": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "text": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "text": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "text": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "text": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "text": "",
+      "image": ""
+    },
+    {
+      "id": "",
+      "text": "",
+      "image": ""
+    }
+  ],
+  "questionImage": "",
+  "fixedGridLayout": false,
+  "optionsAreImages": false,
+  "optionsType": "",
+  "CorrectCannedResponse": "<p class=\"quill-source-editor\">Well Done.</p>",
+  "CorrectFeedback": "",
+  "PartiallyCannedResponse": "<p class=\"quill-source-editor\">That's not it.</p>",
+  "PartiallyCorrectFeedback": "",
+  "IncorrectCannedResponse": "<p class=\"quill-source-editor\">That's not it.</p>",
+  "IncorrectFeedback": "",
+  "FinalIncorrectCannedResponse": "<p class=\"quill-source-editor\">That’s not it.</p>",
+  "FinalIncorrectFeedback": "",
+  "CorrectVOFeedback": "",
+  "PartiallyCorrectVOFeedback": "",
+  "IncorrectVOFeedback": "",
+  "FinalIncorrectVOFeedback": "",
+  "AudioFromRCE": true,
+  "isPracticeInteraction": true,
+  "AllowFullScreen": true,
+  "AllowRefresh": true,
+  "ShowAnswerOption": true,
+  "SubmitToTeacherOption": true,
+  "MaxAttempts": 2,
+  "audioFile": "../../audio/manifests/config.json",
+  "audioSchema": "drag_drop_table_audio_schema.json",
+  "hasInstantFeedback": false,
+  "hasCustomAttempts":true,
+  "selectedLocale": "en-US"
+}

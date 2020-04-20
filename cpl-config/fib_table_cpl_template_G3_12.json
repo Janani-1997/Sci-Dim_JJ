@@ -1,0 +1,1221 @@
+{
+  "ActivityTitle": "",
+  "QuestionStem": "",
+  "Tip": "",
+  "Summary": "",
+  "qtype": "multiple",
+  "AudioFromRCE": false,
+  "AllowAudio": true,
+  "AllowFullScreen": true,
+  "AllowRefresh": true,
+  "isPracticeInteraction": true,
+  "CorrectCannedResponse": "<p class=\"quill-source-editor\">Well Done.</p>",
+  "CorrectFeedback": "",
+  "PartiallyCannedResponse": "<p class=\"quill-source-editor\">That's not it.</p>",
+  "PartiallyCorrectFeedback": "",
+  "IncorrectCannedResponse": "<p class=\"quill-source-editor\">That's not it.</p>",
+  "IncorrectFeedback": "",
+  "FinalIncorrectCannedResponse": "<p class=\"quill-source-editor\">That’s not it.</p>",
+  "FinalIncorrectFeedback": "",
+  "CorrectVOFeedback": "",
+  "PartiallyCorrectVOFeedback": "",
+  "IncorrectVOFeedback": "",
+  "FinalIncorrectVOFeedback": "",
+  "VOIntro": "",
+  "tableHeader": "",
+  "columnCount": "",
+  "splitColumn": "",
+  "showUnitText": "true",
+  "ShowAnswerOption": true,
+  "SubmitToTeacherOption": true,
+  "hasInstantFeedback": false,
+  "hasCustomAttempts": true,
+  "MaxAttempts": "",
+  "typeWidth": "",
+  "headers": [
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    },
+    {
+      "value": "",
+      "text": ""
+    }
+  ],
+  "options": [
+    {
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        }
+      ]
+    },{
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        }
+      ]
+    },{
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        }
+      ]
+    },{
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        }
+      ]
+    },{
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        }
+      ]
+    },{
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        }
+      ]
+    },{
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        }
+      ]
+    },{
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        }
+      ]
+    },{
+      "id": "",
+      "cells": [
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        },
+        {
+          "id": "",
+          "type": "",
+          "label": "",
+          "inputData": "",
+          "answer": "",
+          "an": "",
+          "unit": "",
+          "hint": "",
+          "image": "",
+          "position": ""
+        }
+      ]
+    }
+  ],
+  "Stimulus": {
+    "image": {
+      "src": "",
+      "credits": ""
+    },
+    "text": {
+      "src": ""
+    },
+    "audio": {
+      "src": "",
+      "caption": "",
+      "credit": ""
+    },
+    "video": {
+      "src": ""
+    }
+  },
+  "audioFile": "../../audio/manifests/config.json",
+  "audioSchema": "fill_in_the_blank_table_audio_schema.json",
+  "fixedGridLayout": false
+}

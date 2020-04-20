@@ -1,0 +1,251 @@
+{
+  "ActivityTitle": "",
+  "QuestionStem": "",
+  "VOIntro": "",
+  "Tip": "",
+  "Summary": "",
+  "options": [
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    },
+    {
+      "AnswerText": "",
+      "CannedResponse": "",
+      "Feedback": "",
+      "ImageCaption": "",
+      "ImageSrc": "",
+      "ImageAlt": "",
+      "value": 0,
+      "CorrectAnswer": true,
+      "VOFeedback":""
+    }
+  ],
+  "FinalCannedResponse": "",
+  "FinalIncorrectFeedback": "",
+  "FinalVOFeedback": "",
+  "AudioFromRCE": true,
+  "qtype": "mcq",
+  "AllowFullScreen": true,
+  "AllowRefresh": true,
+  "ShowAnswerOption": false,
+  "SubmitToTeacherOption": false,
+  "optionsAreImages": false,
+  "hasInstantFeedback": false,
+  "hasCustomAttempts": true,
+  "MaxAttempts": 2,
+  "Stimulus": {
+    "image": {
+      "src": "",
+      "altText": "",
+      "credits": ""
+    },
+    "text": {
+      "src": ""
+    },
+    "audio": {
+      "src": "",
+      "caption": "",
+      "credit": ""
+    },
+    "video": {
+      "src": ""
+    }
+  },
+  "audioFile": "../../audio/manifests/config.json",
+  "audioSchema": "mcq_audio_schema.json"
+}

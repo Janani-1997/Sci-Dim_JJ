@@ -1,0 +1,128 @@
+/*------------------------------------------------------------------
+ * Animation
+ *----------------------------------------------------------------*/
+ 
+@include keyframes(fade-in) {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@include keyframes(pop-in) {
+    0% {
+        opacity: 0;
+        @include transform(scale(0.9));
+    }
+
+    100% {
+        opacity: 1;
+        @include transform(scale(1));
+    }
+}
+
+@include keyframes(slide-up) {
+    0% {
+        @include transform(translateY(1em));
+        opacity: 0;
+    }
+
+    100% {
+        // @include transform(translateY(0em));
+        opacity: 1;
+    }
+}
+
+@include keyframes(slide-right) {
+    0% {
+        @include transform(translateX(-1em));
+        opacity: 0;
+    }
+
+    100% {
+        // @include transform(translateY(0em));
+        opacity: 1;
+    }
+}
+
+/**
+ * Glow Animation
+ * --------------------------------------------------
+*/
+@include keyframes(glow) {
+    0% {
+        opacity: 0.08;
+    }
+
+    50% {
+        opacity: 0.02;
+    }
+
+    100% {
+        opacity: 0.08;
+    }
+}
+
+/**
+ * Ripple effect for buttons - Duplicated in _links.scss
+ * --------------------------------------------------
+ */
+@include keyframes(ripple) {
+    0% {
+      opacity: 0;
+    }
+    25% {
+      opacity: 1;
+    }
+    100% {
+      width: 200%;
+      padding-bottom: 200%;
+      opacity: 0;
+    }
+}
+
+.ripple {
+    @include animation(ripple 0.3s ease-in forwards);
+    opacity: 0;
+}
+
+.fade-in {
+    @include animation(fade-in 0.8s ease-out forwards);
+    opacity: 0;
+}
+
+.pop-in {
+    @include animation(pop-in 0.8s ease-out forwards);
+    opacity: 0;
+}
+
+.slide-up {
+    @include animation(slide-up 0.8s ease-out forwards);
+    opacity: 0;
+}
+
+.slide-right {
+    @include animation(slide-right 0.8s ease-out forwards);
+    opacity: 0;
+}
+
+/*------------------------------------------------------------------
+ * Animation Delays
+ *----------------------------------------------------------------*/
+
+@for $i from 1 to 24 {
+    .delay-#{$i}s {
+        -webkit-animation-delay: #{$i}s; /* Safari and Chrome */
+        animation-delay: #{$i}s;
+    }
+}
+
+@for $i from 1 to 27 {
+    .delay-#{$i}00ms {
+        -webkit-animation-delay: $i * 100ms; /* Safari and Chrome */
+        animation-delay: $i * 100ms;
+    }
+}
